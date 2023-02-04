@@ -2453,7 +2453,7 @@ msgstr "나탈라 설토바 그녀 자신이 연회에 참석했습니다!"
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/NobleWelcome/Addendum_0004_Description
 msgctxt "9b8ca255-fe06-4fcc-9d57-27e7b7ec2c21"
 msgid "Who is this mysterious young man named Lander?"
-msgstr "이 란더라는 이름의 의문에 쌓인 젊은이는 누굴까요?"
+msgstr "이 랜더라는 이름의 의문에 쌓인 젊은이는 누굴까요?"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/NobleWelcome/Obj_1_TalkToGuests_Description
 msgctxt "b294160c-83c8-4901-a4a7-8c1f8bf5ac3c"
@@ -3363,7 +3363,7 @@ msgstr "안내 표지"
 msgctxt "af551c91-9885-414f-9f67-510de368dc69"
 msgid ""
 "According to Kesten, the troll lair is located somewhere in the Narlmarches."
-msgstr "케스턴의 말에 따르면, 트롤의 은시처는 날마치 어딘가에 있다고 합니다."
+msgstr "케스턴의 말에 따르면, 트롤의 은신처는 날마치 어딘가에 있다고 합니다."
 
 #. Mechanics/Blueprints/World/Quests/C21_TrollTrouble/VS_TrollTrouble/Objectives/DiscoverTheTrollLairAddendums/InfoFromGrimRanger_Description
 msgctxt "92dc8f89-6d96-49c4-95a9-f0e4d6505b78"
