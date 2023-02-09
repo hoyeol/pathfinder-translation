@@ -23457,7 +23457,7 @@ msgid ""
 msgstr ""
 "노예상들에게 죄수를 팔아치우면서 보좌관은 지하감옥을 깨끗히 비울 수 있었습니다. 모든 일은 비밀리에 진행되었기 때문에 백성들은 이 거래에 "
 "대해서 알 수 없었습니다. 운만 따라준다면 사람들이 사라진 죄수들을 찾으려 할 때 까지 몇 년은 걸릴 것입니다. 이 거래는 두둑한 "
-"이익뿐만 아니라 Cheliax와의 관계진전까지도 안겨줬습니다."
+"이익뿐만 아니라 첼리악스와의 관계진전까지도 안겨줬습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck6/TradePrivilegies_LocalizedDescription
 msgctxt "047622c9-1b7b-4807-b8d6-388129decfea"
