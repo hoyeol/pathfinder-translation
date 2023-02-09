@@ -7408,7 +7408,7 @@ msgctxt "8c2061c2-819e-4cea-96c2-8a78d812ba39"
 msgid ""
 "Thin smoke rises over a camp site. Voices of people talking and arguing in a "
 "strange tongue can be heard from nearby."
-msgstr "캠프에서 얇은 연기가 피어올랐다. 이 근방에서는 들을 수 없는 낮선 발음으로 사람들이 말하고 논쟁하는 소리가 들렸다."
+msgstr "캠프에서 얇은 연기가 피어올랐다. 이 근방에서는 들을 수 없는 낯선 발음으로 사람들이 말하고 논쟁하는 소리가 들렸다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/VS_Region/Location_ColdDiplomacy_Name_String
 msgctxt "749e7eda-b99c-473c-af52-837da1bd84a5"
