@@ -12177,7 +12177,7 @@ msgid ""
 "The {mf|barony|barony|kingdom|kingdom}'s troops located the slavers' camp! – "
 "And our soldiers destroyed the evildoers and freed the slaves!"
 msgstr ""
-"{mf|남작령|남작령|왕국|왕국}군이 노예상이 야영지를 찾아냈습니다! 그리고 우리 병사들이 악당을 박살내고 노예를 해방시켰습니다!"
+"{mf|남작령|남작령|왕국|왕국}군이 노예상의 야영지를 찾아냈습니다! 그리고 우리 병사들이 악당을 박살내고 노예를 해방시켰습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/Slavers_Solutions.Entries.Array.data[7].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "ce28e83d-1ceb-44ff-94c3-449c87339db2"
