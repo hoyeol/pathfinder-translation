@@ -11462,7 +11462,7 @@ msgctxt "867f1aec-12dd-418d-a60b-6d5ce856d72c"
 msgid ""
 "Bring Bokken the three volumes of alchemical treatise: \"Of Transmutations "
 "and Bodily Poisons\""
-msgstr "보큰에게 \"변신과 신체의 독극물들에 대해서\"라는 연금술 논문 1, 2, 3권을 가져가라"
+msgstr "보큰에게 \"변형과 신체에 치명적인 독에 관해 \"라는 연금술 논문 1, 2, 3권을 가져가라"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HumanMaleAlchemistCN/MasterpieceQuest/Obj02_WaitForBokken_Description
 msgctxt "72d2137f-0370-4a4f-a07b-eaefa555d011"
