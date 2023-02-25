@@ -3018,7 +3018,7 @@ msgid ""
 "A general store. +1 to Economy when adjacent to a Tavern.\n"
 "Affects: Forge, Foundry, Smithy."
 msgstr ""
-"일반정 인상점. 선술집에 인접시 경제에 +1.\n"
+"일반적인 상점. 선술집에 인접시 경제에 +1.\n"
 "영향: 제련소, 주조소, 대장간."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Shop_Name
