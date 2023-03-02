@@ -6499,13 +6499,13 @@ msgid ""
 "number of camps throughout the forest, and they make the best guides in that "
 "area."
 msgstr ""
-"엠베스 숲은 고인 습지와 낮은 언덕으로 가득한 강의 왕국들의 비옥한 지역에 솟아 있습니다. 엠베스 여행단이라 불리는 한 무리의 레인저가 "
+"엠베스 숲은 고인 습지와 낮은 언덕으로 가득한 강의 왕국들의 비옥한 지역에 솟아 있습니다. 엠베스 여행자라 불리는 한 무리의 레인저가 "
 "울창한 습지 숲에 집을 짓고 있습니다. 이 단체는 숲 전체에 걸쳐 여러 야영지를 운영하고 있으며, 이 지역에서 최고의 안내를 제공합니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[1].Name
 msgctxt "55ae36b3-1cf0-4d76-83fe-dbd638d7fd68"
 msgid "Embeth Travelers"
-msgstr "엠베스 여행단"
+msgstr "엠베스 여행자"
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[20].Description
 msgctxt "21398a44-7a11-4546-9286-c710241cda79"
@@ -8146,7 +8146,7 @@ msgctxt "54d0988c-b7ad-42a3-9b7f-dcdd285ea6c1"
 msgid ""
 "You used threats to win the grand prize in the competition, and made the "
 "Embeth Travelers give you their trophy."
-msgstr "당신은 경기에서 우승을 차지하기 위해 위협을 사용하였고, 엠베스 여행자들이 당신에게 그들의 트로피를 넘기도록 하였다."
+msgstr "당신은 경기에서 우승을 차지하기 위해 위협을 사용하였고, 엠베스 여행자가 당신에게 그들의 트로피를 넘기도록 하였다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[81].Description
 msgctxt "34ee65e4-232f-4156-a03b-35d9f38d25ef"
