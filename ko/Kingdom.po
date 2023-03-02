@@ -21057,8 +21057,8 @@ msgid ""
 "trade ships and scare away fuaths and any other small river spirits. "
 "Merchants now prefer this safe water route over the others."
 msgstr ""
-"대사는 휘황찬란한 보석들을 선물하여 인어를 매료시켰습니다. 대사는 그녀가 무역선들을 돌보고 fuath나 다른 작은 물의 정령들을 쫓아내 "
-"준다면  더 많은 선물들을, 정기적으로 보낼 것을 약속하였습니다. 상인들은 이제 이 안전한 수역로를 다른 것보다 선호합니다."
+"대사는 휘황찬란한 보석들을 선물하여 인어를 매료시켰습니다. 대사는 그녀가 무역선들을 돌보고 후아스나 다른 작은 물의 정령들을 쫓아내 "
+"준다면 더 많은 선물들을, 정기적으로 보낼 것을 약속하였습니다. 상인들은 이제 이 안전한 수역로를 다른 것보다 선호합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck1/RiverMaiden_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "4d7395f4-4443-44d7-9146-3f270d8f97d7"
