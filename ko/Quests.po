@@ -9797,7 +9797,7 @@ msgid ""
 "changed the meeting's agenda from sacrament to sacrifice — and his followers "
 "grabbed their weapons! We won't let them hurt our baron{mf||ess}!"
 msgstr ""
-"이런 악몽 같은 일이! {mf|남작|여남작}을 목격하자, 제일신자는 설교의 주제를 성사에서 희생으로 바꿔버렸습니다 - 그러자 그의 "
+"이런 악몽 같은 일이! {mf|남작|여남작}을 목격하자, 선지자는 설교의 주제를 성사에서 희생으로 바꿔버렸습니다 - 그러자 그의 "
 "추종자들은 무기를 집었지요! 그들이 남작을 해치게 해서는 안됩니다!"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Tristian/Q1_KingdomOfTheCleansed/Decide_the_Fate_of_Cultists_Title
@@ -9828,7 +9828,7 @@ msgid ""
 "laying low, and their high priest seems to have vanished. It looks like we "
 "can forget about the Kingdom of the Cleansed, at least for now."
 msgstr ""
-"수상한 밀교의 사악한 제일신자는 그저 남작을 괴롭히기 위해 남작을 희생 제물로 삼으려 했습니다! 살아남은 광신도들은 뿔뿔히 흩어져 몸을 "
+"수상한 밀교의 사악한 선지자는 그저 남작을 괴롭히기 위해 남작을 희생 제물로 삼으려 했습니다! 살아남은 광신도들은 뿔뿔히 흩어져 몸을 "
 "숨겼고 그들의 고위 성직자들은 자취를 감췄습니다. 한동안 정화된 자들의 왕국 문제는 신경쓰지 않아도 될 듯 보입니다."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Tristian/Q1_KingdomOfTheCleansed/KingdomOfTheCleansed_Description
@@ -9869,7 +9869,7 @@ msgid ""
 "sacrament of the First Faithful, and the fearless baron{mf||ess} didn't "
 "hesitate a moment before giving {mf|his|her} answer."
 msgstr ""
-"정화된 자들의 왕국 집회는 전단지에 적혀 있는 특별한 장소에서 열립니다. 트리스티안은 제일신자가 주최하는 예배에 함께 가볼 것을 "
+"정화된 자들의 왕국 집회는 전단지에 적혀 있는 특별한 장소에서 열립니다. 트리스티안은 선지자가 주최하는 예배에 함께 가볼 것을 "
 "제안했고, 두려움 모르는 남작은 주저함 없이 승낙했습니다."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Tristian/Q1_KingdomOfTheCleansed/Visit_the_Gathering_Title
@@ -9904,7 +9904,7 @@ msgid ""
 "of his to the same place that the ancient one-eyed giants went — the past."
 msgstr ""
 "흥미로운 사실을 발견했습니다! 광신도들은 던스워드에 머물고 있는 제일신자에게 편지 한 통을 받았는데, 그 편지엔 '여신'에게 인신공양을 "
-"할 것을 명령하는 내용이 담겨있었습니다! 제일신자는 텅 빈 눈의 도시라 불리는 사이클롭스 유적지 어딘가에 새로운 성소를 차렸습니다. 그 "
+"할 것을 명령하는 내용이 담겨있었습니다! 선지자는 텅 빈 눈의 도시라 불리는 사이클롭스 유적지 어딘가에 새로운 성소를 차렸습니다. 그 "
 "왕국도 눈 하나달린 고대 거인들처럼 과거의 유물로 만들어 버릴 때예요."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Tristian/Q2_SavingGrace/FindCleansedInDunsward_Title
