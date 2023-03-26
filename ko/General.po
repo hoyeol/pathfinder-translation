@@ -9314,7 +9314,7 @@ msgid ""
 "their knowledge and returned to lives of fierce savagery."
 msgstr ""
 "수천 년 전 어쓰폴로 알려진 재앙이 골라리온의 전체 문명을 파괴했습니다. 이중에는 위대한 사이클롭스 제국도 있었습니다. 현 시대의 "
-"사이클롭스들은 모든 지식을 잃어 버리고 치열하고 야만적인 삶으로 돌아간, 강력한 조상들의 그림자에 불구합니다."
+"사이클롭스들은 모든 지식을 잃어 버리고 치열하고 야만적인 삶으로 돌아간, 강력한 조상들의 그림자에 불과합니다."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[84]_String
 msgctxt "7a0f6f62-7aa9-42e5-a465-71ddf4b14c5a"
