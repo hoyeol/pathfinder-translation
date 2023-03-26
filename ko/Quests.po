@@ -4555,7 +4555,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/SeasonOfBloom/01a_FindKesten_Title
 msgctxt "2a29c814-e6e3-485c-9acd-2c514eb723cf"
 msgid "Go up the Gudrin river to find Kesten and his militia"
-msgstr "구드린 강으로 가서 케스턴과 민명대를 찾아라"
+msgstr "구드린 강으로 가서 케스턴과 민병대를 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/SeasonOfBloom/02_SaveThePrisoners_Description
 msgctxt "f19026d7-7a7c-4825-aec9-c3465ad5f1e3"
