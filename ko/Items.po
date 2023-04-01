@@ -22814,7 +22814,7 @@ msgstr "냉혈"
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/ColdBloodItem_m_FlavorText
 msgctxt "fb3bbca9-8c97-4ae1-8c4e-3ca976bc45af"
 msgid "Greyt troffee! Pruff Nok-Nok REEL HERO!"
-msgstr "훌륭한 전리이품! 녹 녹이 진짜 영웅이란 즈응거다!"
+msgstr "훌륭한 전리이품! 녹-녹이 진짜 영웅이란 즈응거다!"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/DestroyerItem_m_DescriptionText
 msgctxt "bab534a8-5e8e-448b-8d19-4d12af1ba0c7"
@@ -22856,7 +22856,7 @@ msgstr "염혈"
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/FieryBloodItem_m_FlavorText
 msgctxt "012cda37-605f-435b-8ceb-de5484f96839"
 msgid "Greyt troffee! Pruff Nok-Nok REEL HERO!"
-msgstr "훌륭한 전리이품! 녹 녹이 지인짜 영웅이란 즈응거다!"
+msgstr "훌륭한 전리이품! 녹-녹이 지인짜 영웅이란 즈응거다!"
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_4thPart/GrimBladeItem_m_DescriptionText
 msgctxt "4b3a6c61-c6ec-40aa-9ccb-8c2cfdd662ad"

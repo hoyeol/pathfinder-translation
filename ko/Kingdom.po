@@ -20523,7 +20523,7 @@ msgstr "주빌로스트는 평소보다도 심사가 무척 꼬여 보입니다"
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC31-NokNok_Q1Warning_LocalizedName_String
 msgctxt "26de3f63-81fa-49ce-a04f-3865b1eb3329"
 msgid "Nok-Nok Seems More Twitchy than Usual"
-msgstr "녹녹은 평소보다도 더 초조해 보입니다"
+msgstr "녹-녹은 평소보다도 더 초조해 보입니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/CompanionsQuestsWarnings/KTC31-OctaviaRegongarQ2Warning_LocalizedDescription
 msgctxt "8f10c6f5-9bd3-4808-901b-f2024734acf0"
@@ -25873,12 +25873,12 @@ msgstr "누가 돌아왔는지 절대 모를 겁니다"
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-NokNok_Q1_Fail_LocalizedDescription
 msgctxt "88ea9dda-3bb8-4c3a-a31b-6630235c76c6"
 msgid "Poor little goblin. Nok-Nok is so disappointed!"
-msgstr "불쌍한 작은 고블린 녹 녹은 실망했습니다!"
+msgstr "불쌍한 작은 고블린 녹-녹은 실망했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-NokNok_Q1_Fail_LocalizedName
 msgctxt "39b9f3d1-21b9-4b60-8241-3c2d802afac8"
 msgid "Nok-Nok Is Sad"
-msgstr "녹 녹이 슬퍼합니다"
+msgstr "녹-녹이 슬퍼합니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-NokNok_Q1_LocalizedDescription
 msgctxt "855ab665-4564-4a91-b039-49b80e5f1a99"
@@ -25888,7 +25888,7 @@ msgstr "당신의 고블린 지인이 성에 소란을 일으키고 있습니다
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-NokNok_Q1_LocalizedName
 msgctxt "fc0163dc-a28d-49eb-82e2-4e35f7edf04d"
 msgid "Nok-Nok Has Something in Mind"
-msgstr "녹 녹이 마음 속에 무언가를 담아두고 있습니다"
+msgstr "녹-녹이 마음 속에 무언가를 담아두고 있습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-OctaviaRegongarQ2_LocalizedDescription
 msgctxt "b4614ad2-c1ef-446c-89bd-69b553073982"
@@ -26171,12 +26171,12 @@ msgstr "린지가 소식을 전합니다"
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NokNok_Q3_LocalizedDescription
 msgctxt "ef324507-37c5-4f1f-a1f6-75c8e1672211"
 msgid "You don't expect someone like Nok-Nok to ever be confused, but he is."
-msgstr "당신은 녹 녹같은 사람을 절대 고민에 빠지지 않을거라 생각했지만, 그가 고민에 빠졌습니다."
+msgstr "당신은 녹-녹같은 사람을 절대 고민에 빠지지 않을거라 생각했지만, 그가 고민에 빠졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NokNok_Q3_LocalizedName
 msgctxt "c1b327c3-2f83-4c35-be6e-375cdcd845d0"
 msgid "Nok-Nok Is Confused"
-msgstr "녹 녹은 고민하고 있습니다"
+msgstr "녹-녹은 고민하고 있습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NokNok_Statue_LocalizedDescription
 msgctxt "25ecb2d6-e7d2-4835-b4aa-4f8246456560"
@@ -26188,7 +26188,7 @@ msgstr "그가 도시에서 사라졌습니다. 보좌관이 이 일을 밝혀�
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NokNok_Statue_LocalizedName
 msgctxt "f282b06f-137b-42f3-9329-c549c0c679cf"
 msgid "Nok-Nok Is Up to Something"
-msgstr "녹 녹이 무슨 일을 꾸미고 있습니다"
+msgstr "녹-녹이 무슨 일을 꾸미고 있습니다"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NyrissaInRomance_Description
 msgctxt "412ef3f4-0701-408e-9d2c-65089013bac2"
@@ -27646,7 +27646,7 @@ msgid ""
 "chaos. Left without a leader, the rebellion fell into anarchy and spread to "
 "the neighboring regions."
 msgstr ""
-"재무관은 다보르의 머리에 대한 보상을 약속하면서 간신히 몇 안되는 지도자를 회유했습니다. 다보르는 배반을 감지하고 맞서 싸우다가 난리통 "
+"재무관은 다보르의 머리에 대한 보상을 약속하면서 간신히 몇 안되는 족장들을 회유했습니다. 다보르는 배반을 감지하고 맞서 싸우다가 난리통 "
 "사이로 도망쳤습니다. 지도자 없이 방치된 반란은 무정부 상태에 빠져 인근 지역으로 번졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Community6DavorRebellion_Solutions.Entries.Array.data[3].Resolutions.Array.data[1].LocalizedDescription
@@ -27654,7 +27654,7 @@ msgctxt "45a13a6c-90a1-4672-bc93-a571cc11c472"
 msgid ""
 "Several chieftains were tempted by the reward and turned over Davor. The "
 "rebellion languished without direction."
-msgstr "지도자 여럿이 보상에 넘어가 다보르를 넘겼습니다. 반란군은 방향을 잃고 쇠약해졌습니다."
+msgstr "족장 여럿이 보상에 넘어가 다보르를 넘겼습니다. 반란군은 방향을 잃고 쇠약해졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Community6DavorRebellion_Solutions.Entries.Array.data[3].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "7b4cdfdb-fa24-43fe-b623-977d6678d950"
@@ -27663,7 +27663,7 @@ msgid ""
 "rebellion. They recognized and swore allegiance to the "
 "{mf|baron|baroness|King|Queen}."
 msgstr ""
-"재무관에게 뇌물을 받은 지도자들은 데버를 죽이고 반란을 진압했습니다. 그들은  {mf|남작|여남작|왕|여왕}을 인정하고 충성을 "
+"재무관에게 뇌물을 받은 족장들은 데버를 죽이고 반란을 진압했습니다. 그들은 {mf|남작|여남작|왕|여왕}을 인정하고 충성을 "
 "맹세했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/RankUpCrisises/Divine5FaithDistorters_LocalizedDescription
@@ -31049,7 +31049,7 @@ msgstr "린지의 훈련"
 #. Mechanics/Blueprints/Kingdom/Events/Projects/CompanionLevelUp/Shared_NokName_String
 msgctxt "d6608a78-f918-4aa2-aba9-3b5aebcd512f"
 msgid "Nok-Nok's Training"
-msgstr "녹 녹의 훈련"
+msgstr "녹-녹의 훈련"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/CompanionLevelUp/Shared_OctaviaName_String
 msgctxt "34214978-a1c0-4e8c-be55-bc6e14f31aef"

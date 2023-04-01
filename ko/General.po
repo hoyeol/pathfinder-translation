@@ -7457,7 +7457,7 @@ msgctxt "5dbf8675-d8f6-47c2-801b-2ad66ac7043d"
 msgid ""
 "A small clearing just outside the capital, occupied by goblins from Nok-"
 "Nok's former tribe."
-msgstr "녹 녹의 예전 부족 고블린이 점령한 수도의 외곽의 작은 공터."
+msgstr "녹-녹의 예전 부족 고블린이 점령한 수도의 외곽의 작은 공터."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/VS_Region/Location_GoblinShrines_Name_String
 msgctxt "113afacb-f056-4db5-af89-28272679e673"
@@ -12507,7 +12507,7 @@ msgctxt "e3aca28d-e5c2-475d-a13f-885dcc56ce81"
 msgid ""
 "Maegar Varn sets several traps that will protect the camp from monsters, "
 "which will spring if an enemy attacks."
-msgstr "메이가르 반은 녹 녹은 적이 공격해오면 작동하는 함정을 몇개 설치하여 아영지를 보호합니다."
+msgstr "메이가르 반은 적이 공격해오면 작동하는 함정을 몇개 설치하여 야영지를 보호합니다."
 
 #. Mechanics/Blueprints/Units/Companions/Tristian/TristianRespawnFeature_FakeDeathMessage
 msgctxt "ebe2519e-6f27-410e-abef-5073558106c6"
@@ -15148,7 +15148,7 @@ msgstr "린지"
 #. Mechanics/Blueprints/Units/Names/Companions/Moblin/Moblin_Capital_String
 msgctxt "cee3db84-6f46-49a8-8a43-677d05b7fc62"
 msgid "Nok-Nok"
-msgstr "녹 녹"
+msgstr "녹-녹"
 
 #. Mechanics/Blueprints/Units/Names/Companions/Octavia/Octavia_Capital_String
 msgctxt "49d40534-4b4b-4d9c-ba26-91992a66a632"
@@ -16028,7 +16028,7 @@ msgstr "고블린 상인"
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/C22_GoblinVillage/Moblin_String
 msgctxt "e6ba2975-8d27-47ac-a323-2c74265f8e2b"
 msgid "Nok-Nok"
-msgstr "녹 녹"
+msgstr "녹-녹"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Goblin/CR0.5_GoblinArcher_String
 msgctxt "5c830125-4dce-48ab-8f0d-80fcd31e2e4a"

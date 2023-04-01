@@ -9249,7 +9249,7 @@ msgid ""
 "dealing with his fellow tribesmen."
 msgstr ""
 "무슨 이유에선지 녹-녹의 전 부족원들이 올렉의 교역소를 점령한 듯 합니다. 자신이 진정한 영웅(참 유치하기도 하지!)이란 걸 모두에게 "
-"증명하기 위해, 녹녹은 그의 전 부족원들을 상대하는데 우리의 our {mf|왕|여왕}을 돕겠다고 자원했습니다."
+"증명하기 위해, 녹-녹은 그의 전 부족원들을 상대하는데 우리의 {mf|왕|여왕}을 돕겠다고 자원했습니다."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Nok-Nok/Q1_GoblinTrouble/Q1_GoblinTrouble_quest_Title
 msgctxt "fd220372-bdf9-410a-8ad9-f2e78c49a488"
