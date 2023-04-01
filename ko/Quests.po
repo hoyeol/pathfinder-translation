@@ -3657,7 +3657,7 @@ msgctxt "b706ebc5-ce92-4a32-aa3c-58dc50874187"
 msgid ""
 "The last fey in these parts have asked us to kill the monster that destroyed "
 "the village — the Scythe-Tree."
-msgstr "이 곳의 마지막 남은 페이가 마을을 파괴한 괴물 - 대낫-나무를 죽여달라고 부탁했습니다."
+msgstr "이 곳의 마지막 남은 페이가 마을을 파괴한 괴물 — 대낫-나무를 죽여달라고 부탁했습니다."
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/BigNarlmarches/WrathOfTheScytheTree/Objectives/KillScytheTree_Title
 msgctxt "4a7ff8e7-9c8d-4bbe-a817-d92fd991c461"
@@ -3697,8 +3697,8 @@ msgid ""
 "job for real heroes!"
 msgstr ""
 "사람들은 오래 전에 이 늪지를 떠났습니다(애초에 어떻게 여기서 살 수 있었는지도 의문이지만요), 하지만 여전히 거주민이 몇 있습니다. "
-"우린 페이 커플 - 드라이어드 티레씨아와 사티로스 팔초스 -를 만났습니다. 그들은 사람들이 한 괴물에게 쫓겨 떠났다고 얘기했습니다! 그 "
-"무시무시한 괴물의 정체는, 그냥 돌연변이 거대 모기정도가 아닌, 거대 살인 식물 - 대낫-나무 입니다. 팔초스는 그 괴물과 싸워보려 "
+"우린 페이 커플 — 드라이어드 티레씨아와 사티로스 팔초스를 만났습니다. 그들은 사람들이 한 괴물에게 쫓겨 떠났다고 얘기했습니다! 그 "
+"무시무시한 괴물의 정체는, 그냥 돌연변이 거대 모기정도가 아닌, 거대 살인 식물 — 대낫-나무 입니다. 팔초스는 그 괴물과 싸워보려 "
 "했지만 간신히 목숨만 건져 빠져나올 수 있었습니다. 내가 보기엔 진정한 영웅에 걸맞는 임무 같은데요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/BigNarlmarches/WrathOfTheScytheTree/WrathOfTheScytheTree_Title
@@ -4603,8 +4603,8 @@ msgid ""
 "enraged beasts from another world! We have to hurry, before the militia and "
 "the surviving prisoners become lunch for these monsters!"
 msgstr ""
-"개화의 계절 - 이 이름이 그런 끔찍한 현상에 엮이게 될 줄 누가 상상이나 했겠습니까! 감염자에게 심어져 있던 씨았들이 동시에 발아하면서 "
-"- 케스턴의 야영지는 다른 세계에서 온 성난 짐승들에게 압도당하고 있습니다! 민병대와 살아남은 죄수들이 괴수들의 점심거리가 되기 전에 "
+"개화의 계절 - 이 이름이 그런 끔찍한 현상에 엮이게 될 줄 누가 상상이나 했겠습니까! 감염자에게 심어져 있던 씨앗들이 동시에 발아하면서 "
+"- 케스턴의 야영지는 다른 세계에서 온 성난 짐승들에게 압도당하고 있습니다! 민병대와 살아남은 죄수들이 괴물들의 점심거리가 되기 전에 "
 "서둘러야 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/SeasonOfBloom/04_CheckOnKesten_Title
@@ -4667,7 +4667,7 @@ msgid ""
 "is!"
 msgstr ""
 "이렇게 아름답고 우아한 존재가 그렇게 크나큰 고통의 근원이 될 수 있을지 누가 상상이나 할 수 있을까요... 음, 누가 이 꽃을 "
-"심었는지는 중요치 않습니다! 이 식물이 그 저주받을 씨았을 만들어 내고 있습니다. 이 끔찍한 꽃을 - 이 꽃이 얼마나 아름답던간에 - "
+"심었는지는 중요치 않습니다! 이 식물이 그 저주받을 씨앗을 만들어 내고 있습니다. 이 끔찍한 꽃을 - 이 꽃이 얼마나 아름답던간에 - "
 "완전히 뿌리뽑아야합니다!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/SeasonOfBloom/06_StopTheSeasonOfBloom_Title

@@ -8488,7 +8488,7 @@ msgstr ""
 "도둑맞은 땅에서 가장 맑고 깨끗한 물의 원천인 실버스텝 호수는 수많은 자연 그대로의 개울이 흘러들어 동쪽의 가파른 바위산을 폭포처럼 타고 "
 "내려갑니다. 수십 개의 작은 폭포와 거품이 이는 폭포는 호수의 동쪽 기슭을 섬뜩하도록 아름답게 만들고, 갈대가 자라고 백합이 피는 섬 "
 "위에 오래된 버드나무가 이끼 낀 가지를 드리웁니다. 보석과 드래곤 실버의 전설에 이끌린 몇몇 나그네가 호수의 폭포들 뒤에 숨겨진 동굴을 "
-"발견했는데, 돌아온 사람들은 동굴이 레베니스 바위산맥 아래의 깊은 곳과 연결되어 있고, 동굴 속에 몬스터의 유해가 안치되어 있으며, "
+"발견했는데, 돌아온 사람들은 동굴이 레베니스 바위산맥 아래의 깊은 곳과 연결되어 있고, 동굴 속에 괴이한 납골당과, "
 "이상한 눈이 빛나고 있었다고 말했습니다. 하지만 대부분은 다시 볼 수 없었습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/ZDescriptionsSharedWithGlossary/SouthNarlmarchesDescription_String
@@ -8967,7 +8967,7 @@ msgid ""
 "Your bestiary contains useful information about monsters' features and "
 "abilities. You'll learn even more if you succeed in defeating a monster."
 msgstr ""
-"괴물 도감에는 괴수들의 기능이나 능력에 관한 유용한 정보들이 있습니다. 또한 괴수를 무찌를수록 더 많은 것을 배우게 될 것입니다."
+"괴물 도감에는 괴물들의 특징이나 능력에 관한 유용한 정보들이 있습니다. 또한 괴물을 무찌를수록 더 많은 것을 배우게 될 것입니다."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[45]_String
 msgctxt "55a24ab6-c33a-464b-9e88-e5b972ff0e40"
@@ -10366,7 +10366,7 @@ msgctxt "56a1ac55-ca8a-4f4e-9141-dd8c33e3b895"
 msgid ""
 "Dwarves and gnomes gain a +4 dodge bonus to AC against monsters of the giant "
 "subtype."
-msgstr "드워프와 노움은 거인 하위유형의 몬스터를 상대할 때 AC에 +4의 피하기 보너스를 얻습니다."
+msgstr "드워프와 노움은 거인 하위유형의 괴물을 상대할 때 AC에 +4의 피하기 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Traits/Races/Dwarf/DwarvenWeaponFamiliarity_m_Description
 msgctxt "644006fe-885d-4f77-a3a5-2210ab17bdcd"
@@ -23250,7 +23250,7 @@ msgid ""
 "monsters, and we kill them on the spot... They could have lived there for "
 "centuries before we arrived with our spells and steel!\""
 msgstr ""
-"\"무언가 잘못되었다고 느껴져요. 우리는 트롤과 다른 몬스터의 땅에 와서는, 그들을 죽였죠... 우리가 주문과 쇠로 무장해서 오기 전에 "
+"\"무언가 잘못되었다고 느껴져요. 우리는 트롤과 다른 괴물들의 땅에 와서는, 그들을 죽였죠... 우리가 주문과 쇠로 무장해서 오기 전에 "
 "그들은 그곳에서 수십세기를 살았을지도 몰라요!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriOctavia_01/Cue_0003 1_Text
@@ -23436,7 +23436,7 @@ msgid ""
 "skills were forgotten... Torag didn't let me down. I did.\""
 msgstr ""
 "\"마을에서의 삶은 행복한 것이었어. 나무와 망치질과 못질의 나날들. 나의 활은 벽에 걸려 있었지, 오랬동안 나는 활을 들 필요가 "
-"없었어. 몬스터가 마을로 왔을 때, 나의 활질은 녹슬어 있었어. 그것으로 토락이 비난받아야 하는가? 토락은 그를 믿는 자에게 기술을 "
+"없었어. 괴물들이 마을로 왔을 때, 나의 활질은 녹슬어 있었어. 그것으로 토락이 비난받아야 하는가? 토락은 그를 믿는 자에게 기술을 "
 "연마하라고 가르쳤지만, 나의 기술은 녹슬어 있었어... 토락이 나를 버린 게 아니야. 내가 토락을 버린 것이야.\""
 
 #. Test/Dialogues/PartyBanter/VS_EkunHarrim_01/Cue_0003_Text
@@ -24287,7 +24287,7 @@ msgid ""
 msgstr ""
 "도둑 맞은 땅\n"
 "누구도 이 땅을 가지고 있지 않지만, 모든 사람은 이 땅을 골치 아파합니다. 질 나쁜 수 마일의 도로로 이어진 영토는 논쟁거리이고, 모든 "
-"길은 도적과 몬스터들로 가득합니다. 그리고 그곳이 우리의 대담하지만 아직 유명하지 않은 영웅이 이끄는 작은 일행이 향하고 있는 곳입니다. "
+"길은 도적과 괴물들로 가득합니다. 그리고 그곳이 우리의 대담하지만 아직 유명하지 않은 영웅이 이끄는 작은 일행이 향하고 있는 곳입니다. "
 "{g|Brevoy}브레보이{/g} 소드로드는 질서의 일부를 회복하기 위해 우리를 그곳에 보냈고, 우리는 수사슴 군주로 알려진 우두머리에 "
 "의해 이끌어지는 도적 패거리들과 싸우기 시작했습니다. 성공의 보상은 남작의 작위와 해방된 땅을 통치할 권리입니다. 실패의 대가는 - "
 "불명예스러운 죽음입니다. 그러나 위대함의 길은 언제나 작은 발걸음에서 시작됩니다 - 우리의 첫번째 임무는 올렉 레베튼의 무역소의 안전을 "
@@ -24327,7 +24327,7 @@ msgid ""
 "right? Wanna bet I can chop off the snout of this Tuskgutter in a single "
 "fight? Come on, see for yourself!\""
 msgstr ""
-"\"올렉은 사람들이 그 몬스터가 있는 장소를 알지만, 상대할 정도로 강인하지 못하다고 말했어. 그런데 우리는 지역의 겁쟁이 보다는 낫지, "
+"\"올렉은 사람들이 그 괴물이 있는 장소를 알지만, 상대할 정도로 강인하지 못하다고 말했어. 그런데 우리는 지역의 겁쟁이 보다는 낫지, "
 "안그래? 내가 터스크거터를의 주둥이를 한 번의 전투를 썰어버릴 수 있을 지 내기할까? 이봐, 가서 직접 확인해보자!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0006_Text
@@ -24338,7 +24338,7 @@ msgid ""
 "monsters, too! And, besides, reward is a good thing, right?\""
 msgstr ""
 "{n}바바리안은 움찔합니다.{/n} \"이봐! 들어봐, 그들은 우리를 옳은 일을 하라고 여기로 보냈어! 도적도 그 중 하나지만, 우리는 "
-"여전히 몬스터들을 제거해야만 한다고! 그리고, 게다가, 보상도 짭짤하잖아, 안그래?\""
+"여전히 괴물들을 제거해야만 한다고! 그리고, 게다가, 보상도 짭짤하잖아, 안그래?\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0008_Text
 msgctxt "5158ca67-353a-406d-bfa0-007b895e4acc"
@@ -24356,7 +24356,7 @@ msgid ""
 "{n}Amiri looks aside.{/n} \"Well… Not exactly. I tell you some other time. "
 "Probably. And now let's just go and slice this monster into bacon stripes!\""
 msgstr ""
-"{n}아미리는 옆을 쳐다봅니다.{/n} \"글쎄... 정확히는 아니야. 나중에 더 이야기해 줄게. 아마도. 지금은 떠나서 이 몬스터를 "
+"{n}아미리는 옆을 쳐다봅니다.{/n} \"글쎄... 정확히는 아니야. 나중에 더 이야기해 줄게. 아마도. 지금은 떠나서 이 괴물을 "
 "잘라 베이컨으로 만들자고!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0013_Text
@@ -24396,7 +24396,7 @@ msgid ""
 msgstr ""
 "{n}아미리가 당신을 입구 근처에서 붙잡습니다. 짓궂은 웃음이 그녀의 얼굴을 환하게 합니다.{/n} \"들어봐, 여기 좋은 소식이 있어! "
 "올렉이 야생 돼지가 이곳 숲속에 있다고 내게 말했어. 그냥 돼지가 아니라, 진정한 멧돼지야. 터스크거터, 이곳 사람들은 그렇게 불러. "
-"그는 거대하지! 그리고 화가 나있지! 그는 몇몇의 다리를 찢었어, 그리고 사람들은 공격을 하려고 하고 그 몬스터의 머리에 현상금을 "
+"그는 거대하지! 그리고 화가 나있지! 그는 몇몇의 다리를 찢었어, 그리고 사람들은 공격을 하려고 하고 그 괴물의 머리에 현상금을 "
 "붙여놨어!\""
 
 #. Test/Dialogues/TrashToDelete/Dialogue_DemonShrine/Answer_0019_AlignmentShift.Description
@@ -24881,7 +24881,7 @@ msgstr ""
 "그러므로, 수많은 여정 끝에, 한 명의 진정한 영웅이 마침내 도착했습니다 – {g|Stolen Lands}도둑맞은 땅{/g}에 법과 "
 "질서를 가져온 바로 그 사람입니다. 그 지역을 차지하고 있던 도적들을 무찌르고, 그{mf||녀}는 보상으로 남작의 작위를 받아 이 땅의 "
 "독립된 통치자가 되었습니다! 그{mf||녀}는 이후 행복하게 잘 살았을까요? 당신이 원한대로! 도둑맞은 땅의 발전은 이제 막 시작되고 "
-"있습니다, 대다수의 영역이 몬스터와 같은 것들로 들끓는 늪, 쓸모 없는 땅, 황무지이기 때문입니다. 이 젊은 남작령을 가장 먼저 위협한 "
+"있습니다, 대다수의 영역이 괴물과 같은 것들로 들끓는 늪, 쓸모 없는 땅, 황무지이기 때문입니다. 이 젊은 남작령을 가장 먼저 위협한 "
 "것은 인간의 육체에 환장한 불쾌한 트롤이었습니다…"
 
 #. Test/Dialogues/VS_ThorneRoom_Linzi/Cue_0001_Text
@@ -24922,7 +24922,7 @@ msgid ""
 "coming here themselves... Well, I hope so!\""
 msgstr ""
 "\"신경쓰지 마. 언제 출발할거야? 새로운 장을 위한 재료가 필요해. 너의 영웅적인 행동에 대한 노래 말이지, 너는 그 행동을 해야 해, "
-"알았지? 수도에는 모험할 것이 별로 없어, 몬스터는 스스로 오지도 않고... 좋아, 내가 원했던 대로야!\""
+"알았지? 수도에는 모험할 것이 별로 없어, 괴물들은 스스로 오지도 않고... 좋아, 내가 원했던 대로야!\""
 
 #. Test/Dialogues/VS_ThorneRoom_Linzi/Cue_0004_Text
 msgctxt "050bffbd-803e-4bf4-a143-ce95e7f5956f"

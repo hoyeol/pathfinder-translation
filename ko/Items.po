@@ -20440,7 +20440,7 @@ msgstr "어머니의 배려"
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/MothersCare_m_FlavorText
 msgctxt "260e01a3-02f6-4895-9fb5-dd998eea04f6"
 msgid "This chilly kukri is dedicated to Lamashtu, the Mother of Monsters."
-msgstr "이 싸늘한 쿠크리는 괴물의 어머니, 라마슈투에게 봉헌되었습니다."
+msgstr "이 싸늘한 쿠크리는 괴물들의 어머니, 라마슈투에게 봉헌되었습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/Chapter2/MothersWarmth_m_DescriptionText
 msgctxt "307dba7f-e22a-4620-94bb-988233dbd0a3"

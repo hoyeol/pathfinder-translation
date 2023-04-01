@@ -2286,7 +2286,7 @@ msgid ""
 "Stability in a settlement with a Jail.\n"
 "Affects: Jail."
 msgstr ""
-"도적과 외침과 몬스터의 위협에 맞서는 요새화된 전초 기지. 정착지에 감시탑이 있으면 +1 첩보; 정착지에 주둔지가 있으면 +1 군사; "
+"도적, 외국의 침략과 괴물의 위협에 맞서는 요새화된 전초 기지. 정착지에 감시탑이 있으면 +1 첩보; 정착지에 주둔지가 있으면 +1 군사; "
 "정착지에 감옥이 있으면 +1 치안.\n"
 "영향: 감옥."
 
@@ -4457,7 +4457,7 @@ msgid ""
 "during which he has summoning beasts and monsters from other planes. The "
 "growing discontent threatens to turn into a riot."
 msgstr ""
-"농민들이 공포에 떨고 있습니다. 현지 마법사가 다른 차원에서 짐승과 괴물을 소환하는 위험한 실험을 하고 있습니다. 커져가는 불만이 "
+"농민들이 공포에 떨고 있습니다. 현지 마법사가 다른 차원에서 괴수와 괴물을 소환하는 위험한 실험을 하고 있습니다. 커져가는 불만이 "
 "폭동으로 번질 위기에 처했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced2/VisitorsFromAnotherPlane_LocalizedName
@@ -7368,7 +7368,7 @@ msgid ""
 "trace. As if by retaliation, a pack of foulsome monsters emerged from the "
 "forest, on the hunt for blood. Many have died, and chaos reigns on the roads."
 msgstr ""
-"보좌관이 불모의 숲으로 파견했던 비술 마법사들은 흔적도 없이 사라지고 말았습니다. 마치 그 보복이기라도 한 듯, 숲에서부터 괴수들이 "
+"보좌관이 불모의 숲으로 파견했던 비술 마법사들은 흔적도 없이 사라지고 말았습니다. 마치 그 보복이기라도 한 듯, 숲에서부터 괴물들이 "
 "출현하여 피비린내나는 살육을 벌였습니다. 많은 주민들이 학살당했고, 왕국은 혼돈에 빠졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced9/Witchwood_Solutions.Entries.Array.data[4].Resolutions.Array.data[5].LocalizedDescription_String
@@ -21001,8 +21001,8 @@ msgid ""
 "all the beasts, as well as their leader, a bloodthirsty warg. His skin now "
 "hangs on a banner, inspiring the soldiers with courage and pride."
 msgstr ""
-"우리의 군인들은 늑대들의 바로 뒤를 쫓아 그들의 둥지까지 추격했습니다. 그들은 그 괴물들의 우두머리였던 피에 굶주린 Warg를 포함하여 "
-"모든 괴수들을 끝장내었습니다. Warg의 가죽은 깃대에 매달려 군인들의 용기와 자부심을 고무시켰습니다."
+"우리의 군인들은 늑대들의 바로 뒤를 쫓아 그들의 둥지까지 추격했습니다. 그들은 그 괴물들의 우두머리였던 피에 굶주린 워그를 포함하여 "
+"모든 괴수들을 끝장내었습니다. 워그의 가죽은 깃대에 매달려 군인들의 용기와 자부심을 고무시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck1/RiverMaiden_LocalizedDescription
 msgctxt "a051dffc-bcf5-4e83-b251-48434e36e2ca"
@@ -30145,7 +30145,7 @@ msgctxt "3fda2fb3-9ff8-493f-bbd6-dd4e4fc14072"
 msgid ""
 "The Magister's mages failed to dispel the sinister magic. The monsters "
 "continue to ravage the region."
-msgstr "마법대신의 마법사들은 불길한 마법을 떨쳐내지 못했습니다. 몬스터들은 계속해서 이 지역을 쓸어버리고 있습니다."
+msgstr "마법대신의 마법사들은 불길한 마법을 떨쳐내지 못했습니다. 괴물들은 계속해서 이 지역을 쓸어버리고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/StorySupport/PitaxMonsterAttacks_Solutions.Entries.Array.data[6].Resolutions.Array.data[1].LocalizedDescription
 msgctxt "bd5924c5-3764-4832-9dc8-b6b43e5c0099"
@@ -33235,7 +33235,7 @@ msgctxt "421c028f-f29c-43ad-a420-856934fe3775"
 msgid ""
 "The rangers report that all the monsters are being teleported into your "
 "kingdom from a place they call \"The Menagerie\"."
-msgstr "레인저들은 몬스터들이 \"동물원\"이라고 부르는 곳에서 당신의 왕국으로 순간 이동되고 있다고 보고합니다."
+msgstr "레인저들은 괴물들이 \"동물원\"이라고 부르는 곳에서 당신의 왕국으로 순간 이동되고 있다고 보고합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/FixingSellemiusDeal_LocalizedDescription
 msgctxt "8e4fbfdd-6826-413d-83be-3c841aff5440"
