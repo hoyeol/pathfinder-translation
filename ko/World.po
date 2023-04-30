@@ -7203,7 +7203,7 @@ msgstr "고블린들의 잔치에 함께하였다."
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0004_Text
 msgctxt "d3968fa7-e339-42e8-beff-8554f03cebf5"
 msgid "Smiled, muttered \"why not,\" and took a place near the fire."
-msgstr "미소지으며, 불평했습니다 \"왜 안되겠어,\" 그러곤 불이 있는 근처에 자리잡았습니다."
+msgstr "미소지으며, 중얼거렸습니다 \"왜 안되겠어,\" 그러곤 불이 있는 근처에 자리잡았습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0005_Text
 msgctxt "7d2a3f59-1085-4114-87f6-8364ae6541cc"
@@ -7228,7 +7228,7 @@ msgstr "'이것'을 마시는 것을 단호히 거부했습니다."
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0031_Text
 msgctxt "0356b0a0-5134-4515-a23a-db93fd6daf1d"
 msgid "Drained the first keg to its dregs."
-msgstr "첫번째 통에 찌꺼기까지 비웠습니다."
+msgstr "첫 번째 통을 그 안의 찌꺼기까지 비운다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0032_Text
 msgctxt "a0f2b756-6758-47ca-b5af-d124a5f33d31"
@@ -7240,7 +7240,7 @@ msgstr "한모금 하려고 했지만, 에일 향이 났습니다, {mf|그|그�
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0048_Text
 msgctxt "d8f2ebdd-c64f-452c-96bb-3485b8c06cb5"
 msgid "\"Why not!\""
-msgstr "\"왜 안돼겠어!\""
+msgstr "\"왜 안 되겠어!\""
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0049_Text
 msgctxt "066a15e8-1b15-4716-9df6-e6809ddd4b7e"
@@ -7300,7 +7300,7 @@ msgstr "비명을 지르고 멀리 내달려!"
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0065_Text
 msgctxt "b2b7256e-6a67-43e4-9aed-2f9d961f7241"
 msgid "Quickly hide and sneak away!"
-msgstr "빨리 숨기고 슬금 도망쳐!"
+msgstr "빨리 숨기고 슬금슬금 도망쳐!"
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0066_Text
 msgctxt "37525d51-2867-41e7-b8f4-762e8d8899a0"
@@ -7375,12 +7375,12 @@ msgstr "마침내, 노래가 끝났습니다."
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0093_Text
 msgctxt "0b3babe2-7c66-4da1-bdbb-83d661b0e132"
 msgid "Drained the second keg."
-msgstr "두번째 통을 비우다."
+msgstr "두 번째 통을 비운다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0094_Text
 msgctxt "3650951a-37f1-434a-98e2-1822995129c5"
 msgid "Drained the last keg."
-msgstr "마지막 통을 비우다."
+msgstr "마지막 통을 비운다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Answer_0104_Text
 msgctxt "6e44b029-75df-4ac2-8ac2-28ac7db5d9b6"
@@ -7438,11 +7438,11 @@ msgid ""
 "{mf|baron|baroness}..."
 msgstr ""
 "풍차를 지나쳐 갈 때, 우리는 기이한 것을 목격했습니다. 고블린들이 그 건물의 그늘에 쭈그려앉아, 그들이 제일 잘하는 것, 즉 무언가를 "
-"입에 쑤셔넣고 있었습니다. 그들은 속이 다 빠져나온 밀가루 포대를 가지고 있었고 꽤나 부유하게 보였습니다. 몇몇은 모닥불에 펜케이크를 "
-"굽고, 다른 이들은 만두 비스무리 한 것들을 만들기 위해 끓는 냄비에 반죽을 조각 내어 넣고 있었으며, 또 다른 이들은 흰가루들 위로 "
-"굴러다니며 그들의 목구멍에 한 웅큼씩 밀어 넣고 있었습니다. 그들 모두는, 모두 예외없이, 주변의 술통에서 에일을 꿀꺽대며 마시고, "
+"입에 쑤셔넣고 있었습니다. 그들은 속이 다 빠져나온 밀가루 포대를 가지고 있었고 꽤나 부유하게 보였습니다. 몇몇은 모닥불에 팬케이크를 "
+"굽고, 다른 이들은 만두 비스무리 한 것들을 만들기 위해 끓는 냄비에 반죽을 조각내어 넣고 있었으며, 또 다른 이들은 흰 가루들 위로 "
+"굴러다니며 그들의 목구멍에 한 움큼씩 밀어 넣고 있었습니다. 그들 모두는 예외 없이, 주변의 술통에서 에일을 꿀꺽대며 마시고, "
 "서로에게 흘려대며 시끄럽게 노래를 불러댔습니다. 그들이 우리를 발견하자, 아마도 에일때문이겠지만 명랑하기 그지없는 그 고블린들은 땅에 "
-"일어섰습니다. 도망가는 대신에, 그들은 휘파람을 내지르고 파도를 타면서, 우리를 그들의 축제에 초대했습니다. 그 응답으로 "
+"일어섰습니다. 도망가는 대신에, 그들은 휘파람을 내지르고 파도를 타면서, 우리를 그들의 축제에 초대했습니다. 그에 대한 응답으로 "
 "{mf|남작|여남작}은…"
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0007_Text
@@ -7462,13 +7462,13 @@ msgid ""
 "animal that doesn't sting, bite, or hiss). The {mf|Baron's|Baroness'} task "
 "was to steal the miller dog's food plate. So, {mf|he|she}..."
 msgstr ""
-"저는 전에 한번도 고블린들의 연회를 가본 적이 없었어요. 그렇지만 그건 늦은 밤 {g|Academy of Grand "
+"저는 전에 한 번도 고블린들의 연회를 가본 적이 없었어요. 그렇지만 그건 늦은 밤 {g|Academy of Grand "
 "Arts}아카데미(Academy){/g}의 몽상과는 조금 달랐지요. 그들의 모자란 말을 빌리자면, 그 가루에 취한 흥청대는 이들은 방앗간 "
 "주인에게 그의 집으로 자기들을 초대해달라고 해서는, 그 재미를 망치지 않을 만큼 '예의바르게' 그들이 원하는 것은 뭐든 가져갈 수 있게 "
-"해달라고 하고는 그걸 챙기고 곧장 떠나왔다고 하더군요. 음식은 예상했던데로 역겨웠지만, 에일은 그럭저럭 마실만해서, 우리는 곳 술에 "
+"해달라고 하고는 그걸 챙기고 곧장 떠나왔다고 하더군요. 음식은 예상했던 대로 역겨웠지만, 에일은 그럭저럭 마실만해서, 우리는 곧 술에 "
 "취해버렸어요. 이 조그만 말썽꾸러기들이 {mf|남작|여남작}이 우리의 리더인 것을 확실하게 알아보자, 그들은 {mf|그|그녀}에게 몇 "
 "가지 시험을, 움, 그들 부족의 일부가 되기 위해 통과해야 한다고 했어요. 그들이 처음으로 {mf|그|그녀}에게 요구한 것은 무시무시한 "
-"야수를 처리하는 것이었어요. 개였죠(고블린과 개, 맞아요...그들은 따로 떨어질 수 없죠, 달리는 말하고는 달리 말이죠, 그리고... "
+"야수를 처리하는 것이었어요. 개였죠 (고블린과 개, 맞아요...그들은 따로 떨어질 수 없죠, 달리는 말하고는 달리 말이죠, 그리고... "
 "뭐, 여느 많은 동물들은 쏘거나, 물거나, 짖지 않죠.). {mf|남작|여남작}의 임무는 방앗간 주인의 개의 밥그릇을 훔쳐오는 "
 "것이었어요. 그래서, {mf|그|그녀}는..."
 
@@ -7481,7 +7481,7 @@ msgid ""
 "blistered skins, and tossing them back in. The {mf|baron|baroness}..."
 msgstr ""
 "통에서는 끔찍한 냄새가 났어요. 고블린들은 그들의 더러운 손으로 에일을 긁어모으고, 그걸로도 모자랐는지, 그들은 머리통을 거기에 박아 "
-"넣더니, 입으로 두꺼비를 통 밖으로 끄집어내고, 에일에 흠뻑졌은 두꺼비의 거죽을 할고, 도로 통으로 집어넣어지요. "
+"넣더니, 입으로 두꺼비들을 통 밖으로 끄집어내고, 에일에 흠뻑 젖은 두꺼비의 거죽을 핥고, 도로 통으로 집어넣었지요. "
 "{mf|남작|여남작}은..."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0014_Text
@@ -7491,15 +7491,15 @@ msgid ""
 "kennel, paying no heed to the nearby party. The dog's plate, covered in "
 "bones, lay before the kennel. The {mf|baron|baroness}..."
 msgstr ""
-"개는 몸집은 컷지만, 게으르고 조용했어요. 개집 안에서 숙면을 취하는지 주변의 연회에는 눈길 한번 주지 않았지요. 개 밥그릇은, 뼈로 "
-"뒤덮힌채, 개집 앞에 놓여있었어요. {mf|남작|여남작}은..."
+"개는 몸집은 컸지만, 게으르고 조용했어요. 개집 안에서 숙면을 취하는지 주변의 연회에는 눈길 한번 주지 않았지요. 뼈로 뒤덮인 개밥그릇은 "
+"개집 앞에 놓여있었어요. {mf|남작|여남작}은..."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0020_Text
 msgctxt "487da23d-d1d8-41e5-a82a-e518678cf176"
 msgid ""
 "It was the perfect crime — as silent as a shadow, {mf|baron|baroness} swept "
 "up the plate. The dog didn't stir."
-msgstr "그것은 완전 범죄였어요. 마치 그림자처럼 조용히, {mf|남작|여남작}은 밥그릇을 훔쳐어요. 그 개는 쳐다보지도 않았죠."
+msgstr "그것은 완전 범죄였어요. 마치 그림자처럼 조용히, {mf|남작|여남작}은 밥그릇을 훔쳤어요. 그 개는 쳐다보지도 않았죠."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0021_Text
 msgctxt "a8c8a622-e4a8-4ef2-8c1b-55aa49e1bde2"
@@ -7530,8 +7530,8 @@ msgid ""
 "it, {mf|he|she}..."
 msgstr ""
 "고블린들이 첫 번째 시험에서의 {mf|남작|여남작}의 뛰어난 성과를 칭송한 뒤에, 그들은 이제 {mf|그|그녀}가 그들의 \"재그와트"
-"(jagwart)\"불리는 정말 구역질나는 제사음료를 맛 볼 시간이라고 선언했어요. 한눈에 보기에, 그것은 에일 같아 보였지만...우리가 "
-"통 안에 죽은 두꺼비가 \"맛\"을 위해 떠다니는 걸 보기 전까지 말이에요. 두꺼비의 색으로 판단하건데, 그것들은 독이 있었어요. "
+"(jagwart)\"라고 불리는 정말 구역질나는 의식용 음료를 맛 볼 시간이라고 선언했어요. 한눈에 보기에, 그것은 에일 같아 보였지만...우리가 "
+"통 안에 죽은 두꺼비들이 \"풍미\"를 위해 떠다니는 걸 보기 전까지 말이에요. 두꺼비의 색으로 판단하건데, 그것들은 독이 있었어요. "
 "{mf|남작|여남작}이 그 음료를 보고 냄새를 맡은 뒤에, {mf|그|그녀}는..."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0025_Text
@@ -7585,7 +7585,7 @@ msgstr ""
 "마침내 음식과 술이 모두 바닥났어요. 빈 자루와 통을 슬픈 눈빛으로 바라보며 한 늙은 고블린이 한숨과 함께 그것들이 꽉 차있었을 때 "
 "얼마나 좋았었는지를 이야기하기 시작했지만 어느 누구도 귀기울이는 것 같지 않았어요. 그 늙은 고블린이 횡설수설하자, 다른 고블린이 혀꼬인 "
 "소리로 우리를 그들의 마을에서 하는 다음 축제에 초대했어요. 그리고는 (수없이 잘못된 방향을 가르킨 끝에) 우리에게 어느 방향으로 가면 "
-"갈 수 있을지를 알려주었죠. 의심스러운 초대였지만 유용한 정보였지요! 그 후에, 이 흠뻑취한 얼간이는 쓰러져서는 트름하며 그의 손가락을 "
+"갈 수 있을지를 알려주었죠. 의심스러운 초대였지만 유용한 정보였지요! 그 후에, 이 흠뻑 취한 얼간이는 쓰러져서는 트림하며 그의 손가락을 "
 "행복하게 빨아댔어요."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0088_Text
@@ -7617,8 +7617,8 @@ msgid ""
 "they were already handing {mf|him|her} the third keg. The "
 "{mf|Baron|Baroness}..."
 msgstr ""
-"{mf|남작|여남작}은 창백하게 질려서는 이마에서 땀을 흘리고 있었지만, 불평 한마디 없이 두 번째 잔을 비웠어요. 그런데 이 작은 "
-"나쁜놈들은 {mf|그|그녀}를 빨리 단명시킬 작정인지 세번째 잔을 {mf|그|그녀}에게 쥐어줬어요. {mf|남작|여남작}은..."
+"{mf|남작|여남작}은 창백하게 질려서 이마에서 땀을 흘리고 있었지만, 불평 한마디 없이 두 번째 잔을 비웠어요. 그런데 이 작은 "
+"나쁜놈들은 {mf|그|그녀}를 빨리 단명시킬 작정인지 세 번째 잔을 {mf|그|그녀}에게 쥐어줬어요. {mf|남작|여남작}은..."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0099_Text
 msgctxt "fad611d2-0f85-454c-b644-e0bb270c1561"
@@ -7628,8 +7628,8 @@ msgid ""
 "{mf|his|her} lips, and smashed the keg over the nearest goblin's head, "
 "making others laugh and applaud."
 msgstr ""
-"{mf|그|그녀}의 뱃 속은 드워프들의 철로 되어 있다는 데에 한 몫 걸겠어요. 그 무시무시한 세번째 잔을 꿀꺽 넘기고는, "
-"{mf|남작|여남작}은 트름과 함께 입술을 닦더니 그 잔을 가까이에 있던 고블린의 머리위에 내려쳐서 깨뜨렸어요. 다른이들은 웃음과 함께 "
+"{mf|그|그녀}의 뱃 속은 드워프들의 철로 되어 있다는 데에 한 몫 걸겠어요. 그 무시무시한 세 번째 잔을 꿀꺽 넘기고는, "
+"{mf|남작|여남작}은 트림과 함께 입술을 닦더니 그 잔을 가까이에 있던 고블린의 머리위에 내려쳐서 깨뜨렸어요. 다른이들은 웃음과 함께 "
 "박수를 쳐 댔지요."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0100_Text
@@ -7655,9 +7655,9 @@ msgid ""
 "and {mf|baron|baroness} was offered to improvise and add the missing lines. "
 "{mf|He|She} answered..."
 msgstr ""
-"\"이번엔 세번째 시험이다!\" 고블린들이 울부짓으며 환호했어요. 아마도 그들은 먹을거리로 고문하는 것은 이제 충분했는지 그 대신에 "
-"이번에는 시를 창작하는 것을 욕보이려고 했나봐요. 그들이 노래를 부르면 {mf|남작|여남작}이 빈 줄을 채워넣기로 했죠. {mf|그|그녀}"
-"는 답하기를..."
+"\"이번엔 세 번째 시험이다!\" 고블린들이 울부짓으며 환호했어요. 아마도 그들은 먹을거리로 고문하는 것은 이제 충분했는지 그 대신에 "
+"이번에는 시를 창작하는 것을 욕보이려고 했나 봐요. 그들이 노래를 부르면 {mf|남작|여남작}이 빈 줄을 채워넣기로 했죠. {mf|그|그녀}"
+"가 답하기를..."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0103_Text
 msgctxt "5437b984-617d-4888-913d-d34e0020a950"
@@ -7729,17 +7729,17 @@ msgstr "똑똑하게 굴어 멍청하게 굴지마."
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0124_Text
 msgctxt "f29f04b8-67eb-4645-b708-68d1bbb5bf72"
 msgid "Drained the last keg."
-msgstr "마지막 통을 비우다."
+msgstr "마지막 통을 비운다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0125_Text
 msgctxt "57faaf8c-3454-4f7a-afce-dc02d1f582ac"
 msgid "Drained the second keg."
-msgstr "두번째 통을 비우다."
+msgstr "두 번째 통을 비운다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_0126_Text
 msgctxt "bde6a981-3dc4-467f-8900-fb9202c8af62"
 msgid "Drained the first keg to the dregs."
-msgstr "첫번째 통을 그 안의 찌꺼기까지 비우다."
+msgstr "첫 번째 통을 그 안의 찌꺼기까지 비운다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/GoblinParty/Cue_GobSong1_Text
 msgctxt "a649c443-3274-4b63-901f-d53912ea2649"
@@ -7808,7 +7808,7 @@ msgid ""
 "goblins could reach — sticks, branches, forks, pans) they started to croak "
 "out a rhythm — as well as they were able."
 msgstr ""
-"타악기(타악기란 고블린들이 잡을 수 있는 모든 것이었죠 - 작대기들, 나뭇가지들, 포크들, 팬들)와 함께 어우러져 노래를 불렀어요. "
+"타악기(타악기란 고블린들이 잡을 수 있는 모든 것이었죠 - 작대기, 나뭇가지, 포크, 냄비 등)와 함께 어우러져 노래를 불렀어요. "
 "그들은 리듬을 타며 깍깍거리기 시작했지요. 그들이 할 수 있는 만큼요."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/HemlockIsland/Answer_0006_Text
