@@ -8000,7 +8000,7 @@ msgid ""
 "need to lure the guests and Ekun into it! The party will take place in the "
 "Hunting Grounds, in Kamelands. By the way, who should I invite to the party?"
 msgstr ""
-"에쿤의 오랜 친구 은타비와 엘리나 덕분에 덫을 놓는 일은 마무리 되었습니다. 이제 손님들과 에쿤을 끌어들이기만 하면 됩니다! 파티는 "
+"에쿤의 오랜 친구 은타비와 엘리나 덕분에 덫을 놓는 일은 마무리되었습니다. 이제 손님들과 에쿤을 끌어들이기만 하면 됩니다! 파티는 "
 "케임랜드의 사냥터에서 열릴 것입니다. 그건 그렇고, 누구누구를 파티에 초대해야 할까요?"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Ekun/Q1_A_Feast_For_a_Friend/Obj2_TakeEkunToTheForest_Title
