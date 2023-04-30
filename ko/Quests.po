@@ -4649,7 +4649,7 @@ msgid ""
 "whatever that means. Well, there's no riddle we can't solve!"
 msgstr ""
 "동굴안에서 떨어지게된 이상한 다른 세계에는 늙은 노움 하나가 살고 있습니다. 그는 수수께끼로 말하지만, 친절해 보이기는 합니다. 노움은 "
-"몰락한 어떤 여신의 이야기를 드러낼 환영을 따라가, 그녀의 분노를 일으키라고 조언했습니다. 음, 우리가 풀 수 없는 수수께기란 존재하지 "
+"몰락한 어떤 여신의 이야기를 드러낼 환영을 따라가, 그녀의 분노를 일으키라고 조언했습니다. 음, 우리가 풀 수 없는 수수께끼란 존재하지 "
 "않지요!"
 
 #. Mechanics/Blueprints/World/Quests/C22_SeasonOfBloom/SeasonOfBloom/05b_SolveGnomesRiddle_Title
