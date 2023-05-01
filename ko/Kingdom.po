@@ -33525,7 +33525,7 @@ msgstr "독립"
 msgctxt "7600252f-b370-4192-8ede-6a1c001320a8"
 msgid ""
 "Our country has been recognized as one of the independent River Kingdoms!"
-msgstr "우리나라가 독립적인 강 왕국으로 인정받았습니다!"
+msgstr "우리나라가 독립적인 강의 왕국으로 인정받았습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/RecoveringFromBarbarianRavage_LocalizedDescription
 msgctxt "8107ed9f-6c7b-424d-8a16-ad49189afd33"
