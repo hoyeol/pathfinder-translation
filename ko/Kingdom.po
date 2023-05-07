@@ -19850,7 +19850,7 @@ msgid ""
 "woods to ensure that none survived."
 msgstr ""
 "섭정의 종복들은 식인 야수들에게 포위된 정착지에 도착해 짐승을 사냥할 조직을 꾸렸습니다. 중무장하고 잘 훈련된 팀들이 식인 괴물들을 "
-"몰아낸 다음 숲속까지 뒤쫒아 마지막 한 마리까지 처리했습니다."
+"몰아낸 다음 숲속까지 뒤쫓아 마지막 한 마리까지 처리했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-2_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "63d371c0-b21a-45e6-b319-5692095e96f5"
@@ -19912,7 +19912,7 @@ msgid ""
 "they continue to be hunted down and slaughtered."
 msgstr ""
 "재무관은 강력한 마법 함정과 무기를 갖춘 노련한 사냥꾼들에게 돈을 지불했습니다. 이틀을 넘기기도 전에 대부분의 식인 야수들이 "
-"몰살당했습니다. 남은 괴수들은 겁을 먹고 숲속으로 들어가 숨었지만 사냥꾼들은 끝까지 쫒아가서 도살하고 있습니다."
+"몰살당했습니다. 남은 괴수들은 겁을 먹고 숲속으로 들어가 숨었지만 사냥꾼들은 끝까지 쫓아가서 도살하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-3_Description
 msgctxt "d5f88c68-4560-4d8e-8756-5bb7a0dbf63b"
@@ -20742,7 +20742,7 @@ msgid ""
 "spite. The harvest is withered, and the poeple have decided to leave these "
 "lands forever."
 msgstr ""
-"평의원의 하인은 장난꾸러기 페이를 체포하고자 그를 추적하였습니다. 페이는 자신이 쫒기고 있다는 것을 알아차렸고, 그 보복으로 정착지를 "
+"평의원의 하인은 장난꾸러기 페이를 체포하고자 그를 추적하였습니다. 페이는 자신이 쫓기고 있다는 것을 알아차렸고, 그 보복으로 정착지를 "
 "파괴하기로 결정했습니다. 작물이 몽땅 시들자 사람들은 그 땅을 영영 떠나기로 결정하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck1/FairyTricks_Solutions.Entries.Array.data[1].Resolutions.Array.data[1].LocalizedDescription
@@ -21479,7 +21479,7 @@ msgid ""
 "fingers. But once he was sure he'd robbed everyone he could, the mischievous "
 "fey disappeared."
 msgstr ""
-"보좌관의 부하들은 끝내 도박꾼을 내쫒을 수 있었지만, 조금 늦은 것 같습니다. 그는 몇번이고 감시자들의 손아귀를 빠져나갔고, 결국 그 "
+"보좌관의 부하들은 끝내 도박꾼을 내쫓을 수 있었지만, 조금 늦은 것 같습니다. 그는 몇번이고 감시자들의 손아귀를 빠져나갔고, 결국 그 "
 "짖궃은 페이가 사라진 것은 사람들로부터 털 만큼 털었다고 생각한 뒤였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck2/Gambler_GF_E_String
@@ -21503,7 +21503,7 @@ msgid ""
 "left the region, but not before he cleaned out the pockets of all the local "
 "citizens."
 msgstr ""
-"보좌관의 부하들은 그 페이를 내쫒으려했지만 그 시도는 실패로 돌아갔습니다. 도박꾼은 용병을 고용해 자기를 지킴과 동시에 경비병을 두들겨 "
+"보좌관의 부하들은 그 페이를 내쫓으려했지만 그 시도는 실패로 돌아갔습니다. 도박꾼은 용병을 고용해 자기를 지킴과 동시에 경비병을 두들겨 "
 "패도록 명령했습니다! 결국 그 페이가 이 지역을 떠난 것은 주민들의 모든 호주머니가 깨끗하게 털린 이후였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck2/Gambler_GS_E_String

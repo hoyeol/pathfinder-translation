@@ -23184,7 +23184,7 @@ msgid ""
 "have to admit: in no other land of the Inner Sea had I tried anything like "
 "giant sloth igunaq!\""
 msgstr ""
-"\"그래서 너는 맘모스 군주의 영토에서 왔다고? 거기에 한 번 가본 적이 있지. 인정해야 겠어: 내해의 땅의 어느 곳에서도 거대 나무늘보 "
+"\"그래서 너는 매머드 군주의 영역에서 왔다고? 거기에 한 번 가본 적이 있지. 인정해야 겠어: 내해의 땅의 어느 곳에서도 거대 나무늘보 "
 "이구나크만큼 도전해본 것이 없어!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriJubilost_01/Cue_0003 1_Text
@@ -23338,7 +23338,7 @@ msgid ""
 "\"Really? I had imagined that in the Realm of the Mammoth Lords everyone is "
 "a warrior — no matter old or young, man or woman.\""
 msgstr ""
-"\"정말입니까? 저는 맘모스 군주의 영토의 모든 사람은 전사들일 거라고 생각해 왔습니다 - 늙거나 어리거나, 남자거나, 여자거나 상관없이."
+"\"정말입니까? 저는 매머드 군주의 영역의 모든 사람은 전사들일 거라고 생각해 왔습니다 - 늙거나 어리거나, 남자거나, 여자거나 상관없이."
 "\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0003 2_Text
@@ -24588,7 +24588,7 @@ msgid ""
 "Having left her wearisome motherland, she joined you and helped to fight for "
 "this barony against the Stag Lord and his gang.{/n}"
 msgstr ""
-"{n}아미리는 맘모스 군주의 멀리 떨어진 영토에서 온 가차 없는 바바리안입니다. 황량한 고향을 떠난 그녀는 당신에 합류하여 남작령을 위해 "
+"{n}아미리는 멀리 떨어진 매머드 군주의 영역에서 온 가차 없는 바바리안입니다. 황량한 고향을 떠난 그녀는 당신에 합류하여 남작령을 위해 "
 "수사슴과 그의 패거리와 싸우는 것을 도와주고 있습니다.{/n}"
 
 #. Test/Dialogues/VS_Companions/Amiri/Cue_64351_Text

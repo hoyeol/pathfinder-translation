@@ -1957,7 +1957,7 @@ msgid ""
 "little crude, and doesn't talk much about her past — but her heart's in the "
 "right place. I wouldn't have anyone else at my side in battle."
 msgstr ""
-"아미리는 매머드 군주들의 영토에서 온 바바리안이에요. 직설적이고, 좀 막돼먹은 데다가, 자기의 과거 얘기를 별로 하지 않죠. 하지만 "
+"아미리는 매머드 군주의 영역에서 온 바바리안이에요. 직설적이고, 좀 막돼먹은 데다가, 자기의 과거 얘기를 별로 하지 않죠. 하지만 "
 "심성이 올바른 사람인 건 분명해요. 싸움이 터지면 그녀만큼 든든한 사람이 없답니다."
 
 #. Mechanics/Blueprints/World/CompanionTexts/Amiri/AmiriCompanionStory_Title

@@ -13571,13 +13571,13 @@ msgid ""
 "in Avistan's far-north that is home to myriad nomadic tribes of Kellid "
 "barbarians."
 msgstr ""
-"메가파우나의 영역에는 그곳에 사는 선사시대 야수들만큼 야만적인 사람들도 살고 있는데, 그들의 땅을 매머드 군주들의 영토라고 부릅니다. "
+"메가파우나의 영역에는 그곳에 사는 선사시대 야수들만큼 야만적인 사람들도 살고 있는데, 그들의 땅을 매머드 군주의 영역이라고 부릅니다. "
 "아비스탄의 북쪽 끝에 위치한 이 땅은 수많은 켈리드 야만 유목 부족의 고향이기도 합니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[73].Name
 msgctxt "61c583cd-30ff-4c08-89b7-ced0578480e0"
 msgid "Realm of the Mammoth Lords"
-msgstr "매머드 군주들의 영토"
+msgstr "매머드 군주의 영역"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[74].Name
 msgctxt "c0e1819b-57b7-4457-b8d6-e85b903bc20a"
