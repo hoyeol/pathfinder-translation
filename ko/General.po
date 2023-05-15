@@ -12113,8 +12113,8 @@ msgid ""
 "that Defaced Sister's Agonized Wail for 1 minute. This is a mind-affecting "
 "fear effect. The save DC is Charisma-based."
 msgstr ""
-"일반 행동으로, 얼굴잃은 자매는 120 피트 이내에 모든 크리처에게 영향을 미치는 고통스러운 곡성을 내지를 수 있습니다. 이 통곡을 듣는 "
-"이가 얼굴잃은 자매로부터 120 피트 이내에 있다면 동요 상태에 빠집니다. DC 20의 의지 내성으로 무효화할 수 있으며, 내성에 "
+"일반 행동으로, 얼굴 잃은 자매는 120 피트 이내에 모든 크리처에게 영향을 미치는 고통스러운 곡성을 내지를 수 있습니다. 이 통곡을 듣는 "
+"이가 얼굴 잃은 자매로부터 120 피트 이내에 있다면 동요 상태에 빠집니다. DC 20의 의지 내성으로 무효화할 수 있으며, 내성에 "
 "성공하면 왜곡된 자매의 고통스러운 곡성에 1 분 간 면역이 됩니다. 정신에 영향을 미치는 공포 효과입니다. 내성 굴림 DC는 매력을 "
 "기반으로 합니다."
 
@@ -12142,8 +12142,8 @@ msgid ""
 "affected by the same Defaced Sister's Baleful Gaze again for 1 minute. The "
 "DC save is Charisma-based."
 msgstr ""
-"얼굴잃은 자매로부터 60 피트 이내에 있는 모든 크리처는 DC 20 인내 내성에 실패하면 1d4의 힘, 건강 및 매력이 소진됩니다. 내성 "
-"굴림의 결과가 어떻든 간에, 그 크리처는 같은 얼굴잃은 자매의 가해의 응시로부터 1 분 동안 면역이 됩니다. 내성 굴림 DC는 매력을 "
+"얼굴 잃은 자매로부터 60 피트 이내에 있는 모든 크리처는 DC 20 인내 내성에 실패하면 1d4의 힘, 건강 및 매력이 소진됩니다. 내성 "
+"굴림의 결과가 어떻든 간에, 그 크리처는 같은 얼굴 잃은 자매의 가해의 응시로부터 1 분 동안 면역이 됩니다. 내성 굴림 DC는 매력을 "
 "기반으로 합니다."
 
 #. Mechanics/Blueprints/Units/Bosses/DefacedSister/DefacedSisterBrain/BalefulGazeFeature_m_DisplayName
@@ -14763,7 +14763,7 @@ msgstr "아르막"
 #. Mechanics/Blueprints/Units/Names/Bosses/ArmagsTombsDefacedSister/DefacedSister_String
 msgctxt "b1aa5e04-4c5c-4e8b-b763-4b54d5864118"
 msgid "Defaced Sister"
-msgstr "얼굴잃은 자매"
+msgstr "얼굴 잃은 자매"
 
 #. Mechanics/Blueprints/Units/Names/Bosses/ArmagsTombsZorek/Zorek_String
 msgctxt "f8ef78cb-392f-45b6-b9dc-ebe1c2a6172b"

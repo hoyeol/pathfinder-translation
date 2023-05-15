@@ -5064,7 +5064,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/RelicOfThePast/01_FindRelic_Title
 msgctxt "00b62af4-7217-4c41-a0cf-488b48eeb61d"
 msgid "Find the relic that the Defaced Sisters are looking for"
-msgstr "얼굴잃은 자매들이 찾고 있는 유물을 찾아라"
+msgstr "얼굴 잃은 자매들이 찾고 있는 유물을 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/RelicOfThePast/02_LearnAboutAbaddonsEye_Description
 msgctxt "13e5b001-4ae9-4dcb-b5dc-01460d7c70f0"
@@ -5103,7 +5103,7 @@ msgid ""
 "Sisters, along with an odd incense burner shaped like a cyclops skull. Could "
 "that piece of junk be the relic we're looking for?"
 msgstr ""
-"버려진 흙무덤에서 찾은 것이라곤 얼굴잃은 자매들의 시신 한 구와 사이클롭스 두개골 모양의 이상한 향로 뿐입니다. 이 고물 덩어리가 우리가 "
+"버려진 흙무덤에서 찾은 것이라곤 얼굴 잃은 자매들의 시신 한 구와 사이클롭스 두개골 모양의 이상한 향로 뿐입니다. 이 고물 덩어리가 우리가 "
 "찾는 유물일까요?"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/RelicOfThePast/Addendum_1_2_Description
@@ -5131,7 +5131,7 @@ msgid ""
 "The Defaced Sisters were unable to find the relic. But much to our surprise, "
 "Dugath gave us a clue about where to look next: the Valley of the Dead."
 msgstr ""
-"얼굴잃은 자매들은 유물을 찾지 못했습니다. 하지만 놀랍게도, 두가스가 다음엔 어디를 찾아봐야 할 지에 대한 단서를 주었습니다: 바로 죽은 "
+"얼굴 잃은 자매들은 유물을 찾지 못했습니다. 하지만 놀랍게도, 두가스가 다음엔 어디를 찾아봐야 할 지에 대한 단서를 주었습니다: 바로 죽은 "
 "자의 계곡입니다."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/RelicOfThePast/Addendum_2_1_Description
@@ -5271,7 +5271,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/TrailGoneCold/02_FindMissingSisters_Title
 msgctxt "8310a8d8-d93d-464f-8e8a-7e4b38d93c3e"
 msgid "Find the missing Defaced Sisters"
-msgstr "실종된 얼굴잃은 자매들을 찾아라"
+msgstr "실종된 얼굴 잃은 자매들을 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/TrailGoneCold/03_ReturnToSister_Description
 msgctxt "bf0de089-4ca3-4a29-9b45-9897f4686022"
@@ -5631,12 +5631,12 @@ msgctxt "69d490c7-7c41-4bbb-92ae-2576978ea41c"
 msgid ""
 "We found Tristian ... and along with him — a disfigured Defaced Sister, who "
 "was personally set on us! We'll have to fight for our lives!"
-msgstr "우린 트리스티안을 찾아냈습니다. 우리를 노리는 보기 흉한 얼굴잃은 자매들과 함께 말입니다! 살기 위해선 싸울 수 밖에 없습니다!"
+msgstr "우린 트리스티안을 찾아냈습니다. 우리를 노리는 보기 흉한 얼굴 잃은 자매들과 함께 말입니다! 살기 위해선 싸울 수 밖에 없습니다!"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BetrayersFlight/05_DefeatDefacedNymph_Title
 msgctxt "5ebfa21d-1c1a-474a-ae75-87011f470eac"
 msgid "Defeat the Defaced Sister"
-msgstr "얼굴잃은 자매들을 물리쳐라"
+msgstr "얼굴 잃은 자매들을 물리쳐라"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BetrayersFlight/06_ConfrontNigel_Description
 msgctxt "d5eaf465-76d8-4e28-ad68-38fb37cd1323"
@@ -5788,7 +5788,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BlindedByRage/Objective_0002_Title_1
 msgctxt "b35cbf92-3c92-4cb8-a100-78a83d479467"
 msgid "Find Gwart"
-msgstr "그와트(Gwart)를 찾아라"
+msgstr "그워트를 찾아라"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BlindedByRage/Objective_0003_Description
 msgctxt "3435fc37-13a7-41bc-84e9-52685f414237"
@@ -5816,7 +5816,7 @@ msgid ""
 "and convince the rest... the smart ones — with words, and convince the "
 "stubborn ones with steel!"
 msgstr ""
-"야영지에 조용히 잠입하겠다고요? 하! 그건 바바리안의 방식이 아니지요! 대신, 호랑이 군주의 부족은 반란을 일으켰습니다. 그들은 더이상 "
+"야영지에 조용히 잠입하겠다고요? 하! 그건 바바리안의 방식이 아니지요! 대신, 호랑이 군주 부족은 반란을 일으켰습니다. 그들은 더이상 "
 "아르막을 지도자로 여기고 싶어하지 않습니다 - 뭐 적어도 일부는 그렇답니다. 아미리는 반란분자들을 도와 나머지 부족원을 설득하는 일에 "
 "자원했습니다.... 똑똑한 이들은 말로, 고집스러운 이들은 칼로 설득하겠지요!"
 
@@ -5871,7 +5871,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BlindedByRage/SaveAshman_Title
 msgctxt "1e3e7b10-5680-42dd-ac86-035a0f1e082f"
 msgid "Infiltrate the Tiger Lords camp"
-msgstr "호랑이 부족 야영지에 잠입하라"
+msgstr "호랑이 군주 부족 야영지에 잠입하라"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/Coronation/Coronation_quest_CompletionText
 msgctxt "5d32ac01-3339-4257-b771-9444c8f9637a"

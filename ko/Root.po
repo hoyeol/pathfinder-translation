@@ -7368,7 +7368,7 @@ msgctxt "1f0bc643-2296-42d0-9494-7badf14461bd"
 msgid ""
 "You killed the Defaced Sister who you found in a tomb in the City of Hollow "
 "Eyes. Another one of the Sisters was already dead when you arrived."
-msgstr "당신은 텅 빈 눈의 도시의 무덤에서 얼굴잃은 자매를 찾아내 죽였습니다. 다른 자매는 당신이 도착하였을 때 이미 죽어있었습니다."
+msgstr "당신은 텅 빈 눈의 도시의 무덤에서 얼굴 잃은 자매를 찾아내 죽였습니다. 다른 자매는 당신이 도착하였을 때 이미 죽어있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[104].Description
 msgctxt "f12e1d48-9900-4dcf-8f14-8b75fe9de734"
@@ -7377,7 +7377,7 @@ msgid ""
 "Forgotten Heroes and the City of Hollow Eyes. The third was already dead "
 "when you found her in the tomb."
 msgstr ""
-"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴잃은 자매를 죽였습니다. 세번째 자매는 당신이 무덤에서 그녀를 "
+"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴 잃은 자매를 죽였습니다. 세번째 자매는 당신이 무덤에서 그녀를 "
 "찾아내었을 때 이미 죽어있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[105].Description
@@ -7387,7 +7387,7 @@ msgid ""
 "Heroes and the City of Hollow Eyes. A third Sister was already dead when you "
 "found her."
 msgstr ""
-"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴잃은 자매를 살렸습니다.. 세번째 자매는 당신이 그녀를 찾아내었을 "
+"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴 잃은 자매를 살렸습니다.. 세번째 자매는 당신이 그녀를 찾아내었을 "
 "때 이미 죽어있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[106].Description
@@ -7415,7 +7415,7 @@ msgid ""
 "Heroes and the City of Hollow Eyes, and saved the other. The third was "
 "already dead when you found her in the tomb."
 msgstr ""
-"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 얼굴잃은 자매 중 한명을 죽이고 한명을 구했습니다. 세번째 자매는 당신이 그녀를 "
+"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 얼굴 잃은 자매 중 한명을 죽이고 한명을 구했습니다. 세번째 자매는 당신이 그녀를 "
 "무덤에서 발견했을 때 이미 죽어있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[109].Description
@@ -7450,7 +7450,7 @@ msgid ""
 "The Sister was alarmed by your words and left, saying that she had something "
 "important to do."
 msgstr ""
-"잊혀진 영웅들의 묘소에서 당신은 얼굴잃은 자매를 만나 그녀를 따르던 자들이 파멸을 맞이했음을 들어 그녀의 양심에 호소했습니다. 자매는 "
+"잊혀진 영웅들의 묘소에서 당신은 얼굴 잃은 자매를 만나 그녀를 따르던 자들이 파멸을 맞이했음을 들어 그녀의 양심에 호소했습니다. 자매는 "
 "자신에게 더욱 중요한 일이 있다는 말을 남기며 당신의 말에 무엇가를 깨달은듯 떠났습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[113].Description
@@ -7623,7 +7623,7 @@ msgctxt "f9c777d9-bb50-471d-8333-57b03835f51e"
 msgid ""
 "You decided that Gwart, a young priest and apprentice of Dugath, must become "
 "the new chief of the Tiger Lords."
-msgstr "당신은 두가스의 견습이자 젋은 사제인 과트(Gwart)가 호랑이 군주 부족의 새로운 수장이 되어야만 한다고 판단했습니다."
+msgstr "당신은 두가스의 견습이자 젋은 사제인 그워트가 호랑이 군주의 새로운 수장이 되어야만 한다고 판단했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[142].Description
 msgctxt "dd708994-0a33-4bdb-86d7-db4fd6ad3094"
@@ -7631,7 +7631,7 @@ msgid ""
 "After the Defaced Sister repented her actions, you recommended she cast a "
 "spell of Imprisonment on herself, to break free from Nyrissa."
 msgstr ""
-"얼굴잃은 자매가 그녀의 행동들을 뉘우친 후, 당신은 그녀에게 나이리사로부터 자유로워지기 위해서 '투옥' 주문을 그녀 자신에게 시전할 것을 "
+"얼굴 잃은 자매가 그녀의 행동들을 뉘우친 후, 당신은 그녀에게 나이리사로부터 자유로워지기 위해서 '투옥' 주문을 그녀 자신에게 시전할 것을 "
 "권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[143].Description
