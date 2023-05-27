@@ -25858,7 +25858,7 @@ msgstr "린지의 친구"
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-LostNoble_LocalizedDescription_String
 msgctxt "ce3d5865-c1a6-4eff-a9fa-129922027e20"
 msgid "A noble visitor requests an audience with the {mf|baron|baroness}."
-msgstr "귀족 방문객이 {mf|남작|여남작}를 알현하기를 청합니다."
+msgstr "귀족 방문객이 {mf|남작|여남작}을 알현하기를 청합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-NokNok_NokIsBack_LocalizedDescription
 msgctxt "2d1c094f-ab6a-4b71-876c-4fc04689d086"

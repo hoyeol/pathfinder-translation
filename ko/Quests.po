@@ -4969,7 +4969,7 @@ msgstr "토민을 찾았어요. 이 불쌍한 사내는 반홀드로 가는 길�
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/LostNoble/Addendum_0004_Description
 msgctxt "a05be468-b474-49e3-bf89-d84775af9c09"
 msgid "Edrist would like to learn the fate of his great-grandfather."
-msgstr "에드리스트(Edrist)는 그의 증조부의 운명에 대해 알길 원할 겁니다."
+msgstr "에드리스트는 그의 증조부의 운명에 대해 알길 원할 겁니다."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/LostNoble/Addendum_0005_Description
 msgctxt "368aa37e-5ccb-4251-8795-ae3e9b77137d"
@@ -4977,7 +4977,7 @@ msgid ""
 "Among the undead bones in the cyclops' tomb, we found a letter that touched "
 "on Mathian's fate. We should show this letter to Edrist."
 msgstr ""
-"사이클롭스 무덤의 언데드 뼈들 사이에서, 우리는 마티안(Mathian)의 운명에 대해 적은 편지를 발견했습니다. 에드리스트(Edrist)"
+"사이클롭스 무덤의 언데드 뼈들 사이에서, 우리는 마티안의 운명에 대해 적은 편지를 발견했습니다. 에드리스트"
 "에게 이 편지를 보여줘야합니다."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/LostNoble/Addendum_TominDeadLetter_Description
@@ -5014,9 +5014,9 @@ msgid ""
 "occasional daredevils among them, eager to leave the mundane life behind, to "
 "go out in search of adventure."
 msgstr ""
-"세상엔 두가지 종류의 사람이 있습니다. 한편엔 잃어버린 문명의 폐허에 굶주린 괴물들이 배회하고 있다는 소문을 들으면, 당장 짐을 싸서 "
-"그곳을 향하는 사람이 있습니다. 또 한편엔 같은 얘기를 들으면, 벌벌떨면서, 코코아 한 잔을 만들어 벽난로 앞 소파 안에 파묻히는 사람이 "
-"있지요. 한바키 가문의 귀족들은 대부분 두번째 종류의 사람들이지만, 때때로 그들 중에선 평범한 삶을 뒤로하고 모험을 찾아 떠나는 "
+"세상엔 두 가지 종류의 사람이 있습니다. 한편엔 잃어버린 문명의 폐허에 굶주린 괴물들이 배회하고 있다는 소문을 들으면, 당장 짐을 싸서 "
+"그곳을 향하는 사람이 있습니다. 또 한편엔 같은 얘기를 들으면, 벌벌 떨면서 코코아 한 잔을 만들어 벽난로 앞 소파 안에 파묻히는 사람이 "
+"있지요. 한바키 가문의 귀족들은 대부분 두 번째 종류의 사람들이지만, 때때로 그들 중에선 평범한 삶을 뒤로하고 모험을 찾아 떠나는 "
 "이단아들이 나타나곤 합니다."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/LostNoble/LostNoble_Title
