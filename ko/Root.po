@@ -12860,7 +12860,7 @@ msgid ""
 "Empire's imperial lands. Its claim to fame is that it is the location of the "
 "Everlight Oasis, a site of pilgrimage for followers of Sarenrae."
 msgstr ""
-"젤샤브바는 켈레쉬 제국의 태수국으로 황제 직할령의 가장자리에 위치해 있습니다. 서렌레이 신도들의 순례지, 영원빛 오아시스가 있는 곳으로 "
+"젤샤브바는 켈레쉬 제국의 태수국으로 황제 직할령의 가장자리에 위치해 있습니다. 서렌레이 신도들의 순례지, 에버라이트 오아시스가 있는 곳으로 "
 "유명합니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[31].Name_1
@@ -13896,7 +13896,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[93].Name
 msgctxt "89ca887e-2612-4f74-9342-2fdf2d07f30e"
 msgid "The Everlight Oasis"
-msgstr "영원빛 오아시스"
+msgstr "에버라이트 오아시스"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[94].Name
 msgctxt "61ef2125-2713-439f-b98c-c9fcf9d98f5d"
