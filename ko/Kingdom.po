@@ -4712,7 +4712,7 @@ msgid ""
 "loss, but the inspired peasants are frequenting the theatre."
 msgstr ""
 "학예사는 바드를 고용해 여우를 민중 영웅으로 만들었습니다. 사람들은 이제 여우를 강의 자유의 수호자로 보고 있습니다. 지역 내의 상거래는 "
-"아직도 타격을 받고 있지만, 여우에 감명을 받은 농민들이 극장으로 향하는 일이 많아졌습니다."
+"여전히 손실을 보고 있지만, 여우에 감명을 받은 농민들이 극장으로 향하는 일이 많아졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/MistressOfPain_LocalizedDescription
 msgctxt "5f60fd9b-0223-429c-8a1b-18c645aedabf"
@@ -12894,7 +12894,7 @@ msgid ""
 "singers and musicians among the fey! The magical sounds continued until "
 "morning."
 msgstr ""
-"학예사는 즐거운 잔치를 열어서 최고의 바드들을 페이 중에 최고의 가수 및 음악가들과 경연을 벌이도록 하였습니다. 마법과도 같은 공연이 "
+"학예사는 즐거운 잔치를 열어서 최고의 바드들이 페이들 사이에서 최고의 가수 및 음악가들과 경연을 벌이도록 하였습니다. 마법과도 같은 공연이 "
 "아침까지 계속되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/ForestFairies_Solutions.Entries.Array.data[8].Resolutions.Array.data[3].LocalizedDescription
@@ -12904,7 +12904,7 @@ msgid ""
 "the best singers and musicians among the fey! The magical revelry went on "
 "until morning."
 msgstr ""
-"학예사는 즐거운 잔치를 열어서 최고의 바드들을 페이 중에 최고의 가수 및 음악가들과 경연을 벌이도록 하였습니다. 마법과도 같은 공연이 "
+"학예사는 즐거운 잔치를 열어서 최고의 바드들이 페이들 사이에서 최고의 가수 및 음악가들과 경연을 벌이도록 하였습니다. 마법과도 같은 공연이 "
 "아침까지 계속되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic3/Overtaxed_LocalizedDescription
