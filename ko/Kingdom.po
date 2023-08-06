@@ -20580,8 +20580,8 @@ msgid ""
 "quickly located the thief who had stolen the masterpiece. A vibrant festival "
 "was held to honor the recovered treasure."
 msgstr ""
-"섭정의 호소가 사람들에게 닿았습니다. 수색대가 재빨리 걸작을 훔친 도둑을 찾아냈습니다. 신나는 축제를 열어 보물은 되찾을 것을 "
-"기념했습니다."
+"섭정의 호소가 사람들에게 닿았습니다. 수색대는 걸작을 훔친 도둑을 재빨리 찾아냈습니다. 보물을 되찾은 것을 기념하기 위해 "
+"신나는 축제가 열렸습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Crafter2_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription_String
 msgctxt "acd9a783-9399-41cc-8e86-ea49b17fc619"
