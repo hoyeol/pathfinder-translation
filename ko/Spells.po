@@ -3050,7 +3050,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level2/ProtectionFromChaosCommunal_m_DisplayName
 msgctxt "03b922f4-4582-43f0-873f-7c6ae63dae35"
 msgid "Protection from Chaos, Communal"
-msgstr "집단 혼돈으로 보호"
+msgstr "집단 혼돈으로부터 보호"
 
 #. Mechanics/Blueprints/Spells/Level2/ProtectionFromChaosEvilCommunal_m_DisplayName
 msgctxt "9ab88fe3-efa3-484c-a062-1a07970ca393"
