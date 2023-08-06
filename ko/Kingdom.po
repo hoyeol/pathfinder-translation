@@ -33402,7 +33402,7 @@ msgstr "올렉의 교역소로 가는 길"
 msgctxt "45c5e61a-2216-4890-96ea-b180575c0f8d"
 msgid ""
 "Under our watch, the Aldori have built a proper road to Oleg's trading post."
-msgstr "우리의 감시 아래, 알도리는 올레그의 교역소로 가는 적절한 길을 만들었습니다."
+msgstr "우리의 감시 아래, 알도리는 올렉의 교역소로 가는 적절한 길을 만들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/KTC21OlegSecond-RoadShow_LocalizedDescription
 msgctxt "10f82fd9-e3bd-461b-80ba-c490c26c5cb9"

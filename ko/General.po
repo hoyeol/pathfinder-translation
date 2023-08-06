@@ -8251,7 +8251,7 @@ msgctxt "ac9b928e-8471-4880-a0cf-48764390d4c8"
 msgid ""
 "When shadows from the Apology cup overflowed the capital, Oleg's Trading "
 "Post became an asylum for some of the city's inhabitants."
-msgstr "사죄의 잔의 그림자가 수도를 뒤덮었을 때, 올레그의 교역소는 그 도시 주민들 중 일부의 피난처가 되었습니다."
+msgstr "사죄의 잔의 그림자가 수도를 뒤덮었을 때, 올렉의 교역소는 그 도시 주민들 중 일부의 피난처가 되었습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/ZDescriptionsForFutureLocations/c71borderlands_String
 msgctxt "f5ea9ad7-676d-488c-aede-e4538902a6d9"
