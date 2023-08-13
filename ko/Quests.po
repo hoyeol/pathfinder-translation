@@ -2448,7 +2448,7 @@ msgstr "강바닥의 악몽"
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/NobleWelcome/Addendum_0003_Description
 msgctxt "2229bbf4-f995-4edf-9f38-cbd5a3b326a2"
 msgid "Natala Surtova herself is present at the reception!"
-msgstr "나탈라 설토바 그녀 자신이 연회에 참석했습니다!"
+msgstr "나탈라 서토바 그녀 자신이 연회에 참석했습니다!"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/NobleWelcome/Addendum_0004_Description
 msgctxt "9b8ca255-fe06-4fcc-9d57-27e7b7ec2c21"
@@ -2505,7 +2505,7 @@ msgid ""
 "{mf|he|she}'s become one?"
 msgstr ""
 "우리의 영웅은 업적에 걸맞는 보상-남작의 작위-를 받을 자격이 있습니다! 레스토프의 상류 사회 모두가 수여식을 보기위해 모였습니다. "
-"심지어 나탈라 설토바도 참석해 자리를 빛내어 주었습니다, 뭔가 꿍꿍이가 있는 것 같지만 말입니다... 이 귀족들이 이렇게나 이 일을 "
+"심지어 나탈라 서토바도 참석해 자리를 빛내어 주었습니다, 뭔가 꿍꿍이가 있는 것 같지만 말입니다... 이 귀족들이 이렇게나 이 일을 "
 "신경쓰는게 무엇때문일까요? 참 의문입니다! 아마 {name}이 그들 중 하나가 되면, 이해할 수 있지 않을까요?"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/NobleWelcome/Quest_NobleWelcome_Title
@@ -5896,7 +5896,7 @@ msgid ""
 "threatens our barony."
 msgstr ""
 "이르던 늦던, 모든이는 -악당이든 영웅이든- 그들에 걸맞는 대우를 받기 마련입니다. {mf|남작|여남작}이 이룬 업적이 널리 퍼지기도 "
-"전에.... 북쪽 이웃인 알도리와 설토바 가문은 우리의 영웅을 자신들과 동등하게 여기고 있었고, 이제 도둑맞은 땅의 통치자와 왕관 사이를 "
+"전에.... 북쪽 이웃인 알도리와 서토바 가문은 우리의 영웅을 자신들과 동등하게 여기고 있었고, 이제 도둑맞은 땅의 통치자와 왕관 사이를 "
 "가로막는 것은 형식적인 절차 뿐입니다 - 바로 대관식이지요! 하지만 대관식 준비에 전념하기 전에, 남작령을 위협하는 모든 위협을 "
 "종결시켜야합니다."
 

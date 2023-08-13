@@ -174,7 +174,7 @@ msgstr "왕국 내 정착지에 따라 매주 BP 획득: 마을 +1 BP, 소도시
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithSurtova_DisplayName_String
 msgctxt "198be7eb-59d6-4d1e-93f2-336544f9fab1"
 msgid "Trade agreement with Surtova"
-msgstr "설토바와의 교역 협정"
+msgstr "서토바와의 교역 협정"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/ArcRank4-DiscountArcBuildings_Description_String
 msgctxt "942d8432-39af-48be-8906-ff22aa70247a"
@@ -17571,7 +17571,7 @@ msgid ""
 "in. However, the runaways suspected there might be Surtovan spies hiding in "
 "the house. They rejected the invitation at the last moment."
 msgstr ""
-"섭정은 오를롭스키 가가 머무를 만한 외딴 저택을 찾아내었습니다. 그러나 도망자들은 이곳에 설토바의 첩보원가 숨어있을지도 모른다고 "
+"섭정은 오를롭스키 가가 머무를 만한 외딴 저택을 찾아내었습니다. 그러나 도망자들은 이곳에 서토바의 첩보원이 숨어있을지도 모른다고 "
 "의심하여, 마지막 순간에 초대를 거절하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[0].Resolutions.Array.data[2].LocalizedDescription
@@ -17629,7 +17629,7 @@ msgid ""
 "the Minister managed to identify who among the family was secretly working "
 "as Surtova's spy – and turn them."
 msgstr ""
-"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 이 기간 동안, 장관은 가문 내에서 비밀리에 설토바의 첩보원으로 일하는 자를 찾아내어 "
+"오를롭스키 가문은 지난 몇 주 동안 숨어있었습니다. 이 기간 동안, 장관은 가문 내에서 비밀리에 서토바의 첩보원으로 일하는 자를 찾아내어 "
 "전향시킬 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[4].LocalizedDescription
@@ -17640,7 +17640,7 @@ msgid ""
 "This was a hideous failure, and a blot on the "
 "{mf|barony|barony|kingdom|kingdom}'s reputation!"
 msgstr ""
-"오를롭스키 가문은 장관이 그들을 설토바 가문의 손에 넘기려 한다고 비난하였습니다. 그들은 작전을 수행 중이던 첩보원들을 처형하였습니다. "
+"오를롭스키 가문은 장관이 그들을 서토바 가문의 손에 넘기려 한다고 비난하였습니다. 그들은 작전을 수행 중이던 첩보원들을 처형하였습니다. "
 "이것은 끔찍한 실패였고, {mf|남작령|여남작령|왕국|왕국}의 명성에 오점을 남겼습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[5].LocalizedDescription
@@ -17650,7 +17650,7 @@ msgid ""
 "of House Surtova, but this was thwarted at the last minute. The Brevan "
 "family suspected something was wrong, and canceled the deal."
 msgstr ""
-"장관은 오를롭스키 가문을 배신하고 설토바에 넘겨줄 계획을 가지고 있었지만, 마지막에 계획이 어긋났습니다. 이 브레보이 가문은 무언가 "
+"장관은 오를롭스키 가문을 배신하고 서토바에 넘겨줄 계획을 가지고 있었지만, 마지막에 계획이 어긋났습니다. 이 브레보이 가문은 무언가 "
 "잘못되었다는 의심으로 거래를 취소하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/SafeRefuge_Solutions.Entries.Array.data[9].Resolutions.Array.data[6].LocalizedDescription
@@ -17660,7 +17660,7 @@ msgid ""
 "hands of House Surtova. The Great House promised a share of the trade "
 "network controlled by House Orlovsky – in exchange for their heads."
 msgstr ""
-"장관은 오를롭스키 가족을 환영한 다음, 그들을 설토바의 손에 넘겨주었습니다. 설토바는 오를롭스키 가문의 머리를 대가로 오를롭스키 가문이 "
+"장관은 오를롭스키 가족을 환영한 다음, 그들을 서토바의 손에 넘겨주었습니다. 서토바는 오를롭스키 가문의 머리를 대가로 오를롭스키 가문이 "
 "관리하던 무역망의 지분을 나눠줄 것을 약속했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Shared_ForgottenKnowledge_F_String
