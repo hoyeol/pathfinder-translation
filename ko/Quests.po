@@ -89,7 +89,7 @@ msgid ""
 "The {mf|baron|baroness|King|Queen} sent the Sweet Teeth to measure Lake "
 "Silverstep. – An important and very demanding task, for true professionals!"
 msgstr ""
-"{mf|남작|여남작|왕|여왕}는단 것 중독자들에게 실버스텝 호수를 측량하도록 시켰습니다 - 전문성을 필요로 하는 매우 중요한 임무이지요!"
+"{mf|남작|여남작|왕|여왕}은 단 것 중독자들에게 실버스텝 호수를 측량하도록 시켰습니다 – 전문성을 필요로 하는 매우 중요한 임무이지요!"
 
 #. Mechanics/Blueprints/World/Quests/1DLC/Errand_SweethTooth/Objective_Lake_Title
 msgctxt "00e5c73e-2dca-456f-9d6b-dcd93cfd7ec6"

@@ -20428,7 +20428,7 @@ msgctxt "43105b7f-3a78-4f48-a52f-ef470194d21f"
 msgid ""
 "The {mf|Barony|Barony|Kingdom|Kingdom} managed to persevere, and enjoys "
 "peace once again."
-msgstr "{mf|남작령|남작령|왕국|왕국}은 간신히 인내 해내고, 다시한번 평화를 누릴 수 있었습니다."
+msgstr "{mf|남작령|남작령|왕국|왕국}은 간신히 인내 해내고, 다시 한번 평화를 누릴 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/Shared_SpellFail_String
 msgctxt "8d674649-2101-4362-9404-8f74ecdcd0b2"
