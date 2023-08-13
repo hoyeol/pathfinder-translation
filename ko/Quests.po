@@ -9517,7 +9517,7 @@ msgid ""
 "it's nothing at all! Octavia and Regongar want to shake him down to figure "
 "out what he's doing here."
 msgstr ""
-"기술 연맹의 첩보원이 보란듯이 수도의 선술집에서 맥주를 마시고 있습니다! 옥타비아와 레곤가르는 그를 탈탈 털어 무슨 짓을 꾸미고 있는 지 "
+"기술 연맹의 첩보원이 보란듯이 수도의 선술집에서 맥주를 마시고 있습니다! 옥타비아와 레곤가르는 그를 탈탈 털어 무슨 짓을 꾸미고 있는지 "
 "알아내길 원합니다."
 
 #. Mechanics/Blueprints/World/Quests/Companions/Octavia_and_Regongar/Q2_Justice/Obj_01_Talk-to-spy_Title
@@ -9609,8 +9609,8 @@ msgid ""
 "retrieves its property. Octavia and Regongar knew they would eventually meet "
 "their old enemies again — and that day has come!"
 msgstr ""
-"기술 연맹은 동료들은 쉽게 버리더라도, 그들의 소유물을 '반드시' 회수하는 걸로 유명합니다. 옥타비아와 레곤가르는 언젠간 다시금 리그를 "
-"만날거란 걸 알았고 - 그 날이 오고야 말았습니다!"
+"기술 연맹은 동료들은 쉽게 버리더라도, 그들의 소유물을 '반드시' 회수하는 걸로 유명합니다. 옥타비아와 레곤가르는 언젠간 다시금 오래된 적을 "
+"다시 만날게 될 것을 알고 있었고 — 그 날이 오고야 말았습니다!"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Octavia_and_Regongar/Q2_Justice/Oct_Reg_Q2_Justice_Title
 msgctxt "0566f580-56f4-438a-bd93-85cbbd691996"
