@@ -14830,7 +14830,7 @@ msgid ""
 "are not free people occupying no one's land, as they thought only yesterday?"
 msgstr ""
 "사냥꾼들이 숲 속에서 작은 오지 마을을 발견했습니다. 그 곳 주민들은 다른 지역과 최소 수십년 이상 교류 없이 살아온 것으로 보입니다. "
-"그들은 이상한 억양의 언어를 사용하고, 모두가 친척지간으로 보이며, {mf|남작|여남작|왕|여왕}은 커녕 사슴왕에 대해서도 들어본 적이 "
+"그들은 이상한 억양의 언어를 사용하고, 모두가 친척지간으로 보이며, {mf|남작|여남작|왕|여왕}은 커녕 수사슴 군주에 대해서도 들어본 적이 "
 "없다고 합니다. 누가 이들에게, 이들이 어제까지 알고 있던 것처럼 주인 없는 땅에 사는 자유민이 아니라는 사실을 말해주어야 할까요?"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/ForestPeople_LocalizedName
@@ -20649,7 +20649,7 @@ msgid ""
 "{mf|baron|baroness|King|Queen} will keep the peasants loyal."
 msgstr ""
 "한 바드 무리들이 소정의 수수료로 {mf|영주님을|영주님을|전하를|전하를} 찬양하는 공연을 해주겠다고 제의해 왔습니다. 그들의 노래는 "
-"수사슴왕의 죽음과 권력이 바뀐 소식을 외딴 마을까지 퍼뜨릴 것입니다. 새로운 {mf|영주님|영주님|왕|여왕}을 찬양하는 그들의 노래는 "
+"수사슴 군주의 죽음과 권력이 바뀐 소식을 외딴 마을까지 퍼뜨릴 것입니다. 새로운 {mf|영주님|영주님|왕|여왕}을 찬양하는 그들의 노래는 "
 "농민들이 충성을 지키도록 할 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck1/CheapFame_LocalizedName
