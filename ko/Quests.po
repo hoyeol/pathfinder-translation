@@ -1456,7 +1456,7 @@ msgid ""
 "taking revenge on us for incinerating the Everblooming Flower? Anyway, we "
 "need to figure out how we're going fight them – and figure it out fast!"
 msgstr ""
-"괴물들이 다시금 우리 {mf|남작령|남작령|왕국|왕국}을 위협하고 있습니다! 영원-개화의 꽃(Everblooming Flower)을 "
+"괴물들이 다시금 우리 {mf|남작령|남작령|왕국|왕국}을 위협하고 있습니다! 영원히 피는 꽃을 "
 "불태운 것에 대해 복수를 할 셈일까요? 어쨌든, 우리는 어떻게 싸울지 방법을 마련해야 합니다 - 서둘러서요!"
 
 #. Mechanics/Blueprints/World/Quests/BloodMoon/BloodMoon3/StartThirdMoon_Description
@@ -13421,7 +13421,7 @@ msgid ""
 "us to the portal and into the First World!"
 msgstr ""
 "나이리사는 등불왕으로부터 달아나는 동안 우리를 버렸지만, 거기엔 분명 이유가 있어서 그런 짓을 한 것 같아요! 나이리사는 자신과 우리의 "
-"{mf|왕|여왕}에게 저주를 건 원로에 맞서 싸울 방법을 찾은 것 같습니다. 나이리사는 우리에게 영원의 꽃이 피었던 곳으로 자신을 "
+"{mf|왕|여왕}에게 저주를 건 원로에 맞서 싸울 방법을 찾은 것 같습니다. 나이리사는 우리에게 영원히 피는 꽃이 피었던 곳으로 자신을 "
 "찾아오라고 말했습니다. 그 길을 따라 포털을 통해 태초 세계로 가야합니다!"
 
 #. Mechanics/Blueprints/World/Quests/c71_CursedKing/SoShallYouReap/01_FollowNyrissa_Title
