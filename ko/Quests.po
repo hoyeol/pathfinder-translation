@@ -5357,9 +5357,9 @@ msgid ""
 "be bothered to travel to Varnhold herself. Instead, she makes it our "
 "baron{mf||ess}'s job to figure everything out!"
 msgstr ""
-"이상한 소식이 레스토프에서 전해져 왔습니다. 우리의 가까운 이웃이자 과거에 남작에게 꽤 친절했던 메이가르 반의 행적이 갑자기 묘연해지고, "
-"반홀드와 다른 지역과의 왕래는 완전히 끊겼다고 합니다. 자만디 알도리는 이 침묵에 대한 설명을 원했지만, 반홀드에 직접 행차하시기엔 "
-"번거로웠나봅니다. 대신, 그녀는 우리의 남작에게 이 모든 의문을 해결하도록 했습니다!"
+"이상한 소식이 레스토프에서 전해져 왔습니다. 우리의 가까운 이웃이자 과거에 {mf|남작|여남작}에게 매우 친절했던 메이가르 반의 행적이 갑자기 묘연해지고, "
+"반홀드와 다른 지역과의 왕래는 완전히 끊겼다고 합니다. 자만디 알도리는 이 침묵의 이유를 알고 싶지만, 반홀드에 직접 행차하시기엔 "
+"번거로웠나봅니다. 대신, 그녀는 우리의 {mf|남작|여남작}에게 이 모든 의문을 해결하도록 했습니다!"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/VarnholdVanished/01_GetToVarnhold_Title
 msgctxt "0c22a536-19b8-4e9b-929c-1e29d3f20318"
@@ -5509,7 +5509,7 @@ msgid ""
 "east, and discover what happened to another vassal of the Aldori – Maegar "
 "Varn, a brave warrior who founded the colony of Varnhold."
 msgstr ""
-"소드로드들이 도움을 요청했습니다. 이번엔, 우리의 영웅은 동쪽으로 떠나, 알도리 가문의 또 다른 가신인 메이가르 반 - 용감한 전사이자 "
+"소드로드들이 도움을 요청했습니다. 이번엔, 우리의 {mf|남작|여남작}은 동쪽으로 떠나, 알도리 가문의 또 다른 가신인 메이가르 반 – 용감한 전사이자 "
 "반홀드의 남작 – 에게 무슨 일이 생긴건지 알아내야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/VarnholdVanished/VarnholdVanished_Title
