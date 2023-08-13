@@ -9500,7 +9500,7 @@ msgctxt "54945ac0-0f40-4d6f-b96a-291b8f19456d"
 msgid ""
 "Kalannah told us about a secret entrance to the Technic League's lair. It "
 "would be a waste not to use it!"
-msgstr "칼라나는 기술 연맹 은신처로 통하는 비밀 통로에 대해 말했습니다. 이걸 아는 데도 안쓴다면 손해겠지요!"
+msgstr "칼라나는 기술 연맹의 은신처로 통하는 비밀 통로에 대해 알려주었습니다. 이용하지 않는다면 아깝겠네요!"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Octavia_and_Regongar/Q2_Justice/Add_2-2_find-Janush_Description
 msgctxt "5b171894-de44-4a26-9f30-d9a1484828f6"
@@ -9533,8 +9533,8 @@ msgid ""
 "score with. It's time to hold him accountable for his actions — with "
 "interest!"
 msgstr ""
-"기술 연맹의 첩보원은 마에스트로 자누시-옥타비아와 레곤가르가 오랜 기간 복수를 꿈꿔왔던 인물-가 머물고 있는 비밀 은신처를 "
-"알려주었습니다. 그의 악행에 이자까지 덧붙혀 돌려줄 때입니다!"
+"기술 연맹의 첩보원은 마에스트로 자누시 — 옥타비아와 레곤가르가 오랜 기간 복수를 꿈꿔왔던 인물 — 가 머물고 있는 비밀 은신처를 "
+"알려주었습니다. 그의 악행에 이자까지 덧붙여 돌려줄 때입니다!"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Octavia_and_Regongar/Q2_Justice/Obj_02_Go-to-League-lair_Title
 msgctxt "88740adf-6207-44b5-b2ea-a9f432dc74c4"
