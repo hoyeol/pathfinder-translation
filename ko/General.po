@@ -9158,7 +9158,7 @@ msgid ""
 "you disregard an advisor's opinion too often, sooner or later they'll leave "
 "the position."
 msgstr ""
-"귀하의 조정, 신념 및 견해에 적합한 보좌관을 선택하는 것을 고려하십시오. 자문단의 의견을 너무 자주 무시하면 조만간 지위를 떠날 "
+"자신의 성향, 신념, 견해에 적합한 보좌관을 선택하는 것을 고려하십시오. 보좌관의 의견을 너무 자주 무시하면 조만간 그 자리를 떠날 "
 "것입니다."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[69]_String

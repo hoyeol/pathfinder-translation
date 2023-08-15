@@ -5435,7 +5435,7 @@ msgid ""
 "or what drove the spriggans from their home?"
 msgstr ""
 "반홀드를 차지한 스프리건들의 지도자는 그들이 여기 왔을 땐 반홀드는 이미 비어있었다고 주장했습니다. 이 악당들이 분명 거짓말을 "
-"하는거겠죠.... 그렇지 않나요? 만약 아니라면... 그렇다면 누가 혹은 무엇이 스프리건들을 고향에서 쫓아내버린 걸까요?"
+"하는거겠죠.... 그렇겠죠? 그렇지 않다면 누가, 혹은 무엇이 스프리건을 고향에서 쫓아내버린 걸까요?"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/VarnholdVanished/Addendum_2_2_Description
 msgctxt "c3c3411c-776a-4ae9-8e65-cfa078f6241b"
@@ -5443,7 +5443,7 @@ msgid ""
 "\"Vordakai\" – this cryptic word must be connected to everything going on "
 "around here. But what – or who – is this Vordakai?"
 msgstr ""
-"\"보다카이\" – 이 수수께끼같은 단어는 이곳에서 벌어진 모든 사건들과 연관되어있는게 분명합니다. 하지만 보다카이 무엇 - 혹은 누구 -"
+"\"보다카이\" – 이 수수께끼 같은 단어는 이곳에서 벌어진 모든 사건과 연관된 게 분명합니다. 하지만 보다카이는 무엇 – 혹은 누구 –"
 " 일까요?"
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/VarnholdVanished/Addendum_2_3_Description
