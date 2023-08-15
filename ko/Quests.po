@@ -5371,7 +5371,7 @@ msgctxt "90563399-f24b-4c42-846e-f00a7eef4e13"
 msgid ""
 "Varnhold is a ghost town – there's not a single soul in sight! We should "
 "look around and find out where everyone's gone."
-msgstr "반홀드는 유령 마을이 되버렸습니다 - 하나의 영혼도 보이지 않습니다! 마을을 둘러보고 모두 어디로 간건지 알아내야 합니다."
+msgstr "반홀드는 유령 마을이 되버렸습니다 – 하나의 영혼도 보이지 않습니다! 마을을 둘러보고 모두가 어디로 갔는지 알아내야 합니다."
 
 #. Mechanics/Blueprints/World/Quests/C31_VarnholdVanished/VarnholdVanished/02_LookAtVarnhold_Title
 msgctxt "a9f1f4ab-e1bd-4237-b1c4-ce4225998fce"
