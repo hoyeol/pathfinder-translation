@@ -8884,7 +8884,7 @@ msgctxt "d98a082c-8b7a-48d9-9299-ccdd288fd6e9"
 msgid ""
 "If you feel it's too dark in the dungeon, cast a light spell on one of your "
 "companions or break out the torches."
-msgstr "던전이 너무 어둡게 느껴진다면 빛 주문을 동료 중 한 명에게 시전하거나 횃불을 켜십시오."
+msgstr "던전이 너무 어둡게 느껴진다면, 동료 중 한 명에게 빛 주문을 시전하거나 횃불을 켜십시오."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[37]_String
 msgctxt "31f81bf0-742a-4d90-b5f7-853d08abe65f"

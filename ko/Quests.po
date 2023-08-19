@@ -5913,14 +5913,14 @@ msgid ""
 "If this happens, it will be much more difficult to deal with the barbarians, "
 "so we need to stop him now!"
 msgstr ""
-"걱정할만한 소식이 북쪽에서 왔습니다 - 두번 태어난 아르막이 - 그를 어느때보다 더 강하게 만들어줄 - 그의 유산 을 되찾기 위해 그 "
+"걱정할만한 소식이 북쪽에서 왔습니다 — 두 번 태어난 아르막이 — 그를 어느때보다 더 강하게 만들어줄 - 그의 유산 을 되찾기 위해 그 "
 "자신의 고대 무덤을 찾고있다고 합니다. 이 일이 벌어진다면, 바바리안을 상대하는 일은 더욱 더 어려워지게 될테닝, 반드시 그를 "
 "막아햐합니다!"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/Coronation/Objective_0001_Title
 msgctxt "0ee36816-d0a7-489d-b37f-17299e573bd2"
 msgid "Deal with Armag the Twice-Born"
-msgstr "두번 태어난 아르막을 상대하라"
+msgstr "두 번 태어난 아르막을 상대하라"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/Coronation/Objective_0002_Description
 msgctxt "a33c28f0-db13-4663-887d-c601e3f88354"
@@ -6288,7 +6288,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/TwiceBornWarlord/TwiceBornWarlord_Title
 msgctxt "44beac61-ee20-4398-b6da-ac61043c0a1d"
 msgid "The Twice-Born Warlord"
-msgstr "두번-태어난 전쟁군주"
+msgstr "두 번 태어난 전쟁군주"
 
 #. Mechanics/Blueprints/World/Quests/C51_WaroftheRiverKings/Dreamscape/01_HelpCollector_Description
 msgctxt "c3d44dd5-4b10-47c4-ba0c-3f6c6bc9b33f"
@@ -13187,7 +13187,7 @@ msgstr "실종된 반홀드"
 #. Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[6].Name
 msgctxt "2e4e80e3-2672-4742-9b55-ee2e38a76a4f"
 msgid "The Twice-Born Warlord"
-msgstr "두번-태어난 전쟁군주"
+msgstr "두 번 태어난 전쟁군주"
 
 #. Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[7].Name
 msgctxt "c4d9e4b8-662d-4fae-9d2f-b1504bae83d9"

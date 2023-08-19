@@ -10267,7 +10267,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/InterChapterBE/c4_after/BookPage_0001_Title
 msgctxt "cd3785af-e336-410f-8cb9-016f92de7329"
 msgid "The Twice-Born Warlord"
-msgstr "두번-태어난 전쟁군주"
+msgstr "두 번 태어난 전쟁군주"
 
 #. Mechanics/Blueprints/World/InterChapterBE/c4_after/Cue_0002_Text
 msgctxt "a2fc5483-aff6-4629-ad15-000bdb8bed49"
@@ -10282,7 +10282,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/InterChapterBE/c4_before/BookPage_0004_Title
 msgctxt "93cb48f2-2d82-4835-93dc-dabe1fcc0772"
 msgid "The Twice-Born Warlord"
-msgstr "두번-태어난 전쟁군주"
+msgstr "두 번 태어난 전쟁군주"
 
 #. Mechanics/Blueprints/World/InterChapterBE/c4_before/Cue_0005_Text
 msgctxt "e61b3d1e-2839-4f6a-af97-a1bb119a38f6"

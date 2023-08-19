@@ -19953,7 +19953,7 @@ msgstr "부서진 거대한 검"
 #. Mechanics/Blueprints/Weapons/Items/Unique/AmiriSwordBroken_m_FlavorText
 msgctxt "0675807e-e8e2-4059-a82f-3e61ba748cc7"
 msgid "Amiri's favorite blade, broken by Armag the Twice-Born."
-msgstr "아미리가 아끼는 칼. 다시 태어난 자 아르막에게 부서졌다."
+msgstr "아미리가 아끼는 칼. 두 번 태어난 아르막에게 부서졌다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/AmiriSwordRepaired_m_DisplayNameText
 msgctxt "f5b827c9-e3af-4a70-84c1-375adb4fd82c"
