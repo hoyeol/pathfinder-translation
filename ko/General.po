@@ -7229,9 +7229,9 @@ msgid ""
 "with a low, flat-topped hill rising above it. Atop the hill stands the hewn-"
 "log stockade and blockhouse that was built for the colony's defense."
 msgstr ""
-"메이가르 반과 그의 충성스런 용병들에 의해 설립된 반홀드는 대부분 독신 성인들로 구성된 개척 도시이며, 공예가와 농장 노동자들이 고르게 "
+"메이가르 반과 그의 충성스런 용병들에 의해 설립된 반홀드는 대부분 독신 성인들로 구성된 개척 마을로, 공예가와 농장 노동자들이 고르게 "
 "분포되어 있습니다. 마을의 주요 건물들은 여관, 에라스틸의 교회, 그리고 농부들이 그들의 농산물을 비축하고 거래할 수 있는 지역 "
-"농가입니다. 이 마을은 키라보이 강의 여울 주변에 건설되어 있으며, 낮고 평평한 언덕이 그 위로 솟아 있습니다. 언덕 위에는 식민지의 "
+"농가입니다. 이 마을은 키라보이 강의 여울 주변에 건설되어 있으며, 낮고 평평한 언덕이 그 위로 솟아 있습니다. 언덕 위에는 거주지의 "
 "방어를 위해 지어진 통나무 방책과 요새가 서 있습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/VARNHOLD_Region/Location_Varnhold_Name_String
@@ -8535,9 +8535,9 @@ msgid ""
 "with a low, flat-topped hill rising above it. Atop the hill stands the hewn-"
 "log stockade and blockhouse that was built for the colony's defense."
 msgstr ""
-"메이가르 반과 그의 충성스런 용병들에 의해 설립된 반홀드는 대부분 독신 성인들로 구성된 개척촌이며, 공예가와 농장 노동자들이 고르게 "
+"메이가르 반과 그의 충성스런 용병들에 의해 설립된 반홀드는 대부분 독신 성인들로 구성된 개척 마을로, 공예가와 농장 노동자들이 고르게 "
 "분포되어 있습니다. 마을의 주요 건물들은 여관, 에라스틸의 교회, 그리고 농부들이 그들의 농산물을 비축하고 거래할 수 있는 지역 "
-"농가입니다. 이 마을은 키라보이 강의 여울 주변에 건설되어 있으며, 낮고 평평한 언덕이 그 위로 솟아 있습니다. 언덕 위에는 식민지의 "
+"농가입니다. 이 마을은 키라보이 강의 여울 주변에 건설되어 있으며, 낮고 평평한 언덕이 그 위로 솟아 있습니다. 언덕 위에는 거주지의 "
 "방어를 위해 지어진 통나무 방책과 요새가 서 있습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/ZDescriptionsSharedWithGlossary/WhisperRiverDescription_String
@@ -8746,7 +8746,7 @@ msgid ""
 "them.\"\n"
 "— Salim Ghadafar"
 msgstr ""
-"\"신은 우리 필멸자들을 훈련시킬 개로 생각하지만, 우리는 여전히 신들을 놀래킬 수 있지.\" \n"
+"\"신은 우리 필멸자들을 훈련시킬 개로 생각하지만, 우리는 여전히 신들을 놀라게 할 수 있지.\" \n"
 "- 살림 가다파르"
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[21]_String
