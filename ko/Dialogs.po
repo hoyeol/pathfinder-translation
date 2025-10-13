@@ -252305,8 +252305,8 @@ msgid ""
 "\"No clue. Eaten by someone? Just gone? They left their belongings behind, "
 "doors wide open — anyone could walk in and take what they like!\""
 msgstr ""
-"\"아무런 단서도 없다. 누군가에게 먹혔는지? 아니면 그냥 사라져 버렸나? 문을 활짝 열어두고 물건도 그대로 둔 채 떠났다 — 누구나 들어가서 "
-"마음에 드는 것을 가져갈 수 있었지!\""
+"\"아무 단서도 없어. 누가 잡아먹었나? 그냥 증발해 버린 건가? 짐은 그대로 두고, 문도 활짝 열려 있었지 — 아무나 들어가서 "
+"마음에 드는 거 집어 갈 수 있을 정도였어!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/VarnholdStockade/AgaiDialog/Cue_0026_Text
 #. Speaker : SprigganBoss

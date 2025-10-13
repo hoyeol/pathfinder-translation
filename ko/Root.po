@@ -3182,7 +3182,7 @@ msgstr "일시 정지 / 다음 캐릭터"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/QuickLoad_Description_String
 msgctxt "6d90e34d-7339-426e-bf9f-a7288e98fe7a"
 msgid "Quick Load"
-msgstr "빠른 블러오기"
+msgstr "빠른 불러오기"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Controls/KeyBindings/General/QuickSave_Description
 msgctxt "2b445a05-daaa-4a60-aea9-37c9a3865432"

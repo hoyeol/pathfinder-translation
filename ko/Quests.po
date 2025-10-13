@@ -101,7 +101,7 @@ msgctxt "e24bcddd-3f1f-4f4a-96e7-4fc31f517a88"
 msgid ""
 "The {mf|baron|baroness|King|Queen} sent the Sweet Teeth off to weed the "
 "Narlmarches! That should keep them busy for a while!"
-msgstr "{mf|남작|여남작|왕|여왕}는 단 것 중독자들에게 날마치의 잡초를 제거하는 일을 맡겼습니다! 당분간은 바쁘게 지내겠지요!"
+msgstr "{mf|남작|여남작|왕|여왕}은 단 것 중독자들에게 날마치의 잡초를 제거하는 일을 맡겼습니다! 당분간은 바쁘게 지내겠지요!"
 
 #. Mechanics/Blueprints/World/Quests/1DLC/Errand_SweethTooth/Objective_Marches_Title
 msgctxt "b8e09694-5269-4dc2-8d1a-d9abad83f591"
@@ -114,7 +114,7 @@ msgid ""
 "The {mf|baron|baroness|King|Queen} sent the Sweet Teeth to fix the fence at "
 "Oleg's Trading Post. I hope Oleg forgives us!"
 msgstr ""
-"{mf|남작|여남작|왕|여왕}는 단 것 중독자들에게 올렉의 교역소의 울타리를 수리하라는 임무를 주었습니다. 올렉이 우리를 용서해줬으면 "
+"{mf|남작|여남작|왕|여왕}은 단 것 중독자들에게 올렉의 교역소의 울타리를 수리하라는 임무를 주었습니다. 올렉이 우리를 용서해줬으면 "
 "좋겠네요!"
 
 #. Mechanics/Blueprints/World/Quests/1DLC/Errand_SweethTooth/Objective_OTP_Title
@@ -128,7 +128,7 @@ msgid ""
 "The {mf|baron|baroness|King|Queen} sent the Sweet Teeth to look for a road "
 "to Talon Peak. I hope nothing bad happens to them along the way..."
 msgstr ""
-"{mf|남작|여남작|왕|여왕}는 단 것 중독자들에게 발톱 봉우리로 가는 길을 찾아보라는 임무를 내렸습니다. 가는 길에 나쁜 일이 생기지 "
+"{mf|남작|여남작|왕|여왕}은 단 것 중독자들에게 발톱 봉우리로 가는 길을 찾아보라는 임무를 내렸습니다. 가는 길에 나쁜 일이 생기지 "
 "않았으면 좋겠네요..."
 
 #. Mechanics/Blueprints/World/Quests/1DLC/Errand_SweethTooth/Objective_Talon_Title
