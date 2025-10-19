@@ -153280,9 +153280,9 @@ msgid ""
 "and make sure your subjects don't make too much trouble.\" {n}Regongar "
 "shakes his head fiercely.{/n}"
 msgstr ""
-"\"들어봐. 도적이나 도둑 같은 시시한 얘기는 이제 지겨워! 내 일은 소매치기나 쫓는 게 아니라 군대를 관리하는 일이라고. 감시관을 "
-"고용해. 그 친구한테 경비병을 훈련시키고 백성들한테 문제가 안 일어나게 관리하게끔 하면 되잖아.\" {n}레곤가르는 격렬히 머리를 "
-"흔듭니다.{/n}"
+"\"들어봐. 도적이니 도둑이니, 그런 소리 이제 지긋지긋하다고! 내 일은 군대를 관리하는 거지, 소매치기 쫓는 게 아니야. 감시관 "
+"하나 고용해. 경비병 훈련시키고, 백성들이 말썽 안 피우게 하라고.\" {n}레곤가르는 짜증스럽게 고개를 "
+"세차게 젓습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Military/Rank4/Cue_0008_Text
 #. Speaker : Regongar_Companion
@@ -153292,7 +153292,7 @@ msgid ""
 "need to sleep somewhere. It's time we build a barracks. I've brought a map – "
 "can you show me where you want it?\""
 msgstr ""
-"\"좋아. 그럼 내가 여기 왜 왔지? 아! 맞다! 생각해봤는데, 네 병사들이 잘 곳이 필요할 것 같아. 이제 막사를 지을 시간이야. "
+"\"좋아. 근데 내가 왜 여기 온 거였더라? 아, 맞다! 생각해봤는데, 네 병사들도 잘 곳이 필요하잖아. 이제 막사를 지을 때가 됐어. "
 "지도를 가져왔는데, 어디다 지을지 정해줄래?\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Military/Rank4/Cue_0009_Text
@@ -153303,8 +153303,8 @@ msgid ""
 "them right on the border. Your neighbors are restless, and we need to show "
 "them we're serious. Some troops in their face is serious all right!\""
 msgstr ""
-"{n}불친절한 미소가 레곤가르의 얼굴에 나타납니다.{/n} \"물론이지. 국경에 막사를 건설할게. 우리 이웃들은 안절부절못하고 있고, "
-"우리는 그들에게 우리가 진지하다는 걸 보여줘야 해. 부대 하나 골라서 국경에서 심각한 표정 짓게 하고 있으면 괜찮을 거야!\""
+"{n}레곤가르의 입가에 냉소가 어린 미소가 번집니다.{/n} \"물론이지. 난 국경 바로 옆에 막사를 지을 거야. 이웃 놈들이 요즘 들썩이고 있으니, "
+"우리가 장난이 아니라는 걸 보여줘야지. 놈들 코앞에 병력 몇 줄 세워두면 그게 진짜 경고지!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Military/Rank4/Cue_0014_Text
 #. Speaker : Capital_Kassil
@@ -153331,7 +153331,7 @@ msgid ""
 "blankets too? Soldiers should learn to fight the enemy, not beat up wooden "
 "dummies!\""
 msgstr ""
-"{n}레곤가르가 짜증 내며 으르렁거립니다.{/n} \"복슬복슬한 담요도 몇 장 가져다줄까? 군인들은 적과 싸우는 법을 배워야지, 나무 "
+"{n}레곤가르가 짜증 내며 으르렁거립니다.{/n} \"복슬복슬한 담요도 몇 장 가져다줄까? 군인이라면 적과 싸우는 법을 배워야지, 나무 "
 "쪼가리나 두들겨 패선 안된다고!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Military/Rank4/Cue_0021_Text_String
@@ -168506,8 +168506,8 @@ msgid ""
 "ancient books, talked to the locals... and then I had a word with our "
 "Storyteller. And we decided that... Well, he'll tell it better.\""
 msgstr ""
-"\"불행히도 쉴 시간이 없어요. 지난 공격을 대비하는 도중 이 저주를 해결할 방법을 찾아봤거든요. 고대의 책을 뒤져보고, 현지인들과 대화 "
-"해보고, 이야기꾼에게 어떤 말을 들었어요. 그리고 결론을 낸 게... 음, 그가 말하는게 더 낫겠네요.\""
+"\"유감이지만, 지금은 쉴 때가 아니에요. 지난 공격을 준비하던 동안 전 저주를 풀 방법을 찾아봤거든요. 고대의 책을 뒤져보고, 현지 사람들과도 이야기"
+"해보고, 이야기꾼이랑도 얘기했죠. 그리고 우리가 내린 결론은... 음, 그가 직접 말하는 게 더 낫겠네요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/BloodMoon/BloodMoon4/Cue_0005_Text
 #. Speaker : Capital_Collector
@@ -241987,7 +241987,7 @@ msgid ""
 "\"Ha, ha... Just let bygones be bygones. I walk with {mf|him|her} now.\" {n}"
 "Amiri points at you.{/n}"
 msgstr ""
-"\"하하... 과거는 그저 과거일 뿐이야. 나는 이제  {mf|그|그녀}와 함께 하지.\" {n}아미리가 당신을 가리킵니다.{/n}"
+"\"하하, 됐어. 지난 일은 그냥 잊자고. 이제 난 {mf|그|그녀}랑 같이 다녀.\" {n}아미리가 당신을 가리킵니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c31/BarbarianHuntingParty/BarbarianLeader_dialog/Cue_0043_Text
 #. Speaker : HuntingParty_VandalLeader
@@ -242181,8 +242181,8 @@ msgid ""
 "cave with some grime-faced half-men. No ancient ruin, no treasures, not a "
 "damned thing!\""
 msgstr ""
-"\"우리는 며칠 동안 그 지역을 수색했지만 우리가 발견한 것은 겁먹은 얼굴을 한, 반인들( half-men)이 있는 동굴이었다. 고대의 "
-"유적이나 보물도 아니었고 아무것도 아니었어!\""
+"\"그랬으면 좋겠지! 며칠째 이 근처를 뒤지고 다녔지만, 우리가 찾은 건 얼굴에 때가 잔뜩 묻은 반인들이 있는 동굴 하나뿐이었어. 고대 유적도, "
+"보물도, 빌어먹을 아무것도 없었다고!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/BarbarianHuntingParty/BarbarianLeader_dialog/Cue_0093_Text
 #. Speaker : HuntingParty_VandalLeader
@@ -242321,9 +242321,9 @@ msgid ""
 "had that been the case, I am certain you would have found a way to manage it!"
 "\""
 msgstr ""
-"{n}트리스티안이 안도하며 한숨을 쉽니다.{/n} \"{g|Sarenrae}서렌레이{/g}여 감사합니다. 이 고통은 일반적인 마법에 "
-"반응하는군요! 그런 이상한 증상이 일반적인 치료 방법에 저항성이 있었다고 해도 난 놀라지 않았을 겁니다... 그렇더라도 당신이 그럭저럭 "
-"그것을 치료할 방법을 찾았을 거라고 생각해요.\""
+"{n}트리스티안이 안도한 듯 한숨을 내쉽니다.{/n} \"{g|Sarenrae}서렌레이{/g}여 감사합니다. 다행히 이 병은 일반적인 치유 마법에도 "
+"반응하는군요! 이런 이상한 증상이 보통의 치료로는 듣지 않아도 전 놀랍지 않았을 겁니다... 하지만 그랬더라도, "
+"당신이라면 분명 방법을 찾아냈을 거예요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/BarbarianHuntingParty/BarbarianLeader_dialog/Cue_0127_Text_String
 #. Speaker : Tristian_Companion
@@ -250947,7 +250947,7 @@ msgctxt "39b6c07a-7aaf-4f6f-b336-99b8bebfed23"
 msgid ""
 "There are numerous tracks, humanoids — both small and gigantic — to and from "
 "the fort."
-msgstr "요새로 이어진 수많은 길들에는 크고 작은 휴머노이드가 있었습니다."
+msgstr "요새로 드나든, 크고 작은 인간형 존재들의 수많은 발자국이 남아 있다."
 
 #. Mechanics/Blueprints/World/Dialogs/c31/VarnholdBefore/Barks/VarnMerchantCutscene_CommandBark_1_SharedText_String
 msgctxt "82be7b9a-39ce-438c-bd41-2d67e1cfa44c"

@@ -4646,8 +4646,8 @@ msgid ""
 "wealthy men's wives! Something must be done. By the day, more and more "
 "people speak approvingly of his tricks."
 msgstr ""
-"여우라 불리는 건달이 마차를 털고 부자의 아내의 키스를 훔치고 있습니다! 무언가 조치를 취해야 합니다. 날이 갈수록 점점 더 많은 "
-"사람들이 그 솜씨를 인정해주듯 말하고 있습니다."
+"'여우'라 불리는 교활한 건달이 마차를 털고, 부자 아내들의 입술까지 훔치고 있습니다! 무언가 조치를 취해야 합니다. 날이 갈수록 그의 간교한 수법을 "
+"흥미롭게 떠드는 사람들이 늘고 있군요."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/FoxHunting_LocalizedName
 msgctxt "34e07b6e-39ba-486a-b29f-37a20d7af841"
@@ -15424,8 +15424,8 @@ msgid ""
 "this invasion? The situation must be taken under control before the capital "
 "granaries are emptied and plague sweeps the streets."
 msgstr ""
-"수도에 쥐떼가 나타났습니다! 소문에 따르면 개만한 동물이 굽은 등을 하고 지하 수로를 배회중이라고 합니다. 어디서 쥐떼가 나타난 걸까요? "
-"곡창이 거덜나고 흑사병이 창궐하기 전에 이 문제를 해결해야 합니다."
+"수도가 쥐떼로 들끓고 있습니다! 소문에 따르면 개만 한 괴물 쥐들과, 굽은 등을 한 형체들이 지하 묘지를 돌아다니고 있다고 합니다. 이 침입의 원인은 무엇일까요? "
+"곡창이 텅 비고 역병이 거리를 휩쓸기 전에 사태를 수습해야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Rats_LocalizedName
 msgctxt "bafc48e6-1984-4543-bb15-d73bb25006d8"

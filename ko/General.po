@@ -9126,8 +9126,8 @@ msgid ""
 "problems first — they can cause your kingdom great damage if ignored. "
 "Missing an opportunity won't hurt your kingdom."
 msgstr ""
-"왕국 이벤트에는 두 가지 종류가 있습니다. 문제와 기회. 문제를 먼저 상대하십시오. 이를 무시하면 왕국에 큰 피해가 됩니다. 기회를 "
-"무시하는 것은 왕국에 해가 되지는 않습니다."
+"왕국 이벤트에는 두 가지 종류가 있습니다. 문제와 기회. 문제부터 처리하세요 — 방치하면 왕국에 큰 피해를 입습니다. 기회를 "
+"놓치더라도 왕국엔 피해가 없습니다."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[65]_String
 msgctxt "ae01734b-e7e5-4399-aa52-90395a759c50"

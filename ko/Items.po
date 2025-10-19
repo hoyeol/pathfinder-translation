@@ -5472,7 +5472,7 @@ msgstr ""
 msgctxt "ea262d4c-5866-4e36-9849-3ba52d5b1380"
 msgid ""
 "This cape grants its wearer a +1 bonus to Enchantment school spells' DC."
-msgstr "이 케이프는 착용자의 인첸트먼트 학파 주문 DC에 +1 보너스를 제공합니다."
+msgstr "이 케이프는 착용자의 인챈트먼트 학파 주문 DC에 +1 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Cloaks/EnchantersCapeItem_m_DisplayNameText
 msgctxt "a2663a45-b0fb-4e53-ab6f-17644481d315"
