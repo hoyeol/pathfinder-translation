@@ -571,7 +571,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/EcoRank6-DiscountEcoBuildings_DisplayName_String
 msgctxt "4adb4cf4-d7b1-4a00-8aae-4b59e986ce19"
 msgid "Improving Economic Status"
-msgstr "경재 상태 개선"
+msgstr "경제 수준 향상"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/EcoRank6-EasierOpportunities_Description_String
 msgctxt "e4e26b84-32b2-4631-803e-b0ea48505956"
@@ -2418,8 +2418,8 @@ msgid ""
 "alchoholic beverages. 10% chance to earn 3 BP each week, and 10% chance to "
 "earn 1 BP each week."
 msgstr ""
-"별난 하플링들이 놀라운 알콜 약재 및 알콜 음료를 만드는 기업. 3 BP를 벌 확률이 매주 10%, 1 BP를 벌 확률이 매주 10% "
-"있습니다."
+"괴짜 하플링들이 놀라운 약주와 각종 술을 빚는 양조장입니다. 매주 10% 확률로 3 BP를 얻고, 또 다른 10% 확률로 1 BP를 "
+"얻습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Halflings Brewery_Name
 msgctxt "64db0d5b-0c8d-4c57-ab20-fdbe549add29"
@@ -15424,7 +15424,7 @@ msgid ""
 "this invasion? The situation must be taken under control before the capital "
 "granaries are emptied and plague sweeps the streets."
 msgstr ""
-"수도가 쥐떼로 들끓고 있습니다! 소문에 따르면 개만 한 괴물 쥐들과, 굽은 등을 한 형체들이 지하 묘지를 돌아다니고 있다고 합니다. 이 침입의 원인은 무엇일까요? "
+"수도가 쥐떼로 들끓고 있습니다! 소문에 따르면 개 크기의 거대 쥐들과, 굽은 등을 한 기괴한 형체들이 지하 묘지를 배회하고 있다고 합니다. 이 침입의 원인은 무엇일까요? "
 "곡창이 텅 비고 역병이 거리를 휩쓸기 전에 사태를 수습해야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic5/Rats_LocalizedName
@@ -31240,7 +31240,7 @@ msgstr "계획이 완료되었습니다."
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/EcoRank6-DiscountonEcoBuildings_LocalizedName
 msgctxt "75a5fc20-bf01-4c48-aeff-c820672faf57"
 msgid "Improving Economic Status"
-msgstr "경재 상태 개선"
+msgstr "경제 수준 향상"
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/EcoRank6-DiscountonEcoBuildings_Solutions.Entries.Array.data[3].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "a5cdf86a-cae3-4167-bc6d-ce3b4bdbc8ef"
