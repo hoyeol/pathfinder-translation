@@ -4929,7 +4929,7 @@ msgid ""
 "to be related to {mf|him|her}, and they regularly send a variety of marriage "
 "proposals."
 msgstr ""
-"나라에 내려진 모든 불운에도 불구하고, {name}{mf|왕|여왕}은 강한 지도자로 남아있었어요. 많은 이웃국가들의 귀족가문들은 "
+"나라에 내려진 모든 불운에도 불구하고, {Name} {mf|왕|여왕}은 강한 지도자로 남아있었어요. 많은 이웃국가들의 귀족가문들은 "
 "{mf|그|그녀}와 관계를 가지려는 것을 서두르지 않았고, 정기적으로 다양한 결혼 제의를 보내왔답니다."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0276_Text
@@ -6533,7 +6533,7 @@ msgid ""
 "motionless on the ground behind the boulder. It felt like an eternity passed "
 "before the worm turned and continued its search along the gorge..."
 msgstr ""
-"{name}의 강철과도 같은 자제력은 {mf|그|그녀}를 실망시키지 않았어요. {mf|그|그녀}는 바위 뒤에서 아무 움직임없이 있었지요. "
+"{Name}의 강철과도 같은 자제력은 {mf|그|그녀}를 실망시키지 않았어요. {mf|그|그녀}는 바위 뒤에서 아무 움직임없이 있었지요. "
 "그 벌레가 계곡을 따라 계속해서 찾아내려가려고 돌아설때까지 마치 영원이라는 시간이 흐른 것은 기분이었죠."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/ExplorersGrave/Cue_0135_Text
