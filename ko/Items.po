@@ -2085,7 +2085,7 @@ msgctxt "5da7785b-a52c-48f2-9107-3856944e4eab"
 msgid ""
 "This +2 full plate grants its wearer +2 bonus on saving throws against all "
 "spells of Necromancy school."
-msgstr "이 +2 전신 판금갑옷은 착용자에게 사령술 학파의 모든 주문 대한 내성 굴림에 +2 보너스를 제공합니다."
+msgstr "이 +2 전신 판금갑옷은 착용자에게 네크로맨시 학파의 모든 주문 대한 내성 굴림에 +2 보너스를 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/TotalPlus3/FullplateStandart2DCagainstNecroticPlus2_m_DisplayNameText
 msgctxt "457874dd-c285-458c-be13-a809413e6c2c"

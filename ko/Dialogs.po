@@ -18115,7 +18115,7 @@ msgid ""
 "they still use my books to teach students, but... Who knows how many years, "
 "or ages, or millennia it's been? I lost track of time long ago!\""
 msgstr ""
-"\"나는 한때 포탈의 달인 마르시다로 알려졌지. 탈도르 어디에도 나보다 더 뛰어난 소환술사가 없었어! 학생들을 가르칠 때 여전히 내 책을 "
+"\"나는 한때 포탈의 달인 마르시다로 알려졌지. 탈도르 어디에도 나보다 더 뛰어난 컨저러가 없었어! 학생들을 가르칠 때 여전히 내 책을 "
 "쓴다고 믿고 싶지만... 몇 년, 몇 세기, 몇 백만 년이 지났는지 누가 알겠어? 난 오래 전에 시간감각을 잃었어!\""
 
 #. Mechanics/Blueprints/World/Dialogs/2DLC/LostlarnKeep_Level1/Wizard_Apparition/Cue_0019_Text
@@ -23424,7 +23424,7 @@ msgid ""
 msgstr ""
 "\"하지만 그래, 그건 미친 계획이었어. 물론 케팔의 말을 듣고, {g|Galt}갈트{/g}로부터 정찰병을 기다리고, 점점 더 많은 "
 "사람들이 실종되는 걸 지켜 볼 수도 있었겠지... 하지만 시간이 촉박했고, 누스는 사실상 공개적으로 데몬 로드들을 위한 사당을 짓고 "
-"있었고, 그녀가 원하는 짓거리는 무엇이든 하고 있었지. 그녀는 우리가 만난 적 중에 가장 파악하기 힘든 적이었어. 소환술과 환영 마법에 "
+"있었고, 그녀가 원하는 짓거리는 무엇이든 하고 있었지. 그녀는 우리가 만난 적 중에 가장 파악하기 힘든 적이었어. 컨저레이션과 환영 마법에 "
 "놀라운 재능을 가졌고, 거의 동물적인 교활함을 겸비한 마녀였지. 1년 넘게 추적했는데 한 번도 따라잡질 못했어.\""
 
 #. Mechanics/Blueprints/World/Dialogs/2DLC/Varnhold/Varn_Personal/Cue_0081_Text
@@ -64869,7 +64869,7 @@ msgstr "\"현재 위치가 마음에 드나?\""
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVordakai/Answer_0057_Text
 msgctxt "4c2e5d06-2c05-4ceb-9d08-03bf9708bfb3"
 msgid "\"Let's discuss this 'necromancy under the city'.\""
-msgstr "\"이 도시 아래 '사령술'에 대해 이야기해 보자.\""
+msgstr "\"이 도시 아래 '네크로맨시'에 대해 이야기해 보자.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVordakai/Answer_0060_Text
 msgctxt "7077af45-b017-47b9-9f6f-37e6dace55d8"
@@ -65218,7 +65218,7 @@ msgid ""
 "the city. That's what's been bothering me lately...\""
 msgstr ""
 "{n}\"메이가르\"는 당신 주위의 공기를 맡다가 어떤 냄새를 맡았다는 듯한 시선으로 당신을 환영합니다.{/n} \"나는 알고 있었다. "
-"이 곳, 도시 그늘에 숨어든, 사령술에 대해서. 그 문제가 날 귀찮게 하는군...\""
+"이 곳, 도시 그늘에 숨어든, 네크로맨시에 대해서. 그 문제가 날 귀찮게 하는군...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVordakai/Cue_0058_Text
 msgctxt "67018d93-329a-4e97-88f2-5a0f01faa742"
@@ -67909,7 +67909,7 @@ msgid ""
 msgstr ""
 "{n}아노리엘은 쓰라린 기억을 다시 떠올려야 하는지 고민하는 듯 오랫동안 침묵합니다.{/n} \"우리의 리더였던 버멜트는 우리 중 "
 "최고였어. 현명하고 용감한건 물론 모두와 친하게 지낼 정도로 친절한 친구였지. 어느 날 그의 친구였던 아드비언 아드리산트가 충격적인 "
-"편지를 보내왔어. 사령술에 대한 고대 서적이 언급되어 있었지. 그런 비밀은 영원히 발견되지 않는게 나아. 믿어도 돼. 그 비밀이 밝혀졌을 "
+"편지를 보내왔어. 네크로맨시에 대한 고대 서적이 언급되어 있었지. 그런 비밀은 영원히 발견되지 않는게 나아. 믿어도 돼. 그 비밀이 밝혀졌을 "
 "때 무슨 일이 일어나는지 내 두눈으로 똑똑히 봤으니까.\" {n}엘프는 입술을 깨뭅니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/VentureCapitainTavern/BeginningReika_02_String
@@ -130059,7 +130059,7 @@ msgid ""
 "knowledge has actually come in quite useful.\""
 msgstr ""
 "\"제가 기계학에 투신할 생각이 없다는 걸 알고난 후, 아버지는 최소한 먹고살 기술은 배워야 한다면서, 저를 아버지의 옛 고객의 조수로 "
-"집어넣었죠. 그는 변환술을 가르치는 심술궂은 노교수였어요. 그 일로 오랫동안 토라졌었지만, 이제는 감사하게 생각해요. 확실히 그 지식은 "
+"집어넣었죠. 그는 트랜스뮤테이션을 가르치는 심술궂은 노교수였어요. 그 일로 오랫동안 토라졌었지만, 이제는 감사하게 생각해요. 확실히 그 지식은 "
 "꽤 쓸만했거든요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/GnomeFemale_JewelcrafterCN/MainDialogue/Cue_0035_Text
@@ -137563,14 +137563,14 @@ msgctxt "6c765912-14b6-4970-9aaf-40bcdb57ee2f"
 msgid ""
 "{g|Arcane4_1}[Choice effects]{/g} \"I forbid this necromancer from "
 "practicing his dark arts in my realm.\""
-msgstr "{g|Arcane4_1}[선택 시 효과]{/g} \"난 이 사령술사가 내 왕국에서 그의 흑마술을 시험하는 걸 금하노라.\""
+msgstr "{g|Arcane4_1}[선택 시 효과]{/g} \"난 이 네크로맨서가 내 왕국에서 그의 흑마술을 시험하는 걸 금하노라.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank4/Answer_0009_Text
 msgctxt "c06355e7-85d0-44a7-ad85-dbdaa70faab0"
 msgid ""
 "{g|Arcane4_2}[Choice effects]{/g} \"His offer sounds promising. The "
 "necromancer shall receive his license.\""
-msgstr "{g|Arcane4_2}[선택 시 효과]{/g} \"그 자의 제안은 괜찮게 들리는데. 그 사령술사는 면허를 발급받을 거야.\""
+msgstr "{g|Arcane4_2}[선택 시 효과]{/g} \"그 자의 제안은 괜찮게 들리는데. 그 네크로맨서는 면허를 발급받을 거야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank4/Answer_0010_Text
 msgctxt "a6084274-67cf-4fce-b188-59cc18ffc8b3"
@@ -137589,7 +137589,7 @@ msgid ""
 "back home before the spell wears off!\""
 msgstr ""
 "\"새 소식이 있어요. 점점 더 많은 마법사가 우리 수도로 매일 찾아오고 있죠. 그리고 작은 마법사 구역이 그 유물 감정사 주변에 생기는 "
-"거 같아요. 거기 새 서점에, 새 연금술 연구실에 이제는 환영술점까지 생겼지 뭐에요! 그 여자 마술을 부려서 네가 상상하는 그대로 옷도 "
+"거 같아요. 거기 새 서점에, 새 연금술 연구실에 이제는 일루저니스트의 살롱까지 생겼지 뭐에요! 그 여자 마술을 부려서 네가 상상하는 그대로 옷도 "
 "입혀주고 화장에 머리 스타일까지 바꿔준다고요! 밤나들이에 아주 딱이죠. 주문이 풀리기 전에 집으로 돌아가야 한다는 것만 꼭 기억하면 되요!"
 "\""
 
@@ -137606,7 +137606,7 @@ msgid ""
 msgstr ""
 "\"마술이 우리 땅에서 꽃 피우고, 매일 점점 더 많은 마법 사용자가 우리 도시로 몰려들고 있다는 점을 알려드리게 되어 정말 기쁩니다, "
 "{mf|영주님|영주님|전하|전하}. 변변찮은 마법사 구역이 유물 감정사 근처에 생기기 시작했습니다. 서점, 연금술 연구실, 거기에 "
-"환영술점까지요. 하지만, 그런 빠른 성장은 더 많은... 수상쩍은 종자도 끌어들이는 법이죠.\""
+"일루저니스트의 살롱까지요. 하지만, 그런 빠른 성장은 더 많은... 수상쩍은 종자도 끌어들이는 법이죠.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank4/Cue_0003_Text
 #. Speaker : MaegarVarnVordakai_Capital
@@ -137635,9 +137635,9 @@ msgid ""
 "guest asks you for a license. In return, he promised to supply us with a "
 "fresh batch of 'workers'...\""
 msgstr ""
-"\"그렇지만... 이런 팽창엔 더 어두운 면도 있어요. 게브에서 온 한 사령술사는 영지에서 가게를 내려고 하고 있죠. 그 자는 언데드 "
+"\"그렇지만... 이런 팽창엔 더 어두운 면도 있어요. 게브에서 온 한 네크로맨서는 영지에서 가게를 내려고 하고 있죠. 그 자는 언데드 "
 "하수인을 일으켜서 값싼 노동력으로 임대하고 싶어해요! 그의 고향에선 스켈레톤들이 밭을 갈고, 나무를 베거나 광물을 캔답니다... 반면에 "
-"다른 세계 곳곳에서는 사령술이 엄격하게 금지되어 있어요. 시체를 움직이기 위해선 누군가 그 안에 있던 영혼의 작은 조각을 잘라내야 "
+"다른 세계 곳곳에서는 네크로맨시이 엄격하게 금지되어 있어요. 시체를 움직이기 위해선 누군가 그 안에 있던 영혼의 작은 조각을 잘라내야 "
 "하니까요! 그 손님은 당신에게 허가를 요청하고 있고 그 보답으로 그 사람은 우리에게 신선한 '일꾼' 한 무리를 제공해줄 것을 약속했어요."
 "\""
 
@@ -137652,7 +137652,7 @@ msgid ""
 "them out to farms, sawmills and warehouses. In gratitude, he will deliver us "
 "his first batch of 'workers'.\""
 msgstr ""
-"\"겝에서 온 사령술사 대가 하나가 저에게 접근 해왔습니다. 그의 제작품이 위법한데다 세계에서 비난받고 있다는 걸 고려해서, 그가 제안을 "
+"\"겝에서 온 네크로맨서 대가 하나가 저에게 접근 해왔습니다. 그의 제작품이 위법한데다 세계에서 비난받고 있다는 걸 고려해서, 그가 제안을 "
 "하나 해왔습니다. 우리가 '비생물 노동력 제공 서비스'를 제공할 수 있는 면허를 발급해주는 겁니다. 즉, 그자가 언데드 노동자를 일으켜서 "
 "농장이나 제재소, 물류창고 등에 임대하도록 허가한다는 말이죠. 그 감사의 표시로 그 사람이 우리에게 첫 '일꾼' 한 무리를 보내줄 겁니다."
 "\""
@@ -137668,7 +137668,7 @@ msgid ""
 "of life eternal – all right under his nose! And his only thought is to rent "
 "out farm labor!\""
 msgstr ""
-"\"감히 자신을 사령술사라고 칭하는 별볼일 없는 행상인 하나가 저에게 알현을 청했습니다. 그자는 우리에게 언데드 노예를 만들 수 있는 "
+"\"감히 자신을 네크로맨서라고 칭하는 별볼일 없는 행상인 하나가 저에게 알현을 청했습니다. 그자는 우리에게 언데드 노예를 만들 수 있는 "
 "면허를 구걸하더군요. 농장이나 제재소, 광산에 임대할 수 있는 노예 말입니다. 죽음 자체를 넘어선 힘, 사자의 영혼, 심지어 영생의 "
 "비밀까지... 모든 게 그의 코 앞에 있습니다! 그리고 그자는 농장 노동자를 임대해줄 생각 뿐이군요!\""
 
@@ -137726,7 +137726,7 @@ msgid ""
 "necromancer of your decision. The might and power of our lands shall grow "
 "manifold.\""
 msgstr ""
-"{n}\"매가르\"는 음침한 만족감과 함께 당신에게 절했다.{/n} \"당신의 결정을 사령술사에게 전하겠습니다. 우리 땅의 힘과 권세가 "
+"{n}\"매가르\"는 음침한 만족감과 함께 당신에게 절했다.{/n} \"당신의 결정을 네크로맨서에게 전하겠습니다. 우리 땅의 힘과 권세가 "
 "다양성을 불러오는군요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank4/Cue_0018_Text
@@ -137735,7 +137735,7 @@ msgctxt "103b9d5f-13d0-4c08-bdde-be791c405893"
 msgid ""
 "\"I shall inform the necromancer that his dark arts have no place in these "
 "lands.\""
-msgstr "\"이 땅 위에 그 강령술사가 흑마술을 펼칠 자리가 없다는 걸 가르쳐줘야겠군.\""
+msgstr "\"이 땅 위에 그 네크로맨서가 흑마술을 펼칠 자리가 없다는 걸 가르쳐줘야겠군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank4/Cue_0020_Text
 #. Speaker : Capital_Collector
@@ -137751,9 +137751,9 @@ msgid ""
 "our state completely dependent on the services of necromancers.\""
 msgstr ""
 "\"그 자는 저에게 자기는 '기꺼이 기부받은 물건'으로만 일한다고 장담하더군요. 죽기 전에 계약에 서명한 농민의 시체 말입니다. 하지만, "
-"저는 당신에게 그자의 제안을 거부하라고 충고드리지요. 사령술사는 시체를 움직이기 위해 고인의 영혼에서 작은 조각을 떼어내야만 한다는 걸 "
+"저는 당신에게 그자의 제안을 거부하라고 충고드리지요. 네크로맨서는 시체를 움직이기 위해 고인의 영혼에서 작은 조각을 떼어내야만 한다는 걸 "
 "반드시 기억해야 합니다. 또한 우리의 살아있는 일꾼은 언데드 노예들과 경쟁할 수 없다는 사실도 명심하십시오. 따라서 우리의 선한 민중은 "
-"더욱 빈곤해질 것이고, 더 적은 돈으로 일하도록 강요받을 겁니다. 이건 우리의 남작령이 점점 사령술사의 서비스에 완전히 종속되는 악랄한 "
+"더욱 빈곤해질 것이고, 더 적은 돈으로 일하도록 강요받을 겁니다. 이건 우리의 남작령이 점점 네크로맨서의 서비스에 완전히 종속되는 악랄한 "
 "순환에 갇히는 결과로 이어진다는 말입니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank4/Cue_0021_Text
@@ -138094,7 +138094,7 @@ msgid ""
 "the undead, and her followers demand that we 'put an end to the blasphemy' – "
 "that is, stop creating undead laborers.\""
 msgstr ""
-"{n}옥타비아가 걱정스럽게 바라봅니다.{/n} \"사령술에 대한 헛수고는 끝나지 않았어요, {name}. 우리 수도로 운명과 죽음의 "
+"{n}옥타비아가 걱정스럽게 바라봅니다.{/n} \"네크로맨시에 대한 헛수고는 끝나지 않았어요, {name}. 우리 수도로 운명과 죽음의 "
 "여신, {g|Pharasma}파라스마{/g}의 사제들이 사절단을 파견했다고 해요. 그 여신은 언데드를 혐오하며, 그녀의 추종자들은 "
 "'모욕에 종지부를 찍으라'며 요구하고 있어요. 그 말인 즉슨, 언데드 노동자들을 그만 만들라는 뜻이겠죠.\""
 
@@ -138108,8 +138108,8 @@ msgid ""
 "forbids the practice of this foul craft. Her priests and her faithful demand "
 "that we ban necromancy across your lands and put an end to this blasphemy.\""
 msgstr ""
-"\"파라즈마의 사절단이 수도에 도착했습니다, {mf|영주님|영주님|전하|전하}. 사령술은 삶과 죽음의 순환을 어지럽히며, 그렇기 때문에 "
-"{g|Pharasma}무덤의 여인{/g}께서는 그 더러운 술수를 금지하십니다. 그녀의 사제들과 신도들은 당신의 땅에서 사령술을 철전하고 "
+"\"파라즈마의 사절단이 수도에 도착했습니다, {mf|영주님|영주님|전하|전하}. 네크로맨시은 삶과 죽음의 순환을 어지럽히며, 그렇기 때문에 "
+"{g|Pharasma}무덤의 여인{/g}께서는 그 더러운 술수를 금지하십니다. 그녀의 사제들과 신도들은 당신의 땅에서 네크로맨시을 철전하고 "
 "신성모독을 멈출 것을 요구합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank6/Cue_0003_Text
@@ -138193,7 +138193,7 @@ msgstr ""
 #. Speaker : Octavia_Companion
 msgctxt "5b9bd582-43e1-44e0-89f1-5cfdb9710c84"
 msgid "\"Very good. In that case, raising the undead shall become illegal.\""
-msgstr "\"좋아요. 그러면, 이제부턴 강령술을 불법으로 지정할게요.\""
+msgstr "\"좋아요. 그러면, 이제부턴 네크로맨시을 불법으로 지정할게요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank6/Cue_0018_Text
 #. Speaker : Capital_Collector
@@ -138313,7 +138313,7 @@ msgctxt "6ddb110d-a682-4571-beed-952634624df4"
 msgid ""
 "{n}Octavia shakes her head.{/n} \"What do I have to do to make you see just "
 "how terrible necromancy really is?\""
-msgstr "{n}옥타비아는 고개를 흔들었다.{/n} \"사령술이 정말로 얼마나 끔찍한지 네가 알게 하려면 내가 뭘 해야할까?\""
+msgstr "{n}옥타비아는 고개를 흔들었다.{/n} \"네크로맨시이 정말로 얼마나 끔찍한지 네가 알게 하려면 내가 뭘 해야할까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank6/Cue_0040_Text
 #. Speaker : MaegarVarnVordakai_Capital
@@ -138572,7 +138572,7 @@ msgid ""
 msgstr ""
 "\"문제가 생겼어요, {name}! 강력한 마법적 이상 현상이 특정 지역에서 몰아치고 있어요! 지역 마법사들에 따르먼, 주문들이 아예 "
 "작동하지 않거나, 완전히 예상치 못한 결과를 발생시킨다 하더군요. 노련한 마법사가 자신의 마차를 수리하려다 자신도 모르게 행인을 "
-"띄웠어요. 다른 곳에서는, 유명한 환영술사가 불꽃 놀이를 준비하려다, 그 대신 청중들의 발 밑의 땅을 깊고 미끄러운 진흙으로 바꾸어 "
+"띄웠어요. 다른 곳에서는, 유명한 일루저니스트가 불꽃 놀이를 준비하려다, 그 대신 청중들의 발 밑의 땅을 깊고 미끄러운 진흙으로 바꾸어 "
 "놓았죠.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank8/Cue_0002_Text
@@ -241183,7 +241183,7 @@ msgid ""
 "{n}Magic presence here is obvious. You can sense powerful necromancy "
 "energies, but can't figure out the specific spells in use here.{/n}"
 msgstr ""
-"{n}여기에 마법의 존재가 있는 것이 분명합니다. 당신은 강력한 사령술사의 기운을 느꼈지만 여기에 사용되는 특정 주문을 파악할 수는 "
+"{n}여기에 마법의 존재가 있는 것이 분명합니다. 당신은 강력한 네크로맨서의 기운을 느꼈지만 여기에 사용되는 특정 주문을 파악할 수는 "
 "없었습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepLake_Outdoor/VillageLoreBarks1/SilverstepLake_Outdoor_VillageLoreBarks1_WhatToBark
@@ -244750,7 +244750,7 @@ msgid ""
 "a magical trap, like one of those signs you shouldn't look at. Taking that "
 "into account, we..."
 msgstr ""
-"벽에 핀 곰팡이 밑에 무언가 마법으로 빛나는 것이 강력한 사령술의 기운을 풍기고 있었습니다. 그것은 마법 지뢰임에 틀림 없었고 절대 "
+"벽에 핀 곰팡이 밑에 무언가 마법으로 빛나는 것이 강력한 네크로맨시의 기운을 풍기고 있었습니다. 그것은 마법 지뢰임에 틀림 없었고 절대 "
 "들여다보지 말아야 하는 것이었습니다. 그걸 감안하고 우리는..."
 
 #. Mechanics/Blueprints/World/Dialogs/c31/BookEventTomb/Cue_0042_Text
@@ -261371,12 +261371,12 @@ msgstr "\"나는 지하 괴물의 도시인 트로볼트로 쳐들어갔다.\""
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/Zorek/Answer_0031_Text
 msgctxt "c9287165-8c6b-41d5-a4d7-1591f014a673"
 msgid "\"I killed Vordakai, ancient necromancer and ruler of the cyclopes!\""
-msgstr "\"나는 고대의 사령술사이자 사이클롭스 지배자인 보다카이를 죽였다!\""
+msgstr "\"나는 고대의 네크로맨서이자 사이클롭스 지배자인 보다카이를 죽였다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/Zorek/Answer_0032_Text
 msgctxt "4f9a8a70-12c8-4484-92c5-21392dbef6b7"
 msgid "\"I defeated Vordakai, ancient necromancer and ruler of the cyclopes!\""
-msgstr "\"나는 고대의 사령술사이자 사이클롭스 지배자인 보다카이를 물리쳤다!\""
+msgstr "\"나는 고대의 네크로맨서이자 사이클롭스 지배자인 보다카이를 물리쳤다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/Zorek/Answer_0034_Text
 msgctxt "e575b1a2-eb12-4dd9-a268-f9bc8023b3c5"
