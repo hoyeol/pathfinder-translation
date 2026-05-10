@@ -19413,11 +19413,13 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.MotivationLinkPartFormat
 msgctxt "d1a8538d-90b3-40d6-98df-e0cc01b15ee5"
 msgid ""
-"Please share your thoughts with us here: {0}\n"
-"... and we'll keep drawing inspiration from your comments!"
+"Join our big friendly Discord community {0} and find us on social "
+"networks!\n"
+"There you will be able to find like-minded people, share your experience and "
+"learn many new exciting things."
 msgstr ""
-"당신의 생각을 여기서 우리와 공유해 주세요: {0}\n"
-"...남겨주신 글을 보고 많은 영감을 받고 있습니다!"
+"친근한 Discord 커뮤니티 {0}에 참여하고 소셜 네트워크에서도 저희를 찾아주세요!\n"
+"그곳에서 마음 맞는 사람들을 만나고, 경험을 나누며, 새롭고 흥미로운 것들을 많이 알아갈 수 있습니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.MotivationStartPart
 msgctxt "59183092-d928-43ca-aa7f-541e9c2b36da"
@@ -19427,12 +19429,9 @@ msgstr "친애하는 왕과 여왕 전하께!"
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.MotivationStartPartFormat
 msgctxt "b47d60ef-037e-4d17-b454-47b90fcc3861"
 msgid ""
-"Thank you for your continuing support of Pathfinder: Kingmaker! We're glad "
-"you're having fun, and that inspires us to develop this game even further. "
-"{0}"
-msgstr ""
-"패스파인더: 킹메이커에 대한 지속적인 지원에 감사드립니다! 게임을 즐겨주셔서 감사하고, 이는 저희 게임을 더욱 발전시키는 원동력이 되고 "
-"있습니다. {0}"
+"Thank you for your support! Your dedication gives us the strength and "
+"enthusiasm to expand the Pathfinder universe and make our games better."
+msgstr "응원해 주셔서 감사합니다! 여러분의 헌신은 패스파인더 세계를 확장하고 저희 게임을 더 좋게 만들 힘과 열정을 줍니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_MainMenu.NewGame
 msgctxt "0c6d5277-78db-4fdf-b111-814424e8e7cd"
@@ -20715,7 +20714,7 @@ msgctxt "79486d32-79ee-4bd3-b01e-5c559c35cf0f"
 msgid ""
 "<color=#008000><b>Specialization school</b> (Uses special slots first, when "
 "memorized.)</color>"
-msgstr "<color=#008000><b전문 학파</b> (암기시 전용 칸을 먼저 사용합니다)</color>"
+msgstr "<color=#008000><b>전문 학파</b> (암기시 전용 칸을 먼저 사용합니다)</color>"
 
 #. Mechanics/Blueprints/Root/UIStrings_SpellBookTexts.SpellFailureChance
 msgctxt "797e6b3e-4f42-4b12-95c5-bdace70be47b"
@@ -23167,7 +23166,7 @@ msgctxt "57b64298-f66a-425a-abb7-978fb9614760"
 msgid ""
 "<font=\"Saber_Dist32\""
 "><size=140%><color=#983f1d>E</color></size></font>quipment"
-msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>장</color></size>비"
+msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>장</color></size></font>비"
 
 #. Mechanics/Blueprints/Root/UITexts/EmptyBoonTip_EmptyBoonTip_String
 msgctxt "9b8c9926-bcbd-427c-a71b-d48741acecf8"
@@ -23179,7 +23178,7 @@ msgctxt "6152c11c-7bcf-40c0-8092-fb565efacf58"
 msgid ""
 "<font=\"Saber_Dist32\""
 "><size=140%><color=#983f1d>E</color></size></font>ncyclopedia"
-msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>백</color></size>과사전"
+msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>백</color></size></font>과사전"
 
 #. Mechanics/Blueprints/Root/UITexts/EndOfRoundText_EndOfRoundText_String
 msgctxt "8d04b891-6a33-4b3a-ba60-b493fb016829"
@@ -23385,7 +23384,7 @@ msgstr "일행 관리"
 msgctxt "d0eba513-dce5-4797-ab8a-65255cc29697"
 msgid ""
 "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>Q</color></size></font>uests"
-msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>퀘</color></size>스트"
+msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>퀘</color></size></font>스트"
 
 #. Mechanics/Blueprints/Root/UITexts/Journal_ShowCompliteQuest_String
 msgctxt "f742d055-bdc3-4e28-b57b-71ddd6b4ba17"
@@ -23991,7 +23990,9 @@ msgctxt "ce797f7c-0d0b-4f88-aeaf-ec862a18582d"
 msgid ""
 "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>Y</color></size></font>our "
 "Offer"
-msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>당</color></size>신의 제안"
+msgstr ""
+"<font=\"Saber_Dist32\"><size=140%><color=#983f1d>당</color></size></font>신의 "
+"제안"
 
 #. Mechanics/Blueprints/Root/UITexts/Vendor_VendorSlotsHeader_String
 msgctxt "8783d4ee-72b6-4f4c-a4e0-3ff43dc71a3c"
@@ -24003,7 +24004,9 @@ msgctxt "f99a0c18-a8c5-40af-ada9-0830588d037a"
 msgid ""
 "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>V</color></size></"
 "font>endor's Offer"
-msgstr "<font=\"Saber_Dist32\"><size=140%><color=#983f1d>상</color></size>인의 제안"
+msgstr ""
+"<font=\"Saber_Dist32\"><size=140%><color=#983f1d>상</color></size></font>인의 "
+"제안"
 
 #. Mechanics/Blueprints/Root/UITexts/WeaponSetHeaderLabel_WeaponSetHeaderLabel_String
 msgctxt "73f86eb2-e69c-4ab9-9cb7-133979221daa"

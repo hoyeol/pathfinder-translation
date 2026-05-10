@@ -21146,9 +21146,9 @@ msgid ""
 "River Kingdoms would be very beneficial for foreign relations, opening "
 "political doors on the level of Avistan's major countries."
 msgstr ""
-"무법자위원회 의장의 자리는 1 년 임기입니다. 정치적 내분이 시작되기 전에 보좌역 중 한명은 {mf | King | Queen}가 "
-"의장자리의 최고의 후보라고 위원회의 다른 위원들을 설득해야 합니다. 리버 왕국의 영향력있는 정책 형성자가되는 것은 외교 관계에 매우 "
-"유익하며 아뷔스탄 주요 국가의 수준에서 정치적 문을 엽니 다."
+"무법자 위원회 의장의 자리가 막 공석이 되었습니다. 임기는 1년입니다. 정치적 내분이 시작되기 전에 보좌역 중 한 명은 "
+"{mf|왕|여왕}이 의장 자리의 최고의 후보라고 위원회의 다른 위원들을 설득해야 합니다. 리버 왕국의 영향력 있는 정책 결정자가 되는 "
+"것은 외교 관계에 매우 유익하며, 아비스탄 주요 국가 수준의 정치적 문을 열어 줍니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck10/OutlawCouncil_LocalizedName
 msgctxt "8500fa3e-8576-4ed1-a009-98ec370793ec"
