@@ -9435,7 +9435,7 @@ msgid ""
 "his border? I've seen all sorts of miracles, but this would be hard to "
 "believe."
 msgstr ""
-"우리 앞에 놓인 길은 다시금 우리를 무고한 희생자를 기다리는 법에 구애받지 않는 도적들이 있는 {g|pitax}피탁스{/g}의 경계지로 "
+"우리 앞에 놓인 길은 다시금 우리를 무고한 희생자를 기다리는 법에 구애받지 않는 도적들이 있는 {g|Pitax}피탁스{/g}의 경계지로 "
 "이끌었습니다. 우리가 그곳에서 도적들 대신에 방어 순찰대와 우연히 마추쳤을 때 얼마나 놀랬을지 상상해 보세요! 이로베티왕이 이 경계지역에 "
 "질서를 회복시키려고 결정한 것일까요? 저는 모든 종류의 기적같은 일 들을 보아왔지만, 이것은 정말 믿기 힘들었습니다."
 
@@ -9463,7 +9463,7 @@ msgid ""
 "{g|Pitax}Pitax{/g}."
 msgstr ""
 "경비대에 따르면, 왕은 국경을 폐쇄하고 그의 다가올 승리의 세세한 비밀들을 지키라고 명령했습니다. 그 경비원은 정중했지만 단호했습니다. "
-"다행히도, 우리에게는 그에게 도전하여 {g|pitax}피탁스{/g}로 향하는 길을 위해 싸울 이유가 없었습니다."
+"다행히도, 우리에게는 그에게 도전하여 {g|Pitax}피탁스{/g}로 향하는 길을 위해 싸울 이유가 없었습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/PitaxRegionBlock/Cue_0005_Text
 msgctxt "5a053702-5c4c-47e3-b71d-45bf79dc734a"
@@ -9492,7 +9492,7 @@ msgid ""
 "no need to derail our relations with Pitax without a good reason."
 msgstr ""
 "경비원은 얼굴을 찌푸렸습니다: \"아마도, 우리가 싸운다면, 당신이 이길 것입니다. 그리곤 외교적 문제가 뒤따르고, 어떠한 경우에도 "
-"당신은 {g|pitax}피탁스{/g}에서 추발될 것입니다.\" 우리는 상황에 대해 논의했고, 피탁스와의 관계에서 어떠한 훌륭한 이유없이 "
+"당신은 {g|Pitax}피탁스{/g}에서 추발될 것입니다.\" 우리는 상황에 대해 논의했고, 피탁스와의 관계에서 어떠한 훌륭한 이유없이 "
 "벗어날 필요가 없다고 결론내렸습니다."
 
 #. Mechanics/Blueprints/World/GlobalMapEvents/PitaxRegionBlock/Cue_0007_Text
