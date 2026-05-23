@@ -5289,7 +5289,7 @@ msgid ""
 "through endless mist as she helplessly searched for salvation."
 msgstr ""
 "...때대로, 맑은 봄날의 밤이면, {mf|왕|여왕}은 환상들을...보았어요. 그곳에서, 님프 {d|c61 Nyrissa "
-"briar}나이리사{/d}는 핼쓱하고 지친 모습으로, 어찌할 수 없는 구원을 찾아 끝없는 안개 속을 걷고 있었죠."
+"Briar}나이리사{/d}는 핼쓱하고 지친 모습으로, 어찌할 수 없는 구원을 찾아 끝없는 안개 속을 걷고 있었죠."
 
 #. Mechanics/Blueprints/World/Epilogues/Cue_0317_evilNyrissa_Text_String
 msgctxt "dd20e778-4a9f-4b5d-a627-0dc3f275819c"
