@@ -2069,7 +2069,7 @@ msgstr ""
 "\"데몬이나 다이몬 숭배자들, 그리고 기타 비슷한 악의 근원을 색출하는 것이 선조가 준 임무였어. 물론 카디라의 작렬하는 태양 아래를 "
 "배회하는 이 악의 무리들은 진짜일 수도 있고, 조작해서 만들어낸 상상의 악일 수도 있었지. 취조, 혐의, 재판, 공개 처형. 이걸 "
 "지켜보는 이들의 마음 속에는 당연히 공포가 자라나 신앙을 좀먹고 의심의 씨앗을 뿌렸어. '서렌레이가 정말로 선한 여신이라면 어떻게 이런 "
-"일을 용납할 수 있지? 다음에는 내가 저런 꼴을 당할 수도 있는데?' 그럼 곧 지옥의 사자가 이 고뇌하는 사람들의 집에 찾아와서는 보호와 "
+"일을 용납할 수 있지? 다음에는 내가 저런 꼴을 당할 수도 있는데?' 그럼 곧 {g|Hell}지옥{/g}의 사자가 이 고뇌하는 사람들의 집에 찾아와서는 보호와 "
 "번영을 약속하는 거지. 물론 그들의 영혼을 대가로. 이게 바로 내가 서렌레이의 찬란한 깃발 아래에서 지옥의 군단을 돕는 방법이었어.\""
 
 #. Mechanics/Blueprints/World/Dialogs/1DLC/CompanionDialog/Cue_0183_Text
@@ -109233,7 +109233,7 @@ msgid ""
 "my life to what's important to me. The goddess' followers never gave me a "
 "single chance to walk my own life's path.\""
 msgstr ""
-"\"내가 기사단을 떠난 건 {g|Shelyn}셸린{/g}의 추종자를 모욕하기 위함이 아니었습니다. 내가 원한 건 오직 내가 중요하다고 "
+"\"내가 {g|Shelyn}영원한 장미{/g} 기사단을 떠난 건 {g|Shelyn}셸린{/g}이나 그녀의 추종자들을 모욕하기 위함이 아니었습니다. 내가 원한 건 오직 내가 중요하다고 "
 "생각하는 것에 내 인생을 헌신하는 것 뿐이었습니다. 여신의 추종자들은 단 한번도 내 스스로의 길을 갈 기회를 주지 않았습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Valerie/03_JudgementOfTheGods/Judgement/Cue_0082_Text
