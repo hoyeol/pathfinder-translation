@@ -9969,7 +9969,7 @@ msgstr ""
 "생명체와 맨 처음 맞닥뜨리는 순간 모든 파티원들은 적절한 지식 또는 전승 기술 판정을 시도합니다. 가장 큰 판정 수치로 파티가 얼마나 "
 "많은 정보를 얻는지 결정합니다. 판정을 실패하더라도, 그 생명체를 죽이거나 레벨업을 해서 기술 등급을 올리는 방법으로 다시 조사가 "
 "가능합니다.\n"
-"생명체에 대해 알아보려면[{bind|조사하기}]를 누르거나 \"조사하기\" 버튼을 누르십시오."
+"생명체에 대해 알아보려면[{bind|Inspect}]를 누르거나 \"조사하기\" 버튼을 누르십시오."
 
 #. Mechanics/Blueprints/Encyclopedia/Inspect_Title
 msgctxt "9a9cb8e8-3d65-407a-baa4-1996382f8b51"
@@ -10323,7 +10323,7 @@ msgid ""
 "Journal, press <b>{bind|OpenJournal}</b>."
 msgstr ""
 "린지의 저널은 당신의 현재 퀘스트와 임무를 나타냅니다. 변경 사항이 생기면 메인 스크린에서 표시가 될 것입니다. 저널을 열려면 "
-"<b>{bind|저널열기}</b>를 누르십시오."
+"<b>{bind|OpenJournal}</b>를 누르십시오."
 
 #. Mechanics/Blueprints/Encyclopedia/Journal_Title
 msgctxt "300a4b93-2860-4bcb-ae64-532b0fb762c6"
