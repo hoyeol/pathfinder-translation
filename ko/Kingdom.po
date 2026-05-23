@@ -276,7 +276,7 @@ msgid ""
 "attempting to resolve any scenario."
 msgstr ""
 "{mf|남작령|남작령|왕국|왕국}의 마법 사용에 대한 억압에 주문 시전자가 등을 돌렸습니다. 마법대신은 전체 시나리오에서 문제 해결에 "
-"관해 -2 의 패널티를 받습니다."
+"관해 -2 의 페널티를 받습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Rank-Ups/ArcRank9-HarderEvents_DisplayName
 msgctxt "bde6ec46-90ee-4dd5-a645-f4ee5dc44f50"
@@ -34597,7 +34597,7 @@ msgid ""
 "region, adjacent to Brevoy."
 msgstr ""
 "국경을 확보하고 지역의 군사력을 강화합니다. 효과: 브레보이와의 관계를 희생하면서, 나라의 군사력과 방비를 크게 높입니다. 이로 인해 "
-"브레보이와 인접한 지역에서 발생하는 모든 사건을 해결할 때 -2의 패널티가 발생합니다."
+"브레보이와 인접한 지역에서 발생하는 모든 사건을 해결할 때 -2의 페널티가 발생합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Outskirts_Upgrade_MilitaryFort_LocalizedName
 msgctxt "977bc085-d158-45c3-9c28-3be56fdfa6b5"

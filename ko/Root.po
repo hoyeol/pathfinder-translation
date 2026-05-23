@@ -11580,7 +11580,7 @@ msgid ""
 msgstr ""
 "주민 +4, 민심 +4, 비전 -10, 치안 +4\n"
 "안정도: 상승\n"
-"{mf|남작령|남작령|왕국|왕국} 효과: 비전 규제 (마법대신은 전체 시나리오에서 문제 해결에 관해 -2 의 패널티를 받습니다.)"
+"{mf|남작령|남작령|왕국|왕국} 효과: 비전 규제 (마법대신은 전체 시나리오에서 문제 해결에 관해 -2 의 페널티를 받습니다.)"
 
 #. Mechanics/Blueprints/Root/Glossary RankUps_Entries.Array.data[190].Description
 msgctxt "5c9ead8d-3454-4c27-92c4-d333af7f2df1"
@@ -19122,7 +19122,7 @@ msgid ""
 "Would you like to begin resting?"
 msgstr ""
 "모든 캐릭터가 탈진했습니다.\n"
-"탈진한 캐릭터는 이동속도가 절반으로 줄어들고, 돌격을 사용 할 수 없고, 힘과 민첩에 -6의 패널티를 받습니다. 완전히 휴식을 취하면 "
+"탈진한 캐릭터는 이동속도가 절반으로 줄어들고, 돌격을 사용 할 수 없고, 힘과 민첩에 -6의 페널티를 받습니다. 완전히 휴식을 취하면 "
 "탈진 상태가 회복 됩니다.\n"
 "휴식을 취하시겠습니까?"
 
@@ -19136,7 +19136,7 @@ msgid ""
 "Would you like to begin resting?"
 msgstr ""
 "모든 캐릭터가 피로합니다.\n"
-"피로한 캐릭터는 돌격을 사용 할 수 없고, 힘과 민첩에 -2의 패널티를 받습니다. 완전히 휴식을 취하면 피로 상태가 회복 됩니다.\n"
+"피로한 캐릭터는 돌격을 사용 할 수 없고, 힘과 민첩에 -2의 페널티를 받습니다. 완전히 휴식을 취하면 피로 상태가 회복 됩니다.\n"
 "휴식을 취하시겠습니까?"
 
 #. Mechanics/Blueprints/Root/UIStrings_GlobalMap.RandomEncounterDescDefault
@@ -24078,7 +24078,7 @@ msgstr ""
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[104].Name
 msgctxt "530574cf-d0a6-4dae-8749-28fe03773276"
 msgid "Party penalty"
-msgstr "일행 패널티"
+msgstr "일행 페널티"
 
 #. Mechanics/Blueprints/Root/UITooltipData_Entries.Array.data[104].Name_1
 msgctxt "c1327ad3-7185-4489-9f5e-0dee5873e81f"

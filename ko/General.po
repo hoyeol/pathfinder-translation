@@ -101,7 +101,7 @@ msgid ""
 "penalty to Strength and Dexterity. After a complete rest, exhausted "
 "characters are no longer exhausted."
 msgstr ""
-"탈진한 캐릭터는 이동속도가 절반으로 줄어들고, 돌격을 사용 할 수 없고, 힘과 민첩에 -6의 패널티를 받습니다. 완전히 휴식을 취하면 "
+"탈진한 캐릭터는 이동속도가 절반으로 줄어들고, 돌격을 사용 할 수 없고, 힘과 민첩에 -6의 페널티를 받습니다. 완전히 휴식을 취하면 "
 "탈진 상태가 회복 됩니다."
 
 #. Mechanics/Blueprints/Buffs/Exhausted_m_DisplayName
@@ -149,7 +149,7 @@ msgid ""
 "fatigued character to become exhausted. After a complete rest, fatigued "
 "characters are no longer fatigued."
 msgstr ""
-"피로한 캐릭터는 이동속도가 절반으로 줄어들고, 돌격을 사용 할 수 없고, 힘과 민첩에 -2의 패널티를 받습니다. 이미 피로 상태인 "
+"피로한 캐릭터는 이동속도가 절반으로 줄어들고, 돌격을 사용 할 수 없고, 힘과 민첩에 -2의 페널티를 받습니다. 이미 피로 상태인 "
 "캐릭터가 또다시 다른 행동 등으로 인해 피로하게 되면 탈진 상태가 됩니다. 완전히 휴식을 취하면 피로 상태가 회복됩니다."
 
 #. Mechanics/Blueprints/Buffs/Fatigued_m_DisplayName
