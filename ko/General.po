@@ -8851,7 +8851,7 @@ msgstr ""
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[31]_String
 msgctxt "78c69b66-ed8a-422f-81ab-e7249dcea9e0"
 msgid "Use light weapons for two-weapon fighting — they have lower penalties."
-msgstr "쌍수 무기를 들고 싸울 때는 가벼운 무기를 사용하십시오. 페널티가 적습니다."
+msgstr "쌍수 무기를 들고 싸울 때는 경량 무기를 사용하십시오. 페널티가 적습니다."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[32]_String
 msgctxt "c382dd31-cc75-4c1c-8044-5e1c1a39be9f"
