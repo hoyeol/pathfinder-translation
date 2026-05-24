@@ -19950,7 +19950,7 @@ msgstr "요리사가 훌륭한 <b>{recipe}</b> 요리를 만들었습니다."
 #. Mechanics/Blueprints/Root/UIStrings_Rest.LogHealing
 msgctxt "1e179618-646b-4335-b34f-e66dac1b05c6"
 msgid "{source} healed {count} hit points."
-msgstr "{source} 치유 된 {count} hit points."
+msgstr "{source}이(가) 생명점 {count}점을 치유했습니다."
 
 #. Mechanics/Blueprints/Root/UIStrings_Rest.LogHuntingFail
 msgctxt "a7eed4b6-e76c-43d8-8ea0-989cf0944edd"
