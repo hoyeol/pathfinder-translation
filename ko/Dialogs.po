@@ -26982,7 +26982,7 @@ msgstr "\"난 트롤들이 싫어! 그들이 에쿤의 마을에 한 짓을 생�
 #. Speaker : Ekun_Companion
 msgctxt "9af533b5-7c22-49bb-89e7-64d0e90c30fa"
 msgid "\"Torag bless you, Amiri. You know how revenge is forged.\""
-msgstr "\"토라그(Torag)가 너를 축복하길, 아미리. 너는 어떻게 복수가 완성되는지 알지.\""
+msgstr "\"토락이 너를 축복하길, 아미리. 너는 어떻게 복수가 완성되는지 알지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Banter/AmiriEkun/Banter_AmiriEkun_Pack2_3_FirstPhrase.Array.data[0]
 #. Speaker : Amiri_Companion
@@ -28074,13 +28074,13 @@ msgctxt "526db3c9-6164-4437-99b0-3c33e462569c"
 msgid ""
 "\"A good, solid bow. It will last for a long time. I'll fix it, and Torag "
 "will bless it.\""
-msgstr "\"단단하고 좋은 활이군. 아주 오래되었어. 내가 이것을 고치면, 토락(Torag)께선 축복하실 것이오.\""
+msgstr "\"단단하고 좋은 활이군. 아주 오래되었어. 내가 이것을 고치면, 토락께선 축복하실 것이오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Banter/EkunEkun/Banter_EkunEkun_Pack2_4_FirstPhrase.Array.data[0]
 #. Speaker : Ekun_Companion
 msgctxt "1da06d17-8579-4da4-9326-7a8cb6f82419"
 msgid "\"I should never have come to the Stolen Lands.\""
-msgstr "\"결코 도둑맞은 땅(the Stolen Lands)에 발을 들여선 안되었어.\""
+msgstr "\"결코 도둑맞은 땅에 발을 들여선 안되었어.\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Banter/EkunEkun/Banter_EkunEkun_Pack2_4_Responses.Array.data[0].Response
 #. Speaker : Ekun_Companion
@@ -28094,7 +28094,7 @@ msgstr "\"아니, 그렇지 않아. 나는 머무를 수 없었어. 그러나 �
 #. Speaker : Ekun_Companion
 msgctxt "c5166386-bee7-429a-9b5b-470dfb25185f"
 msgid "\"Torag is a decent god. It's a pity you don't serve him.\""
-msgstr "\"토락(Torag)께선 진실된 신이오. 당신이 그분을 섬기지 않아서 유감이군.\""
+msgstr "\"토락께선 진실된 신이오. 당신이 그분을 섬기지 않아서 유감이군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Banter/EkunHarrim/Banter_EkunHarrim_EkunHarrim1_Responses.Array.data[0].Response
 #. Speaker : Harrim_Companion
@@ -28479,8 +28479,7 @@ msgid ""
 "happy in my quiet village. But now – oh well! Now we both have our home "
 "here, in the Stolen Lands!\""
 msgstr ""
-"\"헤, 압살롬하고 내 고향을 맞바꿨으면 좋겠다! 너도 조용한 우리 마을이 마음에 들 거야. 어쨌든 지금은 우리 둘 다 여기 도둑맞은 땅("
-"the Stolen Lands)이 집이니까!\""
+"\"헤, 압살롬하고 내 고향을 맞바꿨으면 좋겠다! 너도 조용한 우리 마을이 마음에 들 거야. 어쨌든 지금은 우리 둘 다 여기 도둑맞은 땅이 집이니까!\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Banter/EkunLinzi/Banter_EkunLinzi_Pack2_4_Responses.Array.data[1].Response
 #. Speaker : Kalikke_Companion
@@ -174207,7 +174206,7 @@ msgid ""
 "veins! She has the evil eye, and she eats people! She even turns into a "
 "black raven and soars in the sky. It's sure as day that she took my boy!\""
 msgstr ""
-"{n}제나는 조심스럽게 주변을 둘러보고는 속삭였습니다,{/n} \"{g|Narlmarches}날마치(Narlmarches){/g}에 늙은 "
+"{n}제나는 조심스럽게 주변을 둘러보고는 속삭였습니다,{/n} \"{g|Narlmarches}날마치{/g}에 늙은 "
 "마귀할멈이 있습니다...늪지의 마녀지요! 이름조차 크게 말할 수 없어요. 묻지도 마세요! 조금이라도 떠올리기만 해도 몸서리가 "
 "쳐진다니까요! 그 마녀는 악마같은 눈을 가지고 있고, 사람들을 잡아먹어요! 검은 큰까마귀로도 변신해서 하늘높이도 올라갈 수 있답니다. 그 "
 "마귀가 내 아이를 데려간 것이 명백해요!\""
@@ -205927,8 +205926,7 @@ msgid ""
 "way, you bring a handful of them back here, I'll let your goons go!\""
 msgstr ""
 "\"깃털처럼 보이는 마법 물품이 있어. 깃털 토큰이지. 땅에 던지면 어디서든지 나무가 불쑥 자라나. 너희 마법사들이 만들 수 있어. "
-"두어개 쯤 산다고 주머니가 거덜나지는 않아. 내 사촌 티레시아도 만들 수 있어. 그녀는 {g|Narlmarches} "
-"Narlmarches{/g}에 살지. 네가 그것을 가져오면 네 친구들을 풀어주겠다!\""
+"두어개 쯤 산다고 주머니가 거덜나지는 않아. 내 사촌 티레시아도 만들 수 있어. 그녀는 {g|Narlmarches}날마치{/g}에 살지. 네가 그것을 가져오면 네 친구들을 풀어주겠다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/DelicateSituation/Dialogue_DelicateSituation/Cue_0056_Text
 #. Speaker : Melianse
@@ -206150,8 +206148,7 @@ msgid ""
 "Or just run off to one of the mages living in the swamps. They usually "
 "collect those. Maybe they'll be in charitable mood to share!\""
 msgstr ""
-"{n}멜리안스가 깔깔거립니다.{/n} \"너희 인간은 바보 같아. 기억력이 나빠! {g|Narlmarches} Narlmarches{/g}"
-"로 가서 내 사촌 티레시아라는 드라이어드를 찾아. 그녀는 깃털 토큰을 만들 수 있어. 아니면 늪에 사는 마법사를 잡아. 그들은 보통 "
+"{n}멜리안스가 깔깔거립니다.{/n} \"너희 인간은 바보 같아. 기억력이 나빠! {g|Narlmarches}날마치{/g}로 가서 내 사촌 티레시아라는 드라이어드를 찾아. 그녀는 깃털 토큰을 만들 수 있어. 아니면 늪에 사는 마법사를 잡아. 그들은 보통 "
 "그것들을 수집해. 어쩌면 그들은 기분이 좋아서 나눠줄 거야!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/DelicateSituation/Dialogue_Melianse/Cue_0014_Text
@@ -246248,8 +246245,7 @@ msgid ""
 "go — without you, we'd still be stumping around that swamp, all for nothing!"
 "\""
 msgstr ""
-"\"우리를 기억하지 못해? 뭐 우리를 기억하기에는 너무나 많은 사람을 알았을 수도 있겠군... 우리는 "
-"{g|Narlmarches}Narlmarches{/g}의 주민들이야! 우리는 나무 밑을 파서 보물을 찾으려 했지만 아무것도 없었어. 네가 "
+"\"우리를 기억하지 못해? 뭐 우리를 기억하기에는 너무나 많은 사람을 알았을 수도 있겠군... 우리는 {g|Narlmarches}날마치{/g}의 주민들이야! 우리는 나무 밑을 파서 보물을 찾으려 했지만 아무것도 없었어. 네가 "
 "와서 다행이야. 네가 없었다면 여전히 늪 주위를 파헤치며 헛수고나 하고 있었겠지!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/DunswardOutdoor/GoldFever/Cue_0010_Text
@@ -251139,7 +251135,7 @@ msgctxt "20bc6bef-21a6-4813-bcdb-d9945118b689"
 msgid ""
 "\"I'm so glad Thomas and I moved here! A welcome change from the Narlmarches!"
 "\""
-msgstr "\"토마스와 함께 여기로 이사 와서 좋아! Narlmarches보다 좋은 곳이야!\""
+msgstr "\"토마스와 함께 여기로 이사 와서 좋아! 날마치보다 좋은 곳이야!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/VarnholdBefore/Barks/VarnholdOtherPeople_PeasantsCutscene01_2_String
 msgctxt "d6e20750-fe4a-4c7e-a8f7-9dcfa549ab1d"
@@ -253574,7 +253570,7 @@ msgid ""
 "room. However, this small victory did little to help us solve our most "
 "pressing problem — the rapidly rising water."
 msgstr ""
-"강에서 온 그 동물은 {g|Stolen Lands}Stolen Lands'{/g}의 위대한 영웅들을 괴롭히는 것을 포기했습니다. 장어는 "
+"강에서 온 그 동물은 {g|Stolen Lands}도둑맞은 땅{/g}의 위대한 영웅들을 괴롭히는 것을 포기했습니다. 장어는 "
 "시끄러운 동료들 옆에 있기보다는 방 구석으로 가서 숨기로 결정했습니다. 하지만 이 작은 승리는 우리가 문제를 해결하는 데에 전혀 도움이 "
 "되지 않았습니다. 물의 높이는 빠르게 높아지고 있었습니다."
 
@@ -267166,7 +267162,7 @@ msgid ""
 "battle!\""
 msgstr ""
 "\"나는 내가 누구에게 말하고 있는지 완벽하게 잘 기억하고 있어. 나는 단 한 명의 범인을 잡지 못한 통치자에게 말하고 있지. 아니면 "
-"불가능하지는 않지만 꺼리는 것이 아닌가? 곧 발견 할 것이다. {g|Hellknights}Hellknights{/g}! 전투준비!\""
+"불가능하지는 않지만 꺼리는 것이 아닌가? 곧 발견 할 것이다. {g|Hellknights}헬나이트{/g}! 전투준비!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/LinxiaBeforeFight/Cue_0038_Text
 msgctxt "3a759557-5e6a-4184-a8f1-8f7de694f2a8"
@@ -267484,7 +267480,7 @@ msgid ""
 "\"What is this? Cowardice or betrayal? Clearly I should not have relied on "
 "your honesty. {g|Hellknights}Hellknights{/g}, charge!\""
 msgstr ""
-"\"이것은 비겁함인가 배신인가? 너의 정직에 의지해서는 안되겠군. {g|Hellknights}Hellknights{/g} 돌격하라!\""
+"\"이것은 비겁함인가 배신인가? 너의 정직에 의지해서는 안되겠군. {g|Hellknights}헬나이트{/g} 돌격하라!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BeforeFight/Cue_0020_Text
 #. Speaker : Linxia
@@ -267563,7 +267559,7 @@ msgstr "\"브라인하트는 어떻습니까?\""
 msgctxt "7efd0c52-8135-400f-93b1-5cffc0c71c0c"
 msgid ""
 "\"Aren't you worried that the Hellknights will show up here once again?\""
-msgstr "\"Hellknights가 다시 여기에 나타날까 걱정되지 않나요?\""
+msgstr "\"헬나이트가 다시 여기에 나타날까 걱정되지 않나요?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BrineDarven/Cue_0001_Text
 msgctxt "4848759d-f0ea-4ead-b1c9-0dbd18f5a2c1"
@@ -267694,7 +267690,7 @@ msgid ""
 "{g|Hellknights}Hellknights{/g} will take me by surprise.\""
 msgstr ""
 "\"그들을 들이시죠. 나는 이미 괜찮은 경호원을 고용했고 신뢰할 수 있는 이웃이 있습니다.\" {n}다르벤이 인사합니다.{/n} \"게다가"
-" 나는 {g|Cheliax} Cheliax{/g}에 정보원이 있습니다. 그래서 {g|Hellknights}Hellknights{/g}가 "
+" 나는 {g|Cheliax}첼리악스{/g}에 정보원이 있습니다. 그래서 {g|Hellknights}헬나이트{/g}가 "
 "기습해서 나를 데려 갈 확률이 희박합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BrineDarven/Cue_0035_Text
@@ -267918,7 +267914,7 @@ msgid ""
 "regretfully decline.\""
 msgstr ""
 "\"아...\" {n}다르벤은 천천히 말하고 조심스럽게 단어를 선택합니다.{/n} \""
-"{g|Hellknights}Hellknights{/g}는 극도로 심각한 적입니다. 나는 신뢰할 수 있는 동맹국 없이 그들을 대적 할 수 "
+"{g|Hellknights}헬나이트{/g}는 극도로 심각한 적입니다. 나는 신뢰할 수 있는 동맹국 없이 그들을 대적 할 수 "
 "없었습니다. 그리고 당신은... 나에게는 미지의 존재입니다. 나는 당신의 동기를 이해할 수 없으며 당신의 행동 과정을 예측할 수 "
 "없습니다. 그래서 나는 당신의 제안에 대해 당신에게 감사해야 하지만 유감스럽게 거절합니다. \""
 
@@ -268049,7 +268045,7 @@ msgstr "\"본보기 처형입니까? 함께 볼 수 없어 아쉽군요.\""
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/LinxiaWins/Answer_0020_AlignmentShift.Description
 msgctxt "8ec13792-9847-4365-aa9e-7d481e16f380"
 msgid "Accepted an alliance with the Hellknights."
-msgstr "Hellknights와 동맹을 맺습니다."
+msgstr "헬나이트와 동맹을 맺습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/LinxiaWins/Answer_0020_Text
 msgctxt "25dbe504-2574-41c8-b82b-dd6d9de2755d"
