@@ -22271,7 +22271,7 @@ msgid ""
 "that hurts... I can't stand the pain!\""
 msgstr ""
 "\"{name}! 적절한 시기에 왔어. 나는 모든 것이 끝났다고 생각했어...\" {n}바솔로뮤는 고통으로 찡그리며 트롤의 시체를 "
-"걷어찹니다. {/n} \"이 괴물! 더러운 괴물! 냄새 나는 녀석! 아프군... 나는 아픈 게 싫어!\""
+"걷어찹니다.{/n} \"이 괴물! 더러운 괴물! 냄새 나는 녀석! 아프군... 나는 아픈 게 싫어!\""
 
 #. Test/Dialogues/AfterAttack/Cue_58414 9_Text
 #. Speaker : SadisticMage

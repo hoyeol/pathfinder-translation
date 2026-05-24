@@ -2402,7 +2402,7 @@ msgctxt "4a1f76d9-3fbe-48a1-9731-c3cabedf242e"
 msgid ""
 "{n}Kanerah looks at you excitedly, dancing in place.{/n} \"What a fine day, "
 "isn't it?\""
-msgstr "{n}카네라는 제자리에 서서 춤을 추며 신난 듯 당신을 바라봅니다. {/n} \"정말 좋은 날이지 않아?\""
+msgstr "{n}카네라는 제자리에 서서 춤을 추며 신난 듯 당신을 바라봅니다.{/n} \"정말 좋은 날이지 않아?\""
 
 #. Mechanics/Blueprints/World/Dialogs/1DLC/CompanionDialog/Cue_0248_Text
 #. Speaker : Kanerah_Companion
@@ -15637,7 +15637,7 @@ msgid ""
 "Your Grace|Your Highness|Your Highness}. This mission... is very important "
 "to me.\""
 msgstr ""
-"\"지도에 표시해 드리지요.\" {n}메이가르는 감사를 표하며 고개를 끄덕입니다. {/n} \"가시겠다면 그곳으로 향하는 길에서 "
+"\"지도에 표시해 드리지요.\" {n}메이가르는 감사를 표하며 고개를 끄덕입니다.{/n} \"가시겠다면 그곳으로 향하는 길에서 "
 "뵙겠습니다. 감사합니다. {mf|영주님|영주님|전하|전하}. 이 일은... 내게 매우 중요합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/2DLC/ForMainGame/ktc-VarnLostlarn/Cue_0011_Text
@@ -17726,7 +17726,7 @@ msgid ""
 "sent, and soon, guests will be summoned to the host's door.\""
 msgstr ""
 "{n}날카롭게 찢어지는 듯한 여성의 웃음소리가 사방에서 들립니다. 그러고나자 당신은 교태로운 목소리를 듣습니다.이 던전속에서 당신이 한 "
-"번은 들어봤던 목소리입니다. {/n} \"아아, 정말 안됐군! 남작은 후작부인의 연회에 참석하지 않을 거야. 물론 또 다른 환영회가 그를 "
+"번은 들어봤던 목소리입니다.{/n} \"아아, 정말 안됐군! 남작은 후작부인의 연회에 참석하지 않을 거야. 물론 또 다른 환영회가 그를 "
 "기다리고 있지... 초대장은 보냈고, 곧 손님들이 집주인의 문 앞으로 불려나오겠군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/2DLC/LostlarnKeep_Level1/VarnLeaves/Cue_0017_Text
@@ -22338,7 +22338,7 @@ msgid ""
 "won't cost you much...\" {n}You detect the sour stench of stale alcohol, as "
 "the old man mumbles.{/n}"
 msgstr ""
-"{n}낡아빠진 옷을 입은 노인이 헝클어진 턱수염을 만지작 거리며 당신을 빤히 쳐다봅니다. {/n}\"뭘 찾고 있지, 병사? 앗, "
+"{n}낡아빠진 옷을 입은 노인이 헝클어진 턱수염을 만지작 거리며 당신을 빤히 쳐다봅니다.{/n}\"뭘 찾고 있지, 병사? 앗, "
 "죄송합니다. 장군님! 그러니까, 무엇을 드릴까요? 주문, 마법? 비밀? 이 늙은 이그내쉬한테는 없는 게 없고 모르는 게 없답니다... "
 "완드도 있고 포션도 있고. 점을 봐드릴 수도 있고... 별로 안 비싸요...\"{n}웅얼대는 노인의 입에서 퀴퀴한 술 쉰내가 "
 "났습니다.{/n}"
@@ -51130,8 +51130,7 @@ msgid ""
 "right where you stand.{/n} \"{g|Hellknights}Hellknights{/g}! We're leaving! "
 "We'll continue our investigation somewhere else!\""
 msgstr ""
-"{n}눈빛으로 무언가를 태울 수 있다면 당신이 서있는 곳에서 약간의 연기가 올라갔을 것입니다.{/n} \"{g|Hellknights}헬 "
-"나이츠{/g}! 철수하라! 우리는 다른 곳에서 조사를 계속할 것이다!\""
+"{n}눈빛으로 무언가를 태울 수 있다면 당신이 서있는 곳에서 약간의 연기가 올라갔을 것입니다.{/n} \"{g|Hellknights}헬나이트{/g}! 철수하라! 우리는 다른 곳에서 조사를 계속할 것이다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/CapitalEvents/DealWithDevil/AngryLinxiaArrives/Cue_0009_Text
 msgctxt "0c776446-210f-44bd-9dcb-aa7b99a75a27"
@@ -52223,7 +52222,7 @@ msgid ""
 "lay claim to our Mistress's lands!\""
 msgstr ""
 "{n}갑자기 넝마를 입은 한 노인이 군중에서 걸어나옵니다. 혹은 군중들이 그에게 길을 내어주었는지 설명하기 어렵습니다. 그가 가까이 오자 "
-"당신은 그를 봅니다. 그는 선지자 {d|Remus}레무스 {/d}입니다. 그의 눈은 군중을 바라봅니다.{/n} \"회개하라! 어리석은 "
+"당신은 그를 봅니다. 그는 선지자 {d|Remus}레무스{/d}입니다. 그의 눈은 군중을 바라봅니다.{/n} \"회개하라! 어리석은 "
 "자들이여! 여신님을 달래는 마지막 기회다.\" {n}그는 돌아서 당신을 가리키는데 그의 눈은 불타오릅니다.{/n} \"우리 여주인의 땅을 "
 "감히 자기 땅이라 주장하는 자를 죽임으로써 말이다!\""
 
@@ -52261,7 +52260,7 @@ msgid ""
 "forces you are trying to oppose! Repent, accept your faith and claim your "
 "reward — quick demise!\""
 msgstr ""
-"\"{d|c21 Remus Imprisoned}자물쇠 {/d}와 걸쇠 따위로 원초적인 힘을 멈춘다고? 죄인들을 벌하는 자연을 어느 문이 "
+"\"{d|c21 Remus Imprisoned}자물쇠{/d}와 걸쇠 따위로 원초적인 힘을 멈춘다고? 죄인들을 벌하는 자연을 어느 문이 "
 "견딜 수 있겠나? \" {n}Remus는 미소를 지으며 그의 썩은 이빨을 보여줍니다.{/n} \"네가 어떤 세력을 반대하는지 너는 전혀 "
 "알지 못한다! 회개하고 믿음을 받아들여 고통 없는 죽음을 요구하라!\""
 
@@ -52425,7 +52424,7 @@ msgid ""
 "{mf|his|her} subjects!\""
 msgstr ""
 "\" {mf|그|그녀}는 우리를 걱정하지도 않았다! 나는 그것을 잘 안다. 내 동료가 성 근처에서 이 악당과 {d|c22 Peasants "
-"Left} 잡담 {/d}을 나눴다. 그 후에 무슨 일이 있었는지 아나? 우리 군주는 백성들은 전혀 신경쓰지 않기에 그는 가족을 데리고 "
+"Left} 잡담{/d}을 나눴다. 그 후에 무슨 일이 있었는지 아나? 우리 군주는 백성들은 전혀 신경쓰지 않기에 그는 가족을 데리고 "
 "영영 떠났다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/CapitalEvents/Dialogue_Lynching/Cue_0051_Text
@@ -52496,7 +52495,7 @@ msgid ""
 "Killed}scattered{/d} the goblin tribe and stomped out their vile cult, "
 "there's been not a word of the vermin!\""
 msgstr ""
-"\"닥쳐라! {mf|남작|여남작}의 공적으로 고블린 부족이 {d|c22 Goblins Killed}뿔뿔이 흩어지고 {/d} 그들의 "
+"\"닥쳐라! {mf|남작|여남작}의 공적으로 고블린 부족이 {d|c22 Goblins Killed}뿔뿔이 흩어지고{/d} 그들의 "
 "사악한 숭배물은 부숴버렸고 그런 말은 나오지 않았다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/CapitalEvents/Dialogue_Lynching/Cue_0065_Text
@@ -53238,7 +53237,7 @@ msgid ""
 msgstr ""
 "\"우리의 존경하는 {g|Pitax}피탁스{/g} 손님은 자기 주군을 올바르게 찬양하는 법을 배워야 겠습니다. 감히 {g|King "
 "Noleski Surtova}놀레스키 전하{/g}의 삶과 비혼주의를 빗댄 노래를 부르다니요! 우리 남작령과 "
-"{g|Brevoy}브레보이{/g}의 동맹을 흔들게 두어선 안 됩니다. {g|House Surtova}서토바 {/g} 왕실 모독을 "
+"{g|Brevoy}브레보이{/g}의 동맹을 흔들게 두어선 안 됩니다. {g|House Surtova}서토바{/g} 왕실 모독을 "
 "방치하는 건 문제가 될 수 있습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/CapitalEvents/Dialogue_PitaxBard/Cue_0014_Text
@@ -54684,7 +54683,7 @@ msgid ""
 msgstr ""
 "{n}조심스러운 침묵이 군중을 집어삼킵니다. 사람들은 존경의 눈으로, 그와 동시에 두려움의 눈으로 당신을 바라봅니다. 몇몇이 두려움을 "
 "이기지 못하고 군중을 헤치며 자리를 빠져나가는 모습이 보입니다. 그러나 대부분은 경외 속에 귀를 기울이며 감히 연설에 방해가 될 어떤 "
-"행동도 하지 못합니다. {/n}"
+"행동도 하지 못합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/CapitalEvents/Dialogues_Coronation/ktc41-Coronation_Outdoor/Cue_LG_Reaction_Text_String
 msgctxt "d3b878f7-e7ed-4d46-a496-f44497563c74"
@@ -67957,7 +67956,7 @@ msgid ""
 "Judging by the elf's voice, it's obvious that she started the day with a jug "
 "of wine.{/n}"
 msgstr ""
-"{n}엘프는 헝클어진 머리카락 사이로 당신을 똑바로 봅니다. {/n}\"이봐. 너 모험가 맞지? {g|Stolen Lands}도둑맞은 "
+"{n}엘프는 헝클어진 머리카락 사이로 당신을 똑바로 봅니다.{/n}\"이봐. 너 모험가 맞지? {g|Stolen Lands}도둑맞은 "
 "땅{/g}의 보물을 찾고 있나? 나랑 같은 부류인 것 같군. 충고 하나 하지. 눈 크게 뜨고 등 뒤를 조심해. 때로는 친구가 적보다 "
 "위험해.\" {n}목소리로 보아, 그녀는 와인으로 하루를 시작한 것이 분명합니다.{/n}"
 
@@ -70095,7 +70094,7 @@ msgid ""
 "armor. So that I'd 'be more careful'. I didn't expect it, but the armor is "
 "welcome.\""
 msgstr ""
-"\"내가 {d|Ekun Ritual}마음을 굳혀 {/d} 엘리나도 기뻐했다. 나에게 갑옷을 주었고 나는 더 조심할 것이다. 예상하지 "
+"\"내가 {d|Ekun Ritual}마음을 굳혀{/d} 엘리나도 기뻐했다. 나에게 갑옷을 주었고 나는 더 조심할 것이다. 예상하지 "
 "못했지만 갑옷은 환영이다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/CompanionDialogues/Ekun/VS_Ekun_Companion_Dialogue/Cue_0124_Text
@@ -72222,7 +72221,7 @@ msgid ""
 "carefully, so that the vessel turns out to be beautiful. I've no wish to "
 "spend centuries in some ugly form.\""
 msgstr ""
-"\"우선 새로운 {d|Jaethal Reborn}몸 {/d}이 나를 기다리고 있다. 의식을 준비하는 데는 많은 시간이 걸릴 "
+"\"우선 새로운 {d|Jaethal Reborn}몸{/d}이 나를 기다리고 있다. 의식을 준비하는 데는 많은 시간이 걸릴 "
 "것이지만... 되살아난다면 하루에 세 번 해야 할 목록을 만들 것이다. 최소 10년은 무엇이든 시도하며 살 것 같아. 그리고는 삶을 "
 "즐기는 것을 그만두고 새로운 몸을 갖기 위해 아이 하나를 가져야 하겠지. 여럿 보다는 나을 거야. 잘생긴 남편을 골라야 미래의 몸이 "
 "예쁘겠지. 못생긴 얼굴로 몇백년을 살고 싶지는 않아.\""
@@ -72282,7 +72281,7 @@ msgid ""
 "burdensome connection with the past, and the road to a bright future lies "
 "before me. And it all happened thanks to you.\""
 msgstr ""
-"\"안녕!\" {n}Jaethal이 미묘하게 바뀐 것 같은 기분이 듭니다. {/n} \"우리의 운명이 바뀐다면 그건 놀라운 변화야. 어제 "
+"\"안녕!\" {n}Jaethal이 미묘하게 바뀐 것 같은 기분이 듭니다.{/n} \"우리의 운명이 바뀐다면 그건 놀라운 변화야. 어제 "
 "나는 길을 잃어 내 힘을 이해하지 못했다. 나는 여신의 목소리를 듣지 못했고 나의 목적도 몰랐지. 오늘 나는 승리했다. 의심의 여지 없이 "
 "과거의 짐을 덜어버리고 내 앞에 놓여진 미래를 향해 걸어갈 거야. 다 네 덕분이야.\""
 
@@ -79985,7 +79984,7 @@ msgid ""
 "believe what he had just said.{/n} \"Forgive me for my rash words. But this "
 "mission is important to me.\""
 msgstr ""
-"{n}트리스티안은 침묵하며 자신의 말을 믿지 못하겠다는 듯 주위를 걱정스럽게 돌아봅니다. {/n} \"제 무례함을 용서하십시오. 하지만 "
+"{n}트리스티안은 침묵하며 자신의 말을 믿지 못하겠다는 듯 주위를 걱정스럽게 돌아봅니다.{/n} \"제 무례함을 용서하십시오. 하지만 "
 "이 임무는 제게 너무도 중요합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/CompanionDialogues/Tristian/Tristian_Companion_Dialogue/Cue_0157_Text
@@ -84312,9 +84311,9 @@ msgid ""
 "reason he still breathes is the kin-slayer was {d|Amiri Chief Lives}too "
 "weak{/d} to finish him off! Away with the old fool!\""
 msgstr ""
-"\" {d|ChiefAkaia}아카이아 {/d}는 본능을 잃었다. 그는 함정에 우리를 이끌었다! 우리는 브레보이와의 전쟁에서 거의 "
+"\" {d|ChiefAkaia}아카이아{/d}는 본능을 잃었다. 그는 함정에 우리를 이끌었다! 우리는 브레보이와의 전쟁에서 거의 "
 "전멸했다. 젠장! 그가 아직도 숨 쉬는 유일한 이유는 동족 살해자가 그를 끝장내기에 {d|Amiri Chief Lives}너무 약하기 "
-"때문이다. {/d} 이 늙은이를 죽여라!\""
+"때문이다.{/d} 이 늙은이를 죽여라!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Amiri/Q3_Call_of_the_Blood/Nilak_new_chief/Cue_0003_Text
 #. Speaker : Vandal_Fighter_Dialogue01
@@ -84324,7 +84323,7 @@ msgid ""
 "like blind pups! We jumped into the trap. Almost killed ourselves against "
 "the {g|Brevoy}Brevoy{/g}! No real chief would let that happen!\""
 msgstr ""
-"\"동족 살해자가 아카이아를 {d|Amiri Kill Chief}죽인 후 {/d} 우리 모두는 눈먼 강아지처럼 행동했다! 우리는 함정에 "
+"\"동족 살해자가 아카이아를 {d|Amiri Kill Chief}죽인 후{/d} 우리 모두는 눈먼 강아지처럼 행동했다! 우리는 함정에 "
 "뛰어 들어 {g|Brevoy}브레보이{/g}로부터 멸망할 뻔했다! 진정한 족장은 그렇게하지 않을 것이다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Amiri/Q3_Call_of_the_Blood/Nilak_new_chief/Cue_0004_Text
@@ -90587,7 +90586,7 @@ msgid ""
 "answer. I'll start with 'why did you kill me?' and finish with 'how pathetic "
 "do you feel now, having failed twice to send me to oblivion?'\""
 msgstr ""
-"\"누가 이랬는지 알아? 갑작스러운 등장, 단도, 거짓 흔적... 그 {d|Enneo}혼혈 {/d}이 실마리를 쥐고 있다. 왜 나를 "
+"\"누가 이랬는지 알아? 갑작스러운 등장, 단도, 거짓 흔적... 그 {d|Enneo}혼혈{/d}이 실마리를 쥐고 있다. 왜 나를 "
 "죽이려 했냐는 질문으로 시작해 마지막에는 나를 죽이는 것이 그리도 힘들었냐고 비웃어줄 거야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Jaethal/Q1_Investigate_My_Death/RaiseUndead_Dialog/Cue_0036_Text
@@ -90660,7 +90659,7 @@ msgid ""
 "un-life goodbye.\""
 msgstr ""
 "{n}에네오는 눈이 반쯤 감긴 채로 무언가를 듣는 것 같기도 하고 쉬는 것 같기도 합니다.{/n} \"이상하군. 오늘은 "
-"{g|Pharasma}파라즈마 's{/g} 궁전에 방문하는 날인 줄 알았는데. 아직 내 의무는 끝나지 않은 것 같군. 아직 보내야 할 "
+"{g|Pharasma}파라즈마{/g}의 궁전에 방문하는 날인 줄 알았는데. 아직 내 의무는 끝나지 않은 것 같군. 아직 보내야 할 "
 "언데드 녀석들이 남았나 봐.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Jaethal/Q2_Follow_My_Shadow/AfterBattle/Cue_0002_Text
@@ -90670,7 +90669,7 @@ msgid ""
 "\"You helped cure a terrible plague. Accept the gratitude of "
 "{g|Pharasma}Pharasma's{/g} faithful servant — and this reward.\""
 msgstr ""
-"\"이 끔찍한 역병을 치료하게 네가 도왔다. {g|Pharasma}파라즈마 's{/g}의 충실한 종인 나의 감사를 받아. 이것은 "
+"\"이 끔찍한 역병을 치료하게 네가 도왔다. {g|Pharasma}파라즈마{/g}의 충실한 종인 나의 감사를 받아. 이것은 "
 "보상이야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Jaethal/Q2_Follow_My_Shadow/Barks/EnneoAfterAll_String
@@ -90679,7 +90678,7 @@ msgid ""
 "\"You helped cure a terrible plague. Accept the gratitude of "
 "{g|Pharasma}Pharasma's{/g} faithful servant — and this reward.\""
 msgstr ""
-"\"이 끔찍한 역병을 치료하게 네가 도왔다. {g|Pharasma}파라즈마 's{/g}의 충실한 종인 나의 감사를 받아. 이것은 "
+"\"이 끔찍한 역병을 치료하게 네가 도왔다. {g|Pharasma}파라즈마{/g}의 충실한 종인 나의 감사를 받아. 이것은 "
 "보상이야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Jaethal/Q2_Follow_My_Shadow/Barks/TanekaAfterAll_String
@@ -90819,7 +90818,7 @@ msgid ""
 "{g|Pharasma}Pharasma{/g}.{/n} \"I hope you've settled all your affairs with "
 "the poor old exile? It was an interesting show to watch.\""
 msgstr ""
-"{n}가짜 상인 {d|Enneo}에네오 {/d}는 가벼운 걸음으로 당신에게 접근합니다. 그의 차분한 친절함은 가면을 걷어내듯 "
+"{n}가짜 상인 {d|Enneo}에네오{/d}는 가벼운 걸음으로 당신에게 접근합니다. 그의 차분한 친절함은 가면을 걷어내듯 "
 "사라졌습니다. 그의 옷은 {g|Pharasma}파라즈마{/g}의 상징으로 장식되어 있습니다.{/n} \"노인네와 용무가 다 끝났길 "
 "바라는군? 흥미로운 볼거리였다.\""
 
@@ -100944,7 +100943,7 @@ msgid ""
 "here yet?\" {n}Nok-Nok sounds slightly relieved – but he still looks ready "
 "to bolt.{/n}"
 msgstr ""
-"{n}녹-녹이 말합니다.{/n} \"이 곳이다. 하지만... {d|GoblinKing}왕 {/d}은 아직 여기 없어? \" {n}녹 "
+"{n}녹-녹이 말합니다.{/n} \"이 곳이다. 하지만... {d|GoblinKing}왕{/d}은 아직 여기 없어? \" {n}녹 "
 "녹은 약간 누그러졌지만 여전히 뛰쳐나갈 준비가 되었습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/NokNok/3-KingsRevenge/Barghest/Cue_0007_Text
@@ -101972,7 +101971,7 @@ msgctxt "f7e9e8d7-00d9-4b96-ba17-a0039b681dec"
 msgid ""
 "\"Well, well, what have we here?\" {n}Octavia flips through the pages of one "
 "of the books.{/n} \"Reg! Take a look at this!\""
-msgstr "\"이런, 이런, 이게 뭘까나?\" {n}옥타비아는 한 권의 책의 훑어봅니다. {/n} \"레그! 이것 좀 봐!\""
+msgstr "\"이런, 이런, 이게 뭘까나?\" {n}옥타비아는 한 권의 책의 훑어봅니다.{/n} \"레그! 이것 좀 봐!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q2_BlindJustice/BooksFound/Cue_0004_Text
 #. Speaker : Regongar_Companion
@@ -102391,7 +102390,7 @@ msgid ""
 "\"Ha ha, hmm... You're right! That piece of shit's going to see us in his "
 "nightmares for the rest of his life!\""
 msgstr ""
-"{n}짜증이 가득했던 레곤가르의 얼굴에 서서히 만족스런 미소가 돌아옵니다. {/n} \"하 하, 흠.. 네가 맞아! 그 똥덩어리는 남은 "
+"{n}짜증이 가득했던 레곤가르의 얼굴에 서서히 만족스런 미소가 돌아옵니다.{/n} \"하 하, 흠.. 네가 맞아! 그 똥덩어리는 남은 "
 "생애동안 우리 얼굴이 나오는 악몽을 꾸겠지!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q2_BlindJustice/Janush_Before_Fight/Cue_0001_Text
@@ -102402,7 +102401,7 @@ msgid ""
 "you managed to track down my messenger, locate this place, and make your way "
 "here. Impressive, very impressive. I see all that training was not in vain!\""
 msgstr ""
-"{n}마에스트로 자누시는 만족한 미소를 짓고 손뼉치며 당신을 맞이합니다. {/n} \"그래 내 전령을 추적해 이 장소를 찾고 여기까지 "
+"{n}마에스트로 자누시는 만족한 미소를 짓고 손뼉치며 당신을 맞이합니다.{/n} \"그래 내 전령을 추적해 이 장소를 찾고 여기까지 "
 "왔다 이거지. 인상적이야, 매우 인상적이야. 내가 시킨 훈련들이 헛것은 아니었군!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q2_BlindJustice/Janush_Before_Fight/Cue_0002_Text
@@ -102472,7 +102471,7 @@ msgctxt "9ff8b042-d153-46ae-9ddf-218cdbe445ba"
 msgid ""
 "{n}Ekun's eyes narrow, and his muscles tense. He watches Regongar closely, "
 "preparing to strike a blow.{/n}"
-msgstr "{n}에쿤의 눈이 가늘어지고, 근육은 긴장하고 있습니다. 그는 레곤가르를 주시하며 공격을 준비합니다. {/n}"
+msgstr "{n}에쿤의 눈이 가늘어지고, 근육은 긴장하고 있습니다. 그는 레곤가르를 주시하며 공격을 준비합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q2_BlindJustice/Janush_Before_Fight/Cue_0010_Text
 #. Speaker : Valerie_Companion
@@ -102637,7 +102636,7 @@ msgid ""
 "last encounter. By the way, the beer you have here tastes like manticore "
 "piss... just saying. Good luck with Janush!\""
 msgstr ""
-"\"저런, 내가 눈곱만큼이라도 당신을 다시보길 원한다고 생각하나?\" {n}칼라나가 일어섭니다. {/n} \"좋은 하루 되시길, 내 "
+"\"저런, 내가 눈곱만큼이라도 당신을 다시보길 원한다고 생각하나?\" {n}칼라나가 일어섭니다.{/n} \"좋은 하루 되시길, 내 "
 "친구들. 이게 마지막 만남이었으면 하네요. 그나저나 이 집 맥주는 마치 만티코어 오줌 맛이 나는군. 별 뜻은 없어요. 자누시를 만날 때 "
 "행운이 따르기를!\""
 
@@ -102745,7 +102744,7 @@ msgid ""
 "startled.{/n}"
 msgstr ""
 "{n}회색 외투를 입은 별볼일 없게 생긴 드워프가 자리에 앉아 맥주를 홀짝입니다. 당신과 옥타비아, 레곤가르가 나타나자 그는 잔을 "
-"엎지르며 동요하는 모습을 보입니다. {/n}"
+"엎지르며 동요하는 모습을 보입니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q2_BlindJustice/Tavern_Not_Kalannah/Cue_0002_Text
 #. Speaker : Octavia_Companion
@@ -102816,7 +102815,7 @@ msgid ""
 "dwarf go pale and shrink into his chair.{/n} \"You... know him, don't you?\""
 msgstr ""
 "\"내 이름은 케렉입니다, 마에스트로 자누시의 미천한 종입지요...\" {n}그 이름을 듣자 떠오른 옥타비아와 레곤가르의 표정을 보자 "
-"드워프는 창백해져서는 의자 깊숙히 움츠려듭니다. {/n} \"당신들... 자누시 님을 알고있죠?\""
+"드워프는 창백해져서는 의자 깊숙히 움츠려듭니다.{/n} \"당신들... 자누시 님을 알고있죠?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q2_BlindJustice/Tavern_Not_Kalannah/Cue_0015_Text
 #. Speaker : Octavia_Companion
@@ -103103,7 +103102,7 @@ msgid ""
 "Della Fiorni's coat of arms.{/n} \"Well, then. No more mysteries. I know who "
 "I am now.\""
 msgstr ""
-"{n}옥타비아는 나무 아래 서서, 다시 한번 고정핀에 세겨진 델라 피오르니의 문장을 바라봅니다. {/n} \"음, 이걸로 끝이네요. 더 "
+"{n}옥타비아는 나무 아래 서서, 다시 한번 고정핀에 세겨진 델라 피오르니의 문장을 바라봅니다.{/n} \"음, 이걸로 끝이네요. 더 "
 "이상 미스터리는 없어요. 이제 난 내가 누군지 아니까요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Octavia_Highborn/Garden_Final/Cue_0002_Text
@@ -103728,7 +103727,7 @@ msgid ""
 "tears an oil lamp from the wall and hurls it to the floor.{/n}"
 msgstr ""
 "\"물론 필요치 않으셨겠죠? 과연 그럴까요? 그렇다면, 제가 그걸 없애 드리도록하죠!\" {n}비웃음이-어쩌면 일말의 고통이- 옥타비아의 "
-"얼굴을 일그러뜨려놓습니다 - 그녀는 벽에 있는 기름 램프를 떼어다 바닥에 집어 던집니다. {/n}"
+"얼굴을 일그러뜨려놓습니다 - 그녀는 벽에 있는 기름 램프를 떼어다 바닥에 집어 던집니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Octavia_Highborn/Mother/Cue_0032_Text
 #. Speaker : Octavia_Companion
@@ -104695,7 +104694,7 @@ msgid ""
 "dried ashberries, and is holding a stack of papers.{/n}"
 msgstr ""
 "{n}어린 아말리아는 어린아이 같이 둥글고 주근깨가 난 얼굴을 돌려, 맑은 녹색을 띠는 눈으로 당신을 바라봅니다. 그녀는 평범한 옷을 "
-"입고 마른 애호박으로 만든 목걸이를 매고 있으며, 종이 더미를 들고 있습니다. {/n}"
+"입고 마른 애호박으로 만든 목걸이를 매고 있으며, 종이 더미를 들고 있습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Tristian/Q1_KingdomOfTheCleansed/Capital_Amalia/Cue_0003_Text
 #. Speaker : C22-Amalia
@@ -105415,7 +105414,7 @@ msgid ""
 "baron{mf||ess}? Are you prepared to sacrifice your useless life for these "
 "people, who you claim to care about?\""
 msgstr ""
-"{n}횃불로 밝혀진 선지자의 얼굴은, 분노와 맹렬한 승리감으로 일그러져 끔찍하게 생긴 가면처럼 보입니다. {/n} \"할 말 있나, "
+"{n}횃불로 밝혀진 선지자의 얼굴은, 분노와 맹렬한 승리감으로 일그러져 끔찍하게 생긴 가면처럼 보입니다.{/n} \"할 말 있나, "
 "남작? 당신이 지키겠다고 맹세한 이 사람들을 위해 네 쓸모없는 생명을 희생할 준비가 되었나?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Tristian/Q1_KingdomOfTheCleansed/TaldanMine/Ritual/Cue_0010_Text
@@ -106320,7 +106319,7 @@ msgid ""
 "chest and smiles — not at you, but at that which only his blind eyes can "
 "see.{/n}"
 msgstr ""
-"{n}트리스티안은 곧게 서서 당신을 향합니다. 그의 얼굴엔 무한한 평안이 떠오릅니다. {/n} \"하지만 다시, 그녀의 빛과 함께 할 수 "
+"{n}트리스티안은 곧게 서서 당신을 향합니다. 그의 얼굴엔 무한한 평안이 떠오릅니다.{/n} \"하지만 다시, 그녀의 빛과 함께 할 수 "
 "있게 되었습니다.\" {n}그는 그의 가슴을 만지며 미소를 짓습니다 — 당신을 향해서가 아니라, 오직 그의 멀어버린 눈만 볼 수 있는 "
 "무언가를 향해서.{/n}"
 
@@ -106526,7 +106525,7 @@ msgid ""
 "{n}Tristian freezes and the golden veil that envelops him begins to "
 "vibrate.{/n} \"Yes, {name}. Yes. But not now.\""
 msgstr ""
-"{n}트리스티안이 멈춰서자, 그를 감싸안은 황금빛 장막이 떨리기 시작합니다. {/n} \"맞습니다, {name}. 그러겠습니다. 하지만 "
+"{n}트리스티안이 멈춰서자, 그를 감싸안은 황금빛 장막이 떨리기 시작합니다.{/n} \"맞습니다, {name}. 그러겠습니다. 하지만 "
 "지금은 아닙니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Tristian/Q2_SavingGrace/DunswardOutdoor/TristianCommune/Cue_TristianStaysMortal_Text_String
@@ -106728,7 +106727,7 @@ msgid ""
 "Nyrissa's power, I've had time to think. About what happened to me, and what "
 "Nyrissa did to me. About what she truly did.\""
 msgstr ""
-"{n}트리스티안은 고개를 돌립니다. 그가 눈이 멀었단 사실을 몰랐다면, 당신은 그가 허공을 쳐다보고 있다고 생각했을 겁니다. {/n} "
+"{n}트리스티안은 고개를 돌립니다. 그가 눈이 멀었단 사실을 몰랐다면, 당신은 그가 허공을 쳐다보고 있다고 생각했을 겁니다.{/n} "
 "\"당신이 날 나이리사의 손아귀로부터 해방시켜준 이후로, 많은 생각을 했습니다. 내게 무슨 일이 일어난 건지부터, 나이리사가 내게 무슨 "
 "짓을 한 건지, 그리고 그녀의 진정한 의도는 무엇이었는지에 대해서도 말입니다.\""
 
@@ -107799,7 +107798,7 @@ msgid ""
 "face and looks at the blood on her fingers — more baffled than scared.{/n}"
 msgstr ""
 "\"뭐? 무슨 일...\"{n} 발레리는 그녀의 얼굴을 가로지르는 상처를 만지고는 그녀의 손가락에 묻은 피를 바라봅니다. - 놀라기보단 "
-"당황한듯 합니다. {/n}"
+"당황한듯 합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Valerie/01_ChosenOfShelyn/03_OTP_Duel/Cue_0013_Text
 #. Speaker : Valerie_Companion
@@ -108017,7 +108016,7 @@ msgid ""
 "return to this vaulting.\""
 msgstr ""
 "\"...이 유혈사태는 {g|Shelyn}셸린{/g}을 따르는 자들의 어깨에 영원히 무거운 짐으로 남을 것입니다.\" {n}라르옌은 "
-"슬프게 고개를 젓습니다. {/n} \"그들을 용서하시오, 발레리. 눈먼 신앙이 판단을 흐리고, 그들을 폭력으로 내몰아, 이 신성한 장소를 "
+"슬프게 고개를 젓습니다.{/n} \"그들을 용서하시오, 발레리. 눈먼 신앙이 판단을 흐리고, 그들을 폭력으로 내몰아, 이 신성한 장소를 "
 "어지렵혔소. 셸린의 빛은 이 곳에 쉽사리 돌아오지 않을 것이오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Valerie/03_JudgementOfTheGods/AfterJudgement/Cue_0009_Text
@@ -108613,7 +108612,7 @@ msgid ""
 "honest, I don't even remember striking the blow.\""
 msgstr ""
 "\"만나서 영광입니다.. 그리고 다시 만나게 되서 반갑구나, 발레리.\" {n}프레데로 시넷은 당신에게 절하고 발레리를 "
-"바라봅니다.발레리의 상처를 보고는 입술을 굳게 다물고 고개를 슬프게 젓습니다. {/n} \"네게 일어난 일은 익히 들었다만, 내 눈으로 "
+"바라봅니다.발레리의 상처를 보고는 입술을 굳게 다물고 고개를 슬프게 젓습니다.{/n} \"네게 일어난 일은 익히 들었다만, 내 눈으로 "
 "직접보게되니 견딜 수가 없구나. 믿어주거라, 그건 절대 내가 바랬던 바가 아니었다. 솔직히 말해, 그 상처를 낸 공격을 한 기억조차 나지 "
 "않는단다.\""
 
@@ -108651,7 +108650,7 @@ msgctxt "5b91792d-fdb9-474f-81f2-f2d7d233ad88"
 msgid ""
 "{n}Harrim looks up and around. The dwarf mindlessly thrusts his hand into "
 "his beard and tugs at it, mumbling something fiercely.{/n}"
-msgstr "{n}하림은 주위를 둘러봅니다. 드워프는 화가난 체 무언가 중얼거리며, 손을 수염 속으로 집어넣고 잡아당깁니다. {/n}"
+msgstr "{n}하림은 주위를 둘러봅니다. 드워프는 화가난 체 무언가 중얼거리며, 손을 수염 속으로 집어넣고 잡아당깁니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Valerie/03_JudgementOfTheGods/CovenOfLenses_BeforeJudgement/Cue_0065_Text
 #. Speaker : MainPrismPaladin
@@ -109084,7 +109083,7 @@ msgid ""
 "form an angry sneer.{/n} \"Right. There's no comparing such dramatically "
 "different numbers.\""
 msgstr ""
-"{n}빌레리는 수심에 잠겨 머리카락에 얼굴을 뭍습니다만, 곧 그녀의 입술에 분노한 비웃음이 나타납니다. {/n} \"맞습니다. 그렇게 "
+"{n}빌레리는 수심에 잠겨 머리카락에 얼굴을 뭍습니다만, 곧 그녀의 입술에 분노한 비웃음이 나타납니다.{/n} \"맞습니다. 그렇게 "
 "극적으로 다른 숫자는 비교해 볼 필요도 없지요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Valerie/03_JudgementOfTheGods/Judgement/Cue_0049_Text
@@ -110221,7 +110220,7 @@ msgid ""
 "{n}Octavia kisses your lips.{/n} \"You're right. What's important is you are "
 "mine... And I'm yours.\""
 msgstr ""
-"{n}옥타비아는 당신의 입술에 키스합니다. {/n} \"당신이 맞아요. 당신은 나의 연인이고, 난 당신의 연인이죠. 그거면 됐어요.\""
+"{n}옥타비아는 당신의 입술에 키스합니다.{/n} \"당신이 맞아요. 당신은 나의 연인이고, 난 당신의 연인이죠. 그거면 됐어요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Event_3_Letsgo/Answer_0003_Text
 msgctxt "cfbe3dc6-3c3c-4d36-92ee-b348f8b4adf7"
@@ -110312,7 +110311,7 @@ msgid ""
 "sat in cages and crawled in the mud, there were places in the world where "
 "they were baking fresh bread!\""
 msgstr ""
-"{n}기쁜 미소를 지으며, 옥타비아는 올렉의 교역소에서 풍기는 냄새를 들이마십니다. {/n} \"갓구운 빵 냄새에요! 믿을 수가 "
+"{n}기쁜 미소를 지으며, 옥타비아는 올렉의 교역소에서 풍기는 냄새를 들이마십니다.{/n} \"갓구운 빵 냄새에요! 믿을 수가 "
 "없어요... 내내 감옥에 갇혀 진흙에 기어다니고 있었는데, 세상에 신선한 빵을 굽는 장소도 있었다니!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_0-Flirt/Cue_0002_Text
@@ -110377,7 +110376,7 @@ msgid ""
 "{n}Octavia laughs out loud. For a moment, something more than just "
 "friendliness flashes across her eyes.{/n} \"Oh, you are so sweet!\""
 msgstr ""
-"{n}옥타비아는 소란스럽게 웃습니다. 잠시 동안, 친근함 이상의 무언가가 그녀의 눈에 번뜩입니다.. {/n} \"오, 당신은 정말 "
+"{n}옥타비아는 소란스럽게 웃습니다. 잠시 동안, 친근함 이상의 무언가가 그녀의 눈에 번뜩입니다..{/n} \"오, 당신은 정말 "
 "다정해요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_0-Flirt/Cue_0021_Text
@@ -110760,14 +110759,14 @@ msgctxt "f8c70089-1377-4220-b389-f00401ab0d76"
 msgid ""
 "{n}The girl clings to you and kisses you passionately, tenderly biting your "
 "lips.{/n}"
-msgstr "{n}옥타비아는 당신을 껴안더니 부드럽게 입술을 깨물며, 열정적으로 키스합니다. {/n}"
+msgstr "{n}옥타비아는 당신을 껴안더니 부드럽게 입술을 깨물며, 열정적으로 키스합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_2-PillowTalk/Cue_0007_Text_1
 msgctxt "1e3fd43d-5c43-45c9-a7db-d5a30596d3d9"
 msgid ""
 "{n}Octavia clings to you, kissing you passionately and tenderly biting your "
 "lips.{/n}"
-msgstr "{n}옥타비아는 당신을 껴안더니 부드럽게 입술을 깨물며, 열정적으로 키스합니다. {/n}"
+msgstr "{n}옥타비아는 당신을 껴안더니 부드럽게 입술을 깨물며, 열정적으로 키스합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_2-PillowTalk/Cue_0008_Text_1
 msgctxt "e7ec343c-370d-4e1d-8832-6c62f7a0ddd3"
@@ -111696,7 +111695,7 @@ msgctxt "f618eeb3-0498-4281-a4de-f46309220885"
 msgid ""
 "{n}Regongar follows her with his eyes, and then slowly hides his face in his "
 "hands.{/n} \"What... What have I done...\""
-msgstr "{n}레곤가르는 그녀를 눈으로 쫓으며, 손으로 얼굴을 감쌉니다. {/n} \"내가.. 내가 무슨 짓을...\""
+msgstr "{n}레곤가르는 그녀를 눈으로 쫓으며, 손으로 얼굴을 감쌉니다.{/n} \"내가.. 내가 무슨 짓을...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Event_2/Cue_0034_Text
 #. Speaker : Regongar_Companion
@@ -111891,7 +111890,7 @@ msgstr "{n}옥타비아와 레곤가르는 열정적인 키스로 맹세를 갈�
 #. Speaker : Regongar_Companion
 msgctxt "af8c08d5-d6af-4f48-b3eb-6a8359521a14"
 msgid "{n}Regongar takes you by the hand.{/n} \"I promise!\""
-msgstr "{n}레곤가르는 당신의 손을 잡습니다. {/n} \"맹세할께!\""
+msgstr "{n}레곤가르는 당신의 손을 잡습니다.{/n} \"맹세할께!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Event_2/Cue_0073_Text
 #. Speaker : Octavia_Companion
@@ -113039,7 +113038,7 @@ msgctxt "cc4a0b65-a0a2-4059-854d-471ec4b82bf2"
 msgid ""
 "{n}Regongar quickly pulls away his hand and scoots away from you.{/n} \"It's "
 "just a bit of fun. Ha ha!\""
-msgstr "{n}레곤가르는 재빨리 손을 빼곤 서둘러 당신에게서 떨어집니다. {/n} \"그냥 장난이야. 하 하!\""
+msgstr "{n}레곤가르는 재빨리 손을 빼곤 서둘러 당신에게서 떨어집니다.{/n} \"그냥 장난이야. 하 하!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_1/Cue_0014_Text
 #. Speaker : Regongar_Companion
@@ -113582,7 +113581,7 @@ msgid ""
 "on the ground. The warrior scoffs with contempt and turns away.{/n}"
 msgstr ""
 "{n}발레리는 귀가 멍멍할 정도로 레곤가르의 따귀를 때립니다. 발레리는 무기를 꺼낼 자세를 취하지만, 하프-오크는 싸우려고 달려지 않고, "
-"그저 화가난 체 피가 섞인 침을 바닥에 뱉습니다 발레리는 경멸을 섞어 비웃으며 자리를 떠납니다. {/n}"
+"그저 화가난 체 피가 섞인 침을 바닥에 뱉습니다 발레리는 경멸을 섞어 비웃으며 자리를 떠납니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0015_Text
 #. Speaker : Regongar_Companion
@@ -114781,7 +114780,7 @@ msgid ""
 "{n}You lean forward, but Tristian pulls away. A gloomy shadow seems to cross "
 "his face.{/n} \"Please don't do that again.\""
 msgstr ""
-"{n}당신은 몸을 기울이지만, 트리스티안은 당신을 밀어냅니다. 우울한 그림자가 그의 얼굴에 스쳐 지나갑니다.. {/n} \"부탁컨데, "
+"{n}당신은 몸을 기울이지만, 트리스티안은 당신을 밀어냅니다. 우울한 그림자가 그의 얼굴에 스쳐 지나갑니다..{/n} \"부탁컨데, "
 "다시는 그러지 말아주십시오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Tristian/Event_2_WhatsGoingOn/Cue_0020_Text
@@ -115102,7 +115101,7 @@ msgid ""
 "'desire in her voice'.\"{/n}"
 msgstr ""
 "{n}목을 뻗어서 성직자가 읽고 있는 책을 훔쳐봅니다. 당신의 눈에 흥미로운 구절들이 - '불타는 피부', '목소리에 담긴 욕망' - "
-"눈에 띕니다. {/n}"
+"눈에 띕니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Tristian/Event_4_BadWriting/Cue_0006_Text
 msgctxt "25ce9ad7-2431-4fad-9fbd-a0930c5fba63"
@@ -115187,7 +115186,7 @@ msgid ""
 "you. He softly pushes away your hand.{/n} \"Forgive me! Forgive me, I'm out "
 "of line!\""
 msgstr ""
-"{n}잠시 후, 트리스티안은 눈을 크게 뜨더니 당신에게 두려운 시선을 보냅니다. 그는 당신의 손을 부드럽게 밀어냅니다. {/n} "
+"{n}잠시 후, 트리스티안은 눈을 크게 뜨더니 당신에게 두려운 시선을 보냅니다. 그는 당신의 손을 부드럽게 밀어냅니다.{/n} "
 "\"용서하십시오! 미안합니다, 내가 선을 넘었군요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Tristian/Event_4_BadWriting/Cue_0033_Text
@@ -115208,7 +115207,7 @@ msgid ""
 "touches your palm with his lips.{/n} \"Full of sunshine...\""
 msgstr ""
 "{n}트리스티안은 얼어붙더니, 당신을 똑바로 쳐다봅니다. 순간 그는 눈을 감더니 손을 당신 손을 잡습니다. 그는고개를 들어 당신의 "
-"손바닥에 그의 입술을 부드럽게 맞춥니다. {/n} \"마치 가득한 햇살같아...\""
+"손바닥에 그의 입술을 부드럽게 맞춥니다.{/n} \"마치 가득한 햇살같아...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Tristian/Event_4_BadWriting/Cue_TristianExplainsBook_Text
 msgctxt "de5f4879-54fa-4259-a82f-c39182365c0c"
@@ -115971,7 +115970,7 @@ msgid ""
 "the only one who thinks so...\""
 msgstr ""
 "{n}트리스티안은 놀란 듯 보입니다.{/n} \"정말입니까? 이상하군요, 내 생각엔.... 음, 상관없겠지요. 넘겨 짚어서 미안합니다.\""
-" {n}트리스티안은 죄책감 어린 표정을 짓곤 돌아서더니, 흘낏 쳐다봅니다. {/n} \"당신만 그렇게 생각하는게 아니었으면 좋겠군요.\""
+" {n}트리스티안은 죄책감 어린 표정을 짓곤 돌아서더니, 흘낏 쳐다봅니다.{/n} \"당신만 그렇게 생각하는게 아니었으면 좋겠군요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Tristian/Tristian_Choosing/Cue_0011_Text
 msgctxt "8479790a-d59b-4d48-9b53-7baac84d42d2"
@@ -116111,7 +116110,7 @@ msgid ""
 "eyes and looks away.{/n}"
 msgstr ""
 "{n}발레리는 인내심을 잃어 가고 있는 것 같습니다. 그녀는 버클을 여러번 잡아당기더니 - 터져나오려는 말문을 삼키면서 분노에 차 "
-"씩씩거립니다. 당신이 보고 있다는 걸 눈치채고는 산발이 된 머리를 정리하더니, 이내 고개를 돌립니다. {/n}"
+"씩씩거립니다. 당신이 보고 있다는 걸 눈치채고는 산발이 된 머리를 정리하더니, 이내 고개를 돌립니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Valerie/Event_1_ALittleHelp/Cue_0006_Text
 msgctxt "5b3634a5-417d-492c-960b-72c1d82750b9"
@@ -116492,7 +116491,7 @@ msgid ""
 "answer.\" {n}Valerie steps aside, fiddles with the vial in her hands... and "
 "then hurls it away.{/n}"
 msgstr ""
-"{n}실망감이 발레리의 눈에 번뜩입니다. {/n} \"그런가요... 아름다움은 장님이 되거나 몸 전체에 비늘이 나는 걸 감수할 가치가 "
+"{n}실망감이 발레리의 눈에 번뜩입니다.{/n} \"그런가요... 아름다움은 장님이 되거나 몸 전체에 비늘이 나는 걸 감수할 가치가 "
 "있는 것이겠지요. 어쨌든 대답해줘서 고마워요.\" {n}발레리는 물러서서 병을 만지작 거리더니... 던져버립니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Valerie/Event_2_2_HowToGetRidOfAScar/Cue_0018_Text
@@ -116805,7 +116804,7 @@ msgid ""
 "{n}Valerie catches up with you near the city gate. The girl is black as a "
 "thundercloud.{/n} \"We need to talk. Right now.\""
 msgstr ""
-"{n}도시 관문 근처에서 발레리가 당신을 붙잡습니다. 소녀는 먹구름 마냥 표정이 어둡습니다. {/n} \"얘기 좀 해요. 지금 당장.\""
+"{n}도시 관문 근처에서 발레리가 당신을 붙잡습니다. 소녀는 먹구름 마냥 표정이 어둡습니다.{/n} \"얘기 좀 해요. 지금 당장.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Valerie/Event_LetsGo/Cue_0005_Text
 #. Speaker : Valerie_Companion
@@ -117642,7 +117641,7 @@ msgid ""
 "alarm.{/n} \"I...\""
 msgstr ""
 "\"무슨 소리를 하는 거죠?! 이 모든 문제가 약간의... 멍청한... 선언으로 해결될 거라고 생각하나요? {n}의미를 겨우 깨달은 "
-"것처럼, 발레리는 말을 그치고 동작을 멈춥니다. 그녀는 놀란듯 고개를 숙이며 입술을 깨뭅니다. {/n} \"나는...\""
+"것처럼, 발레리는 말을 그치고 동작을 멈춥니다. 그녀는 놀란듯 고개를 숙이며 입술을 깨뭅니다.{/n} \"나는...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Valerie/MajorEvent_3_FinalTalk/Cue_0018_Text
 #. Speaker : Valerie_Companion
@@ -119713,7 +119712,7 @@ msgctxt "b7c937d4-0be0-4c22-b44e-01fd850a64c1"
 msgid ""
 "{n}The Storyteller doesn't answer, his unseeing eyes staring ahead "
 "blankly.{/n}"
-msgstr "{n}이야기꾼은 대답하지 않습니다. 앞을 보지 못하는 눈은 멍하니 허공을 바라보고 있을 뿐입니다. {/n}"
+msgstr "{n}이야기꾼은 대답하지 않습니다. 앞을 보지 못하는 눈은 멍하니 허공을 바라보고 있을 뿐입니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Items/Archeology/Collector/Cue_0016_Text
 msgctxt "fd5adcff-98ba-4e73-b0be-6483016c1f5e"
@@ -127043,7 +127042,7 @@ msgid ""
 "worthless.\""
 msgstr ""
 "{n}나즈리엘은 믿을 수 없다는 듯 당신을 쳐다봅니다. 그녀는 엘프에게선 상상도 못할 방식으로 땅에 침을 뱉고는, 작별 인사를 갈음하며 "
-"말하길, {/n}\"가는 길마다 소문을 낼 거예요. 당신 말이 얼마나 무가치한지.\""
+"말하길,{/n}\"가는 길마다 소문을 낼 거예요. 당신 말이 얼마나 무가치한지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/ElvenFemaleWeaponsmithLE/ElvenFemaleWeaponsmithLE_Artisan/Cue_0062_Text
 msgctxt "3609890b-619a-433a-b853-e6b9526f7de8"
@@ -128936,7 +128935,7 @@ msgid ""
 "Please, come and talk to me! I... I have to ask you something. Something "
 "personal.\""
 msgstr ""
-"{n}키모는 주먹에 대고 헛기침을 합니다. 당황한 기색이 완연합니다. {/n} \"잊어버릴 뻔했네... 부디, 저를 찾아와서 얘기좀 "
+"{n}키모는 주먹에 대고 헛기침을 합니다. 당황한 기색이 완연합니다.{/n} \"잊어버릴 뻔했네... 부디, 저를 찾아와서 얘기좀 "
 "해요! 그... 부탁드릴게 좀 있어서요. 개인적으로.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/ElvenMaleWoodmasterCG/KTC_Gift/Cue_0030_Text
@@ -129836,7 +129835,7 @@ msgid ""
 "took me to craft this thing... But I like the result!\""
 msgstr ""
 "{n}{d|Mim}보석 세공인{/d}이 당신에게 인사하는 모습에 지친 기색이 역력합니다. 눈 밑에 드리운 그늘에도 불구하고, 그녀의 "
-"얼굴은 자부심으로 가득합니다. {/n} \"준비됐어요, {mf|영주님|영주님|전하|전하}. 이걸 만드는 데 얼마나 오래 걸렸는지는 묻지 "
+"얼굴은 자부심으로 가득합니다.{/n} \"준비됐어요, {mf|영주님|영주님|전하|전하}. 이걸 만드는 데 얼마나 오래 걸렸는지는 묻지 "
 "말아주시길... 그래도 결과물이 괜찮거든요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/GnomeFemale_JewelcrafterCN/KTC_Gift/Cue_0021_Text
@@ -130783,7 +130782,7 @@ msgid ""
 "present you with a token of our loyalty, and to humbly beg your help.\""
 msgstr ""
 "{n}당신 앞에 선머슴 같은 하프엘프가 서있습니다. 그녀는 곳곳을 덧댄 몸에 달라붙는 가죽갑옷을 입었고, 크고 위협적으로 보이는 칼집을 "
-"엉덩이에 걸치고 있습니다. 목에는 문신이 보입니다. {/n} \"반홀드의 소박한 사람들을 대신하여, 당신을 환영합니다! 제 이름은 "
+"엉덩이에 걸치고 있습니다. 목에는 문신이 보입니다.{/n} \"반홀드의 소박한 사람들을 대신하여, 당신을 환영합니다! 제 이름은 "
 "터발입니다. 저는 우리 지역사회를 대표하여 이곳에 왔고, 당신께 우리의 충성을 증명하는 선물을 드리며, 황송하옵게도 도움을 청하고자 "
 "합니다.\""
 
@@ -131164,7 +131163,7 @@ msgid ""
 "their bounds. But this was simply folly, nothing more! I implore you, have "
 "mercy on the guilty and do not disband the militia altogether!\""
 msgstr ""
-"{n}{d|Tirval}터발{/d}은 지친 기색으로 당신을 바라보면서도, 목소리 만큼은 당신의 비위를 맞추려 합니다. {/n} \""
+"{n}{d|Tirval}터발{/d}은 지친 기색으로 당신을 바라보면서도, 목소리 만큼은 당신의 비위를 맞추려 합니다.{/n} \""
 "{mf|영주님|영주님|전하|전하}, 제발 이 멍청이들을 살려주십시오! 그래요. 그들은... 선을 넘었습니다. 하지만 그냥 바보짓을 했을 "
 "뿐입니다! 죄를 지은 자들에게 자비를 베풀어 주시고, 민병대를 완전히 해산하지 말아 주시기를 간청합니다!\""
 
@@ -136517,7 +136516,7 @@ msgctxt "b54b0d90-d165-4a00-bad7-1b7c4a5b8d0d"
 msgid ""
 "{n}It's a typical street dog on a leash with a dirty yellow coat. Its watery "
 "eyes regard you without particular interest.{/n}"
-msgstr "{n}더러운 노란색 털의 길거리 어디서나 흔히 볼 수 있는 개입니다. 그 촉촉한 눈망울로 무심하게 당신을 바라봅니다. {/n}"
+msgstr "{n}더러운 노란색 털의 길거리 어디서나 흔히 볼 수 있는 개입니다. 그 촉촉한 눈망울로 무심하게 당신을 바라봅니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HumanMaleAlchiemistCN/TestWererat/Answer_0004_Text
 msgctxt "2a53cfdc-e291-4777-b4f7-60709bf87dc5"
@@ -138534,7 +138533,7 @@ msgctxt "c2a05f00-acf8-419b-a057-5632b5297297"
 msgid ""
 "{n}Octavia gasps, and her face loses all color.{/n} \"By the gods! Why such "
 "cruelty?!\""
-msgstr "{n}옥타비아는 숨을 헉 들이쉰다. 그녀의 얼굴이 창백해진다. {/n} \"신이시여! 왜 그렇게 잔인해?!\""
+msgstr "{n}옥타비아는 숨을 헉 들이쉰다. 그녀의 얼굴이 창백해진다.{/n} \"신이시여! 왜 그렇게 잔인해?!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank7/Cue_0022_Text_String
 #. Speaker : Capital_Collector
@@ -142388,7 +142387,7 @@ msgid ""
 "advisor, a Magister, to look after these spellcasters and keep them on a "
 "tight leash. You might find my methods for establishing order too rough.\""
 msgstr ""
-"{n}산나는 점잖게 자신의 쥐를 쓰다듬었다. 쥐의 회색 몸은 마치 머리 둘 달린 짐승들을 배고있는 것 마냥 부풀어있었다. {/n} "
+"{n}산나는 점잖게 자신의 쥐를 쓰다듬었다. 쥐의 회색 몸은 마치 머리 둘 달린 짐승들을 배고있는 것 마냥 부풀어있었다.{/n} "
 "\"그대의 무리는 마치 토끼처럼 번식하는군요. 그리고 마법사들도 나머지를 따라서 늘어나고 있어요. 보좌관인 마법대신(Magister)이 "
 "필요할 거예요. 이 마법사들을 돌보고 엄격하게 다뤄줄 사람을 말이죠. 제 방식대로 하면 좀 지나치게 빡빡하지 않을까 싶어요.\""
 
@@ -145046,7 +145045,7 @@ msgid ""
 "walked your lands.\""
 msgstr ""
 "{n}당신 앞의 하플링은 어려보이지만, 약간의 주름살이 잡힌 날카로운 눈은 청원자의 나이를 짐작하기 어렵게 합니다. 레이마르는 그의 "
-"베레모를 내림과 동시에 조금 벗겨진 정수리를 보이며 예절바르게 고개를 숙입니다. {/n} \"친애하는 "
+"베레모를 내림과 동시에 조금 벗겨진 정수리를 보이며 예절바르게 고개를 숙입니다.{/n} \"친애하는 "
 "{mf|영주님|영주님|왕이시여|여왕이시여}! 제가 주제넘게 이 회담을 요청드린것에 대해 용서를 구합니다. 하오나, 당신의 영토를 지나갈 "
 "때 꿈을 꾸는 것처럼 떠오른, 저의 사랑하는 새 아이의 운명에 관해서는 다른 누구도 믿을 수 없었습니다.\""
 
@@ -145065,7 +145064,7 @@ msgid ""
 msgstr ""
 "\"보시는 대로, 저는 {g|Brevoy}브레보이{/g}로 가던 중이었습니다, 그러다가 아주 기이한 광경을 발견해서 깜짝 놀랐습니다. "
 "저와 제 동료들이 일할때 쓰는 맵고 쓴 허브들이 이 땅에 자생하고 있었습니다! 와인베리, 고트위드, 젠티안...\" {n}레이마르가 그의 "
-"손가락들을 구부리며 식물들을 세어갔습니다, 그리고 그의 손을 흔듭니다. {/n} \"아, 이런 이름들은 아마 당신에게는 아무 의미가 "
+"손가락들을 구부리며 식물들을 세어갔습니다, 그리고 그의 손을 흔듭니다.{/n} \"아, 이런 이름들은 아마 당신에게는 아무 의미가 "
 "없을지도 모릅니다, 그러나 저에게는... 오, 저에겐 이 풍부한 이름들은 마치 훌륭한 팔레트와 같습니다. 진정한 걸작이 세워질 토대처럼 "
 "말입니다.\""
 
@@ -147512,7 +147511,7 @@ msgctxt "0350b43f-f9e6-4282-989d-33417e25e91d"
 msgid ""
 "{n}Jaethal juts out her chin in resentment.{/n} \"You're far too cautious. "
 "Trust me, your enemies are not sharper or cleverer than I.\""
-msgstr "{n}제이탈의 얼굴이 분노로 굳어집니다. {/n} \"쓸데없이 신중하기는. 날 믿어. 적이 나보다 뛰어날 리 없어.\""
+msgstr "{n}제이탈의 얼굴이 분노로 굳어집니다.{/n} \"쓸데없이 신중하기는. 날 믿어. 적이 나보다 뛰어날 리 없어.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Espionage/Rank3/Cue_0030_Text
 #. Speaker : Ekun_Companion
@@ -156287,7 +156286,7 @@ msgid ""
 "Relationships with our neighbors require special attention. Appoint a new "
 "advisor to manage this aspect of your barony.\""
 msgstr ""
-"{n}발레리는 자신의 관자놀이를 주무릅니다. {/n} \"{mf|남작령|남작령|왕국|왕국}에 외교관이 필요합니다, {name}. 우리 "
+"{n}발레리는 자신의 관자놀이를 주무릅니다.{/n} \"{mf|남작령|남작령|왕국|왕국}에 외교관이 필요합니다, {name}. 우리 "
 "이웃들과의 관계에 특별한 주의가 필요하다는 말입니다. 새 보좌관을 임명해 주십시오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Population/Rank4/Cue_0005_Text
@@ -163577,7 +163576,7 @@ msgid ""
 " beg you, just a moment of your time! Give this poor soul a chance to "
 "perform a sacred duty, which I owe to my brothers in faith!\""
 msgstr ""
-"{n}하플링이 무릎을 꿇고 당신에게 절을 합니다. {/n} \"잠시만 시간을 주실 것을 간청드립니다! 신앙의 벗들이 맡긴 이 신성한 "
+"{n}하플링이 무릎을 꿇고 당신에게 절을 합니다.{/n} \"잠시만 시간을 주실 것을 간청드립니다! 신앙의 벗들이 맡긴 이 신성한 "
 "의무를 수행할 기회를 불쌍한 영혼에게 주십시요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/KingdomAsCompanion/CE_DarkerThanBlack/Ep3_KTC/Cue_0011_Text
@@ -164897,7 +164896,7 @@ msgctxt "c37b0fd3-5cda-44e5-b94a-af2b0d39e9db"
 msgid ""
 "{n}One of the peasants, who is armed with a weapon, jumps up in alarm as you "
 "approach.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}!\""
-msgstr "{n}농민들 가운데 무장한 자가, 당신이 다가오자 놀라서 펄쩍 뛰었습니다. {/n} \"전하!\""
+msgstr "{n}농민들 가운데 무장한 자가, 당신이 다가오자 놀라서 펄쩍 뛰었습니다.{/n} \"전하!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/KingdomAsCompanion/LE_FeastOfNails/Ep1_Encounter/Cue_0002_Text
 #. Speaker : Hellknight
@@ -164913,7 +164912,7 @@ msgid ""
 msgstr ""
 "{n}당신은 칠흑의 갑주를 입은 기사를 보았습니다, 그의 흉갑에는 선명하게 흉측하게 으르렁대는 주둥아리가 새겨져 있었다. 그는 당신을 "
 "돌아보지 않았습니다. 그의 관심은 오직 여럿의 적들에게 쏠려 있었습니다. 그렇지만, 당신은 그의 투구 가리개 아래에서 흘러나오는 그의 "
-"소리 죽인 목소리를 들을 수 있었습니다. {/n} \"{g|Asmodeus}아스모데우스(Asmodeus){/g}를 경배하라! {name} "
+"소리 죽인 목소리를 들을 수 있었습니다.{/n} \"{g|Asmodeus}아스모데우스(Asmodeus){/g}를 경배하라! {name} "
 "{mf|남작|여남작|왕|여왕} 각하 이신지요? 평안하셨는지요. 예의에 맞게 인사드리지 못함을 용서해 주십시오. 조금 겨를이...없습니다."
 "\""
 
@@ -164936,7 +164935,7 @@ msgid ""
 "directly to your court, {mf|Your Grace|Your Grace|Your Highness|Your "
 "Highness}. Unfortunately, I was detained.\""
 msgstr ""
-"{n}당신은 투구가리개 아래서 나는 웃음소리를 들었습니다. {/n} \"저는 곧장 여러분의 법정으로 가려 했습니다, 전하. 불행히도, "
+"{n}당신은 투구가리개 아래서 나는 웃음소리를 들었습니다.{/n} \"저는 곧장 여러분의 법정으로 가려 했습니다, 전하. 불행히도, "
 "저는 구금되었습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/KingdomAsCompanion/LE_FeastOfNails/Ep1_Encounter/Cue_0009_Text
@@ -165953,7 +165952,7 @@ msgid ""
 "land. We're no cheats! We'll do the right thing and sign whatever agreements "
 "you got! What do you say? Is it a yes?\""
 msgstr ""
-"{n}드리는 망설이다가 서투르게 경례합니다. {/n} \"{mf|영주님|영주님|전하|전하}, 당신의 땅에 정착할 수 있도록 허락해 "
+"{n}드리는 망설이다가 서투르게 경례합니다.{/n} \"{mf|영주님|영주님|전하|전하}, 당신의 땅에 정착할 수 있도록 허락해 "
 "주십시오! 당신의 보호하에서라면 안전할겁니다. 또한 저희들로부터 이익도 얻으실 수 있을겁니다! 만약 저희가 광맥을 찾아낸다면, 즉시 "
 "채광을 시작할 수 있습니다. 저희가 적절한 장소만 찾을 수 있도록 도와만 주십시오. 절대 속이려 들지 않겠습니다! 저희는 정직하게 "
 "일할것이며, 당신이 요구하는 어떤것이라도 서명하겠습니다! 허락해주시겠습니까?\""
@@ -169735,7 +169734,7 @@ msgstr ""
 #. Speaker : Elina
 msgctxt "ac64952e-682d-48fd-8473-9900e9ea6846"
 msgid "{n}Elina looks surprised.{/n} \"A-As Your Grace wishes... thank you!\""
-msgstr "{n}엘리나는 놀란 기색이다. {/n} \"마...마음대로 하셔요, 전하... 감사합니다!\""
+msgstr "{n}엘리나는 놀란 기색이다.{/n} \"마...마음대로 하셔요, 전하... 감사합니다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/Companions/Ekun/ktc41-Ekun_Q2_Starts/Cue_0008_Text
 #. Speaker : Elina
@@ -172099,7 +172098,7 @@ msgid ""
 "suddenly alights, burning brightly... then crumbles to ash on the floor.{/n}"
 msgstr ""
 "{n}당신이 지도를 쳐다보자, 가죽 모자에 갑자기 불이 붙었고, 밝게 빛나더니... 잿더미가 되어 바닥으로 바스라지고, 둘 모두 깜짝 "
-"놀랍니다. {/n}"
+"놀랍니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/Companions/NokNok/ktc51_KingRevege_Start/Cue_0029_Text
 msgctxt "47a48465-94be-469d-a191-6ed14671fbbf"
@@ -172229,7 +172228,7 @@ msgid ""
 "have a few more lumps than before.{/n} \"Neck tough.\""
 msgstr ""
 "{n}녹-녹은 그의 너덜더덜한 가슴팍까지 목줄을 당겼고, 그의 목에 난 커다란 멍자국을 보여줍니다 – 그리고 나서 모자를 벗고, 이전보다 "
-"더 울퉁불퉁해 보이는 머리를 보여줍니다. {/n} \"목 아파.\""
+"더 울퉁불퉁해 보이는 머리를 보여줍니다.{/n} \"목 아파.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/Companions/NokNok/ktc_NokIsBack/Cue_0012_Text
 msgctxt "78017726-7252-4ab2-be2a-3628a07bf915"
@@ -172663,7 +172662,7 @@ msgid ""
 "to understand, we must find one of those barkers and learn from them all we "
 "can.\""
 msgstr ""
-"{n}트리스티안은 열렬히 고개를 끄덕입니다. {/n}\"좋습니다! 아마도 이 미스터리를 밝혀낸다면 {g|Stolen Lands}도둑맞은 "
+"{n}트리스티안은 열렬히 고개를 끄덕입니다.{/n}\"좋습니다! 아마도 이 미스터리를 밝혀낸다면 {g|Stolen Lands}도둑맞은 "
 "땅{/g} 전역에서 창궐하는 이 저주의 본질에 대해 더 많은 것을 알게 될 것입니다. 제 말은, 당신이 여신의 징벌을 받았다고 외치는 이 "
 "사교도들에게는 어떤 이유가 반드시 있을 것이란 겁니다! 이것을 밝혀내려면, 그 포교자들 중 한 명을 찾아내어 그들로부터 최대한 알아내야 "
 "합니다.\""
@@ -173094,7 +173093,7 @@ msgid ""
 "attire, standing beside her.{/n} \"Unfortunately, I was provoked.\""
 msgstr ""
 "{n}발레리는 부끄러운 듯이 고개를 떨구었다.{/n} \"정말로 면목이 없습니다, {name}님. 그만 이성을 잃어 버리고 말아 제 "
-"자신뿐만 아니라 주군의 얼굴에도 먹칠을 해버렸군요.\" {n}발레리는 바로 옆에 서 있는 초랑한 행색을 한 남자를 쏘아보았다. {/n} "
+"자신뿐만 아니라 주군의 얼굴에도 먹칠을 해버렸군요.\" {n}발레리는 바로 옆에 서 있는 초랑한 행색을 한 남자를 쏘아보았다.{/n} "
 "\"안타깝게도 도발에 넘어 가버리고 말았습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/Companions/Valerie/ktc31-Valerie_Q2_Start/Cue_0014_Text
@@ -173896,7 +173895,7 @@ msgid ""
 "there again... Too bad, too bad! Well, here's your reward, as promised.\" {n}"
 "Willas gives you a pouch of coins.{/n}"
 msgstr ""
-"{n}윌라스는 그의 머리를 흔들었습니다. {/n}\"그 클레릭과 팔라딘이 함께해도 이 저주를 끝낼 수 없었다면, 그곳에 다시 가려고 하는 "
+"{n}윌라스는 그의 머리를 흔들었습니다.{/n}\"그 클레릭과 팔라딘이 함께해도 이 저주를 끝낼 수 없었다면, 그곳에 다시 가려고 하는 "
 "것은 정말로 현명하지 못한 것일 겁니다....아주 안됐군요. 아주 안됐어요! 자, 여기 약속하였듯 보상금입니다.\" {n}윌라스는 "
 "당신에게 동전 주머니를 건냈습니다..{/n}"
 
@@ -177470,7 +177469,7 @@ msgid ""
 msgstr ""
 "\"손실이 엄청났습니다. 많은 이가 죽고, 다른 이들은 그들의 집을 잃었습니다. 그러나 삶은 천천히 정상으로 돌아오고 있습니다. 저희는 "
 "도시의 잔해들을 치우는 것을 거의 끝마쳤고 경비대들은 다시금 주요 도로를 순찰하며 피난민들이 집으로 돌아가게끔 돕고 있습니다. 물론 아직 "
-"해야할 것들이 많습니다만, 상황은 점차 나아지고 있습니다.\" {n}조드는 깊이 숨을 들이쉬며 그의 손을 그의 가슴에 포갰습니다. {/n}"
+"해야할 것들이 많습니다만, 상황은 점차 나아지고 있습니다.\" {n}조드는 깊이 숨을 들이쉬며 그의 손을 그의 가슴에 포갰습니다.{/n}"
 " \"이제, 가능하다면, 케스턴과 저 사이에 있었던 일에 대해 당신과 의논하고자 합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-4HonorTheFallen/BothAlive/Cue_0010_Text
@@ -177719,7 +177718,7 @@ msgid ""
 "only proper to honor the fallen.\""
 msgstr ""
 "{n}조드의 표정에 슬픔이 역력합니다.{/n} \"전하, 제가 잠시? 제게 잠시만 시간을 내 주십시오.\" {n}그는 깊은 숨을 "
-"들이쉽니다. {/n} \"희생된 자들을 기리는 것이 합당하다고 생각합니다.\""
+"들이쉽니다.{/n} \"희생된 자들을 기리는 것이 합당하다고 생각합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-4HonorTheFallen/KestenDead/Cue_0002_Text
 #. Speaker : Capital_Jhod
@@ -179582,7 +179581,7 @@ msgid ""
 "as if suddenly relaxed.{/n} \"We stand on the side of legitimate authority. "
 "You need not be afraid, {mf|baron|baroness|king|queen}.\""
 msgstr ""
-"{n}잠시동안, 린시아는 당신을 강렬한 눈길로 쏘아보았습니다, 그러나 이내 눈을 깜빡임과 함께 표정이 풀어집니다. {/n} \"저희는 "
+"{n}잠시동안, 린시아는 당신을 강렬한 눈길로 쏘아보았습니다, 그러나 이내 눈을 깜빡임과 함께 표정이 풀어집니다.{/n} \"저희는 "
 "정의의 편에 서 있습니다. 당신께선 염려하실 필요가 없습니다, 폐하.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc41-LinxiaAppears/Cue_0024_Text
@@ -180026,7 +180025,7 @@ msgid ""
 "be nonsense if Your Royal Highness now has no place to, pardon my language, "
 "sit {mf|his|her} royal ass on?!\""
 msgstr ""
-"{n}린지가 갑자기 그리고 단단히 당신의 옷소매를 잡아당겼습니다. {/n} \"말도 안된다니? 무례하게 말해서 미안하지만, 전하가 앉을 "
+"{n}린지가 갑자기 그리고 단단히 당신의 옷소매를 잡아당겼습니다.{/n} \"말도 안된다니? 무례하게 말해서 미안하지만, 전하가 앉을 "
 "자리조차 없어졌는데 어떻게 말도 안되는 소리를 할 수 있겠어?!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc51-Linzi_RunawayThrone/Cue_0006_Text
@@ -181154,7 +181153,7 @@ msgctxt "64f5c416-31e0-423c-8825-e27b0b9d9715"
 msgid ""
 "{n}Stefano is escorted away by the guards, his chin pointed proudly "
 "skyward.{/n}"
-msgstr "{n}스테파노는 그의 턱을 하늘을 향해 자랑스럽게 치켜올리고는 경비병들의 호위를 받으며 나아갔습니다. {/n}"
+msgstr "{n}스테파노는 그의 턱을 하늘을 향해 자랑스럽게 치켜올리고는 경비병들의 호위를 받으며 나아갔습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc51-PitaxAftermath/Linzi_CoreDialogue/Cue_0064_Text
 #. Speaker : Pitax_AtaliaGitaren
@@ -181684,7 +181683,7 @@ msgid ""
 msgstr ""
 "{n}스테파노 모스코니는 방문을 위해 특히나 화려한 복장을 입고 있습니다. 그의 더블릿은 값진 보석으로 수놓아져있고, "
 "{g|Pitax}피탁스{/g}의 문장으로 장식되어있습니다. 그의 분칠한 얼굴에는 경멸적인 미소가 반죽되어 있습니다. 그는 격식을 차려 "
-"고개를 숙입니다. {/n} \"전하! 피탁스의 이로베티 전하의 뜻으로 이곳에 왔나이다.\""
+"고개를 숙입니다.{/n} \"전하! 피탁스의 이로베티 전하의 뜻으로 이곳에 왔나이다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc51-Surrender-Mosconi/Cue_0005_Text_String
 msgctxt "aa6d9cd0-ce8c-427a-80a5-7c3105801673"
@@ -187381,7 +187380,7 @@ msgid ""
 "better than to chase an old man around. Someone might even write up some "
 "verses about me. Maybe even heroic ones!\""
 msgstr ""
-"{n}보큰은 머리를 긁으면서 콧바람을 불고 가슴을 부풀립니다. {/n} \"그래, 알았소! 그 말썽 꾸러기들에게 본때를 보여줄거요! "
+"{n}보큰은 머리를 긁으면서 콧바람을 불고 가슴을 부풀립니다.{/n} \"그래, 알았소! 그 말썽 꾸러기들에게 본때를 보여줄거요! "
 "노인을 쫓아 다니면 어떻게 되는지 가르쳐 줄 수 있겠지. 누군가 나에 관한 구절을 써도 될거야. 심지어 영웅으로서 불리게 될지도 모르지!"
 "\""
 
@@ -188631,7 +188630,7 @@ msgid ""
 "turned himself in. Where they took him and what happened after — no clue.\""
 msgstr ""
 "\"아키로스와 관련하여 일부 조사원이 {g|Taldor}탈도르{/g}에서부터 그를 따라왔어. 오랫동안 그를 뒤쫓아 왔다는데. 그 녀석은 "
-"마치 그들의 친한 친구인 마냥 {d|c11 Akiros Surrendered}순순히 걸어나왔다고 해. {/d} 과거로부터 도망치는 것이 "
+"마치 그들의 친한 친구인 마냥 {d|c11 Akiros Surrendered}순순히 걸어나왔다고 해.{/d} 과거로부터 도망치는 것이 "
 "질렸다는군. 하지만 그들이 어디서 그를 잡았는지 무슨 일이 일어났는지 아무도 몰라.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/OlegDialog/Answer_0006_Text
@@ -188709,7 +188708,7 @@ msgid ""
 "{n}Oleg greets you with a quick nod.{/n} \"So, the {d|c11 Evil Money}bandit-"
 "breaker arrives.{/d}\""
 msgstr ""
-"{n}올렉은 당신에게 짧게 끄덕임으로 인사합니다.{/n} \"그래서 {d|c11 Evil Money}도적 토벌대가 도착했군. {/d} "
+"{n}올렉은 당신에게 짧게 끄덕임으로 인사합니다.{/n} \"그래서 {d|c11 Evil Money}도적 토벌대가 도착했군.{/d} "
 "\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/OlegDialog/Cue_0002_Text
@@ -188940,7 +188939,7 @@ msgid ""
 "there's anyone left to answer, that is...\""
 msgstr ""
 "{n}올렉은 이빨 사이 구멍을 통해 큰 소리로 흡입합니다.{/n} \"병사들에게 더 많은 세금을 {d|c21 Capture OTP}"
-"걷으라 {/d}명령한 후에 다시 물어 보십시오. 대답할 사람이 있다면, 그건...\""
+"걷으라{/d}명령한 후에 다시 물어 보십시오. 대답할 사람이 있다면, 그건...\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/OlegDialog/Cue_0042_Text
 msgctxt "3f198fd9-d2ee-48e8-9e7b-1718ab4dcb92"
@@ -191595,7 +191594,7 @@ msgid ""
 "leave the fort in peace, in the name of Erastil or whatever deity you swear "
 "by?\""
 msgstr ""
-"\"왜 {d|c11 Meet Akiros}놀랍지가 않지 {/d}?\" {n}아키로스는 당신을 쳐다보지만 공격하지 않습니다.{/n} "
+"\"왜 {d|c11 Meet Akiros}놀랍지가 않지{/d}?\" {n}아키로스는 당신을 쳐다보지만 공격하지 않습니다.{/n} "
 "\"에라스틸의 이름으로 이 요새를 버리고 평화롭게 떠나라고 해도 듣지 않을 것을 알고 있다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/StagLordFort/Akiros/Cue_0024_Text
@@ -194275,7 +194274,7 @@ msgstr "\" {d|c11 Kobolds}친구!{/d} 우리는 싸운다! 마이트 도망간�
 msgctxt "2ada8e72-ef9d-45ab-adb4-da266d842acc"
 msgid ""
 "\"{d|c11 Mites}Our ally{/d} brave come back! When you go, we defeat kobold.\""
-msgstr "\" {d|c11 Mites}우리의 동맹 {/d}이 용감하게 돌아왔다! 네가 가면 우리는 코볼트를 이길 거야.\""
+msgstr "\" {d|c11 Mites}우리의 동맹{/d}이 용감하게 돌아왔다! 네가 가면 우리는 코볼트를 이길 거야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/SycamoreDungeonFirstLvl/FinalRulersDialog/EntranceNeutralReinforced_Text
 msgctxt "ed166305-c781-4f3d-a5b1-6c11cdcb94c9"
@@ -197157,7 +197156,7 @@ msgid ""
 "seems to hate so much.\""
 msgstr ""
 "{n}키가 크고 우람한 어깨를 가진 회색 머리의 사내가 결의에 찬 표정으로 다가옵니다. 사내의 자세, 몸짓, 억양, 말투가 자신감에 "
-"차있습니다.{/n} \"네 생각 따윈 관심 없다, {d|Kressle}크레슬 {/d}. 난 네가 징징거리는 꼬락서니나 보러 온 게 "
+"차있습니다.{/n} \"네 생각 따윈 관심 없다, {d|Kressle}크레슬{/d}. 난 네가 징징거리는 꼬락서니나 보러 온 게 "
 "아니란 말이다. 우린 {g|Restov}레스토프{/g}와 싸울 수 없어. 자만디의 전령은 내버려 두고 네 명령이나 따라. 내 생각에, "
 "당초 수사슴 군주의 명령이었던 오래된 집도 불태우지 않은 것 같은데?\""
 
@@ -203670,7 +203669,7 @@ msgid ""
 "postponed. Swear by {g|Torag}Torag{/g}, the time for question will come — "
 "after Kargadd's last breath is drawn.\""
 msgstr ""
-"{n}에쿤의 표정이 어두워집니다. {/n} \"나는 너를 존중한다. 하지만 대답은 다음에 하도록 하지. {g|Torag}토락{/g}에게 "
+"{n}에쿤의 표정이 어두워집니다.{/n} \"나는 너를 존중한다. 하지만 대답은 다음에 하도록 하지. {g|Torag}토락{/g}에게 "
 "맹세하지만 질문을 위한 시간이 있을 거야. 카르가드의 숨통을 끊은 후에 말이지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/BigOutdoorArea/GrimRangerStart/Cue_78727 25_Text
@@ -212878,7 +212877,7 @@ msgid ""
 "that hurts... I can't stand the pain!\""
 msgstr ""
 "\"나의 {mf|남작님|남작님}! 딱 맞춰 와주셨군요. 나는 모든 것이 끝났다고 생각하기 시작했어요...\" {n}바솔로뮤는 고통으로 "
-"찡그리며 트롤의 시체를 걷어찹니다. {/n} \"이 괴물! 더러운 괴물! 냄새 나는 녀석! 제기랄, 아프군... 나는 아픈 게 싫어!\""
+"찡그리며 트롤의 시체를 걷어찹니다.{/n} \"이 괴물! 더러운 괴물! 냄새 나는 녀석! 제기랄, 아프군... 나는 아픈 게 싫어!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/SadisticMage/NEW_SadisticMage/Barth_AfterAttack/Cue_0008_Text
 msgctxt "71797ee3-8539-445f-862a-670f77e68756"
@@ -215793,7 +215792,7 @@ msgid ""
 "his shoulders.{/n} \"What you say, borba? What you say now, when trolls are "
 "better than you?\""
 msgstr ""
-"\" {d|Tartuk}타르 투크 {/d} 코볼트 왕은 트롤을 불멸로 만들었고 우리에게 보바와 이야기하는 것을 가르쳤다. 이제 트롤은 "
+"\" {d|Tartuk}타르 투크{/d} 코볼트 왕은 트롤을 불멸로 만들었고 우리에게 보바와 이야기하는 것을 가르쳤다. 이제 트롤은 "
 "보바보다 더 똑똑하고 강하고 더 낫다!\" {n}하굴카는 몸을 펴고 어깨를 풀며 당신을 봅니다.{/n} \"뭐라고 말할 거냐. 보바? "
 "트롤이 너보다 낫다면 뭐라고 말할 거냐?\""
 
@@ -217802,7 +217801,7 @@ msgid ""
 "{mf|Baron|Baroness|King|Queen} comesss.\" {n}Tartuk speaks slowly and "
 "deliberately.{/n} \"How... may I... ssserve?\""
 msgstr ""
-"{n}당신이 다가오는 것을 타툭이 지켜봅니다. 말 두개골 투구 속에서 당신을 보는 그의 차가운 눈이 보입니다. {/n} \"좋아. 드디어 "
+"{n}당신이 다가오는 것을 타툭이 지켜봅니다. 말 두개골 투구 속에서 당신을 보는 그의 차가운 눈이 보입니다.{/n} \"좋아. 드디어 "
 "왔구나.\" {n}타툭은 천천히 그리고 의도적으로 말합니다.{/n} \"어떻게... 내가... 도와줄까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/TrollLairOutdoor/TartukFriendly/Cue_0003_Text
@@ -218395,7 +218394,7 @@ msgid ""
 "tongue momentarily.{/n} \"Fire killed trolls before. Tartuk protects trolls "
 "from fire. So now trolls forever love Tartuk and his kobolds.\""
 msgstr ""
-"\"코볼트의 왕이다! 강하다! 똑똑하다! 친절하다...\"{n} 트롤은 잠깐 혀를 깨문듯 합니다. {/n} \"불은 트롤을 죽였다. "
+"\"코볼트의 왕이다! 강하다! 똑똑하다! 친절하다...\"{n} 트롤은 잠깐 혀를 깨문듯 합니다.{/n} \"불은 트롤을 죽였다. "
 "타툭은 트롤을 불한테 지켜줬다. 트롤은 이제 타툭과 코볼트들을 평생 사랑한다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/TrollLairOutdoor/TrollPacifist/Cue_03092_Text
@@ -220391,7 +220390,7 @@ msgid ""
 " shame, of course, but no means no\"."
 msgstr ""
 "{n}잠시 동안 옥타비아가 당신을 강하게 한대 치고 울려고 할 것 같습니다. 하지만 아무 일도 일어나지 않았습니다. 그녀는 부서진 채찍의 "
-"잔해에게 손을 흔듭니다. {/n} \"그래. 부서지라지.\" {n}그녀는 쉽게 말합니다.{/n} \"안타깝다. 하지만 안되는 건 안돼.\""
+"잔해에게 손을 흔듭니다.{/n} \"그래. 부서지라지.\" {n}그녀는 쉽게 말합니다.{/n} \"안타깝다. 하지만 안되는 건 안돼.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/TrollLairSecondLevel/MageToyFound/Cue_43394 6_Text
 #. Speaker : Regongar_Companion
@@ -223924,7 +223923,7 @@ msgid ""
 "{n}He crams the black berries into his mouth and chews vigorously.{/n}"
 msgstr ""
 "{n}노인은 조심스레 열매를 살펴보고는 고개를 끄덕입니다.{/n} \"그래... 내가 원하던 것이었어... \" {n}그는 글썽이는 "
-"눈으로 당신을 봅니다. {/n} \"고마워... 네가 내 영혼을 구했어... {g|Erastil}에라스틸{/g}이 너를 축복하길... \" {n}그는 검은 열매를 "
+"눈으로 당신을 봅니다.{/n} \"고마워... 네가 내 영혼을 구했어... {g|Erastil}에라스틸{/g}이 너를 축복하길... \" {n}그는 검은 열매를 "
 "입에 넣고 격렬히 씹습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/BigKamelandsOutdoor/SickMan/Cue_0024_Text
@@ -234362,7 +234361,7 @@ msgid ""
 "demeanor of a peasant shed like a cloak.{/n} \"Then you know little of our "
 "faith, indeed.\""
 msgstr ""
-"{n}산나는 잠시 침묵을 지키다가, 독사처럼 몸을 곧게 펴더니 경멸이 가득찬 눈으로 차갑게 변합니다. {/n} \"그럴까.\" {n}"
+"{n}산나는 잠시 침묵을 지키다가, 독사처럼 몸을 곧게 펴더니 경멸이 가득찬 눈으로 차갑게 변합니다.{/n} \"그럴까.\" {n}"
 "그녀의 억양은 한순간에 사라지고, 농민같던 태도는 마치 망토를 벗듯 없어졌습니다.{/n} \"그렇다면 우리의 신앙을 모르고 있는 "
 "모양이로구나. 그래.\""
 
@@ -236511,7 +236510,7 @@ msgid ""
 "{n}Kesten shakes his head.{/n} \"Not today. Come back later, and we'll get "
 "them when they least expect us.\""
 msgstr ""
-"{n}케스턴은 고개를 저었습니다. {/n} \"오늘은 날이 아닙니다. 다음에 와주십시오, 놈들이 긴장을 풀 때 공격해야 합니다.\""
+"{n}케스턴은 고개를 저었습니다.{/n} \"오늘은 날이 아닙니다. 다음에 와주십시오, 놈들이 긴장을 풀 때 공격해야 합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/ShrineOfLamashtu/Kesten/Cue_81506_Text
 #. Speaker : ShrineOfLamashtu_Kesten
@@ -238892,7 +238891,7 @@ msgid ""
 "stirs.{/n}"
 msgstr ""
 "{n}돌은 수면에 동그라미를 남기면서 뛰어다니다가 결국 짧은 흔적만을 만들고 마침내 사라집니다. 연못은 여전히 조용하고 아무일도 일어나지 "
-"않습니다. {/n}"
+"않습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepGrotto_FirstWorld/Pond_of_Sorrow/Cue_0010_Text
 msgctxt "e341b9ab-29f8-4186-b587-0d1ee94b28e1"
@@ -238912,7 +238911,7 @@ msgid ""
 "swirling, furious, menacing.{/n}"
 msgstr ""
 "{n}새의 뼈가 연못 깊숙히 사라집니다... 갑자기 연못의 표면이 들썩거리고 어두워지며 끓어오릅니다. 연못의 색이 변합니다. 연못은 이제 "
-"소용돌이치며 분노한 듯 보이고 위협적으로 보입니다. {/n}"
+"소용돌이치며 분노한 듯 보이고 위협적으로 보입니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepGrotto_FirstWorld/Pond_of_Sorrow/Cue_0013_Text
 #. Speaker : Harrim_Companion
@@ -239947,7 +239946,7 @@ msgid ""
 "...Your {mf|Grace|Grace|Highness|Highness}.\""
 msgstr ""
 "\"아, 아니야. 그런게 아니야. 많은 이들이 드래곤의 사자를 침묵시키려고 해. 바라는 대로 해줄 수는 없지.\" {n}붉은 머리 남자가 "
-"몸을 돌려 당신을 보더니 머리를 숙입니다. {/n} \"...{mf|남작이|남작이|전하|전하}셨군\""
+"몸을 돌려 당신을 보더니 머리를 숙입니다.{/n} \"...{mf|남작이|남작이|전하|전하}셨군\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepLake_Outdoor/HunterAtCliff/Cue_0054_Text
 msgctxt "75e14f40-7308-4633-b921-1db68b2ddfac"
@@ -244118,7 +244117,7 @@ msgid ""
 msgstr ""
 "{n}날씬해 보이는 여자가 망또를 두르고 손으로 얼굴을 가린 채 으스스한 분위기를 풍기며 서있었습니다. 그녀가 움직이는 것을 보지 "
 "못했다면 조각상인 줄 알았을 것입니다. 그러나 당신이 접근하자 그녀는 얼굴에서 손을 내렸고 얼굴을 가린 천의 틈 사이로 황금빛과 초록빛이 "
-"섞인 그녀의 눈동자가 보입니다. {/n} \"너는... 우리의 손님이다. {kingdomname}의 지도자가 맞겠지? 불편한 장면을 "
+"섞인 그녀의 눈동자가 보입니다.{/n} \"너는... 우리의 손님이다. {kingdomname}의 지도자가 맞겠지? 불편한 장면을 "
 "보여주게 되어 미안하군. 네 이름을 물어보아도 될까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/BarbarianMainCamp/Sister_FirstDialog/Cue_0002_Text
@@ -263982,7 +263981,7 @@ msgid ""
 "empty but for a single ringing thought — kill. Kill. KILL!{/n}"
 msgstr ""
 "{n}짙은 붉은 안개가 아미리의 눈에 서리면서 동시에 그녀의 심부로부터 분노의 표호가 터져 나온다. 그녀의 몸은 자연스럽게 앞으로 "
-"뛰쳐나갔다. 그녀의 머릿속에는 다른 아무것도 없이 오직 하나만이 울려 퍼진다 - 죽인다. 죽인다. 죽인다! {/n}"
+"뛰쳐나갔다. 그녀의 머릿속에는 다른 아무것도 없이 오직 하나만이 울려 퍼진다 - 죽인다. 죽인다. 죽인다!{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c41/BrevoyBorderlandsOutdoor/DefacedSisterDuel/Cue_0011_Text
 #. Speaker : BrevoyBorderlands_ShamanAshman
@@ -263990,7 +263989,7 @@ msgctxt "ad2d623f-5164-47f2-af33-925c220d431a"
 msgid ""
 "{n}Dugath sits nearby — with his hands and legs tied up and his mouth "
 "gagged, he stares at the witch with eyes full of hate.{/n}"
-msgstr "{n} 두가스는 손과 발이 묵이고 입에는 재갈이 물린채 옆에 앉아있다. 그는 증오에 찬 눈으로 그 마녀를 노려보았다. {/n}"
+msgstr "{n} 두가스는 손과 발이 묵이고 입에는 재갈이 물린채 옆에 앉아있다. 그는 증오에 찬 눈으로 그 마녀를 노려보았다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c41/BrevoyBorderlandsOutdoor/EvilLebedaComes/Answer_0005_Text
 msgctxt "bddf0a1f-3688-46ad-ab6d-6c18b6804c7a"
@@ -264336,7 +264335,7 @@ msgid ""
 "easy to kill! I'd ask you to share a drink or two with me again, but as you "
 "can see, now's not the best time!\""
 msgstr ""
-"\"헤헤헤 {d|c31 Ashman Friendly}좋아! {/d}! 늙은 두가스는 쉽게 죽지 않아! 술 한두 잔을 나에게 다시 나눠 "
+"\"헤헤헤 {d|c31 Ashman Friendly}좋아!{/d}! 늙은 두가스는 쉽게 죽지 않아! 술 한두 잔을 나에게 다시 나눠 "
 "줄 것을 요청 하겠지만, 당신이 볼 수 있듯이, 지금은 좋은시기가 아니다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/BrevoyBorderlandsOutdoor/Final_Barbarians/Cue_0014_Text
@@ -264347,7 +264346,7 @@ msgid ""
 "Ashman Hostile}again{/d}, and your people continue killing mine... but I owe "
 "you my life. The gods like to play cruel jokes on mortals.\""
 msgstr ""
-"{n}늙은 성직자는 자제하며 고개를 끄덕인다.{/n} \"그래서 전투가 {d|c31 Ashman Hostile}다시 {/d} 일어났군. "
+"{n}늙은 성직자는 자제하며 고개를 끄덕인다.{/n} \"그래서 전투가 {d|c31 Ashman Hostile}다시{/d} 일어났군. "
 "그리고 너의 사람들이 내 것을 계속 죽이고...하지만 나는 네게 빚 졌어. 신들은 필멸자들에게 잔인한 농담을 하는 것을 좋아하는군. \""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/BrevoyBorderlandsOutdoor/Final_Barbarians/Cue_0015_Text
@@ -264611,7 +264610,7 @@ msgid ""
 "lie — without your reinforcements, this battle would be hard on us.\""
 msgstr ""
 "{n}갑옷 입은 하프엘프 여성은 전장을 보기 위해 사용하고 있던 망원경을 접고 당신의 손을 굳게 흔든다.{/n} \"나는 내가 할 수 "
-"있음을 알았어. {d|c41 Follow Amiri}너 자신을 믿어. {/d}! 전쟁이 시작 되려 하고 나는 거짓말하지 않겠어. 당신의 "
+"있음을 알았어. {d|c41 Follow Amiri}너 자신을 믿어.{/d}! 전쟁이 시작 되려 하고 나는 거짓말하지 않겠어. 당신의 "
 "증원이 없다면 이 전투는 우리에게 어려워져. \""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/BrevoyBorderlandsOutdoor/JamandiCamp/Cue_0021_Text
@@ -265976,7 +265975,7 @@ msgid ""
 "in his hands.{/n} \"No. No... of course not. A thousand times no. Forgive "
 "me, my lady... I was on the verge of committing the worst act of my life.\""
 msgstr ""
-"{n}노움은 시선을 내려 그의 손에 들린 {g|Pharasma}파라즈마{/g}의 거룩한 상징을 바라봅니다. {/n} \"아니, 아니... "
+"{n}노움은 시선을 내려 그의 손에 들린 {g|Pharasma}파라즈마{/g}의 거룩한 상징을 바라봅니다.{/n} \"아니, 아니... "
 "물론 아니지. 천 번은 틀렸어. 용서해주세요 여신님... 나는 내 인생에서 최악의 행동을 저지르기 직전이었어요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/BrevoyBorderlandsOutdoor/TrivialEvent_Patriot/Cue_0032_Text
@@ -273524,7 +273523,7 @@ msgid ""
 "next? {g|Pitax}Pitax{/g}, and its peacock king? Or you?\""
 msgstr ""
 "{n}잔을 움켜 쥐며 님프의 얼굴이 갑자기 일그러졌습니다.{/n} \"이것은 결코 끝나지 않을 것이다! 결코!\" {n}그녀는 당신을 "
-"이상한 눈빛으로 쳐다보고 꿈결 같은 미소를 지으더니 고개를 떨구고 한동안 침묵했습니다. {/n} \"이 잔이 보여? 이름은 사죄라고 "
+"이상한 눈빛으로 쳐다보고 꿈결 같은 미소를 지으더니 고개를 떨구고 한동안 침묵했습니다.{/n} \"이 잔이 보여? 이름은 사죄라고 "
 "하지. 그 안에 있는 수사슴 군주는 왕이 되어 나를 여왕으로 삼으려는 미친 꿈을 꾸었지. 아르막은 야만인의 제국을 꿈꿨고. 다음은 누가 "
 "떨어질까? {g|Pitax}피탁스{/g}와 공작새 왕? 아니면 당신?\""
 
@@ -286920,7 +286919,7 @@ msgid ""
 "completely unnecessary. The swordsmith would not be pleased to know his work "
 "was just lying about when it could be loyally serving someone else.\""
 msgstr ""
-"{n}당신이 금화 지갑에 손을 뻗을 때 발레리는 당황해 하며 얼굴을 붉히지만 지갑을 쥔 당신의 손을 거두고는 기뻐 합니다. {/n} "
+"{n}당신이 금화 지갑에 손을 뻗을 때 발레리는 당황해 하며 얼굴을 붉히지만 지갑을 쥔 당신의 손을 거두고는 기뻐 합니다.{/n} "
 "\"감사합니다만, 그건 불필요한 일입니다.이 검을 만든 대장장이는 자신의 작품이 아무도 쓰지 않은 채로 굴러다니는 것을 원하지 않을 "
 "것입니다. \""
 
@@ -298218,7 +298217,7 @@ msgid ""
 "our future. I couldn't die and leave you facing the final battle alone! So I "
 "made the decision. Do you... do you blame me?\""
 msgstr ""
-"\"잠시 생각을 해봤는데... — 나는 우리에서 죽어가는 사람들에게 {d|OctReg Burn Slaves}등을 돌렸었어. {/d}레그가 "
+"\"잠시 생각을 해봤는데... — 나는 우리에서 죽어가는 사람들에게 {d|OctReg Burn Slaves}등을 돌렸었어.{/d}레그가 "
 "말했었지. 아무것도 할 수 없을 때는 살아야 한다고. 복수를 위해. 언젠가 도움을 줄 사람들을 위해서. 미래를 위해서. 우리의 미래를 "
 "위해서. 나는 죽을 수 없었고 네가 혼자서 마지막 전투를 마주하게 둘 수 없었어! 그래서 결정을 내렸어. 너... 날 비난할 거야? \""
 
@@ -299057,7 +299056,7 @@ msgid ""
 "from the darkness. But Armag saw the light and went towards it. The light of "
 "the lantern you are carrying.\""
 msgstr ""
-"\"아르막은 너의 왕국에 일어난 재앙에 대해 알아냈고 즉시 {d|c41 Chief Armag}구조대를 {/d} 보냈다. 일행은 암울한 "
+"\"아르막은 너의 왕국에 일어난 재앙에 대해 알아냈고 즉시 {d|c41 Chief Armag}구조대를{/d} 보냈다. 일행은 암울한 "
 "안개 속에서 길을 잃었다. 기도도 저주도 도움이 되지 않았다. 악령이 어둠에서 공격했다. 그러나 아르막은 빛을 보고 그것으로 갔다. 네가 "
 "들고 있는 등불의 빛이었지. \""
 
@@ -299726,7 +299725,7 @@ msgid ""
 "intelligence in his eyes.{/n} \"You! Why did you disobey me? You didn't die! "
 "Have you forgotten the rules?\""
 msgstr ""
-"{n}늙은 {/n}{d|Nugrah}드루이드{/d}{n}가 서있고, 비틀거리며 혼잣말을 합니다. 그는 당신을 쳐다봅니다. 당신은 그의 "
+"{n}늙은{/n}{d|Nugrah}드루이드{/d}{n}가 서있고, 비틀거리며 혼잣말을 합니다. 그는 당신을 쳐다봅니다. 당신은 그의 "
 "눈빛에서 어떤 총명함도 보지 못합니다.{/n} \"너! 왜 나에게 복종하지 않았지? 너는 죽지 않았어! 규칙을 잊었나?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c71/CapitalSquareFW/FWNugra/Cue_0006_Text
@@ -299815,7 +299814,7 @@ msgid ""
 msgstr ""
 "\"내가 얼마나 틀렸는지. 이 공연에서 예기치 못한 종막보다 더 좋은게 있겠나? 나는 설정과 주인공을 바꿔야겠다.\" "
 "{n}{g|LanternKing}등불왕{/g}은 마치 와인을 마시며 사교 활동을 하는 것처럼 말합니다. 이번에 그는 거의 유쾌한 것처럼 "
-"또 다른 가면을 착용했습니다. {/n}"
+"또 다른 가면을 착용했습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c71/CapitalSquareFW/LKatChapterStart/Cue_0005_Text
 #. Speaker : C71_NyrissaCapitalSquareFW
@@ -300470,7 +300469,7 @@ msgid ""
 "Poor}your kingdom{/d} can stand much longer.\""
 msgstr ""
 "\"15일도 더 버티지 못할 거라 생각한다. {g|First World}태초 세계{/g}의 압박은 코 앞에 닥쳤다. 너나 {d|c61 "
-"Kingdom Poor} 너의 왕국 {/d}이 오래가지 않을까 두렵다. \""
+"Kingdom Poor} 너의 왕국{/d}이 오래가지 않을까 두렵다. \""
 
 #. Mechanics/Blueprints/World/Dialogs/c71/CityGates(Hub)/CollectorDialog/Cue_0017_Text
 msgctxt "9156399a-911d-45d0-aee6-5c75abf3239e"
@@ -304505,7 +304504,7 @@ msgstr ""
 "{n}노움의 작은 빨간 눈동자가 절망적으로 떠돌고, 그의 떨리는 손은 주머니를 있지도 않은 물건을 더듬거립니다.{/n} \"내가 죽은 "
 "이로베티의 군대를 보았을 때, 마침내 네가 폭발했을 거라고 생각했어. 그러나 결국 그렇게 나쁘지는 않았어! 전 세계가 미쳐 돌아갈지 "
 "모르지만 칸 베릴이 여기 무사하게 있다! 그게... 우리는 싸움을 할거야. 맞지? 당연히 내가 옳아. 할 일을 말해줘. 나는 {d|c51 "
-"Governor Vereel}네 명령 {/d}을 기다린다!\""
+"Governor Vereel}네 명령{/d}을 기다린다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c71/IrovettiPalaceFW/AfterBattle/Cue_0005_Text
 #. Speaker : Stefano_FW
@@ -304997,7 +304996,7 @@ msgid ""
 "{d|AnotherShyka}Shyka{/d}.{/n} \"There is so much noise in the world. Why do "
 "we have to listen to this pathetic screech?\""
 msgstr ""
-"\"그만한 가치가 있나?\" {n}{d|AnotherShyka}샤이카{/d}라고 생각되는 군청색의 로브를 입은 자가 대답합니다. {/n} "
+"\"그만한 가치가 있나?\" {n}{d|AnotherShyka}샤이카{/d}라고 생각되는 군청색의 로브를 입은 자가 대답합니다.{/n} "
 "\"세상에는 너무 많은 소음이 있다. 왜 우리가 이 애처로운 소리를 들어야 하나?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c71/SilverstepGrottoFW/AllEldestDialog/Cue_0005_Text
