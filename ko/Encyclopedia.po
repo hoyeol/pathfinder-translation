@@ -3512,7 +3512,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Charisma_Title
 msgctxt "bdfc093c-8039-4baf-aaa0-be4458d05fbf"
 msgid "Charisma (Cha)"
-msgstr "매력(Charisma (Cha))"
+msgstr "매력(Cha)"
 
 #. Mechanics/Blueprints/Encyclopedia/Charm_Domain_Title
 msgctxt "a27a7d8f-5a60-4993-b73c-2d646567acb2"
@@ -4620,7 +4620,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Constitution_Title
 msgctxt "f22366f3-9e8e-4860-bf1f-36e1b6cd9487"
 msgid "Constitution (Con)"
-msgstr "건강(Constitution (Con))"
+msgstr "건강(Con)"
 
 #. Mechanics/Blueprints/Encyclopedia/Core_rules_BlockText_Text
 msgctxt "611e5a63-490c-4e56-8405-28b7ad874f0c"
@@ -4725,7 +4725,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/DC_Title
 msgctxt "166b0b8c-4294-4518-aac2-21503cad9aff"
 msgid "Difficulty class"
-msgstr "난이도(Difficulty class)"
+msgstr "난이도(DC)"
 
 #. Mechanics/Blueprints/Encyclopedia/Damage_Reduction_BlockText_Text
 msgctxt "e673e2c5-735e-43cc-b839-b67fc7c65173"
@@ -5146,7 +5146,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/Dexterity_Title
 msgctxt "45b6dbb9-9c79-467d-8eea-32cf61270698"
 msgid "Dexterity (Dex)"
-msgstr "민첩(Dexterity (Dex))"
+msgstr "민첩(Dex)"
 
 #. Mechanics/Blueprints/Encyclopedia/Dialogue_Skill_Checks_BlockText_Text
 msgctxt "502ddd35-f413-4aa7-96f6-a05cb8a2d2d4"
@@ -20904,7 +20904,7 @@ msgstr ""
 #. Mechanics/Blueprints/Encyclopedia/XP_Title
 msgctxt "fc437f4e-f340-4a44-990d-19c94df2c968"
 msgid "Experience Points (XP)"
-msgstr "경험치(Experience Points (XP))"
+msgstr "경험치(XP)"
 
 #. Mechanics/Blueprints/Encyclopedia/Zombie_BlockText_Text_String
 msgctxt "e88665bf-ef50-49f8-8c85-62960a94eb90"
