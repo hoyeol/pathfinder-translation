@@ -22329,7 +22329,7 @@ msgid ""
 "spoken by eldritch abominations: \"DEFILEMENT\", \"DELIRIUM\", \"DESPAIR\", "
 "\"DEATH\"."
 msgstr ""
-"이 스타나이프의 네 칼날에는 엘드리치 어보미네이션의 언어, 알코로 \"오욕\", \"착란\", \"절망\", \"죽음\"라고 쓰여 "
+"이 스타나이프의 네 칼날에는 엘드리치 어보미네이션의 언어, 아클로어로 \"오욕\", \"착란\", \"절망\", \"죽음\"이라고 쓰여 "
 "있습니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/FaterenderItem/FaterenderBuff_m_DisplayName

@@ -225159,8 +225159,8 @@ msgid ""
 "speak Aklo when I had the chance?!\""
 msgstr ""
 "{n}주빌로스트의 눈이 커졌습니다. 그는 자신의 주머니에서 메모장을 꺼내 미친 듯이 넘기고는 생물과 노트를 번갈아봅니다.{/n} \"잠깐"
-". 어디 있었지...? 아하! 맞아! 믿을 수가 없어. 이게 뭔지 알아? 고블린들이 나를 데려가겠군. 이건 {g|First World}"
-"태초 세계{/g}에서 넘어온 위상 거미야! 나는 궁금한 게 많았는데... 기회가 있었을 때 왜 나는 Aklo 언어를 배우지 않았지?!\""
+". 어디 있었지...? 아하! 맞아! 믿을 수가 없어. 이게 뭔지 알아? 이런 세상에, 이건 {g|First World}"
+"태초 세계{/g}에서 넘어온 위상 거미야! 나는 궁금한 게 많았는데... 기회가 있었을 때 왜 나는 아클로어를 배우지 않았지?!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GhostStone/ZzamasEndDialog/Cue_0028_Text
 #. Speaker : Linzi_Companion
