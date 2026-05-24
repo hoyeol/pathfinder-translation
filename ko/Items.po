@@ -400,7 +400,7 @@ msgid ""
 "following spells: burning arc, burning hands, controlled fireball, fire "
 "snake, fireball, fire storm, flame strike, hellfire ray, scorching ray."
 msgstr ""
-"이 부적은 착용자가 다음 주문을 시전할 때 시전자 레벨에 +4를 더해줍니다: 불줄기, 불타는 손, 통제 화염구, 불뱀, 화염구, 화염 "
+"이 부적은 착용자가 다음 주문을 시전할 때 시전자 레벨에 +4를 더해줍니다: 불줄기, 불타는 손, 통제된 화염구, 불뱀, 화염구, 화염 "
 "폭풍, 화염 강타, 지옥불 광선, 이글거리는 광선."
 
 #. Mechanics/Blueprints/Equipment/Amulets/Artisan/AmuletofSpells_m_DisplayNameText

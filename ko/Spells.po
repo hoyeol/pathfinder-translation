@@ -5683,12 +5683,12 @@ msgctxt "b0a722d8-6939-4dd6-9e6d-9f77f28da9eb"
 msgid ""
 "This spell functions as fireball except you can control the damage to your "
 "allies; a controlled fireball deals minimum damage to them."
-msgstr "이 주문은 아군의 피해를 최소화한 화염구입니다."
+msgstr "이 주문은 화염구처럼 작동하지만 아군에게 가해지는 피해를 통제할 수 있습니다. 통제된 화염구는 아군에게 최소 피해만 입힙니다."
 
 #. Mechanics/Blueprints/Spells/Level4/ControlledFireball_m_DisplayName
 msgctxt "43f184f9-2705-4146-b5d6-75eb09bdba66"
 msgid "Controlled Fireball"
-msgstr "조정된 화염구"
+msgstr "통제된 화염구"
 
 #. Mechanics/Blueprints/Spells/Level4/CowerBuff_m_Description
 msgctxt "45140c0e-5edd-4885-8233-edc34677c7bf"
