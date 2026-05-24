@@ -124566,7 +124566,7 @@ msgstr "옥이 박힌 핀"
 #. Mechanics/Blueprints/World/Dialogs/Items/NewTrashLoot/Valuables/MithralIngot_String
 msgctxt "e17e46b8-3504-4abe-9f12-b26e721e7961"
 msgid "Mithral Ingot"
-msgstr "미스릴 괴"
+msgstr "미스랄 괴"
 
 #. Mechanics/Blueprints/World/Dialogs/Items/NewTrashLoot/Valuables/PyriteBrooch_String
 msgctxt "648919f5-364c-4021-8053-f082e0be50a9"
