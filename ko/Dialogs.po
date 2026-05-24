@@ -87368,7 +87368,7 @@ msgstr "\"죽어라. 쓰레기...\""
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Ekun/Q2_Burying_The_Past/Barks/NtavisThug1_RitualFight_String
 msgctxt "3fb8290b-e73f-4071-9179-7b1cd012e379"
 msgid "\"Your blood will satiate the Unquenchable Fire!\""
-msgstr "\"네 피가 Unenchenchable Fire를 만족시킬 것이다!\""
+msgstr "\"네 피가 꺼지지 않는 불의 갈증을 채워줄 것이다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Ekun/Q2_Burying_The_Past/Barks/NtavisThug2_RitualFight_String
 msgctxt "8ad7deed-4c69-4c3d-ad6c-42079525407f"
