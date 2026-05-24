@@ -65952,7 +65952,7 @@ msgstr "... 바솔로뮤에게 도움을 청합니다."
 #. Mechanics/Blueprints/World/Dialogs/Capital/SeedsOfLife/BookEvent_Seedsoflife_Operation/Answer_0007_AlignmentShift.Description
 msgctxt "d22e7d40-8647-4a8b-b5a9-67fda1f99f32"
 msgid "Settled the dispute between Jhod and Tristian with a coin toss."
-msgstr "동전 던지기로 조드 카브켄과 Tristian 사이의 분쟁을 해결했습니다."
+msgstr "동전 던지기로 조드 카브켄과 트리스티안 사이의 분쟁을 해결했습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/SeedsOfLife/BookEvent_Seedsoflife_Operation/Answer_0007_Text
 msgctxt "2c12de92-6173-4b96-a35f-b81b0611de3f"
@@ -70085,7 +70085,7 @@ msgid ""
 "hunt them. Hunting is my life. I was afraid to admit it for a long time. But "
 "fear, despair, doubt — all that is gone. All that is left is my resolve.\""
 msgstr ""
-"{n}Ekun 고개를 끄덕입니다.{/n} \"세계에서 괴물은 사라져야 한다. 나는 그들을 사냥 할 것이다. 사냥은 내 삶이다. 나는 "
+"{n}에쿤이 고개를 끄덕입니다.{/n} \"세계에서 괴물은 사라져야 한다. 나는 그들을 사냥 할 것이다. 사냥은 내 삶이다. 나는 "
 "그것을 오랫동안 인정하기를 두려워했다. 그러나 두려움, 절망, 의구심은 모두 사라졌고 결심만이 남았다. \""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/CompanionDialogues/Ekun/VS_Ekun_Companion_Dialogue/Cue_0123_Text
@@ -85932,7 +85932,7 @@ msgstr "{n}에쿤은 잠시 침묵하고는 와인을 붓고는 음미합니다.
 #. Speaker : Ekun_Companion
 msgctxt "8d239173-f585-4dbe-a64e-48e5dd1a2fc1"
 msgid "{n}Ekun nods and the tension leaves his shoulders.{/n}"
-msgstr "{n}Ekun 고개를 끄덕이고 그의 어깨에 힘이 풀립니다.{/n}"
+msgstr "{n}에쿤이 고개를 끄덕이고 그의 어깨에 힘이 풀립니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Ekun/Q1_A_Feast_For_a_Friend/Ekun_Party/Cue_0038_Text
 #. Speaker : Ekun_Companion
@@ -255205,7 +255205,7 @@ msgstr "\"제이탈.\""
 #. Mechanics/Blueprints/World/Dialogs/c31/VordakaiTombLevel2/Raven_SecondTalk/Answer_0012_Text
 msgctxt "0cbaf777-2c2f-49e3-bf44-c18da091b89d"
 msgid "\"Nok-Nok. Easily.\""
-msgstr "\"Nok-Nok. 쉽군.\""
+msgstr "\"녹-녹. 쉽군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/VordakaiTombLevel2/Raven_SecondTalk/Answer_0013_Text
 msgctxt "8f954341-e76e-4177-9c9c-a85110aab1a9"
@@ -274216,7 +274216,7 @@ msgid ""
 "debate, Lady Nyrd! Yes, despite your love of silly pranks. But the creature "
 "I see before me now simply cannot be saved.\""
 msgstr ""
-"{n}Jubilost는 진심으로 화가 나 보입니다.{/n} \"논쟁 중에 도우려고 했어. Nyrd! 어리석은 농담에 대한 너의 사랑에도 "
+"{n}주빌로스트는 진심으로 화가 나 보입니다.{/n} \"논쟁 중에 도우려고 했어. 니르드! 어리석은 농담에 대한 너의 사랑에도 "
 "불구하고 말이지. 하지만 지금 내 앞에 있는 생물은 구원받을 수 없어.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c51/MonsterCamp/NyrdZottenripple/Cue_0023_Text
@@ -274308,8 +274308,8 @@ msgid ""
 "just for you!\" {n}Nyrd winks. Her words seem careless and fun, but there's "
 "a creepy undertone.{/n}"
 msgstr ""
-"\"오. {name}. 매력적인 친구를 데려왔군. 좀 더 가까이와 보지. Jubilost? 너를 위해 몇 가지 재미있는 주문을 보여줄게!"
-"\" {n}Nyrd가 윙크합니다. 그녀의 말은 부주의하고 재미있지만 음흉함이 있습니다.{/n}"
+"\"오. {name}. 매력적인 친구를 데려왔군. 좀 더 가까이와 보지. 주빌로스트? 너를 위해 몇 가지 재미있는 주문을 보여줄게!"
+"\" {n}니르드가 윙크합니다. 그녀의 말은 부주의하고 재미있지만 음흉함이 있습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c51/MonsterCamp/NyrdZottenripple/Cue_0044_Text
 #. Speaker : Jubilost_Companion
@@ -280033,7 +280033,7 @@ msgstr "[떠난다] \"안녕히!\""
 #. Mechanics/Blueprints/World/Dialogs/c51/Pitax_IrovettiPalace/Gnomes/Answer_0050_Text
 msgctxt "c0b825b2-eaba-4738-a793-ff368aa2c87a"
 msgid "\"Nyrd? I thought we killed you?\""
-msgstr "\"Nyrd? 우리가 널 죽인 줄 알았는데?\""
+msgstr "\"니르드? 우리가 널 죽인 줄 알았는데?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c51/Pitax_IrovettiPalace/Gnomes/Answer_0051_AlignmentShift.Description
 msgctxt "dbe1c00a-dfbb-4a04-9070-7983321e42f7"
@@ -280340,7 +280340,7 @@ msgid ""
 msgstr ""
 "\"물론 네가 한 거야! 나는 {g|Pharasma}파라즈마{/g}의 심판을 받으려고 했는데 그 때 눈을 떠보니 거기가 어디였게? {g|"
 "First World} 태초 세계{/g}였어! 그리고 비논리 논쟁의 괴물이었던 날 초대한 자가 내 앞에 있었지. 그들이 이야기 하길 "
-"'Nyrd. 주빌로스트가 안부를 전합니다! 그분의 자비로 당신은 {g|Bleaching}노화{/g}에서 {d|Jubilost Nyrd}구원{/d}받아 "
+"'니르드, 주빌로스트가 안부를 전합니다! 그분의 자비로 당신은 {g|Bleaching}노화{/g}에서 {d|Jubilost Nyrd}구원{/d}받아 "
 "{g|First World} 태초 세계{/g}에 한해서 불멸에 가까워졌습니다.'고 했어. 물론 나는 머무르고 싶었지! 하지만 우선 내 "
 "바보 같은 형제에게 가야겠다고 생각했어! 그리고 여기 너희들을 만나게 되었지.\""
 
@@ -280367,7 +280367,7 @@ msgstr ""
 #. Speaker : VyarCottenrople
 msgctxt "95741845-94a2-4841-9eae-dc549a76f6b1"
 msgid "\"Where are we headed now, Nyrd?\""
-msgstr "\"우리는 어디로 향하고 있어? Nyrd?\""
+msgstr "\"우리는 어디로 향하고 있어? 니르드?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c51/Pitax_IrovettiPalace/Gnomes/Cue_0058_Text
 #. Speaker : NirdCottenrople_NoBleaching_IrovettiPalace
@@ -280425,7 +280425,7 @@ msgid ""
 msgstr ""
 "\"나는 살아남지 못하고 죽었었지! 나는 {g|Pharasma}파라즈마{/g}의 심판을 받으려고 했는데 그 때 눈을 떠보니 거기가 "
 "어디였게? {g|First World} 태초 세계{/g}였어! 그리고 비논리 논쟁의 괴물이었던 날 초대한 자가 내 앞에 있었지. 그들이 "
-"이야기 하길 'Nyrd. 주빌로스트가 안부를 전합니다! 그분의 자비로 당신은 {g|Bleaching}백화{/g}에서 {d|Jubilost "
+"이야기 하길 '니르드, 주빌로스트가 안부를 전합니다! 그분의 자비로 당신은 {g|Bleaching}백화{/g}에서 {d|Jubilost "
 "Nyrd}구원{/d}받아 {g|First World} 태초 세계{/g}에 한해서 불멸에 가까워졌습니다.'고 했어. 물론 나는 머무르고 "
 "싶었지! 하지만 우선 내 바보 같은 형제에게 가야겠다고 생각했어! 그리고 여기 너희들을 만나게 되었지.\""
 
