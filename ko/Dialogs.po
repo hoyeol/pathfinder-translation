@@ -136133,7 +136133,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HumanMaleAlchiemistCN/Items/Book1_Name_String
 msgctxt "b52e462d-c2ed-43b8-a5f9-088870d67e9c"
 msgid "\"Of Transmutations and Bodily Poisons\", Part I"
-msgstr "\"변형과 신체에 치명적인 독에 관해\", 1부"
+msgstr "\"트랜스뮤테이션과 신체에 치명적인 독에 관해\", 1부"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HumanMaleAlchiemistCN/Items/Book2_Description_String
 msgctxt "688d5dc2-5932-4796-b537-4258954ce51a"
@@ -136159,7 +136159,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HumanMaleAlchiemistCN/Items/Book2_Name_String
 msgctxt "cb9c3bf1-4cae-4f3c-ae1a-89f2bea7340b"
 msgid "\"Of Transmutations and Bodily Poisons\", Part II"
-msgstr "\"변형과 신체에 치명적인 독에 관해\", 2부"
+msgstr "\"트랜스뮤테이션과 신체에 치명적인 독에 관해\", 2부"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HumanMaleAlchiemistCN/Items/Book3_Description_String
 msgctxt "14cc2786-9c5d-4f81-9a0c-f9f385a39e85"
@@ -136184,7 +136184,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HumanMaleAlchiemistCN/Items/Book3_Name_String
 msgctxt "befcb0ca-57d3-47d3-bf83-b67531a5e898"
 msgid "\"Of Transmutations and Bodily Poisons\", Part III"
-msgstr "\"변형과 신체에 치명적인 독에 관해\", 3부"
+msgstr "\"트랜스뮤테이션과 신체에 치명적인 독에 관해\", 3부"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HumanMaleAlchiemistCN/Items/SvetlanasLetter_Description_String
 msgctxt "bc8bb5d4-f0ea-4960-b0ba-4541fa3714e1"
@@ -136352,7 +136352,7 @@ msgid ""
 "hidden in one of these books. Bring me the books, and I'll brew the potion "
 "for you.\""
 msgstr ""
-"\"오, 내가 여기 있는 동안... 내가 언제나 읽고 싶었던 책이 있소. '변형과 신체에 치명적인 독에 관해'라는 세 권짜리 책이라오. 내게 "
+"\"오, 내가 여기 있는 동안... 내가 언제나 읽고 싶었던 책이 있소. '트랜스뮤테이션과 신체에 치명적인 독에 관해'라는 세 권짜리 책이라오. 내게 "
 "그것을 찾아다 준다면, 무언가 당신이 가장 놀라워할만한 것을 만들어주겠소... 그것은 정말...\" {n}보큰은 그 말을 잘랐다.{/n} "
 "\"그래, 빈말에는 아무 소용이 없지. 그러나 사람들은 그 책들 가운데 고대의 숨겨진 조합식이 있다고들 말하오. 내게 책을 가져다주시오, "
 "그러면 당신을 위해 포션을 만들어 드리지.\""
@@ -188176,7 +188176,7 @@ msgstr "\"보큰. 궁정 연금술사로 내 밑에 들어오지 않겠나?\""
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/Bokken/Answer_0086_Text
 msgctxt "87fedee9-c19c-485c-b6ce-c3c4ef87a0c6"
 msgid "\"Is this the book you wanted me to find?\""
-msgstr "\"이것이 내가 찾기를 원했던 책인가?\""
+msgstr "\"이게 그 책 맞나?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/Bokken/Answer_0088_Text
 msgctxt "1a66617b-0606-420c-aee2-412a1b134813"
@@ -188188,7 +188188,7 @@ msgctxt "ab082988-edba-45c9-bd33-64b0ad19c3fe"
 msgid ""
 "\"'Of Transmutations and Bodily Poisons,' volume three. Here you are, Bokken."
 "\""
-msgstr "3권. 여기 있다. 보큰.\""
+msgstr "\"'트랜스뮤테이션과 신체에 치명적인 독에 관해' 3부다, 보큰.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/Bokken/Answer_0093_Text
 msgctxt "d8e3c7bb-63e4-479b-98ef-a4d9d131e992"
