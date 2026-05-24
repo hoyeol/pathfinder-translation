@@ -124571,7 +124571,7 @@ msgstr "미스랄 괴"
 #. Mechanics/Blueprints/World/Dialogs/Items/NewTrashLoot/Valuables/PyriteBrooch_String
 msgctxt "648919f5-364c-4021-8053-f082e0be50a9"
 msgid "Pyrite Brooch"
-msgstr "해적 브로치"
+msgstr "황철석 브로치"
 
 #. Mechanics/Blueprints/World/Dialogs/Items/NewTrashLoot/Valuables/SilverBuckle_String
 msgctxt "d59dd923-2b81-4548-90ed-3a15ff61759b"
