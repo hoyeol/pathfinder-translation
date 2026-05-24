@@ -1299,7 +1299,7 @@ msgstr "바바리안 침공의 영향"
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/BaronyIsRavagedByDisease_DisplayName
 msgctxt "9dcddc84-23d3-4340-a2fe-ba460cc6a290"
 msgid "Repercussions of the Pestilence"
-msgstr "전염병의 영향"
+msgstr "전염병의 여파"
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/BaronyIsRavagedByPitax_DisplayName
 msgctxt "629665c2-c833-48f6-a537-7d5d6fb39de9"
@@ -27376,7 +27376,7 @@ msgstr ""
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/WolfLair_LocalizedName
 msgctxt "264fbb6e-81aa-4572-a42f-8715c084f446"
 msgid "Glade in the Wilderness Discovered"
-msgstr "버려진 숲 빈터"
+msgstr "황무지의 빈터 발견"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/WolfsLair_LocalizedDescription
 msgctxt "ab6c4b37-0a7f-4f69-87f6-7bc257ab43ae"

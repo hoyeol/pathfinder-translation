@@ -198593,7 +198593,7 @@ msgstr "[공격] \"나는 악당들과 거래를 하지 않는다.\""
 #. Mechanics/Blueprints/World/Dialogs/c21/BanditAdmirers/Answer_87008_AlignmentShift.Description
 msgctxt "846b23ff-a1de-422b-8f68-788bda3f3f0e"
 msgid "Exiled the bandits from the {mf|barony|barony|kingdom|kingdom}."
-msgstr "영지에서 도적을 추방합니다."
+msgstr "{mf|남작령|남작령|왕국|왕국}에서 도적을 추방했습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c21/BanditAdmirers/Answer_87008_Text
 msgctxt "e31132fe-fc65-4a7b-a6c7-f0461d37762f"
@@ -212595,7 +212595,7 @@ msgctxt "e1c09849-c3d9-4e79-ab89-c7cac5917fbc"
 msgid ""
 "\"As you wish, Your {mf|Grace|Grace|Highness|Highness}. Please, be my guest."
 "\""
-msgstr "\"네가 원하는 대로. 어서 와.\""
+msgstr "\"분부대로 하겠습니다, {mf|영주님|영주님|전하|전하}. 부디, 편히 계십시오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/SadisticMage/Cue_98973_Text
 #. Speaker : SadisticMage
@@ -235286,7 +235286,7 @@ msgstr "\"정말 고마워!\""
 #. Mechanics/Blueprints/World/Dialogs/c22/SecludedLodge/NobleMale/SecludedLodge_NobleMale_WhatToBark_String
 msgctxt "4a07eede-e586-47c3-81c6-688f4dc409d2"
 msgid "\"I beg you, {mf|baron|baroness}!\""
-msgstr "\"부탁이야!\""
+msgstr "\"부탁드립니다, {mf|남작님|여남작님}!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SecludedLodge/Priestess/Answer_0047_Text
 msgctxt "e3f1b017-87d7-4110-8866-27e482db40fd"
@@ -236392,7 +236392,7 @@ msgstr "돌"
 #. Mechanics/Blueprints/World/Dialogs/c22/ShrineOfLamashtu/Item/Lamashtu_words_Name_String
 msgctxt "7829b08e-2a49-402c-b29f-72d65d7903b7"
 msgid "Bloodstained Piece of a Manuscript"
-msgstr "피가 묻은 종이"
+msgstr "피로 얼룩진 원고 조각"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/ShrineOfLamashtu/Item/Lamashtu_words_String
 msgctxt "73f37f11-c94c-4c05-bcd0-af127e60fc54"

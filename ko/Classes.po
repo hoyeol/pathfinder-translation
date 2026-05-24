@@ -21476,7 +21476,7 @@ msgstr "주적"
 #. Mechanics/Blueprints/Classes/Ranger/FavoriteEnemy/FavoriteEnemyReptilian_m_DisplayName
 msgctxt "15e4a9cc-c1d8-4712-ab37-eaadc269eb35"
 msgid "Favored Enemy — Reptilian Humanoids"
-msgstr "인간형 파충류"
+msgstr "주적 — 파충류형 인간형"
 
 #. Mechanics/Blueprints/Classes/Ranger/FavoriteEnemy/FavoriteEnemySelection_Description_String
 msgctxt "fba9fd38-6840-408f-bd2e-e017a04284f4"
