@@ -20250,8 +20250,7 @@ msgid ""
 "leave the Stolen Lands in return for a collection of precious magical items "
 "from the treasury."
 msgstr ""
-"재무관은 the Stolen Lands 의 재무부에 있는 귀중한 마법 물품 수집품을 제공하는 대가로 비판적인 페이 지도자가 the "
-"Stolen Lands 에서 떠나는것에 동의하게 만들었습니다."
+"재무관은 도둑맞은 땅의 재무부에 있는 귀중한 마법 물품 수집품을 제공하는 대가로 비판적인 페이 지도자가 도둑맞은 땅에서 떠나는것에 동의하게 만들었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-6_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "b087aafe-6d53-456d-9072-1fa87cb61aca"
@@ -20280,7 +20279,7 @@ msgid ""
 "their entourage with them."
 msgstr ""
 "수석 외교관은 스스로를 뛰어넘은 능력으로 the Wild Hunt 의 지휘관 일부가 그들의 새로운 스포츠를 포기하도록 설득했습니다. "
-"페이들은 그들의 지도자를 의심하기에 이르렀고 서로 나뉘어진 무리들은 the Stolen Lands 를 떠났습니다."
+"페이들은 그들의 지도자를 의심하기에 이르렀고 서로 나뉘어진 무리들은 도둑맞은 땅을 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-6_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "4ae701d4-c54e-4087-805b-e1e8cd3b8bc3"
@@ -20316,7 +20315,7 @@ msgid ""
 "The invasion from the First World continues! It will be necessary to bolster "
 "the defenses of the Stolen Lands will spellcasters to repel this assault."
 msgstr ""
-"태초 세계로 부터의 침공은 계속됩니다! 공격을 물리치기 위해 주문시전자들은 the Stolen Lands 의 방어를 강화해야 합니다."
+"태초 세계로 부터의 침공은 계속됩니다! 공격을 물리치기 위해 주문시전자들은 도둑맞은 땅의 방어를 강화해야 합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/BloodMoon/BloodMoon-7_LocalizedDescription
 msgctxt "c53dc55d-a238-4a74-87b7-bea598d2a905"
