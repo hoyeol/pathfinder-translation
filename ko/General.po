@@ -3374,7 +3374,7 @@ msgstr "UI Artist"
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[120].NameRole
 msgctxt "ee9de9e4-ef0b-49ae-b7f2-2bf4e4bbf251"
 msgid "2d Artist and author of the key art"
-msgstr "2d Artist and author of the Key art"
+msgstr "2d Artist and author of the key art"
 
 #. Mechanics/Blueprints/Credits/Roles_Roles.Array.data[12].NameRole
 msgctxt "151d1305-4a2e-4bf8-adf9-deae5ff43b08"

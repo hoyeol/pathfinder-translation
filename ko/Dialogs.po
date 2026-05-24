@@ -109537,10 +109537,7 @@ msgid ""
 "{n}Valerie's face is lit by a faint smile.{/n} \"Truly. I forgot what "
 "hypocrites {g|Shelyn}Shelyn's{/g} servants are! You only care about one "
 "freedom of will – the one that serves your own interests!\""
-msgstr ""
-"{n}Valerie's face is lit by a faint smile.{/n} \"Truly. I forgot what "
-"hypocrites {g|Shelyn}셸린's{/g} servants are! You only care about one freedom "
-"of will – the one that serves your own interests!\""
+msgstr "{n}발레리의 얼굴에 희미한 미소가 비친다.{/n} \"정말로. {g|Shelyn}셸린{/g}의 종복들이 얼마나 위선적인지 잊고 있었군요! 당신들은 오직 한 가지 자유 의지에만 관심이 있죠 – 자신의 이익에 부합하는 자유 말이에요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Valerie/03_JudgementOfTheGods/Judgement/Cue_0135_Text
 msgctxt "2831541c-cfb3-4127-b2f9-99820917d9f0"
@@ -165041,9 +165038,7 @@ msgctxt "a4c726bb-d53e-4c08-8745-e02ba19c46d8"
 msgid ""
 "\"Let's beat {mf|him|her} up for abandoning {mf|his|her} subjects when "
 "they're in trouble!\""
-msgstr ""
-"\"Let's beat {mf|그|그녀} up for abandoning {mf|그의|그녀의} subjects when they're "
-"in trouble!\""
+msgstr "\"백성들이 곤경에 처했을 때 저버린 {mf|그|그녀}를 두들겨 패자!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/KingdomAsCompanion/LE_FeastOfNails/Ep1_Encounter/Cue_0023_Text
 #. Speaker : Peasant_Speaker1
@@ -244327,9 +244322,7 @@ msgctxt "c9f1a814-c7b6-48a6-9cda-61e22037204d"
 msgid ""
 "\"How could you! You have no idea of the horrible dangers you've brought on "
 "your head — on the heads of us all!\""
-msgstr ""
-"\"How could you! You have no idea of the horrible dangers you've brought on "
-"your head - on the heads of us all!\""
+msgstr "\"어떻게 그럴 수가! 당신이 자기 머리 위에 — 아니, 우리 모두의 머리 위에 어떤 끔찍한 위험을 끌어들였는지 전혀 모르고 있어!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c31/BarbarianMainCamp/Sister_FirstDialog/Cue_0054_Text
 #. Speaker : BarbarianCamp_YoungerSister
