@@ -31656,7 +31656,7 @@ msgid ""
 "Reduces the chance of a random encounter in claimed regions by 60%. Together "
 "with Kingdom Defence, completely eliminates random encounters in claimed "
 "regions."
-msgstr "점령지에서의 무작위 조우 확률을 60% 감소시킵니다."
+msgstr "점령지에서의 무작위 조우 확률을 60% 감소시킵니다. 왕국 보호와 함께 사용하면 점령지에서의 무작위 조우가 완전히 사라집니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/ImprovementsFromRankUps/StaRank9-SeverelyReducedREinRegions_LocalizedName
 msgctxt "dd8df71f-da4e-45ec-b51a-7a45157a3494"

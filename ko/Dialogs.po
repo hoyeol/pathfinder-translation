@@ -87305,7 +87305,7 @@ msgstr "에쿤은 조용히 불꽃을 바라봅니다."
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Ekun/Q2_Burying_The_Past/Barks/Elina_AfterRitualFight_String
 msgctxt "863fad7f-78fc-4fce-a9f0-062695cbea10"
 msgid "\"Thank you, Your {mf|Grace|Grace|Highness|Highness}...\""
-msgstr "\"고맙다...\""
+msgstr "\"감사합니다, {mf|영주님|영주님|전하|전하}...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Ekun/Q2_Burying_The_Past/Barks/FightEkun_GiantLeader_String
 msgctxt "551ca02d-4e30-4a2f-b72e-05f32b4fc7f2"
@@ -87358,7 +87358,7 @@ msgstr "\"지루해하거나 새로운 친구를 만들거나 불을 다시 지�
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Ekun/Q2_Burying_The_Past/Barks/NtaviTavernBarks/NtaviTavernBark_String
 msgctxt "9e764105-8c39-4111-9150-7aff8c4fb157"
 msgid "\"Hello, Your {mf|Grace|Grace|Highness|Highness}.\""
-msgstr "\"안녕.\""
+msgstr "\"안녕하시오, {mf|영주님|영주님|전하|전하}.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Ekun/Q2_Burying_The_Past/Barks/Ntavi_RitualFight_String
 msgctxt "3aad7e27-a3b1-41fe-bc8e-33e6be501f21"
@@ -223180,7 +223180,7 @@ msgctxt "e8baa536-6c5f-4381-bc25-72eb4bd1232e"
 msgid ""
 "\"Uhhh... T-thanks, Your {mf|Grace|Grace|Highness|Highness}! Both to you, "
 "and to your, uh, much respected god!\""
-msgstr "\"고마워! 너희 둘 모두 말이야!\""
+msgstr "\"어... 가, 감사합니다, {mf|영주님|영주님|전하|전하}! 당신께도, 당신의, 어, 존경받는 신께도요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/BigKamelandsOutdoor/GreedyMerchant/Cue_90649_Text
 #. Speaker : Kanerah_Companion
@@ -256953,7 +256953,7 @@ msgid ""
 "\"What was the point of leaving Qadira if even in faraway lands fate "
 "delivers me not only a follower of Sarenrae, but her loyal – or not so loyal "
 "– deva!\""
-msgstr "\"카디라를 떠났던 서렌레이의 추종자가 천사였다니!\""
+msgstr "\"카디라를 떠난 의미가 무엇이었나, 이런 먼 땅에서도 운명이 서렌레이의 추종자, 그것도 충성스러운 — 아니면 그리 충성스럽지 않은 — 데바까지 내게 보내다니!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/AbandonedKeep_Interior/FINAL_ANGEL/Cue_0083_Text
 #. Speaker : Kalikke_Companion
