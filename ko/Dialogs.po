@@ -88925,7 +88925,7 @@ msgid ""
 "\"You can judge me if you want. But don't forget to judge the woodlouse and "
 "bookworm... The winds and tides that pummel down rocks... Judge time itself, "
 "for having no mercy on anyone or anything!\""
-msgstr "\"나를 판단해도 상관 없어. 하지만 과연 그래야 할까?\""
+msgstr "\"원한다면 나를 심판해라. 하지만 쥐며느리도, 바위를 부수는 바람도, 그 무엇에도 자비 없는 시간도 함께 심판하라.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Harrim/Q3_The_Unmaking/Harrim_Final/Cue_0029_Text
 #. Speaker : Harrim_Companion
