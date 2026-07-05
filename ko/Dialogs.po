@@ -69748,7 +69748,7 @@ msgid ""
 "bows. {g|Torag}Torag{/g} blesses both guards and crafters.\""
 msgstr ""
 "\"그렇다.\" {n}에쿤은 고개를 끄덕입니다.{/n} \"조국에서는 모든 신들을 동등하게 바라봤다. 비록 드워프 신이라고 할지라도, "
-"나에게 가장 잘 맞는 신인 것 같아 선택했다.\" {n}그는 어깨를 으쓱하고 자신의 장궁을 쳐다봅니다.{/n} \"사람들을 보호하고 활을 "
+"나에게 가장 잘 맞는 신인 것 같아 선택했다.\" 그는 어깨를 으쓱하고 자신의 장궁을 쳐다봅니다. \"사람들을 보호하고 활을 "
 "만들고는 했다. {g|Torag}토락{/g}은 경호원과 장인을 둘 다 축복한다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/CompanionDialogues/Ekun/VS_Ekun_Companion_Dialogue/Cue_0052_Text
@@ -198413,7 +198413,7 @@ msgid ""
 msgstr ""
 "\"내 목숨을 살려주었으니...\" {n}달튼이 웃습니다.{/n} \"그 문제를 해결하고 싶다면 내가 이 주변에 사는 마법사를 알아. "
 "나는 가끔 그가 마법을 위해 시약이 필요할 때 물건을 팔러 가고는 해. 그는 트롤에 대한 전문가야. 아마 왜 그들이 갑자기 더 대담해지고 "
-"화염에 저항이 생겼는지 알고 있을거야.\" 달튼은 한숨을 내쉽니다.{/n} \"게다가 산성 무기도 몇개 가지고 있을 걸.\""
+"화염에 저항이 생겼는지 알고 있을거야.\" {n}달튼은 한숨을 내쉽니다.{/n} \"게다가 산성 무기도 몇개 가지고 있을 걸.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/AttackedTrader/Cue_99761_Text
 #. Speaker : TraderEvent
@@ -231964,7 +231964,7 @@ msgid ""
 "excitement, I bet.\""
 msgstr ""
 "\"우리는 일 때문에 여기온거야. 봐, 여기 이 자가 우리를 고용했지.\" {n}우두머리는 바닥의 하플링 시체를 보고 끄덕입니다.{/n} "
-"\"이 폐허에 들어가기 위해 도움이 필요했나보더라구. 그래서 우리가 좀 도와줬지.\" {n}그는 슬픈듯이 혀를 찹니다.{/n} "
+"\"이 폐허에 들어가기 위해 도움이 필요했나보더라구. 그래서 우리가 좀 도와줬지.\" 그는 슬픈듯이 혀를 찹니다. "
 "\"안타깝게도 이 자가 우리에게 길을 안내한 순간 병에 걸려버리더라구. 너무 흥분해서 그랬을 거야. 아마\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/LonelyBarrow/GraverobberLeader/Cue_0047_Text
@@ -233310,8 +233310,8 @@ msgid ""
 "care... no digging through my undergarments, or I'll have your hands on "
 "hooks, you hear?\""
 msgstr ""
-"{n}덤라는 잠시 침묵 하더니, 고개를 끄덕이며 허리띠에서 낡고 어둡게 바랜 열쇠를 꺼냅니다.{/n} \"그러면 마음대로하시죠.\" {n}"
-"그녀의 눈이 가늘어집니다.{/n} \"하지만 조심해요... 내 속옷은 뒤지지 말아요... 아니면 당신 손을 갈고리로 꿰어버릴 테니까. "
+"{n}덤라는 잠시 침묵 하더니, 고개를 끄덕이며 허리띠에서 낡고 어둡게 바랜 열쇠를 꺼냅니다.{/n} \"그러면 마음대로하시죠.\" "
+"그녀의 눈이 가늘어집니다. \"하지만 조심해요... 내 속옷은 뒤지지 말아요... 아니면 당신 손을 갈고리로 꿰어버릴 테니까. "
 "알겠어요?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SecludedLodge/Hostess/Cue_0036_Text
@@ -234075,8 +234075,8 @@ msgid ""
 "to!\""
 msgstr ""
 "{n}덤라는 눈을 문지릅니다.{/n} \"내 살면서 그런 말은 들은 적이 없어... 듣기 싫으면 저기를 봐!\" {n}여자는 난로 위의 "
-"지저분한 액자를 가리킵니다.{/n} \"활과 화살이야! {g|Erastil}에라스틸{/g}의 상징이지!\" {n}그녀는 숨을 "
-"들이킵니다.{/n} \"{g|Lamashtu}라마슈투{/g}의 상징은 아니야. 나는 그녀에 대해서도 모르고 알고 싶지도 않아!\""
+"지저분한 액자를 가리킵니다.{/n} \"활과 화살이야! {g|Erastil}에라스틸{/g}의 상징이지!\" 그녀는 숨을 "
+"들이킵니다. \"{g|Lamashtu}라마슈투{/g}의 상징은 아니야. 나는 그녀에 대해서도 모르고 알고 싶지도 않아!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SecludedLodge/KestenStart/Cue_67430_Text
 #. Speaker : SecludedLodge_Kesten
@@ -234370,7 +234370,7 @@ msgid ""
 "guilty, Lady Tedrim, why such a speech?\""
 msgstr ""
 "{n}케스턴은 고개를 가로지으며 당신에게 돌아옵니다.{/n} \"전에도 이런 걸 본 적이 있으십니까. {mf|영주님|영주님|전하|전하}? "
-"'결백하다는' 여성이 미리 준비한 듯이 브레보이 법을 읊고 있습니다!\" {n}그는 다시 그녀에게 돌아갑니다.{/n} \"테드림 부인, "
+"'결백하다는' 여성이 미리 준비한 듯이 브레보이 법을 읊고 있습니다!\" 그는 다시 그녀에게 돌아갑니다. \"테드림 부인, "
 "죄가 없다면 왜 그런 연설을 하는 겁니까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SecludedLodge/KestenStart/Cue_67479_Text
@@ -235149,8 +235149,8 @@ msgid ""
 "\"My dear, perhaps you recall? What was the name our hostess used addressing "
 "her?\""
 msgstr ""
-"{n}카브론은 당신의 뒤쪽을 봅니다.{/n} \"다시 생각하니... 한 젊은 여성이... 이곳에 들어온 모습을 본적이 없는것 같군요.\" "
-"{n}그는 아내를 바라봅니다.{/n} \"여보 기억나? 여기 여주인이 그녀를 뭐라고 불렀었지?\""
+"{n}카브론은 당신의 뒤쪽을 봅니다.{/n} \"다시 생각하니... 한 젊은 여성이... 이곳에 들어온 모습을 본 적이 없는것 같군요.\" "
+"그는 아내를 바라봅니다. \"여보 기억나? 여기 여주인이 그녀를 뭐라고 불렀었지?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SecludedLodge/NobleMale/Cue_0086_Text
 #. Speaker : SeculdedLodge_NobleFemale
