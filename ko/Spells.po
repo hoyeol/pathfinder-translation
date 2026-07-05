@@ -2926,8 +2926,8 @@ msgid ""
 "equal to the number of previous consecutive hits you have made against that "
 "opponent this turn. This damage is multiplied on a critical hit."
 msgstr ""
-"크리처가 자연 공격으로 상대방을 명중시키면, 이번 턴에 그 상대방을 연속으로 명중시킨 횟수 만큼 추가 피해가 들어갑니다. 이 피해는 "
-"치명타로 증가합니다."
+"크리처가 자연 공격으로 상대를 명중시킬 때마다, 이번 턴에 같은 상대에게 앞서 연속으로 명중시킨 횟수만큼 추가 피해를 입힙니다. 이 "
+"피해는 치명타 시 배가됩니다."
 
 #. Mechanics/Blueprints/Spells/Level2/NaturalRythm_DisplayName_String
 msgctxt "99bc43a3-417d-46e5-b26b-154d94512cd8"
@@ -4512,7 +4512,9 @@ msgid ""
 "With this spell you designate the target as your favored enemy for the "
 "remainder of its duration. For the duration of the spell, you treat the "
 "target as if it were a favored enemy for all purposes."
-msgstr "이 주문은 지정한 대상을 주문의 지속시간 동안 당신의 주적으로 만듭니다."
+msgstr ""
+"이 주문으로 대상을 주문의 남은 지속시간 동안 당신의 주적으로 지정합니다. 주문이 지속되는 동안 당신은 모든 면에서 그 대상을 "
+"주적으로 취급합니다."
 
 #. Mechanics/Blueprints/Spells/Level3/InstantEnemy_m_DisplayName
 msgctxt "02864d28-0f17-40bd-9c5b-ba1c2b1c24ad"
@@ -5736,8 +5738,9 @@ msgid ""
 "1d3 rounds — the outsider can reduce this nauseated condition to sickened "
 "for 1 round with a successful Fortitude save."
 msgstr ""
-"이 주문을 근접 무기에 시전하면 강력한 신성력이 휘감겨 악한 외차원체 파멸 특성을 부여합니다. 게다가 악 하위유형의 외차원체에게 치명타를 "
-"명중시키면 1d3 라운드 동안 구토 상태로 만듭니다. 구토 상태는 인내 내성으로 1 라운드의 고통 상태로 약화될 수 있습니다."
+"이 주문을 주 손에 든 근접 무기에 시전하면 강력한 신성력이 깃들어, 주무기에 악한 외차원체에 대한 파멸 무기 특성을 부여합니다. 또한 "
+"악 하위유형의 외차원체에게 치명타를 명중시킬 때마다 정상적인 치명타 피해에 더해 해당 외차원체를 1d3 라운드 동안 구토 상태로 "
+"만듭니다. 인내 내성에 성공하면 이 효과는 1 라운드 동안 고통 상태가 되는 것으로 약화됩니다."
 
 #. Mechanics/Blueprints/Spells/Level4/CrusadersEdge_DisplayName_String
 msgctxt "2cb7d589-72a9-4a1f-adf0-d0bd7cf4c814"
@@ -7037,7 +7040,7 @@ msgid ""
 "bonus to its Combat Maneuver Defense."
 msgstr ""
 "이 주문을 하나의 크리처에게 시전하면 대상의 피부가 매끄럽고 축축해지며 매 라운드마다 피해를 재생할 수 있게 됩니다. 주문의 효과가 "
-"지속되는 동안 크리처는 빠른 치유 5, 화염 저항 20, 전법 방어에 +2의 능숙 보너스를 얻습니다."
+"지속되는 동안 크리처는 빠른 치유 5, 화염 저항 20, 전법 방어도에 +2의 능숙 보너스를 얻습니다."
 
 #. Mechanics/Blueprints/Spells/Level5/BlessingOfTheSalamander_DisplayName_String
 msgctxt "406a44e4-6bef-4d9b-8024-d5e52c386d2e"
@@ -8954,7 +8957,7 @@ msgstr "칼날 방벽"
 #. Mechanics/Blueprints/Spells/Level6/BlasphemyWeaknessBuff_Description_String
 msgctxt "7b3e1218-30fe-4bdd-b048-ae6ba758dd69"
 msgid "The creature's Strength score is decreased."
-msgstr "힘 수치가 감소합니다."
+msgstr "대상의 힘 수치가 감소합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/BlasphemyWeaknessBuff_DisplayName_String
 msgctxt "faada157-273b-488f-b88b-0428c03a894d"

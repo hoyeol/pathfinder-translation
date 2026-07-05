@@ -2187,7 +2187,7 @@ msgctxt "7de749e1-e48f-4125-9ec7-7ca73713fa9f"
 msgid ""
 "You receive a +8 bonus to your Combat Maneuver Defense whenever an opponent "
 "tries to trip you."
-msgstr "넘어뜨리기 전법 방어에 +8 보너스를 받습니다."
+msgstr "적이 당신을 넘어뜨리려 시도할 때마다 전법 방어도(CMD)에 +8 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Feats/Maneuvers/Trip/TripDefenseEightLegs_m_DisplayName
 msgctxt "a765d2f0-5bed-4c2a-9493-aba26e4f17d3"
@@ -2199,7 +2199,7 @@ msgctxt "7cf5a567-6c01-4236-aaf6-cc68fa46eb99"
 msgid ""
 "You receive a +4 bonus to your Combat Maneuver Defense whenever an opponent "
 "tries to trip you."
-msgstr "넘어뜨리기 전법 방어에 +4 보너스를 받습니다."
+msgstr "적이 당신을 넘어뜨리려 시도할 때마다 전법 방어도(CMD)에 +4 보너스를 받습니다."
 
 #. Mechanics/Blueprints/Feats/Maneuvers/Trip/TripDefenseFourLegs_m_DisplayName
 msgctxt "858a76fa-dfa0-4d35-8b21-d57ed90e5e8c"
@@ -3556,7 +3556,8 @@ msgid ""
 "equal to your Wisdom modifier for 1 minute. This penalty does not stack with "
 "other penalties applied due to Crushing Blow."
 msgstr ""
-"이 경직권은 대상이 내성에 실패하면 1 라운드 기절 대신 1분 동안 지혜 수정치 만큼 AC를 깎습니다. 이 효과는 중첩되지 않습니다."
+"라운드 전체 행동으로 경직권을 시도할 수 있습니다. 시도가 성공하면 대상을 기절시키는 대신, 1분 동안 대상의 AC를 지혜 수정치만큼 "
+"감소시킵니다. 이 페널티는 파쇄권(Crushing Blow)으로 인한 다른 페널티와 중첩되지 않습니다."
 
 #. Mechanics/Blueprints/Feats/StunningFist/CrushingBlowAbility_DisplayName_String
 msgctxt "3a1c5bdb-bd8c-4167-8a4c-4b273962a827"
@@ -3852,7 +3853,9 @@ msgid ""
 "You gain +3 hit points. For every Hit Die you possess beyond 3, you gain an "
 "additional +1 hit point. If you have more than 3 Hit Dice, you gain +1 hit "
 "points whenever you gain a Hit Die (such as when you gain a level)."
-msgstr "+ 3 생명점을 얻습니다. 3 이상의 매 생명 주사위 마다 +1 생명점을 얻습니다."
+msgstr ""
+"+3 생명점을 얻습니다. 3을 초과하는 생명 주사위 1개당 +1 생명점을 추가로 얻습니다. 생명 주사위가 3개를 초과한 상태에서는 생명 "
+"주사위를 얻을 때마다(예: 레벨업 시) +1 생명점을 얻습니다."
 
 #. Mechanics/Blueprints/Feats/Toughness_m_DisplayName
 msgctxt "b048640a-9913-46ee-9660-b930a3f06deb"

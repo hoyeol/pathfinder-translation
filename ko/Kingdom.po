@@ -145,7 +145,9 @@ msgid ""
 "Market speculation allows the cunning and experienced to turn a profit even "
 "in times of strife. +2 BP per week, per state of Unrest. The higher the "
 "Unrest, the more BP this agreement provides."
-msgstr "교활하고 노련한 투기꾼은 어려운 시기에도 이익을 냅니다. 안정도가 낮을 수록 주당 +2 BP."
+msgstr ""
+"교활하고 노련한 투기꾼은 어려운 시기에도 이익을 냅니다. 안정도가 한 단계 낮을 때마다 주당 +2 BP를 제공합니다. 안정도가 낮을수록 "
+"이 협정으로 얻는 BP가 늘어납니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Projects/TradingWithGalt_DisplayName_String
 msgctxt "9d23e75d-8dd3-408a-8726-bb620daa9449"
@@ -2386,7 +2388,9 @@ msgctxt "16f7ae9f-2250-46cf-9ee5-9c99d4a93506"
 msgid ""
 "A place to store grain and food.\n"
 "Affects: Windmill."
-msgstr "곡물과 음식을 저장하는 곳."
+msgstr ""
+"곡물과 식량을 저장하는 곳.\n"
+"영향: 풍차."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Granary_Name
 msgctxt "46c8cda5-85b3-4f98-93dd-3ef9a71314c9"
@@ -12408,7 +12412,7 @@ msgctxt "b98d9f6a-8de1-477d-bb8d-a3fb9eaa50c6"
 msgid ""
 "The High {mf_HighPriest|Priest|Priestess} honored the folk festival with "
 "{mf_HighPriest|his|her} presence."
-msgstr "대사제는 본인이 직접 참가하는 것으로 축제를 빛냈습니다."
+msgstr "{mf_HighPriest|대사제|여대사제}가 몸소 참석하여 민속 축제를 빛냈습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/TraditionalCelebration_Solutions.Entries.Array.data[5].Resolutions.Array.data[2].LocalizedDescription
 msgctxt "ef27f3e6-1af8-4bea-b235-d0cf33e74677"
@@ -19329,9 +19333,9 @@ msgid ""
 "are luring common people to Andoran, urging them to throw off their chains "
 "of oppression and resist the legitimate enforcement of the law."
 msgstr ""
-"안도란의 정의 추구자이자 민중의 후원자인 강철 매(the Steel Falcons)가 {mf|남작령|남작령|왕국|왕국}의 농민들이 "
-"억압받고 있다고 선언했습니다. 그들은 정당한 명분을 앞세워 도둑맞은 땅을 침공했고, 백성들에게 억압의 사슬을 벗어 던지고 적법한 법률 "
-"집행에 저항할 것을 촉구하며 그들을 안도란으로 유인하고 있습니다."
+"안도란의 정의 추구자이자 민중의 후원자인 강철 매가 {mf|남작령|남작령|왕국|왕국}의 농민들이 억압받고 있다고 선언했습니다. 그들은 "
+"정당한 명분을 앞세워 도둑맞은 땅을 침공했고, 백성들에게 억압의 사슬을 벗어 던지고 적법한 법률 집행에 저항할 것을 촉구하며 그들을 "
+"안도란으로 유인하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/ProtectorsOfPeople_LocalizedName
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/ProtectorsOfPeople_LocalizedName_String
@@ -25939,7 +25943,7 @@ msgstr "경비 대장이 선동가를 성으로 잡아왔습니다."
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC31-Valerie_Q2_Start_LocalizedName
 msgctxt "0800b29f-1aa6-4c75-b2bf-e598f0a44373"
 msgid "There Is a Scandal In The Capital!"
-msgstr "수도가 들썩입니다!"
+msgstr "수도에 추문이 터졌습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC41-Coronation_Description
 msgctxt "98bd33da-63dd-4925-80cb-67fc9dc572d0"

@@ -342,7 +342,7 @@ msgstr "대상 지점"
 #. Mechanics/Blueprints/Root/AbilityTargets_WithinBurstCenteredOn
 msgctxt "2e05b972-2977-4112-b9df-10a57550bb3c"
 msgid "within a {0} foot burst, centered on"
-msgstr "{0} 피트 반경"
+msgstr "반경 {0} 피트의 폭발 범위, 중심:"
 
 #. Mechanics/Blueprints/Root/AbilityTargets_WithinCone
 msgctxt "ff9e752e-7540-483b-8e6a-b7f5caf681dc"
@@ -397,11 +397,11 @@ msgid ""
 "characters follow their consciences, resent being told what to do, favor new "
 "ideas over tradition, and keep their promises only if they feel like it."
 msgstr ""
-"크리처의 전반적인 도덕적, 개인적인 태도는 성향으로 표현됩니다: 질서 선(LG), 중립 선(NG), 혼돈 선(CG), 질서 "
-"중립(LN),중립(N), 혼돈 중립(LN), 질서 악(LE), 중립 악(NE), 혼돈 악(CE). 선한 캐릭터는 무고한 생명을 "
-"보호합니다. 사악한 캐릭터는 재미든 이익을 위해서든 그것을 훼손하거나 파괴합니다. 질서적인 캐릭터는 진실을 말하고, 약속을 지키고, "
-"권위를 존중하고, 전통을 존중하며, 의무를 이행하지 않는 사람들을 심판합니다. 혼돈스러운 캐릭터는 양심을 따르고, 명령에 분노하고, "
-"전통보다 새로운 생각을 선호하며, 마음이 내키면 약속을 지킵니다."
+"크리처의 전반적인 도덕적, 개인적인 태도는 성향으로 표현됩니다: 질서 선(LG), 중립 선(NG), 혼돈 선(CG), 질서 중립(LN), "
+"중립(N), 혼돈 중립(CN), 질서 악(LE), 중립 악(NE), 혼돈 악(CE). 선한 캐릭터는 무고한 생명을 보호합니다. 사악한 "
+"캐릭터는 재미든 이익을 위해서든 그것을 훼손하거나 파괴합니다. 질서적인 캐릭터는 진실을 말하고, 약속을 지키고, 권위를 존중하고, 전통을 "
+"존중하며, 의무를 이행하지 않는 사람들을 심판합니다. 혼돈스러운 캐릭터는 양심을 따르고, 명령에 분노하고, 전통보다 새로운 생각을 "
+"선호하며, 마음이 내키면 약속을 지킵니다."
 
 #. Mechanics/Blueprints/Root/Alignments/ChaoticEvil_String
 msgctxt "d862df26-b298-4c9e-9f2e-1212e5c89960"
@@ -1903,7 +1903,7 @@ msgstr "공격 보너스"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.AutoMissSuffix
 msgctxt "4dd15e00-1891-414d-9b35-c0a798236c4e"
 msgid "Attack harmlessly passes through"
-msgstr "공격이 소용 없음"
+msgstr "공격이 무해하게 통과함"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.CritSuffix
 msgctxt "e0145fed-d30f-4803-87f2-a8a0609d7a37"
@@ -2035,7 +2035,7 @@ msgstr "결과: 치명타 확정"
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipResultCritUnconfirmed
 msgctxt "4dc44cc9-1cf5-421f-b03d-348dd4b92941"
 msgid "Result: critical hit not confirmed"
-msgstr "결과: 치명타 실패"
+msgstr "결과: 치명타 확정 실패"
 
 #. Mechanics/Blueprints/Root/GameLog/GameLog_Attack.TooltipResultCriticalMiss
 msgctxt "119a9e57-187e-4ba6-aab8-2abaeb36fe9a"
@@ -4679,12 +4679,12 @@ msgstr "전부"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/ShowDamageOnCombatText_Description
 msgctxt "53417b79-bfae-4040-8b27-36985375501f"
 msgid "Show damage information in combat text"
-msgstr "전투 중 피해량 표시"
+msgstr "전투 텍스트에 피해량 정보 표시"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/ShowDamageOnCombatText_Description_1
 msgctxt "53a1a763-2a2d-439a-ba62-ca1f5e00f7fc"
 msgid "Show damage information in combat text"
-msgstr "전투 중 피해량 표시"
+msgstr "전투 텍스트에 피해량 정보 표시"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/ShowDamageOnCombatText_TooltipDescription
 msgctxt "82c17e9d-2afc-4626-8732-1aecd600b189"
@@ -4874,7 +4874,7 @@ msgstr "전부"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/ShowSavesInCombatText_Description
 msgctxt "41c4847f-63e3-4613-8f71-3a08d60bccc9"
 msgid "Show saving throw notifications in combat text"
-msgstr "전투 중 내성 굴림 표시"
+msgstr "전투 텍스트에 내성 굴림 알림 표시"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/CombatSettings/ShowSavesInCombatText_TooltipDescription
 msgctxt "b56d86f3-b4bb-4991-8dee-90ec7a8cd312"
@@ -5201,7 +5201,7 @@ msgstr "게임 텍스트의 글꼴 크기를 조정하십시오."
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/SendGameStatistic_Description
 msgctxt "451336bf-47e4-4578-93e2-54756bff9530"
 msgid "Allow sending the game statistics"
-msgstr "게임 통계 보내기"
+msgstr "게임 통계 전송 허용"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/MainSettings/SendGameStatistic_TooltipDesc_String
 msgctxt "6daecf61-09d9-4db4-ac42-cdd4c1a66c40"
@@ -5334,7 +5334,7 @@ msgstr "빠른 저장 칸"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/SillyCheatCodes/SCCCanSeeTheirClassSpecificClothes_Description
 msgctxt "06e5453d-b900-4c2f-9a01-43412eebc67f"
 msgid "Class-specific outfits for the party"
-msgstr "클래스 전용 의상"
+msgstr "일행의 클래스별 의상"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/GameSettings/SillyCheatCodes/SCCCanSeeTheirClassSpecificClothes_TooltipDescription
 msgctxt "853c3886-e2bf-4d8d-b860-6ca2060c27e4"
@@ -6065,14 +6065,14 @@ msgstr "중간"
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Sound/SoundPauseInTBMMusicEnabled_Description
 msgctxt "3837bdd3-9213-42ca-9b7d-712d70e98cdc"
 msgid "Pauses between music tracks in turn-based mode"
-msgstr "턴제 모드에서 음악 중지"
+msgstr "턴제 모드에서 음악 트랙 사이 일시 정지"
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Sound/SoundPauseInTBMMusicEnabled_TooltipDescription
 msgctxt "b6a017db-a145-4d68-8dae-cc37c8c6995f"
 msgid ""
 "When this option is enabled, a pause will be added between music tracks "
 "during combats in turn-based mode."
-msgstr "이 옵션을 적용하면, 턴제 모드 전투 중에 배경음악 재생이 일시 중지됩니다."
+msgstr "이 옵션을 적용하면, 턴제 모드 전투 중 음악 트랙 사이에 일시 정지가 추가됩니다."
 
 #. Mechanics/Blueprints/Root/GameSettings/Settings/Sound/SoundVolumeAmbience_Description
 msgctxt "15cd3123-b7a1-40da-a194-29cb0a2ca41e"
@@ -6836,10 +6836,10 @@ msgid ""
 "symbol is a three-eyed jackal head, which may be represented in many ways, "
 "and her sacred animal is the jackal."
 msgstr ""
-"\"괴물들의 어머니\", \"광기의 여주인\" 그리고 \"악몽의 대모\"로도 알려진 라마슈투는 광기, 괴물, 악몽의 여신입니다. 그녀는 "
-"진정한 신성을 얻은 유일한 데몬 군주입니다. 골라리온의 지상이나 지하를 기어다니거나, 미끄러져 다니거나, 또는 펄럭이고 다니는 많은 "
-"기괴하고 기형적인 크리처들의 어머니이자 후원자입니다. 라마슈투의 성수는 자칼이며, 라마슈투의 부정한 상징은 여러 다양한 방식으로 묘사되곤 "
-"하는 세 개의 눈을 가진 자칼 머리입니다."
+"\"괴물들의 어머니\", \"광기의 여주인\", \"악몽의 대모\"로도 알려진 라마슈투는 광기, 괴물, 악몽의 여신입니다. 그녀는 "
+"진정한 신성을 얻은 유일한 데몬 군주입니다. 골라리온의 지상, 공중, 지하 어디서나 기어다니거나, 미끄러져 다니거나, 날아다니는 수많은 "
+"기괴하고 기형적인 크리처들의 어머니이자 후원자입니다. 그녀의 성수는 자칼이며, 부정한 상징은 여러 방식으로 묘사되는 세 개의 눈을 가진 "
+"자칼 머리입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[36].Name
 msgctxt "185dd939-e189-4eac-bc8b-c24fd2a0e8e5"
@@ -7368,7 +7368,7 @@ msgctxt "1f0bc643-2296-42d0-9494-7badf14461bd"
 msgid ""
 "You killed the Defaced Sister who you found in a tomb in the City of Hollow "
 "Eyes. Another one of the Sisters was already dead when you arrived."
-msgstr "당신은 텅 빈 눈의 도시의 무덤에서 얼굴 잃은 자매를 찾아내 죽였습니다. 다른 자매는 당신이 도착하였을 때 이미 죽어있었습니다."
+msgstr "당신은 텅 빈 눈의 도시의 무덤에서 얼굴 잃은 자매를 찾아내 죽였습니다. 다른 자매는 당신이 도착했을 때 이미 죽어 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[104].Description
 msgctxt "f12e1d48-9900-4dcf-8f14-8b75fe9de734"
@@ -7377,8 +7377,8 @@ msgid ""
 "Forgotten Heroes and the City of Hollow Eyes. The third was already dead "
 "when you found her in the tomb."
 msgstr ""
-"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴 잃은 자매를 죽였습니다. 세번째 자매는 당신이 무덤에서 그녀를 "
-"찾아내었을 때 이미 죽어있었습니다."
+"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴 잃은 자매를 죽였습니다. 세 번째 자매는 당신이 무덤에서 "
+"그녀를 찾아냈을 때 이미 죽어 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[105].Description
 msgctxt "51fb86ba-5be1-4500-8596-c73e6ef9ac4b"
@@ -7387,8 +7387,8 @@ msgid ""
 "Heroes and the City of Hollow Eyes. A third Sister was already dead when you "
 "found her."
 msgstr ""
-"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴 잃은 자매를 살렸습니다.. 세번째 자매는 당신이 그녀를 찾아내었을 "
-"때 이미 죽어있었습니다."
+"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 두 명의 얼굴 잃은 자매를 구했습니다. 세 번째 자매는 당신이 그녀를 찾아냈을 "
+"때 이미 죽어 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[106].Description
 msgctxt "2c2b10f5-f5c7-4e2b-8df2-24f3513c2600"
@@ -7396,17 +7396,15 @@ msgid ""
 "At the barbarian camp in Dunsward, you met Dugath, a revered priest of "
 "Gorum. It seems you failed to earn his trust or respect."
 msgstr ""
-"던스워드의 바바리안 야영지에서 당신은 존경받는 고룸신의 사제인 두가스를 만났습니다. 아무래도 당신은 그의 신뢰나 존경을 얻는 데엔 실패한 "
-"것 같습니다."
+"던스워드의 바바리안 야영지에서 당신은 존경받는 고룸 신의 사제인 두가스를 만났습니다. 아무래도 당신은 그의 신뢰나 존경을 얻는 데는 "
+"실패한 것 같습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[107].Description
 msgctxt "8aa76ab6-70b4-405b-9636-d23a0b3ab85c"
 msgid ""
 "At a barbarian camp in Dunsward you met Dugath, a revered priest of Gorum. "
 "It looks like you managed to earn his trust and respect."
-msgstr ""
-"던스워드의 바바리안 야영지에서 당신은 존경받는 고룸신의 사제인 두가스를 만났습니다. 당신은 그의 신뢰와 존경을 얻는 것에 성공한 것으로 "
-"보입니다."
+msgstr "던스워드의 바바리안 야영지에서 당신은 존경받는 고룸 신의 사제인 두가스를 만났습니다. 당신은 그의 신뢰와 존경을 얻은 것으로 보입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[108].Description
 msgctxt "675797ff-0c80-49f5-9fcb-647fdb3af9f1"
@@ -7423,12 +7421,12 @@ msgctxt "db9f5568-4dfc-4d22-ad8f-6a583d2b0285"
 msgid ""
 "You saved Maegar Varn, the founder of Varnhold, from the terrible magic of a "
 "cyclops lich named Vordakai."
-msgstr "당신은 반홀드의 창립자인 메이가르 반을 보다카이란 이름의 사이클롭스 리치가 건 무시무시한 마법으로부터 구해냈습니다."
+msgstr "당신은 반홀드의 창립자인 메이가르 반을 보다카이라는 사이클롭스 리치가 건 무시무시한 마법으로부터 구해냈습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[10].Description
 msgctxt "b5400e0a-89a7-436b-a35d-e19297547586"
 msgid "You took the money the bandits stole from Oleg."
-msgstr "당신은 도적들이 올렉으로부터 훔친 돈을 찾았습니다."
+msgstr "당신은 도적들이 올렉에게서 훔친 돈을 차지했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[110].Description
 msgctxt "9914b839-1652-4a6d-a610-7656583dd67e"
@@ -7440,7 +7438,7 @@ msgctxt "c67af2f8-140f-420c-bcfc-48f91cef3636"
 msgid ""
 "Vordakai told you that curses are significantly stronger if you add a piece "
 "of the cursed one's essence."
-msgstr "보다카이가 당신에게 말하기를 저주받을 자의 정수의 일부를 더하면 그 저주는 보다 확연하게 강력해 진다고 합니다."
+msgstr "보다카이는 저주받은 자의 정수 일부를 더하면 저주가 훨씬 강력해진다고 당신에게 말했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[112].Description
 msgctxt "92054b94-7d64-4464-8394-451a43c3e4cf"
@@ -7450,8 +7448,8 @@ msgid ""
 "The Sister was alarmed by your words and left, saying that she had something "
 "important to do."
 msgstr ""
-"잊혀진 영웅들의 묘소에서 당신은 얼굴 잃은 자매를 만나 그녀를 따르던 자들이 파멸을 맞이했음을 들어 그녀의 양심에 호소했습니다. 자매는 "
-"자신에게 더욱 중요한 일이 있다는 말을 남기며 당신의 말에 무엇가를 깨달은듯 떠났습니다."
+"잊혀진 영웅들의 묘소에서 당신은 얼굴 잃은 자매를 만나, 그녀를 따르던 모든 이를 파멸로 이끌었다는 점을 지적하며 그녀의 양심에 "
+"호소했습니다. 자매는 당신의 말에 동요했고, 중요한 할 일이 있다는 말을 남기며 떠났습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[113].Description
 msgctxt "18b93b99-9616-4a63-a936-c7f708229f5f"
@@ -7465,28 +7463,28 @@ msgctxt "c7da2de1-d762-47fe-80e9-4eb11c88e887"
 msgid ""
 "You tried to kill the bard Annamede for singing songs meant to ridicule you "
 "and your advisors."
-msgstr "당신은 당신과 당신의 보좌관들을 조소하는 노래를 부른 죄로 바드 아나미데를 죽이려고 하였습니다."
+msgstr "당신은 당신과 당신의 보좌관들을 조롱하는 노래를 부른 바드 아나미데를 죽이려고 하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[117].Description
 msgctxt "54dcfa09-4d57-4d30-8993-03f4f5a68771"
 msgid ""
 "You tried to talk to the mysterious nymph who lured you into an ambush, to "
 "better understand her motives."
-msgstr "당신은 당신을 함정으로 유혹해낸 신비한 님프에게 그녀의 의도를 보다 이해하기 위하여 대화를 시도하였습니다."
+msgstr "당신은 그녀의 의도를 더 잘 이해하기 위해, 매복으로 당신을 유인한 신비한 님프와 대화를 시도하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[118].Description
 msgctxt "a2bd9b58-5f17-4e9c-813b-a8fce6e7fa44"
 msgid ""
 "Sparing no words, you attacked the insidious nymph, who had lured you into a "
 "trap."
-msgstr "당신은 어떠한 말도 없이 당신을 함정으로 끌어낸 사악한 님프를 공격했습니다."
+msgstr "당신은 아무 말도 하지 않고, 당신을 함정으로 유인한 교활한 님프를 공격했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[119].Description
 msgctxt "65316d07-402e-4c5a-a862-4811eaf05f9a"
 msgid ""
 "You expressed outrage at the demands of Jamandi Aldori, who asked you to "
 "clarify the fate of Varnhold."
-msgstr "당신은 반홀드의 운명을 명확하게 해 달라는 자만디 알도리의 요구에 격분을 표했습니다."
+msgstr "당신은 반홀드의 운명을 명확히 밝히라는 자만디 알도리의 요구에 격분을 표했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[11].Description
 msgctxt "f998f9ff-2fc8-4f65-bd58-97ac17a9b28f"
@@ -7495,7 +7493,7 @@ msgid ""
 "Ford, and talked peacefully with him. Unfortunately, you failed to come to "
 "an agreement."
 msgstr ""
-"당신은 수사슴 군주의 오른팔인 아키로스를 가시 여울 인근의 야영지에서 만나, 그와 조용히 대화하였습니다. 불행하게도 당신은 합의에 "
+"당신은 수사슴 군주의 오른팔인 아키로스를 가시 여울 인근의 야영지에서 만나, 그와 평화롭게 대화하였습니다. 불행히도 당신은 합의에 "
 "도달하지 못하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[120].Description
@@ -7514,41 +7512,41 @@ msgid ""
 "barbarian invasion to Brevoy, you decided to follow Amiri and help your "
 "Brevan allies."
 msgstr ""
-"두가지 중요한 일 중 고르십시오 - 트리스티안 추격과 브레보이를 침공한 바바리안들을 다루는 것, 당신은 아미리를 따라 브레보이 연합를 "
+"두 가지 중요한 일 중 고르십시오 - 트리스티안 추격과 브레보이를 침공한 바바리안들을 다루는 것, 당신은 아미리를 따라 브레보이 연합을 "
 "돕기로 결정했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[125].Description
 msgctxt "c5e14bbe-0ca6-4245-9839-e630152a162b"
 msgid "Amiri challenged Armag to a fight – and won!"
-msgstr "아미리는 아르막에게 도전하여 싸웠고 승리했습니다!"
+msgstr "아미리는 아르막에게 결투를 신청했고 승리했습니다!"
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[126].Description
 msgctxt "25f30de1-dbe3-4e29-8c14-f4ed2249c80f"
 msgid "Amiri challenged Armag to a fight, but lost."
-msgstr "아미리는 아르막에게 도전하여 싸웠으나 패배했습니다."
+msgstr "아미리는 아르막에게 결투를 신청했으나 패배했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[127].Description
 msgctxt "cf54b83a-7274-4c6a-b69e-4f9c43c0eaad"
 msgid "Your words made the barbarians rebel against Armag."
-msgstr "당신의 말은 바바리안들이 아르막에 대항하여 반란을 일으키도록 했습니다."
+msgstr "당신의 말로 바바리안들이 아르막에 대항해 반란을 일으켰습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[128].Description
 msgctxt "016b1ef6-d9c2-4e68-a79e-d2ee3c331b87"
 msgid ""
 "You let Lander Lebeda's relatives resurrect him, even though he betrayed you."
-msgstr "당신은 랜더 레베다가 당신을 배신했었음에도 불구하고 그의 친족들이 그를 되살리도록 했습니다."
+msgstr "당신은 랜더 레베다가 당신을 배신했음에도 그의 친족들이 그를 되살리도록 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[129].Description
 msgctxt "9e2abf7e-b02c-40fd-b326-4a7736b76567"
 msgid "You didn't let the relatives resurrect the traitor, Lander Lebeda."
-msgstr "당신은 배신자 랜더 레베다를 그의 친족들이 되살리는 것을 허락치 않았습니다."
+msgstr "당신은 배신자 랜더 레베다를 그의 친족들이 되살리는 것을 허락하지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[12].Description
 msgctxt "8e4074df-5017-41d5-a596-d72e6e5053ea"
 msgid ""
 "During a battle in Jamandi Aldori's residence, you discovered the soldiers' "
 "wages, and decided to keep them."
-msgstr "자만디 알도리의 저택에서 벌어진 전투 와중에 당신은 병사들의 급여를 찾아냈고 그것을 그대로 두기로 하였습니다."
+msgstr "자만디 알도리의 저택에서 벌어진 전투 와중에 당신은 병사들의 급여를 찾아냈고, 그것을 차지하기로 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[130].Description
 msgctxt "9256753d-97d5-4dfc-845c-5fbac9e5c880"
@@ -7561,28 +7559,28 @@ msgstr "당신은 랜더 레베다가 당신을 배신했었음에도 불구하�
 msgctxt "39d3a1ed-b9f3-40aa-bfb7-68135060de10"
 msgid ""
 "You supported Jamandi and the Swordlords in their conflict with Surtova."
-msgstr "당신은 자만디가와 소드로드들을 그들이 겪고 있는 서토바가문과의 대립에서 지지하였습니다."
+msgstr "당신은 서토바 가문과의 대립에서 자만디와 소드로드들을 지지했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[132].Description
 msgctxt "3308940b-bb69-4b76-9a32-860ca2ace99e"
 msgid ""
 "You supported Natala and the ruling dynasty in their conflict with the "
 "Aldori."
-msgstr "당신은 알도리가와 갈등을 겪고있는 나탈라와 왕조를 지지하였습니다."
+msgstr "당신은 알도리 가문과의 갈등에서 나탈라와 지배 왕조를 지지했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[133].Description
 msgctxt "254c69c3-2007-4285-ba22-a0f9bea77d97"
 msgid ""
 "You insisted that the Aldori and Surtova stop fighting and engaging in "
 "intrigues against each other."
-msgstr "당신은 알도리가와 서토바가가 서로에 대한 음로를 획책하고 대립하는 것을 그만할 것을 주장했습니다."
+msgstr "당신은 알도리 가문과 서토바 가문이 서로 싸우고 음모를 꾸미는 일을 그만두어야 한다고 주장했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[134].Description
 msgctxt "54a3fe30-46c7-4a2b-9b7c-818578c628f1"
 msgid ""
 "After defeating the barbarians, you chose to break free from Brevoy's "
 "control and declared the independence of your kingdom."
-msgstr "바바리안을 물리친 후, 당신은 브레보이의 지배로부터 벗어나 당신의 왕국의 독립을 선포하였습니다."
+msgstr "바바리안을 물리친 후, 당신은 브레보이의 지배에서 벗어나 왕국의 독립을 선포했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[136].Description
 msgctxt "e0eeaaf7-ad5b-409b-92c8-1380e31b9b12"
@@ -7609,7 +7607,7 @@ msgctxt "796af33e-a52f-45dc-b8d8-a48a67840aef"
 msgid ""
 "At a camp near the Thorn River, you tried to convince Kressle to give up "
 "banditry and stop serving the Stag Lord."
-msgstr "가시 강 인근의 야영지에서 당신은 크레슬에게 수사슴 군주를 섬기는 것을 그만두고 도적질도 포기할 것을 설득했습니다."
+msgstr "가시 강 인근의 야영지에서 당신은 크레슬에게 도적질을 그만두고 수사슴 군주를 더 이상 섬기지 말 것을 설득하려 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[140].Description
 msgctxt "eacd3c3c-467f-48fc-8c5f-5ba5e0c75cc5"
@@ -7623,38 +7621,35 @@ msgctxt "f9c777d9-bb50-471d-8333-57b03835f51e"
 msgid ""
 "You decided that Gwart, a young priest and apprentice of Dugath, must become "
 "the new chief of the Tiger Lords."
-msgstr "당신은 두가스의 견습이자 젋은 사제인 그워트가 호랑이 군주의 새로운 수장이 되어야만 한다고 판단했습니다."
+msgstr "당신은 두가스의 견습이자 젊은 사제인 그워트가 호랑이 군주 부족의 새로운 수장이 되어야만 한다고 판단했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[142].Description
 msgctxt "dd708994-0a33-4bdb-86d7-db4fd6ad3094"
 msgid ""
 "After the Defaced Sister repented her actions, you recommended she cast a "
 "spell of Imprisonment on herself, to break free from Nyrissa."
-msgstr ""
-"얼굴 잃은 자매가 그녀의 행동들을 뉘우친 후, 당신은 그녀에게 나이리사로부터 자유로워지기 위해서 '투옥' 주문을 그녀 자신에게 시전할 것을 "
-"권유했습니다."
+msgstr "얼굴 잃은 자매가 자신의 행동을 뉘우친 후, 당신은 그녀에게 나이리사로부터 벗어나기 위해 자신에게 '투옥' 주문을 시전하라고 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[143].Description
 msgctxt "5494f1ef-8671-4278-aec9-8c57c537b8e2"
 msgid ""
 "You allowed Linxia, of the Order of the Rack, to search your dominions for "
 "the criminal known as Darven."
-msgstr "당신은 형벌 기사단의 린시아가 다르벤이라 알려진 범죄자를 당신의 영지에서 수색할 수 있도록 허락했습니다."
+msgstr "당신은 형벌 기사단의 린시아에게 다르벤이라는 범죄자를 찾기 위해 당신의 영지를 수색하도록 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[144].Description
 msgctxt "cb0071fe-5c35-4be9-a22c-343984e96680"
 msgid ""
 "When Linxia, of the Order of the Rack, appeared in your dominions to search "
 "for an alleged criminal named Darven, you chose to stand by his side."
-msgstr ""
-"다르벤이라 알려진 범죄자를 찾기 위해 당신의 영지에 형벌 기사단의 린시아가 나타났을 때, 당신은 그의 편을 들 것을 선택했습니다."
+msgstr "다르벤이라는 범죄 혐의자를 찾기 위해 형벌 기사단의 린시아가 당신의 영지에 나타났을 때, 당신은 그의 편을 들기로 선택했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[146].Description
 msgctxt "e0113e17-0949-420a-ad55-b7789ff3bc77"
 msgid ""
 "You helped Darven defend Brineheart against the Order of the Rack, and now "
 "have a reliable ally on your southern border."
-msgstr "당신은 다르벤을 도와 형벌 기사단으로부터 브라인하트를 방어해었고, 이제 당신의 남부 경계에는 믿을 수 있는 동맹이 존재합니다."
+msgstr "당신은 다르벤을 도와 형벌 기사단으로부터 브라인하트를 방어했고, 이제 남부 경계에 믿을 수 있는 동맹을 두게 되었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[149].Description
 msgctxt "d2d3abf6-8789-4aba-9bdc-c1752947cab1"
@@ -7662,16 +7657,14 @@ msgid ""
 "You quickly managed to find Armag's tomb. If you had come any later, the "
 "evil force trapped in the sword might have overwhelmed the barbarian warlord "
 "once and for all."
-msgstr ""
-"당신은 아르막의 무덤을 빠르게 찾아내었습니다. 만약에 오는 것이 늦었다면 검에 담긴 악한 힘이 바바리안의 군주를 다시 한번 완전하게 "
-"집어삼켰을 것입니다."
+msgstr "당신은 신속히 아르막의 무덤을 찾아냈습니다. 조금만 더 늦었더라면, 검에 갇힌 악한 힘이 야만인 군주를 영영 집어삼켰을지도 모릅니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[14].Description
 msgctxt "7bd1ee5c-34c0-4159-9895-da310af33809"
 msgid ""
 "You appeared at the Temple of the Elk just in time to save Tristian, a "
 "priest of Sarenrae, from the claws of a monstrous bear."
-msgstr "당신은 서렌레이의 사제인 트리스티안을 무시무시한 곰의 발톱으로부터 구하기 위한 적시에 엘크 사원에 도착하였습니다."
+msgstr "엘크 사원에 때마침 도착한 당신은 서렌레이의 사제 트리스티안을 흉포한 곰의 발톱에서 구해냈습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[150].Description
 msgctxt "ea39cd54-3747-4a68-a39b-541128d95fdf"
@@ -7680,8 +7673,8 @@ msgid ""
 "the evil force trapped in the sword wouldn't have overcome the barbarian "
 "warlord."
 msgstr ""
-"아르막의 무덤에 도달하는 데에 너무 오랜 시간이 걸렸습니다. 아마도 당신이 좀 더 빨리 도착하였더라면, 검에 담긴 악한 힘이 바바리안의 "
-"군주를 집어삼키지 못했을 것입니다."
+"당신은 아르막의 무덤에 도달하는 데 너무 오랜 시간이 걸렸습니다. 당신이 좀 더 일찍 도착했더라면, 검에 갇힌 악한 힘이 야만인 군주를 "
+"집어삼키지 못했을지도 모릅니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[151].Description
 msgctxt "a8e71d7c-eb46-42bd-81f6-215230c3219d"
@@ -7690,15 +7683,15 @@ msgid ""
 "the strength in his own curse to fight the lies and hypocrisy that he "
 "suffered, and accepted himself the way he is."
 msgstr ""
-"미쳐버린 바바리안의 군주 아르막과 이야기를 함으로써, 당신은 지신이 겪은 거짓과 위선에 맞서 싸울 수 있는 힘을 자신의 저주 속에서 "
-"찾았다는 것을 알게 되었고, 그는 있는 그대로의 자신을 받아들였습니다."
+"미쳐버린 야만인 군주 아르막과 대화하며, 당신은 그가 자신이 겪은 거짓과 위선에 맞서 싸울 힘을 자신의 저주 속에서 찾아냈고, 있는 "
+"그대로의 자신을 받아들였다는 사실을 알게 되었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[15].Description
 msgctxt "ebe6f142-bb51-4100-9fd1-9f09cff4d1fe"
 msgid ""
 "You were late to arrive at the Temple of the Elk, and barely managed to save "
 "Tristian from the claws of a bear. The priest was severely wounded."
-msgstr "당신은 엘크 사원에 뒤늦게 도착하여 트리스티안을 곰의 발톱으로부터 겨우 구해내었습니다. 그 사제는 심하게 상처입었습니다."
+msgstr "당신은 엘크 사원에 늦게 도착해, 곰의 발톱에서 트리스티안을 겨우 구해냈습니다. 사제는 큰 부상을 입었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[16].Description
 msgctxt "260a99ef-bee7-4815-957a-f19ce6fce07d"
@@ -7707,43 +7700,43 @@ msgid ""
 "for ways to secretly invade the fortress and weaken his forces. But in "
 "carrying out this bold plan, Kressle was killed."
 msgstr ""
-"당신과 크레슬은 요새를 조심스럽게 침입하여 그들의 힘을 약화시키기 보단 당당히 수사슴 군주에게 나아가기로 결정하였습니다. 그러나 이런 "
-"대담한 계획으로 인해 크레슬은 사망하였습니다."
+"당신과 크레슬은 요새에 몰래 침입해 그의 병력을 약화시킬 방법을 찾기보다는, 당당히 수사슴 군주에게 나아가기로 결정하였습니다. 그러나 이 "
+"대담한 계획을 실행하는 과정에서 크레슬은 사망하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[17].Description
 msgctxt "5914be58-f122-4918-9a2d-34e75962ef86"
 msgid ""
 "Your arguments convinced Akiros Insmort, and he joined you in battle against "
 "his former chief, the Stag Lord."
-msgstr "당신의 주장은 아키로스 인스모트를 설득하였고 그는 당신과 함께 그의 전 상관인 수사슴 군주와의 전투에 참가하기로 하였습니다."
+msgstr "당신의 주장에 설득된 아키로스 인스모트는 자신의 옛 상관인 수사슴 군주에 맞서 당신 편에서 싸웠습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[18].Description
 msgctxt "8185dfb1-8acf-4c9c-9507-5caf4ebc0b72"
 msgid ""
 "During the battle in the Stag Lord's fortress, you agreed to spare Dovan, "
 "one of the bandit chiefs."
-msgstr "수사슴 왕의 요새에서 벌어진 전투 와중에 당신은 도적의 간부 중 하나인 도반을 살려주기로 하였습니다."
+msgstr "수사슴 군주의 요새에서 벌어진 전투 와중에, 당신은 도적 우두머리 중 하나인 도반을 살려주기로 하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[19].Description
 msgctxt "c022836b-1da9-483f-b656-329918cf3b67"
 msgid ""
 "At the Stag Lord's fortress you found and killed Nugrah, his insane druid "
 "father."
-msgstr "수사슴 군주의 요새에서 당신은 숫사슴 왕의 미쳐버린 드루이드이자 아버지인 누그라를 발견하였고, 그를 죽였습니다."
+msgstr "수사슴 군주의 요새에서 당신은 그의 미쳐버린 드루이드 아버지 누그라를 발견하고 죽였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[1].Description
 msgctxt "2c3527ba-4ae9-41c1-ba24-06575bd5302d"
 msgid ""
 "During the fire at Jamandi Aldori's residence, you talked Valerie out of "
 "saving people from the fire."
-msgstr "자만디 알도리 저택의 화재 가운데 당신은 발레리에게 사람들을 불로부터 피신시키라고 말했습니다."
+msgstr "자만디 알도리의 저택에 불이 났을 때, 당신은 발레리가 사람들을 구하러 가지 않도록 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[20].Description
 msgctxt "5327dc57-dce3-45fa-adad-db724ffc73a1"
 msgid ""
 "After the battle at the Stag Lord's fortress, you gave no thought to the "
 "fate of Nugrah, the insane druid."
-msgstr "수사슴 군주의 요새에서 벌어진 전투 이후에 당신은 미쳐버린 드루이드 누그라의 운명에 대해 신경쓰지 않았습니다."
+msgstr "수사슴 군주의 요새에서 벌어진 전투 이후, 당신은 미쳐 버린 드루이드 누그라의 운명에 대해 신경 쓰지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[21].Description
 msgctxt "43ecc38c-41e1-47b0-8271-2c01b752be61"
@@ -7752,51 +7745,51 @@ msgid ""
 "Insmort, the Stag Lord's right hand. At least you managed to convince him to "
 "quit banditry and surrender to justice."
 msgstr ""
-"수사슴 군주의 오른손인 아키로스 인스모트의 양심을 무언가가 무겁게 짓누르는 것처럼 보입니다. 적어도 당신은 그를 도적질에서 빠져나오고 "
-"정의에 승복하게끔 설득한 것 같습니다."
+"수사슴 군주의 오른팔인 아키로스 인스모트의 양심을 무언가가 무겁게 짓누르는 듯했습니다. 적어도 당신은 그가 도적질을 그만두고 법의 심판을 "
+"받도록 설득하는 데 성공했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[23].Description
 msgctxt "d1448e45-30c8-433a-a1c6-6799240f6bf4"
 msgid "In the clash between the kobolds and mites, you sided with the former."
-msgstr "코볼트들와 마이트들 간의 충돌에서 당신은 전자의 편을 들었습니다."
+msgstr "코볼트들과 마이트들 간의 충돌에서 당신은 전자의 편을 들었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[24].Description
 msgctxt "08534d0a-fb64-4ba2-a4c7-1af3bcf28aaf"
 msgid "In the clash between the kobolds and mites, you sided with the latter."
-msgstr "코볼트들와 마이트들 간의 충돌에서 당신의 후자의 편을 들었습니다."
+msgstr "코볼트들과 마이트들 간의 충돌에서 당신은 후자의 편을 들었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[25].Description
 msgctxt "ec995805-7790-4407-885b-a7d42023d1cd"
 msgid "In the clash between the kobolds and mites, you decided to fight both."
-msgstr "코볼트들와 마이트들 간의 충돌에서 당신은 양쪽과 싸우기로 결심했습니다."
+msgstr "코볼트들과 마이트들 간의 충돌에서 당신은 양쪽과 싸우기로 결심했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[26].Description
 msgctxt "e39dae34-f70c-4417-8daf-816794f19637"
 msgid ""
 "In the clash between the kobolds and mites, you acted as neutral arbitrator "
 "of their dispute."
-msgstr "코볼트들과 마이트들 간의 충돌에서 당신은 그들 분쟁의 중립적인 중재자로서 행동하였습니다."
+msgstr "코볼트와 마이트 간의 충돌에서 당신은 그들의 분쟁에서 중립적인 중재자로 행동했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[27].Description
 msgctxt "3a3051ee-1508-4f9f-8bff-d55a88f9689c"
 msgid ""
 "In the clash between the kobolds and mites, you sided with the former and "
 "remained loyal to this alliance."
-msgstr "코볼트들과 마이트들 간의 충돌에서 당신은 전자의 편을 들었고 그들에게 계속해서 편을 들 것입니다."
+msgstr "코볼트와 마이트 간의 충돌에서 당신은 전자의 편을 들었고, 이 동맹에 계속 충실했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[28].Description
 msgctxt "751920e1-f721-4676-8218-5b87006586c4"
 msgid ""
 "In the clash between the kobolds and mites, you sided with the latter and "
 "remained loyal to this alliance."
-msgstr "코볼트들과 마이트들 간의 충돌에서 당신은 후자의 편을 들었고 그들에게 계속해서 편을 들 것입니다."
+msgstr "코볼트와 마이트 간의 충돌에서 당신은 후자의 편을 들었고, 이 동맹에 계속 충실했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[29].Description
 msgctxt "2787b8f2-1773-4520-a73f-5eca65138251"
 msgid ""
 "In the clash between the kobolds and mites, you acted as neutral arbitrator "
 "of their dispute and managed to reconcile the two little tribes."
-msgstr "코볼트들과 마이트들 간의 충돌에서 당신은 그들 분쟁의 중립적인 중재자로서 행동하였고 두 작은 부족을 화해시키려 하였습니다."
+msgstr "코볼트와 마이트 간의 충돌에서 당신은 그들 분쟁의 중립적인 중재자로 행동했고, 두 작은 부족을 화해시키는 데 성공했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[2].Description
 msgctxt "1c132c71-ef3e-4e86-8fd2-c1033d3654f6"
@@ -7810,8 +7803,7 @@ msgctxt "1e028aaf-3901-4239-b6d4-ea700ccc02ff"
 msgid ""
 "During the reception in Restov, you chose Kassil Aldori, a protege of "
 "Jamandi Aldori, to act as Brevoy's envoy in your barony."
-msgstr ""
-"레스토프에서 열린 환영회에서 당신은 자만디 알도리의 양자인 카실 알도리를 당신의 남작령에서 활동할 브레보이의 특사로서 선택했습니다."
+msgstr "레스토프에서 열린 환영회에서 당신은 자만디 알도리의 피후견인인 카실 알도리를 당신의 남작령에서 활동할 브레보이의 특사로 선택했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[32].Description
 msgctxt "e2e31084-1434-4b12-ba41-bc959d138ff2"
@@ -7827,7 +7819,7 @@ msgid ""
 "During the reception in Restov, you chose Lander Lebeda, a young nobleman, "
 "who is unconnected to any factions, to act as Brevoy's envoy in your barony."
 msgstr ""
-"레스토프에서 열린 환영회에서 당신은 젋은 귀족이자 어떤 파벌과도 연결점이 없는 랜더 레베다를 당신의 남작령에서 활동할 브레보이의 특사로서 "
+"레스토프에서 열린 환영회에서 당신은 젊은 귀족이자 어떤 파벌과도 관련이 없는 랜더 레베다를 당신의 남작령에서 활동할 브레보이의 특사로 "
 "선택했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[34].Description
@@ -7835,22 +7827,21 @@ msgctxt "82dc95ea-451d-403e-98bc-e162b2ca5cd4"
 msgid ""
 "You completed Jamandi Aldori's task of destroying the Stag Lord – with "
 "amazing speed and efficiency."
-msgstr "당신은 놀랄만한 속도와 유능함으로 수사슴 군주를 파멸시키라는 자만디 알도리가 내어준 과업 완수하였습니다."
+msgstr "당신은 놀라운 속도와 효율성으로 수사슴 군주를 파멸시키라는 자만디 알도리의 과업을 완수했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[35].Description
 msgctxt "ba6ddfd4-0e46-48f8-b8d6-c1b2eec36a1f"
 msgid ""
 "You went to the meeting arranged with a nymph known as the Guardian of the "
 "Bloom – and walked right into a trap!"
-msgstr "당신은 꽃의 수호자라고 알려진 님프와 만나기로 한 곳으로 갔습니다. 당신은 함정으로 바로 걸어들간 셈입니다!"
+msgstr "당신은 꽃의 수호자라고 알려진 님프와 약속한 만남에 갔다가 곧장 함정에 빠졌습니다!"
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[36].Description
 msgctxt "bcfafaa6-751a-49ab-888e-5bd236b2c5b3"
 msgid ""
 "You threatened Jubilost Narthropple with violence when he threatened to "
 "write a less than flattering article about your barony."
-msgstr ""
-"당신은 주빌로스트 나트로플이 당신의 남작령에 대하여 아첨하는 것이 아닌 위협하는 기사를 써 내었을 때, 당신은 그를 폭력으로 위협했습니다."
+msgstr "주빌로스트 나트로플이 당신의 남작령에 대해 그다지 호의적이지 않은 기사를 쓰겠다고 위협하자, 당신은 그를 폭력으로 위협했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[37].Description
 msgctxt "fc7353b9-3315-4355-ab1f-d9eeceaa463c"
@@ -7858,7 +7849,7 @@ msgid ""
 "When Jubilost Narthropple said he'd write a less than flattering article "
 "about your barony, you reminded him about having helped him twice."
 msgstr ""
-"주빌로스트 나트로플이 당신의 남작령에 대하여 그다지 돋보이지 않게 기사를 쓸 거라는 말에 당신은 그를 두번이나 도와준 적이 있음을 "
+"주빌로스트 나트로플이 당신의 남작령에 대해 그다지 호의적이지 않은 기사를 쓰겠다고 말하자, 당신은 그를 두 번이나 도와준 적이 있음을 "
 "상기시켰습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[39].Description
@@ -7866,21 +7857,19 @@ msgctxt "75541403-30bb-4185-bb03-115bf7d5edbd"
 msgid ""
 "You hired the remains of the Stag Lord's former gang, on condition that the "
 "money they gather goes to the treasury."
-msgstr "당신은 수사슴 군주의 남아있던 부하 무리를 그들이 모아온 모든 재화를 보물고에 보내는 조건으로 고용하였습니다."
+msgstr "당신은 수사슴 군주의 옛 패거리 잔당을, 그들이 모은 돈을 국고에 납입하는 조건으로 고용했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[3].Description
 msgctxt "1b009481-53ce-445e-aea2-33d4b68f18a0"
 msgid "You decided not to wear the suspicious ring that Tartuccio gave you."
-msgstr "당신은 타투치오가 당신에게 준 의심쩍은 반지를 착용하지 않기로 하였습니다."
+msgstr "당신은 타투치오가 준 수상한 반지를 끼지 않기로 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[40].Description
 msgctxt "652804b8-5238-483a-bf75-8ed0c4e52d44"
 msgid ""
 "You ordered the mad prophet Remus banished, after he predicted the speedy "
 "fall of your barony at the hands of some Goddess."
-msgstr ""
-"미친 예언자 레무스(Remus)가 어떠한 여신의 손에 당신의 남작령이 빠르게 몰락할 것이라는 예언을 한 뒤, 당신은 그에게 추방을 "
-"명했습니다."
+msgstr "미친 예언자 레무스가 웬 여신의 손에 당신의 남작령이 곧 몰락하리라고 예언한 뒤, 당신은 그를 추방하라고 명했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[41].Description
 msgctxt "8cf7447a-b42e-4d05-871e-b525cfc042a8"
@@ -7888,7 +7877,7 @@ msgid ""
 "You ordered the mad prophet Remus thrown in the dungeon, after he predicted "
 "the speedy fall of your barony at the hands of some Goddess."
 msgstr ""
-"미친 예언자 레무스가 어떠한 여신의 손에 당신의 남작령이 빠르게 몰락할 것이라는 예언을 한 뒤, 당신은 그를 지하감옥에 가둘 것을 "
+"미친 예언자 레무스가 웬 여신의 손에 당신의 남작령이 곧 몰락하리라고 예언한 뒤, 당신은 그를 지하감옥에 가두라고 "
 "명했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[42].Description
@@ -7896,18 +7885,14 @@ msgctxt "bc98a142-704c-47dd-9ee1-de18a8898ad9"
 msgid ""
 "You ordered that no harm should come to the mad prophet Remus, even after he "
 "predicted the speedy fall of your barony at the hands of some Goddess."
-msgstr ""
-"당신은 미친 예언자 레무스(Remus)가 어떠한 여신의 손에 당신의 남작령이 빠르게 몰락할 것이라는 예언을 했음에도 당신은 그를 해치지 "
-"말 것을 명했습니다."
+msgstr "당신은 미친 예언자 레무스가 웬 여신의 손에 당신의 남작령이 곧 몰락하리라고 예언한 뒤에도 그를 해치지 말라고 명했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[43].Description
 msgctxt "05291dcf-47a8-4fff-9b76-16853675165b"
 msgid ""
 "You ordered the mad prophet Remus executed, after he predicted the speedy "
 "fall of your barony at the hands of some Goddess."
-msgstr ""
-"당신은 미친 예언자 레무스(Remus)가 어떠한 여신의 손에 당신의 남작령이 빠르게 몰락할 것이라는 예언을 한 뒤, 당신은 그를 처형할 "
-"것을 명했습니다."
+msgstr "미친 예언자 레무스가 웬 여신의 손에 당신의 남작령이 곧 몰락하리라고 예언한 뒤, 당신은 그를 처형하라고 명했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[44].Description
 msgctxt "94c577b3-6851-4650-b0a1-053a169e3408"
@@ -7916,8 +7901,8 @@ msgid ""
 "Trading Post, you chose to peacefully convince Jamandi to pass the post into "
 "your jurisdiction."
 msgstr ""
-"올렉의 교역소에 대한 세금 징수 문제로 인한 소드로드들과의 분쟁에서 당신은 해당 교역소를 당신의 사법령으로 이관해 줄 것을 자만디에게 "
-"원만하게 설득했습니다."
+"올렉의 교역소에서 누가 세금을 징수해야 하는지를 두고 소드로드들과 벌인 분쟁에서, 당신은 해당 교역소를 당신의 관할권으로 넘기도록 "
+"자만디를 원만하게 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[45].Description
 msgctxt "31138d43-6785-4e84-b3d6-c3294d5f57a5"
@@ -7936,8 +7921,8 @@ msgid ""
 "Oleg's Trading Post, you decided to allow the trading post to remain under "
 "Restov's control."
 msgstr ""
-"올렉의 교역소에 대한 세금 징수 문제로 인한 소드로드들과의 분쟁에서 당신은 해당 교역소에 대한 레스토프의 지배를 유지하는 것을 허락키로 "
-"하였습니다."
+"올렉의 교역소에서 누가 세금을 징수해야 하는지를 두고 소드로드들과 벌인 분쟁에서, 당신은 해당 교역소를 계속 레스토프의 통제 아래 두기로 "
+"결정했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[47].Description
 msgctxt "cd795bd5-be83-418d-bdec-3aeabc96ac1f"
@@ -7947,8 +7932,8 @@ msgid ""
 "monster that emerges from inside. You decided that warning them about the "
 "threat was more important than preventing panic."
 msgstr ""
-"당신은 당신의 백성들에게 말 그대로 희생자의 안에서부터 괴물이 튀어나와 희생자의 몸이 사방으로 찢겨져 버리는 불가사의한 질병에 대하여 "
-"알리기로 하였습니다. 당신은 공황 상태를 막는 것보다 위협에 대해 경고하는 것이 더 중요하다고 결정했습니다."
+"당신은 남작령에 퍼지고 있는 불가사의한 질병에 대해 백성들에게 알리기로 하였습니다. 이 병은 희생자의 몸속에서 괴물이 튀어나와 말 그대로 "
+"희생자를 산산조각 내게 합니다. 당신은 혼란을 막는 것보다 위협을 경고하는 일이 더 중요하다고 결정했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[48].Description
 msgctxt "92aad9cb-7a03-4b80-b2e3-4b5aea354435"
@@ -7958,69 +7943,67 @@ msgid ""
 "pieces by a monster that emerges from inside. You decided it was better to "
 "avoid panic."
 msgstr ""
-"당신은 당신의 백성들에게 말 그대로 희생자의 안에서부터 괴물이 튀어나와 희생자의 몸이 사방으로 찢겨져 버리는 불가사의한 질병의 진실을 "
-"숨기기로 하였습니다. 당신은 공황 상태를 피하는 것이 더 낫다고 결정했습니다."
+"당신은 남작령에 퍼지고 있는 불가사의한 질병의 진실을 백성들에게 숨기기로 하였습니다. 이 병에 걸린 희생자는 몸속에서 튀어나온 괴물에게 "
+"말 그대로 산산조각 납니다. 당신은 혼란을 피하는 편이 더 낫다고 결정했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[4].Description
 msgctxt "e091645c-456d-447d-af31-7a15ab25204a"
 msgid ""
 "In a conversation with Jamandi, you described your motives in a way that "
 "seemed too chaotic and not credible to Valerie."
-msgstr "자만디와의 대화에서 발레리로서는 너무 혼란스럽고 신용할 수 없는 당신만의 동기를 진술하였습니다."
+msgstr "자만디와의 대화에서 당신은 자신의 동기를 설명했지만, 발레리에게는 너무 혼란스럽고 신뢰할 수 없는 말처럼 보였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[50].Description
 msgctxt "1c9ce588-0d3e-47c8-b109-c220449c8c53"
 msgid ""
 "You helped two fey, Falchos and Tiressia, by sparing them from the Scythe "
 "Tree."
-msgstr "당신은 팔초스와 티레시아라는 두 페이를 낫 나무(대낫 나무)로부터 살려냈습니다."
+msgstr "당신은 팔초스와 티레시아라는 두 페이를 대낫 나무로부터 구해 주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[52].Description
 msgctxt "8a9e43f0-3ca0-41a8-96a5-7b9b2f1d19c6"
 msgid ""
 "Upon meeting peasants who were searching for treasure, you picked a random "
 "direction just for fun, and told them they'd find hidden gold there."
-msgstr ""
-"보물을 찾고 있는 농민들과의 만남에서 당신은 순전히 장난으로 아무 방향이나 가르키며 그들에게 가르킨 곳에서 숨겨진 황금을 찾을 수 있을 "
-"것이라고 말했습니다."
+msgstr "보물을 찾고 있던 농민들을 만났을 때, 당신은 순전히 장난으로 아무 방향이나 가리키며 그곳에서 숨겨진 황금을 찾을 수 있을 것이라고 말했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[53].Description
 msgctxt "08bcf0fb-b1ad-4f96-9bea-a6f599ce11b8"
 msgid "You didn't kill the young trolls, children of Kargadd."
-msgstr "당신의 카르가드의 자식들인 어린 트롤들을 죽이지 않았습니다."
+msgstr "당신은 카르가드의 자식들인 어린 트롤들을 죽이지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[54].Description
 msgctxt "1367260e-e519-47b2-857d-6692aa5b0b5e"
 msgid "You killed the young trolls, children of Kargadd."
-msgstr "당신의 카르가드의 자식들인 어린 트롤들을 죽였습니다."
+msgstr "당신은 카르가드의 자식들인 어린 트롤들을 죽였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[55].Description
 msgctxt "41483fe7-7e8d-4aac-b40b-97391a2f0cd4"
 msgid ""
 "You delivered a letter and an expensive brooch to the wife of the dead "
 "merchant Leksen."
-msgstr "죽은 렉센이라는 상인의 부인에게 당신은 편지와 값비싼 브로치를 전달해 주었습니다."
+msgstr "당신은 죽은 상인 렉센의 아내에게 편지와 값비싼 브로치를 전달해 주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[57].Description
 msgctxt "4cf84a6c-7948-41ff-acf3-a06e35e5eafd"
 msgid ""
 "Winning the battle, you decided to spare Tartuk's life, and allowed him to "
 "rule the remains of the Trobolds."
-msgstr "전투에서 승리하여 당신은 타툭의 목숨을 살려주고 트로볼트를 계속 유지하며 지배할 수 있게 허락키로 결정했습니다."
+msgstr "전투에서 승리한 뒤, 당신은 타툭의 목숨을 살려주고, 그가 트로볼트의 잔존 세력을 다스리도록 허락하기로 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[58].Description
 msgctxt "e4814de9-bab1-40ea-bc00-2e7bb39778fb"
 msgid ""
 "Winning the battle, you decided to spare Tartuk's life, but banished him "
 "from your lands."
-msgstr "전투에서 승리하여 당신은 타툭의 목숨을 살려주었으나 그를 당신의 땅으로부터 추방키로 결정하였습니다."
+msgstr "전투에서 승리하여 당신은 타툭의 목숨을 살려주었으나 그를 당신의 땅으로부터 추방하기로 결정하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[59].Description
 msgctxt "afb3120f-8ac8-46df-a478-d70bc60ad061"
 msgid ""
 "Winning the battle, you decided to spare the life of Hargulka, the chief of "
 "the Trobold trolls."
-msgstr "전투에서 승리하여 당신은 트로볼트 트롤들의 수장인 하굴카의 목숨을 살려주기로 결정하였습니다."
+msgstr "전투에서 승리한 뒤, 당신은 트로볼트 트롤들의 수장인 하굴카의 목숨을 살려주기로 결정하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[5].Description
 msgctxt "670cb4e3-e939-4d9f-96e9-f544a5feaf46"
@@ -8029,15 +8012,15 @@ msgid ""
 "Jamandi, and found in them a pointless insistence on the letter of the law. "
 "He found this foolish."
 msgstr ""
-"하림은 당신이 자만디와 나눈 대화에서 밝힌 의견에 대해 고민했고, 그것이 문자 그대로의 법에 대한 의미없는 고집이라고 봅니다. 그는 "
-"이것이 어리석다고 생각합니다."
+"하림은 당신이 자만디와 나눈 대화에서 드러낸 생각들을 곱씹어 보고, 그 안에서 법조문에 대한 무의미한 집착을 보았습니다. 그는 그것을 "
+"어리석다고 여겼습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[60].Description
 msgctxt "4aedb77b-bb10-4356-8087-ad412a5b0232"
 msgid ""
 "Winning the battle, you decided to spare the life of Hargulka, the chief of "
 "the Trobold trolls, but banished him from your lands."
-msgstr "전투에서 승리하여 당신은 트로볼트 트롤들의 수장인 하굴카의 목숨을 살려주었으나 그를 당신의 땅에서 추방키로 결정하였습니다."
+msgstr "전투에서 승리하여 당신은 트로볼트 트롤들의 수장인 하굴카의 목숨을 살려주었으나 그를 당신의 땅에서 추방하기로 결정하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[61].Description
 msgctxt "884b84a5-bea6-41ea-8bfe-068b2c0ad622"
@@ -8046,8 +8029,8 @@ msgid ""
 "evil joke, or a curse by some unknown force. But somehow this new life has "
 "turned out more desirable to him than his former one."
 msgstr ""
-"한때 노움이었던 타투치오는 사악한 농담이든 혹은 알려지지 않은 힘으로 인한 저주이든 코볼트로 변하겠노라고 당신에게 말했었습니다. 그렇지만 "
-"이런 변한 모습은 그의 이전 모습보다 그에게 더 만족스러운 것 같습니다."
+"한때 노움이었던 타투치오는 사악한 장난인지, 혹은 정체 모를 힘의 저주인지 코볼트로 변해 버렸다고 당신에게 말했었습니다. 하지만 "
+"어째서인지 이 새로운 삶은 예전의 삶보다 그에게 더 만족스러운 것 같습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[65].Description
 msgctxt "197dfe04-e646-48b0-afc9-35bfad178d20"
@@ -8083,16 +8066,14 @@ msgid ""
 "Jaethal considered the thoughts you shared in your conversation with "
 "Jamandi, and found too much pointless kindness. She was unimpressed."
 msgstr ""
-"제이탈은 당신이 자만디과의 대화에서 공유한 생각들에 대해 고심했고, 너무 의미없는 친절함을 발견했습니다. 그녀는 탐탁치 않았습니다."
+"제이탈은 당신이 자만디와의 대화에서 공유한 생각들에 대해 고심했고, 너무 의미없는 친절함을 발견했습니다. 그녀는 탐탁지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[70].Description
 msgctxt "0e12a075-d3c5-45a5-abc2-a5dbad973766"
 msgid ""
 "You met a woman near a bridge over the Gudrin River, who'd been robbed by a "
 "goblin, and helped her recover her pearl necklace."
-msgstr ""
-"당신은 구드린 강을 가로지를 다리 주변에서 고블린으로부터 그녀의 진주목걸이를 강탈당한 여자를 만나, 그녀가 진주 목걸이를 되찾는 것을 "
-"도왔습니다."
+msgstr "당신은 구드린 강을 가로지르는 다리 근처에서 고블린에게 진주 목걸이를 도둑맞은 여자를 만나, 그녀가 목걸이를 되찾도록 도왔습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[71].Description
 msgctxt "5e6b3cb0-056f-4f7a-ba27-3d3382cfc11f"
@@ -8105,14 +8086,14 @@ msgctxt "4924d97a-17bb-461a-81d3-afb879d4ae23"
 msgid ""
 "You met a sick old man near the bridge over Gudrin River, and sent him to "
 "Jhod for help."
-msgstr "당신은 구드린 강을 가로지르는 다리 주변에서 아픈 늙은이를 만나 조드에게 도움을 받도록 수도로 보냈습니다."
+msgstr "당신은 구드린 강을 가로지르는 다리 근처에서 병든 노인을 만나, 도움을 받도록 그를 조드에게 보냈습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[73].Description
 msgctxt "d66e88c5-2721-408f-b6b0-2d300ebac4a4"
 msgid ""
 "You intercepted refugees on their way to Galt, fleeing the epidemic and the "
 "monster invasion, and convinced them to return to the capital."
-msgstr "당신은 괴물들의 침공과 유행병을 피해 갈트로 향하는 피난민들을 막아서고는 그들이 다시 수도로 돌아갈 것을 설득했습니다."
+msgstr "당신은 유행병과 괴물들의 침공을 피해 갈트로 향하던 피난민들을 막아서고, 그들이 수도로 돌아가도록 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[74].Description
 msgctxt "3dc2d1f9-4762-404c-8918-be18cce10d90"
@@ -8121,8 +8102,8 @@ msgid ""
 "lands because of the danger. You sided with the other and convinced them "
 "both to stay."
 msgstr ""
-"당신은 수도에서 서로 언쟁하고 있는 두 사람을 만났습니다. 그 중 하나는 위험을 피해 당신의 땅으로부터 벗어나길 원했습니다. 당신은 다른 "
-"편에 서서 둘 모두가 그대로 있을 것을 설득했습니다."
+"당신은 수도에서 언쟁을 벌이는 두 사람을 만났습니다. 그중 한 사람은 위험 때문에 당신의 영지를 떠나고 싶어했습니다. 당신은 다른 한 "
+"사람의 편을 들어 둘 모두 머무르도록 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[75].Description
 msgctxt "3ce68aeb-3dc1-40cc-84d3-feaeb83c22c2"
@@ -8131,22 +8112,22 @@ msgid ""
 "of the danger, and the other who wanted to stay. You permitted them to leave "
 "the city."
 msgstr ""
-"당신은 수도에서 서로 언쟁하고 있는 두 사람을 만났습니다. 그 중 하나는 위험을 피해 당신의 땅으로부터 벗어나길 원했고, 다른 한 사람은 "
-"머무르길 원했습니다. 당신은 그들이 도시를 떠나는 것을 허락했습니다."
+"당신은 수도에서 언쟁을 벌이는 두 사람을 만났습니다. 그중 한 사람은 위험 때문에 떠나고 싶어했고, 다른 한 사람은 머무르고 "
+"싶어했습니다. 당신은 그들이 도시를 떠나도록 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[7].Description
 msgctxt "cee8da38-f045-4930-a350-3d73a3ac0597"
 msgid ""
 "Linzi watched what you revealed in your conversation with Jamandi, and got a "
 "glimpse of someone who is egoistical and evil. She doesn't like this."
-msgstr "린지는 당신과 자만디와의 대화에서 당신이 밝힌 바를 지켜보았고, 이기적이고 악한 누군가를 일견했다. 그녀는 이런 것이 싫었다."
+msgstr "린지는 당신과 자만디의 대화에서 당신이 드러낸 모습을 지켜보며, 이기적이고 악한 면모를 엿보았습니다. 그녀는 이를 마음에 들어 하지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[80].Description
 msgctxt "54d0988c-b7ad-42a3-9b7f-dcdd285ea6c1"
 msgid ""
 "You used threats to win the grand prize in the competition, and made the "
 "Embeth Travelers give you their trophy."
-msgstr "당신은 경기에서 우승을 차지하기 위해 위협을 사용하였고, 엠베스 여행자가 당신에게 그들의 트로피를 넘기도록 하였다."
+msgstr "당신은 경기에서 우승을 차지하기 위해 위협을 사용하였고, 엠베스 여행자가 당신에게 그들의 트로피를 넘기도록 하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[81].Description
 msgctxt "34ee65e4-232f-4156-a03b-35d9f38d25ef"
@@ -8158,8 +8139,8 @@ msgid ""
 "alone in the Womb of Lamashtu."
 msgstr ""
 "남작령에 퍼져나가고 있는 질병의 원인을 찾는 것과 수도를 방위하는 것 가운데 선택의 기로에서 당신은 괴물들의 수중으로부터 조드 카브켄과 "
-"같은 많은 시민들을 구할 수 있도록 도시를 먼저 방위하기로 결정했다. 불행하게도, 케스턴 가레스는 라마슈투의 자궁에서 외롭게 죽음을 "
-"맞이하였다."
+"같은 많은 시민들을 구할 수 있도록 도시를 먼저 방위하기로 결정했습니다. 불행하게도, 케스턴 가레스는 라마슈투의 자궁에서 외롭게 죽음을 "
+"맞이하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[82].Description
 msgctxt "29859f1d-9add-4c88-95e5-b6e58d7c0f84"
@@ -8170,7 +8151,7 @@ msgid ""
 "Unfortunately, many of the capital's defenders died, including Jhod Kavken."
 msgstr ""
 "남작령에 퍼져나가고 있는 질병의 원인을 찾는 것과 수도를 방위하는 것 가운데 선택의 기로에서 당신은 문제의 근원을 찾기로 하였고 케스턴 "
-"가레스를 구할 수 있었다. 불행하게도 수 많은 수도 방위병들이 죽었고 그들 가운데엔 조드 카브켄도 있었다."
+"가레스를 구할 수 있었습니다. 불행하게도 수 많은 수도 방위병들이 죽었고 그들 가운데엔 조드 카브켄도 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[83].Description
 msgctxt "82f21592-d6c9-462f-b581-5c93bbc98b05"
@@ -8180,8 +8161,8 @@ msgid ""
 "and protect it from the monster invasion. Thus you were able to safeguard "
 "both your loyal advisors, Jhod and Kesten, in the face of the monster attack."
 msgstr ""
-"당신은 케스턴 가레스에게 어떠한 감정을 불어넣고자 하였다. 당신은 그가 위험한 원정에 나가는 것을 만류하였고 괴물들의 침공으로부터 수도를 "
-"지키도록 그가 되돌아 가는 것을 설득했다. 그리하여 당신은 괴물들의 공격으로부터 조드와 케스턴 두 충직한 보좌관을 보호할 수 있었다."
+"당신은 케스턴 가레스에게 어떠한 감정을 불어넣고자 하였습니다. 당신은 그가 위험한 원정에 나가는 것을 만류하였고 괴물들의 침공으로부터 수도를 "
+"지키도록 그가 되돌아 가는 것을 설득했습니다. 그리하여 당신은 괴물들의 공격으로부터 조드와 케스턴 두 충직한 보좌관을 보호할 수 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[84].Description
 msgctxt "49ac646c-98e9-46b8-939d-0688d2925078"
@@ -8189,73 +8170,70 @@ msgid ""
 "Conducting a surgery quickly and skillfully, you managed to save the life of "
 "Madla Stasek, a brave peasant who volunteered in an experiment to seek out "
 "the source of the disease."
-msgstr ""
-"신속하고 능숙하게 수술에 임하여 당신은 질병의 원인을 알아내고자 한 실험에 자원한 용감한 농민인 마들라 스타섹의 목숨을 구할 수 "
-"있었습니다."
+msgstr "당신은 신속하고 능숙하게 수술을 집도하여, 질병의 원인을 찾아내기 위한 실험에 자원한 용감한 농민 마들라 스타섹의 목숨을 구했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[86].Description
 msgctxt "b95a3440-b26a-4fe5-b1c3-d84039a2fcca"
 msgid ""
 "You ordered the execution of all of Lamashtu's secret followers, who you "
 "found in Dumra's lodge."
-msgstr "당신은 덤라의 산장에서 발견한 모든 라마슈투의 숨겨진 추종자들을 처형할 것을 명령했습니다."
+msgstr "당신은 덤라의 산장에서 발견한 라마슈투의 숨은 추종자들을 모두 처형하라고 명령했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[87].Description
 msgctxt "50a09bc6-70ca-4788-8d24-fd4cbb4c3012"
 msgid ""
 "After finding a secret group of Lamashtu worshippers in Dumra's lodge, you "
 "ordered the execution of their leader, priestess Tsanna."
-msgstr "덤라의 산장에서 은신했던 라마슈투의 추종자들 무리를 발견한 후, 당신은 그들의 리더인 산나를 처형할 것을 명령했습니다."
+msgstr "덤라의 산장에서 라마슈투 숭배자들의 비밀 집단을 발견한 후, 당신은 그들의 지도자인 여사제 산나를 처형하라고 명령했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[88].Description
 msgctxt "d17a2616-531b-4f7d-92cd-2dd97c94f9ef"
 msgid ""
 "You spared the life of Tsanna, priestess of Lamashtu, who was leading a "
 "secret cult dedicated to the cruel goddess."
-msgstr "당신은 잔혹한 여신을 섬기는 비밀스런 종교를 이끌었던 라마슈투의 산나의 목숨을 살려주었습니다."
+msgstr "당신은 잔혹한 여신을 섬기는 비밀 교단을 이끌던 라마슈투의 여사제 산나의 목숨을 살려주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[8].Description
 msgctxt "b8306b76-d83b-416b-b791-6794696aa0ff"
 msgid ""
 "You convinced the old alchemist Bokken to help you in your struggle against "
 "the bandits."
-msgstr "당신은 도적들과의 싸움에서 늙은 알케미스트 보큰이 도와줄 것을 설득했습니다."
+msgstr "당신은 늙은 알케미스트 보큰을 설득해 도적들과의 싸움을 돕게 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[90].Description
 msgctxt "b6821f7c-5873-4b10-a57e-0a5fbe1d70ee"
 msgid ""
 "You allowed Tsanna, priestess of Lamashtu, to perform the ritual to help the "
 "unborn child of Olika, the widow of the merchant Leksen."
-msgstr "당신은 라마슈투의 산나가 상인 렉센의 과부인 올리카의 태어나지 않은 아이를 돕는 의식을 치룰 수 있게끔 허락했습니다."
+msgstr "당신은 라마슈투의 여사제 산나가 상인 렉센의 과부 올리카의 태어나지 않은 아이를 돕는 의식을 치를 수 있도록 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[91].Description
 msgctxt "50322354-5bbc-477e-9952-ef4e420b7b95"
 msgid ""
 "You spared the lives of the frightened goblins who were hiding from you "
 "behind Lamashtu's statue."
-msgstr "당신은 라마슈투의 석상 뒤에 당신을 피해 숨어있는 겁먹은 고블린들의 목숨을 살려주었습니다."
+msgstr "당신은 라마슈투의 석상 뒤에 당신을 피해 숨어 있던 겁먹은 고블린들의 목숨을 살려주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[92].Description
 msgctxt "fdc7171c-cc80-48ce-8dfa-b1d89bb41024"
 msgid ""
 "You slaughtered the frightened goblins who were hiding from you behind "
 "Lamashtu's statue."
-msgstr "당신은 라마슈투의 석상 뒤에 당신을 피해 숨어있는 겁먹은 고블린들을 학살하였습니다."
+msgstr "당신은 라마슈투의 석상 뒤에 당신을 피해 숨어 있던 겁먹은 고블린들을 학살했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[95].Description
 msgctxt "53b71c12-3311-4134-a911-536604779a7c"
 msgid ""
 "After discovering the secret of the werewolf hunter Ivar, you let him go, "
 "wishing him to find peace with himself."
-msgstr "사냥꾼 늑대인간 이바르의 비밀을 알아낸 후 당신은 그가 그 스스로 평안을 찾기를 바라며 그를 보내주었습니다."
+msgstr "늑대인간 사냥꾼 이바르의 비밀을 알아낸 후, 당신은 그가 스스로 마음의 평화를 찾기를 바라며 그를 보내주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[96].Description
 msgctxt "7b27d618-7e00-477c-8c1e-b0dbaff7c602"
 msgid ""
 "After discovering the secret of the werewolf hunter Ivar, you spared his "
 "life but told him to be gone and keep out of your way."
-msgstr ""
-"사냥꾼 늑대인간 이바르의 비밀을 알아낸 후 당신은 그의 목숨을 살려주었지만 그가 다시는 당신의 앞에 나타나지 말 것을 말했습니다."
+msgstr "늑대인간 사냥꾼 이바르의 비밀을 알아낸 후, 당신은 그의 목숨은 살려주었지만 떠나서 다시는 당신 앞길을 막지 말라고 말했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[97].Description
 msgctxt "31b60f55-cab0-4b75-bd69-e2be9ec0065a"
@@ -8264,23 +8242,22 @@ msgid ""
 "\"goddess\". This curse took from her something very important, and made her "
 "destroy kingdoms until she'd brought a thousand of them to ruin."
 msgstr ""
-"태초 세계를 방문하여 당신은 신비로운 \"여신\"에게 걸려있는 저주에 대해 알게되었습니다. 이 저주는 그녀에게 가장 중요한 무언가를 "
-"앗아갔으며, 그녀가 천 개의 왕국을 폐허로 할 때까지 왕국들을 멸망시키게끔 하였습니다."
+"태초 세계를 방문한 당신은 신비로운 \"여신\"에게 걸린 저주에 대해 알게 되었습니다. 이 저주는 그녀에게서 매우 중요한 무언가를 "
+"앗아갔고, 그녀가 천 개의 왕국을 폐허로 만들 때까지 왕국들을 멸망시키게 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[98].Description
 msgctxt "d9f04188-7e18-461b-8b42-9a1f42e3c11c"
 msgid ""
 "Talking to Tristian, you repeatedly mentioned how important it is for you to "
 "fight evil and how important Tristian is to you."
-msgstr ""
-"트리스티안과 대화하면서 당신은 반복해서 당신에게 악과 싸우는 것이 얼마나 중요하며 트리스티안이 당신에게 얼마나 중요한지를 상기시켰습니다."
+msgstr "트리스티안과 대화하면서 당신은 악과 싸우는 일이 당신에게 얼마나 중요한지, 그리고 트리스티안이 당신에게 얼마나 중요한지 거듭 말했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[9].Description
 msgctxt "d14ce195-4012-471d-9790-1326ddc0a237"
 msgid ""
 "The old alchemist Bokken, who you'd convinced to join you in your fight "
 "against the bandits, died in battle."
-msgstr "당신이 도적들과 싸움에서 함께 해 줄 것을 설득했던 늙은 알케미스트 보큰은 그 전투에서 사망하였습니다."
+msgstr "당신이 도적들과의 싸움에 함께해 달라고 설득했던 늙은 연금술사 보큰은 전투에서 사망했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[0].Description
 msgctxt "4ee46037-c1df-4c0d-b198-4f556731cde3"
@@ -8294,21 +8271,21 @@ msgctxt "71613aef-b3b9-4c53-9ab9-392dfe3458bf"
 msgid ""
 "Discussing his past and future with Ekun, you advised him to find peace with "
 "himself."
-msgstr "에쿤의 과거와 미래에 대해 그와 논하면서 당신은 그에게 그 스스로 평안을 찾을 것을 조언하였습니다."
+msgstr "에쿤과 그의 과거와 미래에 대해 논하면서, 당신은 그에게 스스로 마음의 평화를 찾으라고 조언했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[101].Description
 msgctxt "442b8fa6-65f2-4d8d-9e0a-1f5c1ba78cfe"
 msgid ""
 "You decided Ekun should conduct a ritual to say farewell to his dead family, "
 "and find peace."
-msgstr "당신은 에쿤이 그의 죽은 가족들에게 작별인사를 고하고 평안을 찾게끔 의식을 치루어야 한다고 결정했습니다."
+msgstr "당신은 에쿤이 죽은 가족들에게 작별을 고하고 평안을 찾을 수 있도록 의식을 치러야 한다고 결정했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[102].Description
 msgctxt "6a71a090-ec08-45e7-8ca4-3896d64eeb33"
 msgid ""
 "You decided Ekun and Ntavi should go hunting trolls, and not exchange "
 "revenge for peace of mind."
-msgstr "당신은 에쿤과 은타비가 트롤 사냥을 가되 마음의 평화를 얻기 위한 복수로 뒤바꾸지 않아야 한다고 결정했다."
+msgstr "당신은 에쿤과 은타비가 트롤 사냥을 가되 마음의 평화를 얻기 위한 복수로 뒤바꾸지 않아야 한다고 결정했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[106].Description
 msgctxt "66483d00-364d-4c58-8de7-691707caac7e"
@@ -8317,8 +8294,8 @@ msgid ""
 "of his issues with dwarves, and accept his place in the cycle of creation "
 "and destruction."
 msgstr ""
-"당신은 하림과 오랜 길을 함께 했고, 그에게 드워프들과 관련된 그의 문제들을 떠나보내고, 창조와 파괴의 순환에서 그가 위치할 자리를 "
-"받아들이게 설득해 낸 것 같아 보인다."
+"당신은 하림과 먼 길을 함께했고, 그가 드워프들과 관련된 문제들을 내려놓고 창조와 파괴의 순환 속에서 자신의 자리를 받아들이도록 설득해 "
+"낸 것 같습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[107].Description
 msgctxt "c05fba15-8917-465f-9780-73e5ac6af5ee"
@@ -8332,7 +8309,7 @@ msgctxt "f866f5de-57e9-4512-b296-5e1bb941c065"
 msgid ""
 "You and Harrim sided with Offeld Skjegge and helped him defeat his "
 "undeserving offspring."
-msgstr "당신과 하림은 오펠드 세계의 편에서서 그가 그의 자격이 없는 자손들을 무찌르는 것을 도왔다."
+msgstr "당신과 하림은 오펠드 셰게의 편에 서서 그가 자격 없는 자식들을 무찌르도록 도왔습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[109].Description
 msgctxt "54943428-add2-4d96-af3f-cff2bc3c044f"
@@ -8342,8 +8319,8 @@ msgid ""
 "passage forever. This finally separated Harrim from the other dwarves, and "
 "probably brought him closer to Groetus."
 msgstr ""
-"당신은 하림이 야르물드 셰게가 그의 선조의 망령인 오펠드와 싸웠던 홀을 무너뜨려야 한다고 결정했다. 그래서 그 둘을 묻고 통로를 영원히 "
-"폐쇄하는 것이다. 비로소 하림은 다른 드워프들과 연을 끊고 그로투스 신에게 보다 다가가게 될 것이다."
+"당신은 하림이 야르물드 셰게가 그의 선조의 망령인 오펠드와 싸웠던 홀을 무너뜨려야 한다고 결정했습니다. 그래서 그 둘을 묻고 통로를 영원히 "
+"폐쇄하는 것입니다. 비로소 하림은 다른 드워프들과 연을 끊고 그로투스 신에게 보다 다가가게 될 것입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[10].Description
 msgctxt "ef54f797-d036-41b1-a4e1-30436d675e61"
@@ -8352,8 +8329,8 @@ msgid ""
 "merchants from the Vascari house. Regardless, you managed to talk to their "
 "leader, Renshala, and explain the situation to her."
 msgstr ""
-"극작가 이마르 데샹이 당신을 속여 바스카리 가문의 온건한 상인들을 공격토록 했습니다. 그럼에도 불구하고 당신은 그들의 리더인 린샬라와 "
-"대화할 수 있었고, 이 상황을 설명할 수 있었습니다."
+"극작가 이마르 데샹은 당신을 속여 바스카리 가문의 평화로운 상인들을 공격하게 했습니다. 그럼에도 당신은 그들의 지도자인 렌샬라와 대화하여 "
+"상황을 설명할 수 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[110].Description
 msgctxt "e7a760d3-3d20-4a70-bfd3-5b5096458fc4"
@@ -8367,7 +8344,7 @@ msgctxt "6e6afab2-1bda-49dc-88dc-1611c89aa9c7"
 msgid ""
 "You insisted that Jaethal let the elven girl die, after she turned her into "
 "an undead."
-msgstr "제이탈이 엘프 소녀를 언데드로 만들어 버린 후, 당신은 제이탈이 그녀를 죽게 했다고 주장했습니다."
+msgstr "제이탈이 엘프 소녀를 언데드로 만들어 버린 후, 당신은 제이탈이 그 소녀를 죽게 내버려 두어야 한다고 고집했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[112].Description
 msgctxt "067a3ef9-9bf3-4e55-8a2e-b4c8bd2bbd8d"
@@ -8375,23 +8352,22 @@ msgid ""
 "You didn't allow Jaethal to break her word to Taneka, the old priestess of "
 "Urgathoa. Jaethal raised her as undead, as she agreed."
 msgstr ""
-"당신은 제이탈이 우르가쏘아신의 나이 많은 여사제 타네카와 한 약속을 깨뜨리는 것을 허락하지 않았다. 제이탈은 그녀를 그녀가 동의한 데로 "
-"언데드로 되살려내었다."
+"당신은 제이탈이 우르가쏘아신의 나이 많은 여사제 타네카와 한 약속을 깨뜨리는 것을 허락하지 않았습니다. 제이탈은 그녀를 그녀가 동의한 데로 "
+"언데드로 되살려내었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[113].Description
 msgctxt "0e272187-739c-4fde-ae41-cce8558a04f4"
 msgid ""
 "You allowed Jaethal to break her agreement with Taneka, the old priestess of "
 "Urgathoa. Jaethal left her to rot."
-msgstr ""
-"당신은 제이탈이 우르가쏘아신의 나이 많은 여사제 타네카와 한 약속을 깨뜨리는 것을 허락했다. 제이탈은 그녀가 썩어가도록 놔두었다."
+msgstr "당신은 제이탈이 우르가쏘아의 나이 많은 여사제 타네카와 한 약속을 깨뜨리는 것을 허락했습니다. 제이탈은 그녀를 썩어가도록 내버려 두었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[115].Description
 msgctxt "d1139eae-ff0a-45df-8c3c-b9b8163504ba"
 msgid ""
 "You refused to hand Jaethal over to Pharasma's inquisitor, and fought and "
 "killed him."
-msgstr "당신은 파라즈마의 이단심문관 손에 제이탈을 넘기는 것을 거부하고 그와 맞서 싸워 그를 쳐치했다."
+msgstr "당신은 파라즈마의 이단심문관 손에 제이탈을 넘기는 것을 거부하고 그와 맞서 싸워 그를 처치했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[118].Description
 msgctxt "04eaca09-b61b-4054-b642-6dbc0c39b9d8"
@@ -8399,15 +8375,15 @@ msgid ""
 "You allowed Jaethal to sacrifice her daughter to Urgathoa. This allowed "
 "Jaethal to receive the goddess's blessing, and remain a powerful undead."
 msgstr ""
-"당신은 제이탈이 그녀의 딸을 우르가쏘아에게 제물로 바치는 것을 허락했다. 이로써 제이탈은 여신을 축복을 받아 계속해서 강력한 언데드로 "
-"남게 되었다."
+"당신은 제이탈이 그녀의 딸을 우르가쏘아에게 제물로 바치는 것을 허락했습니다. 이로써 제이탈은 여신을 축복을 받아 계속해서 강력한 언데드로 "
+"남게 되었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[119].Description
 msgctxt "f0bd2763-5a9a-4e13-8ef9-166c5a105903"
 msgid ""
 "You allowed Jaethal to begin preparations for a dark ritual, which will "
 "enable her to transfer her soul into the body of her helpless daughter."
-msgstr "당신은 제이탈이 그녀의 영혼을 그녀의 무력한 딸의 몸으로 옮길 수 있는 어두운 의식을 준비하는 것을 허락했다."
+msgstr "당신은 제이탈이 그녀의 영혼을 그녀의 무력한 딸의 몸으로 옮길 수 있는 어두운 의식을 준비하는 것을 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[11].Description
 msgctxt "da4e92da-be4a-48f2-a66b-9ea705216bf2"
@@ -8416,8 +8392,8 @@ msgid ""
 "merchants from the Vascari house. Renshala, one of the Vascari leaders, was "
 "killed in the fight."
 msgstr ""
-"극작가 이마르 데샹은 당신을 속여 바스카리 가문의 무고한 상인들을 공격하도록 만들었다. 바스카리의 지도자 중 한 명인 린샬라는 전투 "
-"와중에 사망하였다."
+"극작가 이마르 데샹은 당신을 속여 바스카리 가문의 무고한 상인들을 공격하도록 만들었습니다. 바스카리의 지도자 중 한 명인 린샬라는 전투 "
+"와중에 사망하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[120].Description
 msgctxt "b24361a0-f2cb-4da9-9b03-4d4845fce553"
@@ -8426,8 +8402,8 @@ msgid ""
 "daughter's life. In making this decision, your undead companion finally "
 "abandoned the unlife she'd clung to for so long, and died."
 msgstr ""
-"당신은 제이탈에게 우르가쏘아를 섬기는 것을 그만두고 딸의 목숨을 지켜주라고 설득할 수 있었습니다. 이러한 결정으로 당신의 언데드 동료는 "
-"마침내 오랫동안 붙들어왔던 불사의 삶을 포기하였고 죽게 되었습니다."
+"당신은 제이탈을 설득해 우르가쏘아를 섬기지 않고 딸의 목숨을 지키게 했습니다. 이 결정으로 당신의 언데드 동료는 마침내 오랫동안 붙들고 "
+"있던 불사의 삶을 포기하고 죽었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[121].Description
 msgctxt "74ce805d-fe17-4156-bedd-979d13157b67"
@@ -8435,41 +8411,41 @@ msgid ""
 "You appreciated Jubilost's desire to help gnomes who suffer from Bleaching, "
 "even at the cost of making a fool of himself."
 msgstr ""
-"당신은 그 댓가로서 그 스스로가 멍청이가 되었음에도 블리칭으로부터 고통 받던 놈 종족을 돕고자 한 주빌로스트의 바램을 감사해했다."
+"당신은 주빌로스트가 망신을 무릅쓰고서라도 블리칭으로 고통받는 놈 종족을 돕고자 한 바람을 높이 평가했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[122].Description
 msgctxt "a9b20a97-8303-4e2e-ba49-615b31d90a52"
 msgid ""
 "You disapproved of Jubilost making a fool of himself, despite the fact that "
 "the was trying to help gnomes who suffer from Bleaching."
-msgstr "당신은 블리칭으로 고통받던 놈 족종을 도우려 했다는 사실에도 불구하고 주빌로스트가 스스로를 바보로 만든 것을 탐탐치 않아 했다."
+msgstr "당신은 주빌로스트가 블리칭으로 고통받는 놈 종족을 돕고자 했음에도 스스로 망신을 자초한 것을 못마땅하게 여겼습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[123].Description
 msgctxt "6bdc4716-1bb9-418f-8e30-070a37407e43"
 msgid ""
 "You convinced Jubilost not to reject the gift of immortality, and be "
 "reconnected to the First World."
-msgstr "당신은 주빌로스트에게 불멸성이라는 선물을 거부하지 말고 다시 태초 세계와 연결될 것을 설득했다."
+msgstr "당신은 주빌로스트에게 불멸성이라는 선물을 거부하지 말고 다시 태초 세계와 연결될 것을 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[124].Description
 msgctxt "17cf7d38-77f2-41ec-a983-895918c1404c"
 msgid ""
 "In a dungeon under the Candlemere, you recommended Jubilost pass the gift of "
 "immortality to any random gnome who was suffering from Bleaching."
-msgstr "캔들미어의 지하의 동굴에서 당신은 주빌로스트에게 불멸성의 선물을 백화로 고통 받는 다른 노움에게 전할 것을 권유했다."
+msgstr "캔들미어의 지하의 동굴에서 당신은 주빌로스트에게 불멸성의 선물을 백화로 고통 받는 다른 노움에게 전할 것을 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[125].Description
 msgctxt "e8269a62-4f82-4240-902e-f00353b3cb6e"
 msgid ""
 "You recommended Jubilost to pass the gift of immortality to Xae, the ghost "
 "of the miserable gnome wizard."
-msgstr "당신은 주빌로스트가 가진 불멸성의 선물을 비참한 놈 위저드 유령인 자에에게 전달할 것을 권유했다."
+msgstr "당신은 주빌로스트가 가진 불멸성의 선물을 비참한 놈 위저드 유령인 자에에게 전달할 것을 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[126].Description
 msgctxt "25781b78-404f-44cc-a612-f5d96e7f5c0b"
 msgid ""
 "You recommended Linzi start publishing light and entertaining popular books."
-msgstr "당신은 린지에게 가볍고 재미있으며 대중적인 서적의 출판을 시작하는 것을 권유했습니다."
+msgstr "당신은 린지에게 가볍고 재미있는 대중 서적을 출판하기 시작하라고 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[127].Description
 msgctxt "a74c562d-567f-4e19-921d-a6394a350ebb"
@@ -8480,31 +8456,31 @@ msgstr "당신은 린지에게 피탁스에서 금지된 서적들을 출판할 
 msgctxt "6733e960-dd85-4bed-8846-4cc8b9babb50"
 msgid ""
 "You recommended Linzi publish a particularly inspiring and wonderful book."
-msgstr "당신은 린지에게 특별히 자극적이고 훌륭한 책을 출판할 것을 권유했습니다."
+msgstr "당신은 린지에게 특히 감동적이고 훌륭한 책을 출판할 것을 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[131].Description
 msgctxt "69cec8b0-19c2-4467-bc74-3013ebc50594"
 msgid ""
 "You recommended Linzi publish Eobald's book without any changes, thereby "
 "sugar coating what's happening at the Academy of Grand Arts."
-msgstr "당신은 린지에게 이오발드가 쓴 대 예술 아카데미에서 있었던 일을 그럴듯하게 꾸며낸 책을 그것 그대로 출간할 것을 권유했습니다."
+msgstr "당신은 린지에게 이오발드의 책을 아무런 수정 없이 출판하라고 권유하여, 대 예술 아카데미에서 벌어지는 일을 그럴듯하게 포장하게 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[132].Description
 msgctxt "f271835d-3644-416e-96a4-dd130c7b50fa"
 msgid ""
 "You recommended Linzi to publish an honest book about the Academy of Grand "
 "Arts, revealing all its problems."
-msgstr "당신은 린지에게 대 예술 아카데미에 대한 모든 문제점을 밝히는 정직한 책을 출판할 것을 권유했습니다."
+msgstr "당신은 린지에게 대 예술 아카데미의 모든 문제점을 폭로하는 정직한 책을 출판하라고 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[133].Description
 msgctxt "944cf4fb-0307-4917-913c-e4841675660e"
 msgid "You allowed an angry crowd to wreck the Academy of Grand Arts."
-msgstr "당신은 성난 군중들이 대 예술 아카데미를 엉망으로 하는 것을 허락하였습니다."
+msgstr "당신은 성난 군중이 대 예술 아카데미를 파괴하도록 내버려 두었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[134].Description
 msgctxt "09daa924-a563-4107-b2a4-68b3b306530a"
 msgid "You prevented an angry crowd from wrecking the Academy of Grand Arts."
-msgstr "당신은 성난 군중들이 대 예술 아카데미를 엉망으로 하려는 것을 막았습니다."
+msgstr "당신은 성난 군중이 대 예술 아카데미를 파괴하려는 것을 막았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[135].Description
 msgctxt "0868f511-5c15-4c2e-8eec-d253e9ee11fc"
@@ -8514,7 +8490,7 @@ msgstr "당신은 고블린 녹-녹의 처형을 명령했습니다."
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[136].Description
 msgctxt "b6c8f5ba-5aee-4c69-8119-ceb23016bf47"
 msgid "You allowed Nok-Nok the goblin to become one of your companions."
-msgstr "당신은 당신의 동료로서 고블린 녹-녹을 받아들였습니다."
+msgstr "당신은 고블린 녹-녹을 동료로 받아들였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[143].Description
 msgctxt "007429e1-e1cc-4644-af5f-e99c2ff799ee"
@@ -8535,16 +8511,14 @@ msgctxt "3ecac744-50b6-421d-898d-16e24c256f00"
 msgid ""
 "You refused to allow Octavia and Regongar to follow Janush, deciding to save "
 "the slaves burning in the cages instead."
-msgstr ""
-"당신은 옥타비아와 레곤가르가 자누시를 추격하는 것을 허락하는 것을 거부한 대신 불길 속에서 철창 안에 갇힌 노예들을 구하기로 결정했습니다."
+msgstr "당신은 옥타비아와 레곤가르가 자누시를 쫓아가도록 허락하지 않고, 대신 불타는 우리 안의 노예들을 구하기로 결정했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[146].Description
 msgctxt "dc9e52b8-6ae5-43ea-a809-e22c8bde3a03"
 msgid ""
 "You didn't let Octavia and Regongar save the slaves burning in the cages, "
 "deciding it was more important to pursue Janush."
-msgstr ""
-"당신은 옥타비아와 레곤가르가 불길 속에서 철창 안에 갇힌 노예들을 구하려는 것보다 자누시를 추격하는 것이 더 중요하다고 결정하였습니다."
+msgstr "당신은 자누시를 추격하는 것이 더 중요하다고 판단하여, 옥타비아와 레곤가르가 불길 속 철창에 갇힌 노예들을 구하지 못하게 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[147].Description
 msgctxt "6cd29897-0b6c-4a33-9539-9052a34e9507"
@@ -8556,101 +8530,99 @@ msgstr "당신은 자비를 베풀어 정화된 자들의 왕국의 모든 광�
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[148].Description
 msgctxt "09ad5e05-5874-465a-843b-4517ebe8065f"
 msgid "You slaughtered all the cultists from the Kingdom of the Cleansed."
-msgstr "당신은 정화된 자들의 왕국의 모든 광신자들을 학살하였습니다."
+msgstr "당신은 정화된 자들의 왕국 출신 광신자들을 모두 학살했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[149].Description
 msgctxt "69d3c93f-26ed-4dcf-87c9-73f46574acde"
 msgid ""
 "You managed to awaken the mind in Ruthgert the cultist, and convinced him "
 "not to sacrifice his own daughter, Amalia."
-msgstr "당신은 광신자 루스거트를 일깨웠고 그가 그의 딸 아말리아를 제물로 바치지 않게끔 설득하였습니다."
+msgstr "당신은 광신도 루스거트의 이성을 일깨우고, 자기 딸 아말리아를 제물로 바치지 않도록 설득하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[150].Description
 msgctxt "4597dbba-d785-47dd-bb0a-74cfbe4bfc7d"
 msgid ""
 "You killed the cultist Ruthgert before he could sacrifice his daughter "
 "Amalia."
-msgstr "당신은 광신도 루스거트가 그의 딸 아말리아를 제물로 바치기 전에 그를 죽였습니다."
+msgstr "당신은 광신도 루스거트가 자기 딸 아말리아를 제물로 바치기 전에 그를 죽였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[151].Description
 msgctxt "648193ed-faa8-43e0-a143-c4d1a0aca008"
 msgid "You allowed the cultist Ruthgert to sacrifice his daughter Amalia."
-msgstr "당신은 광신도 루스거트가 그의 딸 아말리아를 제물로 바치는 것을 허락했습니다."
+msgstr "당신은 광신도 루스거트가 자기 딸 아말리아를 제물로 바치도록 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[152].Description
 msgctxt "ea6da942-e204-4220-a47c-b97d5a0d5374"
 msgid ""
 "You recommended Tristian not reject his mortal half, and live the life of an "
 "ordinary man."
-msgstr "당신은 트리스티안에게 그의 남은 필멸성을 거부하지 말고 평범한 사람으로 삶을 살아갈 것을 권유했습니다."
+msgstr "당신은 트리스티안에게 자신의 필멸자로서의 면모를 거부하지 말고, 평범한 사람으로서의 삶을 살아가라고 권유했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[153].Description
 msgctxt "dc9273bd-da38-4422-80a0-d128f2642f3c"
 msgid ""
 "You recommended Tristian return to his life as a deva, and the embrace of "
 "his goddess Sarenrae – after you defeat Nyrissa."
-msgstr "당신은 나이리사를 패배시킨 후에 트리스티안이 그의 데바로서의 삶을 되찾고 그의 여신 서렌레이의 품에 안길 것을 권유하였습니다."
+msgstr "당신은 나이리사를 물리친 후 트리스티안이 데바로서의 삶과 여신 서렌레이의 품으로 돌아가도록 권유하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[154].Description
 msgctxt "706fa1ae-acc1-4305-93c7-97703bb976db"
 msgid ""
 "You prevented Valerie from dueling Shelyn's paladin Fredero – by attacking "
 "him first. However, Valerie was insulted by this move."
-msgstr ""
-"당신은 셸린의 팔라딘 프레데로를 먼저 공격하여 발레리가 그와 결투하는 것을 막았습니다. 그러나 발레리는 이러한 행동으로 인해 모욕 "
-"받았습니다."
+msgstr "당신은 셸린의 팔라딘 프레데로를 먼저 공격하여 발레리가 그와 결투하는 것을 막았습니다. 그러나 발레리는 이 행동에 모욕감을 느꼈습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[155].Description
 msgctxt "1fc6bede-d226-4933-b52b-4bb96a8ba4dc"
 msgid "You agreed to a duel between Valerie and Shelyn's paladin Fredero."
-msgstr "당신은 발레리와 셸린의 팔라딘 프레데로간의 결투를 허락했습니다."
+msgstr "당신은 발레리와 셸린의 팔라딘 프레데로 간의 결투에 동의했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[156].Description
 msgctxt "4d2f7c49-d282-4b8f-8840-8a9d3bd519d1"
 msgid ""
 "After he dueled with Valerie, you decided to end the life of Shelyn's "
 "paladin Fredero."
-msgstr "셸린의 팔라딘 프레데로가 발레리와 결투 한 후, 당신은 그를 삶을 끝내기로 결정하였습니다."
+msgstr "셸린의 팔라딘 프레데로가 발레리와 결투한 후, 당신은 그의 목숨을 끊기로 결정하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[157].Description
 msgctxt "6e2de472-8165-4aa0-b18a-1a9574c935cf"
 msgid ""
 "You didn't follow Fredero, Shelyn's paladin, after his duel with Valerie."
-msgstr "셸린의 팔라딘 프레데로가 발레리와 결투한 후, 당신은 프레데로를 따르지 않았습니다."
+msgstr "셸린의 팔라딘 프레데로가 발레리와 결투한 후, 당신은 그를 따라가지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[158].Description
 msgctxt "26a018bd-0937-41b3-a977-8631436214bc"
 msgid ""
 "You recommended Valerie place greater value in those around her and respect "
 "their feelings."
-msgstr "당신은 발레리에게 주변인들을 기분을 존중하고 그들을 보다 중요하게 여길 것을 권했다."
+msgstr "당신은 발레리에게 주변인들을 기분을 존중하고 그들을 보다 중요하게 여길 것을 권했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[159].Description
 msgctxt "08672f34-8177-4b6b-b069-8c89c0e23d18"
 msgid ""
 "You recommended Valerie to pay less attention to other people and their "
 "feelings about her."
-msgstr "당신은 발레리에게 주변인들과 그들의 기분에 대해 덜 신경쓸 것을 권했다."
+msgstr "당신은 발레리에게 주변인들과 그들의 기분에 대해 덜 신경쓸 것을 권했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[160].Description
 msgctxt "0c834a13-64b7-4f3c-bb39-05ad9a528f3e"
 msgid ""
 "In the quarrel between Valerie and the bard Eveld, you sided with Valerie "
 "and demanded that Eveld apologize."
-msgstr "발레리와 바드 이벨드 사이의 다툼에서 당신은 발레리의 편을 들어 이벨드의 사과를 요구했다."
+msgstr "발레리와 바드 이벨드 사이의 다툼에서 당신은 발레리의 편을 들어 이벨드의 사과를 요구했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[161].Description
 msgctxt "454e7c29-5cf8-4912-b56f-47e07246ef1a"
 msgid ""
 "In the quarrel between Valerie and the bard Eveld, you sided with Eveld and "
 "demanded that Valerie apologize."
-msgstr "발레리와 바드 이벨드 사이의 다툼에서 당신은 이벨드의 편을 들어 발레리의 사과를 요구했다."
+msgstr "발레리와 바드 이벨드 사이의 다툼에서 당신은 이벨드의 편을 들어 발레리의 사과를 요구했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[162].Description
 msgctxt "e397ecdb-ffab-4aec-9c91-9856039b1c87"
 msgid ""
 "You didn't take sides in the quarrel between Valerie and the bard Eveld."
-msgstr "당신은 발레리와 바드 이벨드 사이의 다툼에서 어느 편도 들지 않았다."
+msgstr "당신은 발레리와 바드 이벨드 사이의 다툼에서 어느 편도 들지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[163].Description
 msgctxt "e7d33b77-0b74-4cd2-9d9a-c3b44fa4b373"
@@ -8660,7 +8632,7 @@ msgid ""
 "that she respects those who choose that path."
 msgstr ""
 "당신은 발레리와 오랜 길을 함께 해왔고 발레리가 여신 셸린과 화해하는 것을 도왔다. 발레리는 다시 봉사하진 않았지만, 그녀는 그 길을 "
-"따르기로 선택한 이들을 존중하기로 하였다."
+"따르기로 선택한 이들을 존중하기로 하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[164].Description
 msgctxt "7a0b9f8e-7097-47c1-82ef-3ff265dac082"
@@ -8679,8 +8651,8 @@ msgid ""
 "realized that he could achieve much through his clever skill of making "
 "others laugh."
 msgstr ""
-"당신의 영향력 아래에서 녹-녹은 어릿광대로서의 재능을 발견하고 다른 이들을 웃게 만드는 그의 영리한 기술들을 통해 더 많은 것을 성취할 "
-"수 있다는 것을 깨달았습니다."
+"당신의 영향으로 녹-녹은 자신에게 어릿광대의 재능이 있음을 발견하고, 다른 이들을 웃게 만드는 영리한 재주로 많은 것을 이룰 수 있음을 "
+"깨달았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[166].Description
 msgctxt "6f50e1ad-1161-423e-91c9-0cd4c40a70d4"
@@ -8693,14 +8665,14 @@ msgstr "당신의 지도 아래에서 녹-녹은 마침내 그가 언제나 꿈�
 msgctxt "8f1ea89a-9b94-4766-8b6a-e6054fd3ffc6"
 msgid ""
 "You allowed Nok-Nok to keep the \"statue\" depicting both of you as heroes."
-msgstr "당신은 녹-녹이 당신과 녹-녹을 영웅으로 묘사한 \"조각상\"을 그대로 두는 것을 허락했습니다."
+msgstr "당신은 녹-녹이 당신과 녹-녹을 영웅으로 묘사한 \"조각상\"을 간직하는 것을 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[168].Description
 msgctxt "cd16fd11-e9e2-4b36-9d7f-54cb8d81fdce"
 msgid ""
 "You didn't allow Nok-Nok to keep the doubtful \"statue\" he built, which "
 "depicted both of you as heroes."
-msgstr "당신은 녹-녹이 당신과 녹-녹을 영웅으로 묘사한 그가 만든 의심스러운 \"조각상\"을 그대로 두는 것을 허락하지 않았습니다."
+msgstr "당신은 녹-녹이 자신이 만든, 당신과 녹-녹을 영웅으로 묘사한 미심쩍은 \"조각상\"을 간직하는 것을 허락하지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[169].Description
 msgctxt "f31d8ffa-6dab-4369-b4fc-6a970bdec7fc"
@@ -8713,8 +8685,8 @@ msgid ""
 "While talking with Linzi about the book she printed and the events in Pitax "
 "it covers, you convinced Linzi that even the harsh truths must see the light."
 msgstr ""
-"린지와 그녀가 출간한 피탁스에서의 사건을 다룬 책에 대해서 이야기 하는 동안, 당신은 린지에게 받아들이기 어려운 진실일지라도 반드시 "
-"밝혀져야만 한다고 설득했습니다."
+"린지가 출간한 책과 그 책이 다룬 피탁스에서의 사건에 대해 이야기하는 동안, 당신은 린지에게 받아들이기 어려운 진실일지라도 반드시 "
+"밝혀져야 한다고 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[171].Description
 msgctxt "de07a5c2-4948-44f6-92bd-d0d719171e0a"
@@ -8723,8 +8695,8 @@ msgid ""
 "it covers, you convinced her that stories are meant to help people and make "
 "the world a better place."
 msgstr ""
-"린지와 그녀가 출간한 피탁스에서의 사건을 다룬 책에 대해서 이야기 하는 동안, 당신은 그녀에게 사람들을 돕고 더 좋은 세상을 만드는 것이 "
-"이야기들이 의미하는 것이라고 설득했습니다."
+"린지가 출간한 책과 그 책이 다룬 피탁스에서의 사건에 대해 이야기하는 동안, 당신은 그녀에게 이야기란 사람들을 돕고 세상을 더 나은 "
+"곳으로 만들기 위한 것이라고 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[172].Description
 msgctxt "117e2f41-5b40-4b1e-b946-6dc022d900c5"
@@ -8733,15 +8705,15 @@ msgid ""
 "it covers, you convinced her that the book didn't have a particular effect, "
 "and literature shouldn't expect to do more than entertain."
 msgstr ""
-"린지와 그녀가 출간한 피탁스에서의 사건을 다룬 책에 대해서 이야기 하는 동안, 당신은 그녀에게 책은 어떤 특별한 영향력도 없고 문학은 "
-"오락 이상의 것을 기대해서는 안된다고 설득했습니다."
+"린지가 출간한 책과 그 책이 다룬 피탁스에서의 사건에 대해 이야기하는 동안, 당신은 그녀에게 그 책은 별다른 영향을 주지 못했으며 문학은 "
+"오락 이상의 것을 기대해서는 안 된다고 설득했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[173].Description
 msgctxt "0d44779f-d945-4e6a-ab0f-374d9e963b48"
 msgid ""
 "You decided to use Kanerah as a lure for the Soul Eater, to save the lives "
 "of Kalikke's friends."
-msgstr "당신은 칼리케의 친구들을 구하기 위해서 소울 이터에게 카네라를 미끼로 사용하기로 했습니다."
+msgstr "당신은 칼리케의 친구들을 구하기 위해 카네라를 소울 이터의 미끼로 쓰기로 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[174].Description
 msgctxt "6bab2994-c62f-4d6c-a4aa-742cb232ed79"
@@ -8820,8 +8792,7 @@ msgctxt "4d0927ee-5951-4ed3-b87c-aae3ed779424"
 msgid ""
 "You gained the support of Drey Yarnes, the high priest of Calistria, by "
 "pointing out how undesirable Irovetti's actions were to the goddess."
-msgstr ""
-"당신은 칼리스트리아의 대사제 드레이 얀스에게 이로베티의 행위가 여신에게 얼마나 바람직하지 않은지를 지적함으로써 그의 지지를 얻었습니다."
+msgstr "당신은 이로베티의 행위가 여신에게 얼마나 달갑지 않은 일인지를 지적함으로써 칼리스트리아의 대사제 드레이 얀스의 지지를 얻었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[26].Description
 msgctxt "0009d89b-00dc-429f-8ccb-d808d72c3224"
@@ -8830,8 +8801,8 @@ msgid ""
 "merchants from the Vascari house. Unfortunately, their leader Renshala is "
 "still blaming you for their deaths."
 msgstr ""
-"이마르 데샹이라는 극작가는 당신을 속여 바스카리 가문의 선량한 상인들을 공격하게끔 했습니다. 불행하게도 그들의 지도자 린샬라는 그들의 "
-"죽음에 대해 여전히 당신을 비난합니다."
+"이마르 데샹이라는 극작가가 당신을 속여 바스카리 가문의 평화로운 상인들을 공격하게 했습니다. 불행히도 그들의 지도자 렌샬라는 여전히 "
+"그들의 죽음에 대해 당신을 비난하고 있습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[27].Description
 msgctxt "8d00a786-ff5c-4be0-b930-aaf2392f6a21"
@@ -8839,23 +8810,21 @@ msgid ""
 "You gained the support of Annamede Belavarah and the bards of Pitax by "
 "promising to make Annamede the head of the Academy of Grand Arts after "
 "Irovetti's defeat."
-msgstr ""
-"당신은 안나미데 빌라바라가 이로베티의 패배 후에 대 예술 아카데미의 수장이 될 것임을 약속함으로써 그와 피탁스의 바드들의 지지를 "
-"얻었습니다."
+msgstr "당신은 이로베티가 패배한 후 안나미데 벨라바라를 대예술 아카데미의 수장으로 삼겠다고 약속함으로써, 그녀와 피탁스의 바드들의 지지를 얻었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[28].Description
 msgctxt "925895d7-64f8-4062-b3e1-8f994bbd5be8"
 msgid ""
 "You have the blood of peaceful citizens of Pitax on your hands. They are "
 "unlikely to forgive you for that."
-msgstr "당신은 무고한 피탁스 시민들의 피를 당신의 손에 묻혔습니다. 그들은 그 때문에 당신을 용서하지 않을 것입니다."
+msgstr "당신은 선량한 피탁스 시민들의 피를 손에 묻혔습니다. 그들은 아마 그 일로 당신을 용서하지 않을 것입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[29].Description
 msgctxt "c034d76a-9d9e-4e2e-a8ab-9674aa4c84fc"
 msgid ""
 "At Whiterose Abbey you freed Evindra the nereid from imprisonment and "
 "offered her shelter at your capital."
-msgstr "백장미 수도원에서 당신은 감옥에 갖혀 있던 네레이드 에빈드라를 자유롭게 하였고 당신의 수도에 그녀의 쉴 곳을 제공하였습니다."
+msgstr "백장미 수도원에서 당신은 갇혀 있던 네레이드 에빈드라를 풀어 주고, 당신의 수도에 머물 곳을 제공했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[2].Description
 msgctxt "e5850fa6-11ac-4500-af1e-97089174aea0"
@@ -8863,16 +8832,14 @@ msgid ""
 "Neither your performance at the Rushlight tournament, nor your communication "
 "with the audience, made any particular impression on the citizens of Pitax – "
 "or your own subjects."
-msgstr ""
-"러시라이트 토너먼트에서의 당신의 공연뿐만이 아니라 관중들과의 소통까지도 피탁스의 시민들이나 당신의 백성들에게 이렇다 할 인상을 심어주지 "
-"못했습니다."
+msgstr "러시라이트 토너먼트에서의 당신의 활약도, 관중과의 소통도 피탁스 시민들이나 당신의 백성들에게 별다른 인상을 남기지 못했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[30].Description
 msgctxt "4520630e-cf84-4da7-a549-5435b1cfb3fe"
 msgid ""
 "At the Whiterose Abbey you freed Evindra the nereid from imprisonment – by "
 "ending her life."
-msgstr "백장미 수도원에서 당신은 감옥에 갖혀 있던 네레이드 에빈드라를 그녀의 삶에 종지부를 찍게 함으로써 자유롭게 하였습니다."
+msgstr "백장미 수도원에서 당신은 갇혀 있던 네레이드 에빈드라의 목숨을 끊어 그녀를 자유롭게 했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[31].Description
 msgctxt "48e9c10a-fa3c-41fb-ab25-e001cc25969f"
@@ -8884,23 +8851,23 @@ msgid ""
 "Jubilost to give the gift of immortality to a \"random gnome\" – and it "
 "looks like this is how it worked out."
 msgstr ""
-"이로베티의 성에서 일전에 비논리 토론회에서 만난 적이 있던 백화로 고통받고 있는 두 노움 비야르와 루아르 조텐로플과 마주했다. 그들은 "
-"당신을 공격할 준비를 하고 있었지만 기적적으로 백화에서 치료된 니르드 조텐로플에게 제지 당했다. 당신은 주빌로스트에게 \"아무 "
-"노움\"에게나 불멸성의 선물을 넘겨주고 그것이 어떻게 작용하는지를 보자고 조언했습니다."
+"이로베티의 성에서 당신은 일전에 비논리 토론회에서 만났던, 백화로 고통받는 두 노움 비야르와 루아르 조텐로플을 마주했습니다. 그들은 "
+"당신을 공격하려 했지만, 기적적으로 백화가 치료된 니르드 조텐로플에게 제지당했습니다. 당신은 주빌로스트에게 불멸의 선물을 \"아무 "
+"노움\"에게나 주라고 조언했는데 - 그 조언이 이렇게 현실이 된 모양입니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[32].Description
 msgctxt "888f8a35-0b48-4cbe-a2da-c94105aaa297"
 msgid ""
 "After defeating Irovetti and taking control of Pitax, the governor you chose "
 "was Gasperre Liacenza, brother of the former Pitax kings."
-msgstr "이로베티를 무찌르고 피탁스를 장악한 후, 당신이 고른 총독은 전 피탁스 왕의 형제인 가스페레 리아첸자였습니다."
+msgstr "이로베티를 무찌르고 피탁스를 장악한 후, 당신이 선택한 총독은 전 피탁스 왕들의 형제인 가스페레 리아첸자였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[33].Description
 msgctxt "4e1c661d-356d-4596-be4a-909a60c3d663"
 msgid ""
 "After defeating Irovetti and taking control of Pitax, the governor you chose "
 "was Kharne Vereel, head of the thieves' guild."
-msgstr "이로베티를 무찌르고 피탁스를 장악한 후, 당신이 고른 총독은 도둑 길드의 우두머리인 칸 베릴이었습니다."
+msgstr "이로베티를 무찌르고 피탁스를 장악한 후, 당신이 선택한 총독은 도둑 길드의 우두머리 칸 베릴이었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[34].Description
 msgctxt "cbdcd734-be86-452d-bbc6-0647af35da27"
@@ -8918,25 +8885,25 @@ msgid ""
 "leave the region in the hands of one of its natives, and chose as governor a "
 "representative from your own kingdom."
 msgstr ""
-"이로베티를 무찌르고 피탁스를 장악한 후, 당신은 이 지역을 주민의 손에 맡기고 싶지 않았고 당신의 왕국을 대변하는 자를 총독으로 "
-"하였습니다."
+"이로베티를 무찌르고 피탁스를 장악한 후, 당신은 이 지역을 현지인 중 한 명에게 맡기고 싶지 않아 당신의 왕국을 대표하는 인물을 총독으로 "
+"선택했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[36].Description
 msgctxt "8e3874d9-0a71-4c87-872c-1066fb9eeafc"
 msgid "You kept Atalia Gitaren on as headmaster of the Academy of Grand Arts."
-msgstr "당신은 아탈리아 지타렌이 계속해서 대 예술 아카데미의 교장으로 있게끔 하였다."
+msgstr "당신은 아탈리아 지타렌이 계속해서 대 예술 아카데미의 교장으로 있게끔 하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[37].Description
 msgctxt "5c00ed5f-080b-4658-8b03-15e63c8e768a"
 msgid "You made Annamede Belavarah headmaster of the Academy of Grand Arts."
-msgstr "당신은 안나미데 빌라바라을 대 예술 아카데미의 교장으로 만들었다."
+msgstr "당신은 안나미데 빌라바라를 대 예술 아카데미의 교장으로 임명했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[38].Description
 msgctxt "25b6a4ba-cd8a-43c9-bb75-d8101cf87fc9"
 msgid ""
 "You decided that the new head of the Academy of Grand Arts should be chosen "
 "by the students."
-msgstr "당신은 대 예술 아카데미의 새로운 수장은 학생들이 선택하도록 결정하였다."
+msgstr "당신은 대예술 아카데미의 새로운 수장을 학생들이 선택하도록 결정하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[39].Description
 msgctxt "0702773f-2adf-42b6-976a-bad0c24670dd"
@@ -8948,7 +8915,7 @@ msgctxt "b2f764de-958d-46f2-afb1-9d1c5b90c0e5"
 msgid ""
 "Your behavior at the Rushlight tournament was met with disapproval by the "
 "citizens of Pitax – and by some of your own subjects as well."
-msgstr "러시라이트 토너먼트에서의 당신의 행동은 피탁스의 시민들 및 몇몇 당신의 백성들의 가진 반감과 마주했습니다."
+msgstr "러시라이트 토너먼트에서 보인 당신의 행동은 피탁스 시민들과 당신의 백성 일부에게도 반감을 샀습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[40].Description
 msgctxt "9d030e66-8d2a-4291-aa10-41303ab6b261"
@@ -8960,23 +8927,21 @@ msgctxt "5f3ff2c6-7abc-45d2-b54e-64bb042daa0c"
 msgid ""
 "Your decisions led to chaos in Pitax. The Academy of Grand Arts was forced "
 "to shut down."
-msgstr "당신의 결정은 피탁스를 혼란으로 몰고 갔습니다. 대 예술 아카데미는 문을 닫고 말았습니다."
+msgstr "당신의 결정은 피탁스를 혼란으로 몰아넣었습니다. 대예술 아카데미는 문을 닫을 수밖에 없었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[43].Description
 msgctxt "6dbe595b-b903-4b23-837d-a5877a357e9d"
 msgid ""
 "You allowed Kharn Vereel into your kingdom to sell a Numerian drug, an "
 "extract of bloodbrush."
-msgstr "당신은 칸 베릴이 블러드브러쉬 추출물인 누메리안 마약을 당신의 왕국 내에서 파는 것을 허용하였습니다."
+msgstr "당신은 칸 베릴이 당신의 왕국에서 블러드브러시 추출물인 누메리아 마약을 판매하는 것을 허용했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[45].Description
 msgctxt "10f9e910-7607-4a5b-b126-558457d30ce7"
 msgid ""
 "You have researched the nature of curses long enough to understand — their "
 "power is not magic, but words. And with words a curse can be lifted."
-msgstr ""
-"당신은 저주의 본질을 충분히 이해할 수 있을 만큼 오랫동안 연구해 왔습니다. 저주의 힘은 마법이 아니라 말에서 비롯되며, 따라서 말로써 "
-"저주를 풀 수 있습니다."
+msgstr "당신은 저주의 본질을 이해할 만큼 오랫동안 연구해 왔습니다. 저주의 힘은 마법이 아니라 말에 있으며, 말로 저주를 풀 수 있습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[46].Description
 msgctxt "962e48e1-4329-44c2-8664-c779475d5447"
@@ -8988,9 +8953,9 @@ msgid ""
 "punish Nyrissa – if you allowed the insidious nymph to meet the conditions "
 "of her curse, and gather the dust of a thousand kingdoms."
 msgstr ""
-"당신은 나이리사로 인해 멸망해버린 최초의 왕국의 왕관이라는 신비로운 유물을 얻었습니다. 나이리사는 이 왕관으로 지배자의 영혼을 가두었고, "
-"지배자가 사라진 왕국은 몰락의 길로 내몰렸습니다. 당신은 그 왕관을 원로 샤이카에게 넘겨주기로 하였습니다. 그는 당신이 그 교활한 님프의 "
-"저주를 충족시키고 천 개 왕국의 재를 모아오면 그 왕관을 가지고 나이리사를 처벌할 것이라 약속했습니다."
+"당신은 나이리사가 멸망시킨 최초의 왕국의 왕관이라는 신비로운 유물을 얻었습니다. 나이리사는 이 왕관으로 한 지배자의 영혼을 가두었고, 그 "
+"지배자가 사라지자 그의 영토는 몰락했습니다. 당신은 그 왕관을 원로 샤이카에게 넘겨주기로 했습니다. 샤이카는, 당신이 그 교활한 님프에게 "
+"저주의 조건을 충족하고 천 개 왕국의 먼지를 모으도록 허락한다면, 그 왕관으로 나이리사를 처벌할 수 있을 것이라고 약속했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[4].Description
 msgctxt "cd763ac0-e77e-43a4-8109-30273d572a43"
@@ -9010,8 +8975,8 @@ msgid ""
 "artifact — the First crown. You managed to trick the treants who guard a "
 "piece of the crown, and take it from them."
 msgstr ""
-"칼날의 성에서 멀리 떨어지지 않은 곳에서 나이리사의 종들은 서로 다투다 첫 번째 왕관이라는 유물을 부숴버렸습니다. 당신은 왕관의 조각을 "
-"지키고 있던 트리엔트들을 속여 그것을 가져왔습니다."
+"칼날의 성에서 멀지 않은 곳에서 나이리사의 종들이 서로 다투다 유물인 첫 번째 왕관을 부숴 버렸습니다. 당신은 왕관 조각을 지키는 "
+"트리엔트들을 속여 그 조각을 빼앗았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[55].Description
 msgctxt "5802cd9e-80c3-4634-82a1-275137835241"
@@ -9019,8 +8984,8 @@ msgid ""
 "Your kingdom proved resilient enough, and Nyrissa's plots failed to do any "
 "serious damage – up to the moment you set off to fight the insidious nymph!"
 msgstr ""
-"당신의 왕국은 충분히 탄탄하다는 게 보여졌고 나이리사의 계획은 어떠한 심각한 피해도 끼치지 못했습니다. - 당신이 그 교활한 님프와 "
-"싸우기로 출발한 그 순간까지 말이죠!"
+"당신의 왕국은 충분히 굳건함을 증명했고, 나이리사의 음모는 심각한 피해를 주지 못했습니다. 그 교활한 님프와 맞서 싸우러 떠나는 "
+"순간까지는 말입니다!"
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[56].Description
 msgctxt "2bf0f758-b129-4f58-bbb8-b1406c422886"
@@ -9029,7 +8994,8 @@ msgid ""
 "undermine it, even up to the moment you set off to face the nymph in the "
 "First World."
 msgstr ""
-"당신의 왕국은 충분히 강하지 못했습니다. 게다가 나이리사는 왕국을 약화시키려 당신이태초 세계에서 그녀를 만날때까지 노력하고 있었습니다."
+"당신의 왕국은 충분히 강하지 못했습니다. 게다가 나이리사는 당신이 태초 세계에서 그 님프와 맞서러 떠나는 순간까지도 왕국을 약화시키려 "
+"하고 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[57].Description
 msgctxt "7175eeb3-74af-4769-bd64-c8a572bc9233"
@@ -9038,8 +9004,8 @@ msgid ""
 "to be a wizard – Nyrissa's enemy – who was killed by her and the Knurly "
 "Witch. His memory has been stolen by magic."
 msgstr ""
-"거울들의 수수깨끼를 해결함으로써 당신은 꿈틀거리는 남자가 한 때 나이리사의 적이자, 그녀와 옹이 마녀에게 살해당한 한 때 위저드였다는 "
-"사실을 알았습니다. 그의 기억은 마법에 의해 도난당했습니다."
+"거울의 수수께끼를 풀어, 당신은 꿈틀거리는 남자가 한때 나이리사의 적이었던 마법사였으며 그녀와 옹이 마녀에게 살해당했다는 사실을 "
+"알아냈습니다. 그의 기억은 마법으로 빼앗긴 상태였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[5].Description
 msgctxt "9316588b-b65a-4164-8389-2a32e257aeff"
@@ -9050,23 +9016,21 @@ msgid ""
 "houses hostage, including Gasperre's brothers. Irovetti keeps the trade "
 "houses in line by threatening to kill the hostages."
 msgstr ""
-"러시라이트 토너먼트에서 당신은 피탁스의 전 왕의 형제이자 강철 여우 무역 회사의 수장인 가스페레 리아첸자를 만났습니다. 당신은 그로부터 "
-"이로베티왕이 권력을 잡은 뒤, 그의 형제들을 포함한 무역회사의 대표들을 인질로 잡고 있다는 것을 알아내었습니다. 이로베티왕은 인질들을 "
-"죽인다고 위협함으로써 무역 회사들이 선을 넘지 못하도록 하고 있습니다."
+"러시라이트 토너먼트에서 당신은 피탁스 전 왕들의 형제이자 강철 여우 무역 가문의 수장인 가스페레 리아첸자를 만났습니다. 당신은 그로부터 "
+"이로베티가 권력을 잡은 뒤 가스페레의 형제들을 포함한 무역 가문의 대표들을 모두 인질로 잡았다는 사실을 알아냈습니다. 이로베티는 인질들을 "
+"죽이겠다고 위협하며 무역 가문들이 선을 넘지 못하게 하고 있습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[60].Description
 msgctxt "f4004d1b-1021-45c6-9149-78aa5b75c807"
 msgid "Love already lives in your heart, but not for Nyrissa."
-msgstr "당신의 마음 속엔 애정이 자리잡았지만 , 나이리사는 그렇지 않았습니다."
+msgstr "당신의 마음속에는 이미 사랑이 자리 잡고 있지만, 그 사랑은 나이리사를 향한 것이 아닙니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[61].Description
 msgctxt "3308d445-efca-4f06-8d74-506def7bbfe2"
 msgid ""
 "Your feelings for Nyrissa led you to return the Briar to her – a stolen part "
 "of her soul. And she accepted the gift."
-msgstr ""
-"나이리사에 대한 당신의 감정이 당신으로 하여금 그녀에게 그녀의 빼앗긴 영혼의 조각인 찔레를 건내주게 만들었습니다. 그리고 그녀는 그 "
-"선물을 받아들였습니다."
+msgstr "나이리사를 향한 당신의 감정은 당신이 그녀에게 빼앗긴 영혼의 조각인 찔레를 돌려주도록 이끌었습니다. 그리고 그녀는 그 선물을 받아들였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[62].Description
 msgctxt "cfbc2bfe-c319-4bb2-ac77-26edd3af8299"
@@ -9074,15 +9038,13 @@ msgid ""
 "After defeating Nyrissa in battle, you allowed her to depart to face the "
 "judgment of the Eldest, carrying with her the Apology, filled with the "
 "grains of dust of a thousand kingdoms."
-msgstr ""
-"전투에서 나이리사를 패배시킨 후에 당신은 그녀가 천 개 왕국의 재의 낱알들로 찬 그녀의 사죄를 가지고 원로의 심판을 마주하도록 그녀를 "
-"떠나보내었습니다."
+msgstr "전투에서 나이리사를 쓰러뜨린 뒤, 당신은 천 개 왕국의 먼지 알갱이로 가득 찬 사죄를 지닌 그녀가 원로들의 심판을 받으러 떠나도록 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[63].Description
 msgctxt "5bbb3590-8d9f-420a-a42c-df9deab5d9e2"
 msgid ""
 "After defeating Nyrissa in battle, you ended the life of the insidious nymph."
-msgstr "전투에서 나이리사를 패배시킨 후에 당신은 그 교활한 님프의 삶에 최후를 선사했습니다."
+msgstr "전투에서 나이리사를 쓰러뜨린 뒤, 당신은 그 교활한 님프의 목숨을 끊었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[64].Description
 msgctxt "939360fb-eaaa-4595-a655-4f5df21c4c0f"
@@ -9091,8 +9053,8 @@ msgid ""
 "soul which had been so poisoned with evil. But you failed to find a way to "
 "release her from the curse forever."
 msgstr ""
-"당신은 나이리사가 잃어버렸던 사랑할 수 있는 능력을 되찾아주고, 악으로 물들어버린 그녀의 영혼을 치유할 수 있었습니다. 그러나 당신은 "
-"그녀를 그녀의 저주로부터 영원히 풀어낼 방법을 찾는 것에는 실패하였습니다."
+"당신은 나이리사에게 잃어버린 사랑의 능력을 되찾아 주고, 악에 깊이 물든 그녀의 영혼을 치유했습니다. 그러나 그녀를 저주에서 영원히 풀어 "
+"줄 방법을 찾는 데에는 실패했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[65].Description
 msgctxt "88a8f07a-f351-4a91-9b5b-713e68b227e3"
@@ -9111,19 +9073,19 @@ msgid ""
 "formed an alliance with her. Now that she has lost all hope of being "
 "forgiven, Nyrissa is ready to help you overthrow the Lantern King."
 msgstr ""
-"나이리사를 패배시킨 뒤, 당신은 그 교활한 님프의 목숨을 살려주고 그녀와 연합하기로 하였습니다. 이제 용서받을 수 있다는 모든 희망을 "
-"버린 나이리사는 당신을 도와 등불왕에게 맞설 준비가 되었습니다."
+"나이리사를 쓰러뜨린 뒤, 당신은 그 교활한 님프의 목숨을 살려 주고 그녀와 동맹을 맺었습니다. 이제 용서받을 수 있다는 희망을 모두 잃은 "
+"나이리사는 당신을 도와 등불왕을 타도할 준비가 되었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[67].Description
 msgctxt "44325bfe-18d8-4d49-b059-aae3d897980c"
 msgid ""
 "You failed to finish searching for a way to free Nyrissa from her curse."
-msgstr "당신은 나이리사를 그녀의 저주로부터 자유롭게 할 방법을 찾는데에 실패했습니다."
+msgstr "당신은 나이리사를 저주에서 해방할 방법을 찾는 일을 끝내 마치지 못했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[68].Description
 msgctxt "7e917b46-f71b-4392-becd-56bee40e280b"
 msgid "You banished the recruiters for the Mendev crusaders."
-msgstr "당신은 멘데브 십자군에 지원한 자들을 추방시켰습니다."
+msgstr "당신은 멘데브 십자군의 모병관들을 추방했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[69].Description
 msgctxt "aab4595d-7361-4da5-904c-097577d48a03"
@@ -9137,8 +9099,8 @@ msgid ""
 "the head of the thieves' guild who is supplying Numerian drugs to Pitax. "
 "Kharne himself was very apprehensive when you tried to talk to him."
 msgstr ""
-"러시라이트 토너먼트에서 당신은 도둑 길드의 수장이자 피탁스에 누메리아 마약을 공급하는 칸 베릴에 대한 정보를 얻었습니다. 당신이 칸과 "
-"대화하고자 했을 때, 그는 매우 불안해 하였습니다."
+"러시라이트 토너먼트에서 당신은 피탁스에 누메리아산 마약을 공급하는 도둑 길드의 수장인 칸 베릴에 대한 정보를 얻었습니다. 당신이 칸 "
+"베릴에게 말을 걸어 보려 하자, 그는 몹시 경계하는 기색을 보였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[70].Description
 msgctxt "3ae47fd2-d0d5-4b4c-9fad-caad5bc6067f"
@@ -9154,21 +9116,21 @@ msgctxt "c99b524b-6a4d-41bb-9c15-86d7960f8563"
 msgid ""
 "During your rule, you supported the law and didn't allow criminals to "
 "infringe upon peaceful citizens."
-msgstr "당신의 통치 기간 동안 당신은 법을 준수하고 범죄자가 평온한 시민들을 해치는 것을 허락하지 않았습니다."
+msgstr "당신의 통치 기간 동안 당신은 법을 지지하고, 범죄자들이 평화로운 시민들을 침해하도록 허락하지 않았습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[72].Description
 msgctxt "97257e68-462d-44f5-baf9-384d1f9470de"
 msgid ""
 "During your rule, you heeded the requests and interests of the people, not "
 "the merchants."
-msgstr "당신의 통치 기간 동안 당신은 상인들보단 일반인들의 관심과 기대에 귀를 기울였습니다.."
+msgstr "당신의 통치 기간 동안 당신은 상인들의 이해관계가 아니라 백성들의 요구와 바람에 귀를 기울였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[73].Description
 msgctxt "ecdc9aef-7140-4113-a1d8-d656b5d92ff0"
 msgid ""
 "During your rule, you heeded the interests of the merchants, not the "
 "ordinary people."
-msgstr "당신의 통치 기간 동안 당신은 평범한 사람들보단 상인들의 이익에 귀를 기울였습니다."
+msgstr "당신의 통치 기간 동안 당신은 평범한 백성들의 요구와 바람이 아니라 상인들의 이해관계에 귀를 기울였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[74].Description
 msgctxt "b2d2baae-c75a-4ee9-a8a3-a9db2c89ca4a"
@@ -9430,7 +9392,7 @@ msgstr "한 주의 첫 번째 날입니다. 일반적으로 평일이지만 몇�
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[12].Name
 msgctxt "abb454d5-ce06-42b2-9cde-dfb0c041de2a"
 msgid "Moonday"
-msgstr "달의 날"
+msgstr "달의 날(Mon)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[13].Description
 msgctxt "a3af4793-e08a-47f6-b90f-6838573e4d7d"
@@ -9440,7 +9402,7 @@ msgstr "한 주의 두번째 날. 평일."
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[13].Name
 msgctxt "1e8fd0bb-77f2-4012-b9ec-bde8cf333e22"
 msgid "Toilday"
-msgstr "잡일의 날"
+msgstr "잡일의 날(Tue)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[14].Description
 msgctxt "fcec3a16-5918-4fda-ae0e-c535f95cf4de"
@@ -9450,7 +9412,7 @@ msgstr "한 주의 세번째 날. 평일."
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[14].Name
 msgctxt "4d766250-b11b-4021-9d19-3814d048c420"
 msgid "Wealday"
-msgstr "번영의 날"
+msgstr "번영의 날(Wed)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[15].Description
 msgctxt "ce71b8d5-3ee0-4e42-a6d1-5a9ad342e380"
@@ -9462,7 +9424,7 @@ msgstr "한 주에 네번째 날. 계약과 서약을 맺기에 좋은 날로 �
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[15].Name
 msgctxt "8e15acf4-5b45-45dd-8455-6a3995a0bc46"
 msgid "Oathday"
-msgstr "서약의 날"
+msgstr "맹세의 날(Thu)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[16].Description
 msgctxt "aac55e7b-60a7-4481-a6ff-7e3dd31201b1"
@@ -9472,7 +9434,7 @@ msgstr "한 주의 다섯번째 날. 평일로서 보통 이 날에 장을 봅�
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[16].Name
 msgctxt "b10fab2e-be68-44a1-96d7-b99d241a6233"
 msgid "Fireday"
-msgstr "불의 날"
+msgstr "불의 날(Fri)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[17].Description
 msgctxt "684d8d88-ada8-471b-8b39-1db3502150ba"
@@ -9482,7 +9444,7 @@ msgstr "한 주의 여섯번째 날. 평일."
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[17].Name
 msgctxt "26d9d5fe-5d12-4971-9d30-02808552fe24"
 msgid "Starday"
-msgstr "별의 날"
+msgstr "별의 날(Sat)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[18].Description
 msgctxt "28ff8533-1ec5-40c3-9604-d50c15d992cd"
@@ -9494,7 +9456,7 @@ msgstr "한 주의 일곱번째 날. 일반적으로 휴식을 취하며 종교 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[18].Name
 msgctxt "463b945d-fc98-4d61-a829-be393bd82cc9"
 msgid "Sunday"
-msgstr "해의 날"
+msgstr "해의 날(Sun)"
 
 #. Mechanics/Blueprints/Root/Glossary Lore_Entries.Array.data[19].Description
 msgctxt "bc4eb1e9-af7c-4dee-8ef5-6d06524d38dc"
@@ -10345,7 +10307,7 @@ msgctxt "b9d25cb2-f5fe-462c-ad62-d111e9e37de7"
 msgid ""
 "A peasant who voluntarily agreed to vivisection, in order to discover the "
 "reasons behind the mysterious affliction."
-msgstr "불가사의한 고통의 원인을 발견하기 위한 수술에 자원한 농부."
+msgstr "불가사의한 병의 원인을 밝히기 위해 생체 해부에 자원한 농부."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[17].Name
 msgctxt "bfabd483-e2de-4f0a-ab20-220a7055ab6d"
@@ -15289,7 +15251,7 @@ msgctxt "5c3c21ca-c1d3-49dd-9f64-f47029f27d03"
 msgid ""
 "A given name, or a nickname — this is how this character prefers to be "
 "called."
-msgstr "캐릭터가 불리는 이름 혹은 별명입니다."
+msgstr "이름이나 별명 — 이 캐릭터가 불리기를 원하는 호칭입니다."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[51].Name_2
 msgctxt "7354818c-1909-49b3-8c26-02d58e2d5c62"
@@ -17089,7 +17051,7 @@ msgid ""
 "spell which removes all negative levels after a dead creature is restored to "
 "life."
 msgstr ""
-"매 음수 레벨마다 모든 능력치 판정과 명중 굴림, 전법 판정, 전법 방어, 내성 굴림, 기술 판정에 -1 페널티를 누적해서 받습니다. "
+"매 음수 레벨마다 모든 능력치 판정과 명중 굴림, 전법 판정, 전법 방어도, 내성 굴림, 기술 판정에 -1 페널티를 누적해서 받습니다. "
 "추가로 매 음수 레벨마다 현재 및 최대 생명점이 5 점씩 줄어듭니다. 또한 레벨 기반 행동(주문 시전 등)에 쓰이는 레벨도 줄어듭니다. "
 "그러나 주문 칸에 준비해 둔 주문을 잃어버리지는 않습니다. 음수 레벨이 총 생명 주사위와 같아지면 사망합니다.\n"
 "음수레벨은 상태회복 등의 주문으로 제거될 수 있습니다. 생명 주사위와 같은 수치의 영구적인 음수 레벨로 사망한 크리처는 사자소생 주문으로 "
@@ -17520,7 +17482,7 @@ msgstr "기술 선택"
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.ChooseSpellFromList_1
 msgctxt "cc79c902-7f9d-4a17-a5f3-6eed8ff9545a"
 msgid "Select a spell you wish to acquire from the list below."
-msgstr "목록에서 주문을 선택하십시오."
+msgstr "아래 목록에서 습득할 주문을 선택하십시오."
 
 #. Mechanics/Blueprints/Root/UIStrings_CharGen.ChooseSpellbook
 msgctxt "2d1eed6c-f3f3-47b8-8cfd-4c5ee3b58647"

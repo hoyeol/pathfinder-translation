@@ -22450,8 +22450,8 @@ msgid ""
 "subtype; 20 or more HD, it inflicts a single -2 penalty to wielder's attack "
 "rolls, but adds 1d10 to damage for each of the qualities the target has."
 msgstr ""
-"이 +5 대형 쇠뇌는 다음 대상에게 명중시 2d10 점의 피해를 입힙니다: 거대, 특대 크기; 드래곤 하위유형; 거인 하위유형; HD "
-"20 이상."
+"이 +5 대형 쇠뇌는 명중 시 2d10점의 피해를 입힙니다. 대상이 초대형 또는 거대형 크기, 드래곤 하위유형, 거인 하위유형, 20 "
+"HD 이상 중 하나에 해당하면 사용자의 공격 굴림에 -2 페널티가 1회 적용되지만, 해당 조건 하나당 피해가 1d10씩 추가됩니다."
 
 #. Mechanics/Blueprints/Weapons/Items/Unique/LateChapters_3rdPart/MythslayerItem/MythslayerItem_m_DisplayNameText
 msgctxt "7aaf12a4-313a-4947-ac7d-1c5ecaf47175"
