@@ -1423,7 +1423,7 @@ msgctxt "f975334a-727d-4e9a-94e2-9b050823df28"
 msgid ""
 "Maestro Belavarah has turned the Academy of Grand Arts into a free-spirited "
 "institution that welcomes true talent."
-msgstr "마에스트로 빌라바라는 대 예술 아카데미를 진정한 재능을 환영하는 자유로운 기관으로 변모시켰습니다."
+msgstr "마에스트로 벨라바라는 대 예술 아카데미를 진정한 재능을 환영하는 자유로운 기관으로 변모시켰습니다."
 
 #. Mechanics/Blueprints/Kingdom/Buffs/Story/PitaxCultureAnnameda_DisplayName
 msgctxt "67902834-7c2e-46cd-a959-b5a6d5f1dbc2"
@@ -1927,7 +1927,7 @@ msgid ""
 "or bloodsports. +3 to Military and Culture when located in a settlement with "
 "Kobold, Troll or Goblin Quarters."
 msgstr ""
-"대회, 공연, 단체 경기, 또는 검투 경기를 위한 대규모 공공 시설입니다. 코볼드, 트롤 또는 고블린 숙소가 있는 정착지에 지으면 군사 "
+"대회, 공연, 단체 경기, 또는 검투 경기를 위한 대규모 공공 시설입니다. 코볼트, 트롤 또는 고블린 숙소가 있는 정착지에 지으면 군사 "
 "및 문화에 +3."
 
 #. Mechanics/Blueprints/Kingdom/Buildings/Barbarian Arena_Name

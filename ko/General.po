@@ -19308,7 +19308,7 @@ msgstr "줄리아 알도리"
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/C22_KamelandsSafari/PitaxGuestAnnamede_String
 msgctxt "4b0aa53b-1259-4ba7-b5d6-0423bd5a73b9"
 msgid "Annamede Belavarah"
-msgstr "안나미데 빌라바라"
+msgstr "안나미데 벨라바라"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Commoners/C22_KamelandsSafari/PitaxNoble_String
 msgctxt "64992165-67bf-4254-9d3d-25617890e15d"
@@ -20123,7 +20123,7 @@ msgstr "메이가르 반 그림자"
 #. Mechanics/Blueprints/Units/Names/NPC/Non-combat/C51_RushlightFestival/AnnamedeBelavarah_String
 msgctxt "aec97533-c447-41cb-92fb-a61f33b6a5c7"
 msgid "Annamede Belavarah"
-msgstr "안나미데 빌라바라"
+msgstr "안나미데 벨라바라"
 
 #. Mechanics/Blueprints/Units/Names/NPC/Non-combat/C51_RushlightFestival/AtaliaGitaren_String
 msgctxt "26c36084-4a9b-4bb8-a3b0-5fec5b630ca9"

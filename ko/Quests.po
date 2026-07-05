@@ -9088,7 +9088,7 @@ msgstr "아탈리아 지타렌과 대화하라"
 #. Mechanics/Blueprints/World/Quests/Companions/Linzi/Q3_Bards_Vocation/Addendum_0002_Description
 msgctxt "a452dda2-1325-48ec-96bc-d47376dadb8a"
 msgid "Talk to Annamede Belavarah"
-msgstr "안나미데 빌라바라와 대화하라"
+msgstr "안나미데 벨라바라와 대화하라"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Linzi/Q3_Bards_Vocation/Addendum_0003_Description
 msgctxt "3752aced-a27b-4fe4-9f82-880ccd2d2b0a"
@@ -9111,7 +9111,7 @@ msgid ""
 "their dirty deeds!"
 msgstr ""
 "러시라이트 토너먼트에선 피탁스의 상류사회 일원들을 모두 만나볼 수 있을 겁니다 - 물론 예술원의 일원들도 포함해서 말입니다! 예술원의 "
-"교장인 아탈리아 지타렌도 분명 그곳에 있을 겁니다... 아마 숨넘어가게 아름다운 안나미데 빌라바라도 함께 있겠지요! 이오발드 교수가 "
+"교장인 아탈리아 지타렌도 분명 그곳에 있을 겁니다... 아마 숨넘어가게 아름다운 안나미데 벨라바라도 함께 있겠지요! 이오발드 교수가 "
 "멀쩡히 살아있고 나와 함께 그들의 더러운 수작들을 폭로할 책을 쓴다는 사실을 알려줄 때 과연 무슨 표정을 지을지 정말 기대가 됩니다!"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Linzi/Q3_Bards_Vocation/Obj_01_TakeLinziToRushlight_Title

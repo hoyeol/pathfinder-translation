@@ -8896,7 +8896,7 @@ msgstr "당신은 아탈리아 지타렌이 계속해서 대 예술 아카데미
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[37].Description
 msgctxt "5c00ed5f-080b-4658-8b03-15e63c8e768a"
 msgid "You made Annamede Belavarah headmaster of the Academy of Grand Arts."
-msgstr "당신은 안나미데 빌라바라를 대 예술 아카데미의 교장으로 임명했습니다."
+msgstr "당신은 안나미데 벨라바라를 대 예술 아카데미의 교장으로 임명했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[38].Description
 msgctxt "25b6a4ba-cd8a-43c9-bb75-d8101cf87fc9"
@@ -10278,7 +10278,7 @@ msgstr "과거에 당신의 땅을 방문했던 유명한 피탁스인 바드."
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[14].Name
 msgctxt "f4a25712-eec3-4e41-99da-aa1d5a56ce34"
 msgid "Annamede Belavarah"
-msgstr "안나미데 빌라바라"
+msgstr "안나미데 벨라바라"
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[15].Description
 msgctxt "74faf8f4-5a87-4873-828f-a1b61da4a126"
@@ -13926,13 +13926,13 @@ msgid ""
 "together, attempting to create their own kingdom. Such an unlikely union "
 "could have been created only by a true genius — at least by kobold standards."
 msgstr ""
-"트롤과 코볼드, 두 종족이 자신들의 왕국을 세우려고 자리 잡은 버려진 드워프 성채입니다. 이 불가능해 보이는 연합은 코볼트 기준에서는 "
+"트롤과 코볼트, 두 종족이 자신들의 왕국을 세우려고 자리 잡은 버려진 드워프 성채입니다. 이 불가능해 보이는 연합은 코볼트 기준에서는 "
 "엄청난 천재만이 이루어낼 수 있을 것입니다."
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[99].Name
 msgctxt "1a3cef89-f673-43d2-a170-f21b2934b2af"
 msgid "Trobold"
-msgstr "트로볼드"
+msgstr "트로볼트"
 
 #. Mechanics/Blueprints/Root/Glossary_Entries.Array.data[9].Name
 msgctxt "7611f0db-08c1-45a6-89a0-fa43f91bc9c3"
@@ -16832,11 +16832,10 @@ msgid ""
 "You can't deliver a coup de grace against a creature that is immune to "
 "critical hits."
 msgstr ""
-"전체 라운드 행동으로, 무력화된 상대에게 근접 무기를 사용하여 마무리 일격을 가할 수 있습니다.\n"
-"공격자는 자동으로 치명타 피해를 입히고 만약 방어자가 피해에서 살아남았어도 인내 내성(DC 10 + 공격자의 기본 공격 + 근접 피해 "
-"수정치 + 무기의 치명타 수정치)에 성공해야하며 실패할 경우 죽습니다.\n"
-" 마무리 일격을 사용하는 것은 위협받는 상대로부터 기회 공격을 유발하게 됩니다.\n"
-"치명타에 면역인 크리처에게는 마무리 일격을 사용할 수 없습니다."
+"라운드 전체 행동으로, 무력화된 상대에게 근접 무기를 사용하여 마무리 일격을 가할 수 있습니다.\n공격자는 자동으로 치명타 피해를 입히고 "
+"만약 방어자가 피해에서 살아남았어도 인내 내성(DC 10 + 공격자의 기본 공격 + 근접 피해 수정치 + 무기의 치명타 수정치)에 "
+"성공해야하며 실패할 경우 죽습니다.\n 마무리 일격을 사용하는 것은 위협받는 상대로부터 기회 공격을 유발하게 됩니다.\n치명타에 면역인 "
+"크리처에게는 마무리 일격을 사용할 수 없습니다."
 
 #. Mechanics/Blueprints/Root/SystemMechanics/Abilities/CoupDeGraceAbility_DisplayName_String
 msgctxt "eb254acc-f84f-4147-8319-d737a80b2399"
