@@ -19836,12 +19836,12 @@ msgstr ""
 "만약 당신이 두번째 무기를 반대 손에 착용한다면, 당신은 라운드 당 그 무기로 이뤄지는 한 번의 추가적인 공격을 얻습니다. 당신은 통상의 "
 "공격이나 주 무기 공격은 -6 페널티를 받고 반대 손의 무기 공격은 -10 페널티를 받습니다. 당신은 이 페널티를 두 가지 방법으로 줄일 "
 "수 있습니다. 첫번째, 반대 손의 무기가 가벼울 때, 페널티는 각각 -2씩 감소합니다. 비무장 공격은 가벼운 것으로 간주됩니다. 두번째, "
-"쌍검술 특성이 있다면 주 무기 공격은 -2, 반대 무기 공격은 -6씩 페널티가 감소합니다."
+"쌍수 무기 전투술 특성이 있다면 주 무기 공격은 -2, 반대 무기 공격은 -6씩 페널티가 감소합니다."
 
 #. Mechanics/Blueprints/Encyclopedia/TwoWeapon_Fighting_Title_String
 msgctxt "e32ce256-78dc-4fd0-bf15-21f9ebdf9921"
 msgid "Two-Weapon Fighting"
-msgstr "쌍검술"
+msgstr "쌍수 무기 전투술"
 
 #. Mechanics/Blueprints/Encyclopedia/Unicorn_BlockText_Text_String
 msgctxt "8800529f-67ef-456d-8c2f-543194a7b9ce"

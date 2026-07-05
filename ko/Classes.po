@@ -11225,7 +11225,7 @@ msgstr "훈련된 무기류로 쌍검술을 펼칠 때, 그 무기를 경량 무
 #. Mechanics/Blueprints/Classes/Fighter/WeaponTraining/EffortlessDualWielding_m_DisplayName
 msgctxt "eaf28ea2-fbe3-4c1e-a2b6-faa159ca7f14"
 msgid "Effortless Dual-Wielding"
-msgstr "수월한 쌍검술"
+msgstr "수월한 쌍수 무기 전투술"
 
 #. Mechanics/Blueprints/Classes/Fighter/WeaponTraining/FightersReflexes_m_Description
 msgctxt "fc107c16-cb3c-493b-a5b9-09ffca4a4b1c"
@@ -16994,7 +16994,7 @@ msgid ""
 "spell list with a casting time of 1 standard action (any attack roll made as "
 "part of this spell also takes this penalty)."
 msgstr ""
-"1 레벨에 메이거스는 주문을 시전하는 동시에 무기를 휘두르는 방법을 배우게 됩니다. 이 능력은 쌍검술과 비슷하지만, 반대손에 있는 무기가 "
+"1 레벨에 메이거스는 주문을 시전하는 동시에 무기를 휘두르는 방법을 배우게 됩니다. 이 능력은 쌍수 무기 전투술과 비슷하지만, 반대손에 있는 무기가 "
 "주문 시전이라는 점에서 다릅니다. 이 능력을 사용하기 위해서 메이거스는 한쪽 손에 아무것도 들고 있지 않아야 하며(시전하는 주문에 동작 "
 "요소가 없더라도), 다른 손에는 경량 무기나 한 손 근접 무기를 들고 있어야 합니다. 전체 라운드 행동을 사용해서 모든 근접 무기의 "
 "명중 굴림에 -2의 페널티를 받고, 동시에 메이거스 주문 목록에 있는 주문 중 시전 시간이 1 일반 행동인 주문 하나를 시전할 수 "
@@ -21476,7 +21476,7 @@ msgstr "주적"
 #. Mechanics/Blueprints/Classes/Ranger/FavoriteEnemy/FavoriteEnemyReptilian_m_DisplayName
 msgctxt "15e4a9cc-c1d8-4712-ab37-eaadc269eb35"
 msgid "Favored Enemy — Reptilian Humanoids"
-msgstr "주적 — 파충류형 인간형"
+msgstr "주적 - 파충류 인간형"
 
 #. Mechanics/Blueprints/Classes/Ranger/FavoriteEnemy/FavoriteEnemySelection_Description_String
 msgctxt "fba9fd38-6840-408f-bd2e-e017a04284f4"
@@ -21817,14 +21817,14 @@ msgid ""
 "At 6th level, he adds Improved Two-Weapon Fighting to the list.\n"
 "At 10th level, he adds Greater Two-Weapon Fighting to the list."
 msgstr ""
-"2 레벨에 레인저는 이중 베기, 방패 치기, 쌍검술 특기를 선택할 수 있습니다.\n"
-"6 레벨에 특기 목록에 향상된 쌍검술 특기가 추가됩니다.\n"
-"10 레벨에 특기 목록에 상급 쌍검술 특기가 추가됩니다."
+"2 레벨에 레인저는 이중 베기, 방패 치기, 쌍수 무기 전투술 특기를 선택할 수 있습니다.\n"
+"6 레벨에 특기 목록에 향상된 쌍수 무기 전투술 특기가 추가됩니다.\n"
+"10 레벨에 특기 목록에 상급 쌍수 무기 전투술 특기가 추가됩니다."
 
 #. Mechanics/Blueprints/Classes/Ranger/RangerStyles/RangerStyleTwoWeaponSelection2_DisplayName_String
 msgctxt "e281e226-fe4a-475c-aea7-b5bd7218d551"
 msgid "Two-Weapon Combat"
-msgstr "쌍검술"
+msgstr "쌍수 무기 전투술"
 
 #. Mechanics/Blueprints/Classes/Rogue/AdvanceTalents_m_Description
 msgctxt "5d8e7181-8597-4d11-8d9c-846a8065c4a9"
@@ -23314,7 +23314,7 @@ msgstr ""
 "슬레이어가 성장함에 따라, 슬레이어를 돕고 적을 교란하는 여러 능력을 얻습니다. 짝수 레벨 마다 슬레이어 재능 하나를 얻습니다. 별다른 "
 "설명이 없다면, 슬레이어는 같은 재능을 한 번 이상 선택할 수 없습니다.\n"
 "슬레이어는 슬레이어 레벨을 로그 레벨로 취급하여 로그 재능을 획득할 수 있습니다.\n"
-"2 레벨이 되면, 슬레이어는 궁술이나 쌍검술 같은 레인저 전투 방식을 선택할 수 있습니다. 그리고 그 전투 방식의 첫 번째 전투 특기 "
+"2 레벨이 되면, 슬레이어는 궁술이나 쌍수 무기 전투술 같은 레인저 전투 방식을 선택할 수 있습니다. 그리고 그 전투 방식의 첫 번째 전투 특기 "
 "목록 중에서 하나의 전투 특기를 얻습니다. 이런 식으로 특기를 습득할 때는 선결조건을 만족할 필요가 없습니다. 6 레벨에 이 재능을 한 "
 "번 더 고르면 그 전투 방식에 해당하는 6 레벨 레인저 전투 특기를 고를 수 있습니다. 10 레벨에 이 재능을 한 번 더 고르면 그 전투 "
 "방식에 해당하는 10 레벨 레인저 전투 특기를 고를 수 있습니다."

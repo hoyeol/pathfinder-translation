@@ -3064,7 +3064,7 @@ msgid ""
 "A light shield deals 1d3 damage and is considered a light weapon. A heavy "
 "shield deals 1d4 damage and is considered a one-handed weapon."
 msgstr ""
-"소형 방패나 중형 방패로 공격할 수 있습니다. 다른 손에 무기가 있다면 쌍검술과 마찬가지로 페널티가 적용됩니다.\n"
+"소형 방패나 중형 방패로 공격할 수 있습니다. 다른 손에 무기가 있다면 쌍수 무기 전투술과 마찬가지로 페널티가 적용됩니다.\n"
 "소형 방패는 1d3 피해를 입히며 경량 무기로 간주됩니다. 중형 방패는 1d4 피해를 입히며 한손 무기로 간주됩니다."
 
 #. Mechanics/Blueprints/Feats/ShieldBash/ShieldBashFeature_DisplayName_String
@@ -3895,7 +3895,7 @@ msgstr "반대손 무기로 -10 페널티를 받는 세 번째 공격을 가합�
 #. Mechanics/Blueprints/Feats/TwoWeaponFightingGreater_m_DisplayName
 msgctxt "862ec85d-0171-470c-b5b4-7e5b8817b8dc"
 msgid "Greater Two-Weapon Fighting"
-msgstr "상급 쌍검술"
+msgstr "상급 쌍수 무기 전투술"
 
 #. Mechanics/Blueprints/Feats/TwoWeaponFightingImproved_m_Description
 msgctxt "a68368e8-70c5-4115-b3e1-701fc93f3f79"
@@ -3906,7 +3906,7 @@ msgstr "반대손 무기로 -5 페널티를 받는 두 번째 공격을 가합�
 #. Mechanics/Blueprints/Feats/TwoWeaponFightingImproved_m_DisplayName
 msgctxt "909537bc-2ce8-4a6b-ac1c-ca599c18371c"
 msgid "Improved Two-Weapon Fighting"
-msgstr "향상된 쌍검술"
+msgstr "향상된 쌍수 무기 전투술"
 
 #. Mechanics/Blueprints/Feats/TwoWeaponFighting_m_Description
 msgctxt "b4ee38e4-e312-4f61-b9e8-a12cfb27cd8d"
@@ -3930,7 +3930,7 @@ msgstr ""
 #. Mechanics/Blueprints/Feats/TwoWeaponFighting_m_DisplayName
 msgctxt "2cbfdb32-4589-4cc3-8eac-c95e00efd0e5"
 msgid "Two-Weapon Fighting"
-msgstr "쌍검술"
+msgstr "쌍수 무기 전투술"
 
 #. Mechanics/Blueprints/Feats/VitalStrikeGreater_Description_String
 msgctxt "179f6172-7da5-4990-98bf-834321cdca38"
