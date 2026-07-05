@@ -7088,7 +7088,7 @@ msgstr ""
 "존 쿠쏜은 \"자정의 군주\", \"암흑 대공\", \"고통의 대공\"으로 불리며, 어둠, 시기, 상실, 고통의 신이자, 가장 뒤틀리고 "
 "악한 마음을 소유하고 있는 존재입니다. 그 너머. 고통의 신으로서의 그의 위치는 잘 얻어졌으며, 그는 수많은 고문과 살인의 근원이었으며, "
 "시간이 지남에 따라 더 악화되었습니다. 그는 한때 도우 브랄이라고 불리는 자비로운 반신 반인 이었지만 차원 사이의 먼 어두운 곳을 "
-"여행했을 때 부패하여 현재 형태로 돌아왔습니다. 그의 배다른 여동생, 셸린은 ,그림자의 주인이 후회 또는 연민의 표시를 보이지 않고 "
+"여행했을 때 부패하여 현재 형태로 돌아왔습니다. 그의 배다른 여동생, 셸린은, 그림자의 주인이 후회 또는 연민의 표시를 보이지 않고 "
 "있지만 그녀가 그를 되찻아 올 수 있다는 희망을 여전히 갖고 있습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Characters_Entries.Array.data[47].Name
@@ -7415,8 +7415,8 @@ msgid ""
 "Heroes and the City of Hollow Eyes, and saved the other. The third was "
 "already dead when you found her in the tomb."
 msgstr ""
-"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 얼굴 잃은 자매 중 한명을 죽이고 한명을 구했습니다. 세번째 자매는 당신이 그녀를 "
-"무덤에서 발견했을 때 이미 죽어있었습니다."
+"당신은 잊혀진 영웅들의 묘소와 텅 빈 눈의 도시에서 만난 얼굴 잃은 자매 중 한 명을 죽이고 한 명을 구했습니다. 세 번째 자매는 당신이 "
+"그녀를 무덤에서 발견했을 때 이미 죽어 있었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[109].Description
 msgctxt "db9f5568-4dfc-4d22-ad8f-6a583d2b0285"
@@ -7504,7 +7504,7 @@ msgid ""
 "Choosing between two important tasks — chasing Tristian and dealing with a "
 "barbarian invasion to Brevoy, you opted to commence your pursuit of Tristian."
 msgstr ""
-"두가지 중요한 일 중 고르십시오 - 트리스티안 추격과 브레보이를 침공한 바바리안들을 다루는 것, 당신은 트리스티안을 추격하는 것을 "
+"두 가지 중요한 일 중 고르십시오 - 트리스티안 추격과 브레보이를 침공한 바바리안들을 다루는 것, 당신은 트리스티안을 추격하는 것을 "
 "시작키로 선택하였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[121].Description
@@ -7555,7 +7555,7 @@ msgctxt "9256753d-97d5-4dfc-845c-5fbac9e5c880"
 msgid ""
 "You let Lander Lebeda's relatives resurrect him, even though he betrayed "
 "you, but only after paying you tribute."
-msgstr "당신은 랜더 레베다가 당신을 배신했었음에도 불구하고 합당한 댓가를 지불하는 조건으로 그의 친족들이 그를 되살리도록 허락했습니다."
+msgstr "당신은 랜더 레베다가 당신을 배신했었음에도 불구하고 합당한 대가를 지불하는 조건으로 그의 친족들이 그를 되살리도록 허락했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 1_Entries.Array.data[131].Description
 msgctxt "39d3a1ed-b9f3-40aa-bfb7-68135060de10"
@@ -8521,14 +8521,14 @@ msgctxt "007429e1-e1cc-4644-af5f-e99c2ff799ee"
 msgid ""
 "You released Kalannah, an agent of the Technic League, who attacked you to "
 "gain a new slave."
-msgstr "당신은 새로운 노예를 얻기위해 당신을 공격했던 기술 연맹의 요원 칼라나를 풀어주었습니다."
+msgstr "당신은 새로운 노예를 얻기 위해 당신을 공격했던 기술 연맹의 요원 칼라나를 풀어주었습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[144].Description
 msgctxt "9c96b4c0-9f09-4f4d-a1d9-cc5269afd99e"
 msgid ""
 "You killed Kalannah, an agent of the Technic League, who attacked you to "
 "gain a new slave."
-msgstr "당신은 새로운 노예를 얻기위해 당신을 공격했던 기술 연맹의 요원 칼라나를 죽였습니다."
+msgstr "당신은 새로운 노예를 얻기 위해 당신을 공격했던 기술 연맹의 요원 칼라나를 죽였습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[145].Description
 msgctxt "3ecac744-50b6-421d-898d-16e24c256f00"
@@ -8670,7 +8670,7 @@ msgid ""
 "confirmed her desire to remain independent."
 msgstr ""
 "당신은 발레리와 오랜 길을 함께 해왔고 마침내 그녀가 여신 셸린과 모든 연결 고리들을 끊어내는 것을 도왔습니다. 발레리는 신의 심판을 "
-"받아들이길 거부하고, 독립되어 있겠다는 그녀의 바램을 확인했습니다."
+"받아들이길 거부하고, 독립되어 있겠다는 그녀의 바람을 확인했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[165].Description
 msgctxt "d42ef48f-b8cd-401b-9090-c242a579d47f"
@@ -8705,7 +8705,7 @@ msgstr "당신은 녹-녹이 당신과 녹-녹을 영웅으로 묘사한 그가 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[169].Description
 msgctxt "f31d8ffa-6dab-4369-b4fc-6a970bdec7fc"
 msgid "You ordered Nok Nok the goblin be thrown into the dungeon."
-msgstr "당신은 고블린 녹-녹을 지하감옥에 던져넣으라고 명령했습니다."
+msgstr "당신은 고블린 녹-녹을 지하감옥에 던져 넣으라고 명령했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[170].Description
 msgctxt "95361255-8747-44a5-9330-ff291f126f3a"
@@ -8941,7 +8941,7 @@ msgstr "당신은 대 예술 아카데미의 새로운 수장은 학생들이 �
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[39].Description
 msgctxt "0702773f-2adf-42b6-976a-bad0c24670dd"
 msgid "You eliminated the Pitax Academy of Grand Arts."
-msgstr "당신은 피탁스 대 예술 아카데미를 없애버렸습니다."
+msgstr "당신은 피탁스 대예술 아카데미를 없애버렸습니다."
 
 #. Mechanics/Blueprints/Root/Glossary Decisions 2_Entries.Array.data[3].Description
 msgctxt "b2f764de-958d-46f2-afb1-9d1c5b90c0e5"
@@ -15223,7 +15223,7 @@ msgid ""
 "advantages and disadvantages on mind when making this choice."
 msgstr ""
 "골라리온의 종족은 다양한 문화, 크기, 태도 및 외모를 갖고 있습니다. 당신의 종족을 선택하는 것은 당신이 해야 할 가장 중요한 결정 중 "
-"하나입니다. 캐릭터가 더욱 강력해지면 다른 클래스,기술 및 특기를 선택하여 자신의 능력을 다양화할 수 있지만 종족은 한 번만 선택합니다. "
+"하나입니다. 캐릭터가 더욱 강력해지면 다른 클래스, 기술 및 특기를 선택하여 자신의 능력을 다양화할 수 있지만 종족은 한 번만 선택합니다. "
 "이 선택을 할 때 각 종족의 장점과 단점을 잘 파악하십시오."
 
 #. Mechanics/Blueprints/Root/MechanicTerms_Entries.Array.data[48].Name_1

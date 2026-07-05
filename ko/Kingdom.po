@@ -3458,7 +3458,7 @@ msgid ""
 "half-elf free. A short time later, the village was attacked by thieves led "
 "by the \"wanderer\"..."
 msgstr ""
-"갈트 첩자가 이 외딴 마을에서 뭘 할수 있겠습니까? 장관은 하프 엘프를 풀어줬습니다. 얼마 뒤, 마을은 그 \"방랑자\"가 이끄는 "
+"갈트 첩자가 이 외딴 마을에서 뭘 할 수 있겠습니까? 장관은 하프 엘프를 풀어줬습니다. 얼마 뒤, 마을은 그 \"방랑자\"가 이끄는 "
 "도둑들의 습격을 받았습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_LocalizedDescription
@@ -6417,7 +6417,7 @@ msgid ""
 "The Grand Diplomat introduced the cultists to potential customers from "
 "Brevoy. In thanks, they allowed {mf_GrandDiplomat|him|her} buy a few of the "
 "machines at a discount."
-msgstr "수석 외교관은 사교 집단을 브레보이의 고객들과 연결해주었고, 그 댓가로 몇몇 기계를 더 할인된 가격에 구매할 수 있었습니다."
+msgstr "수석 외교관은 사교 집단을 브레보이의 고객들과 연결해주었고, 그 대가로 몇몇 기계를 더 할인된 가격에 구매할 수 있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[4].Resolutions.Array.data[4].LocalizedDescription
 msgctxt "357db4e6-667f-4ef2-8fe7-ce2344098a18"
@@ -6425,7 +6425,7 @@ msgid ""
 "The Grand Diplomat helped the cultists forge a huge trade deal with Brevoy — "
 "in exchange for a few of the mining machines, of course."
 msgstr ""
-"수석 외교관은 사교 집단과 브레보이 사이에 대규모의 무역 거래를 주선했습니다. 물론 그 댓가로 공짜 채광 장비 약간을 얻어낼 수 "
+"수석 외교관은 사교 집단과 브레보이 사이에 대규모의 무역 거래를 주선했습니다. 물론 그 대가로 공짜 채광 장비 약간을 얻어낼 수 "
 "있었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[0].LocalizedDescription
@@ -6445,7 +6445,7 @@ msgid ""
 "to the dwarven authorities. They were rewarded with a dozen lockpicking "
 "sets, masterfully crafted from a secret dwarven alloy."
 msgstr ""
-"장관의 첩자들은 손쉽게 사교 집단의 대장을 생포하여 드워프 관리들에게 넘겼습니다. 첩자들은 그 댓가로 드워프들이 비밀리에 벼려낸 특급 "
+"장관의 첩자들은 손쉽게 사교 집단의 대장을 생포하여 드워프 관리들에게 넘겼습니다. 첩자들은 그 대가로 드워프들이 비밀리에 벼려낸 특급 "
 "자물쇠 해체 장비를 하사받았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced7/TechicTrick_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription_String
@@ -6730,7 +6730,7 @@ msgid ""
 "isn't easy to come by in a forest. The parents are happy to see their young "
 "ones back."
 msgstr ""
-"보좌관은 결국 마녀들과 협상을 성사시켰습니다. 금으로 가득한 큰 자루 하나와, 수레 여러 대 분의 새끼 돼지를 댓가로 납치된 아이들을 "
+"보좌관은 결국 마녀들과 협상을 성사시켰습니다. 금으로 가득한 큰 자루 하나와, 수레 여러 대 분의 새끼 돼지를 대가로 납치된 아이들을 "
 "되찾아 온 것입니다. 아무래도 새끼 돼지는 숲에서 쉽게 찾을 수 없는 진미가 아니겠습니까? 아이들을 되찾은 부모들이 매우 기뻐한 것은 "
 "물론이었습니다."
 
@@ -10578,7 +10578,7 @@ msgid ""
 "perked up, as more tools, machines and other craftsman's goods are being "
 "imported to the capital."
 msgstr ""
-"거래가 성사되었습니다! 수도로 더 많은 도구, 기계 , 공예품 등이 수입되어 {mf|남작령|남작령|왕국|왕국}의 거래가 활기를 띠고 "
+"거래가 성사되었습니다! 수도로 더 많은 도구, 기계, 공예품 등이 수입되어 {mf|남작령|남작령|왕국|왕국}의 거래가 활기를 띠고 "
 "있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TradeProposition_Solutions.Entries.Array.data[4].Resolutions.Array.data[0].LocalizedDescription
@@ -13258,7 +13258,7 @@ msgid ""
 "The Regent failed in all attempts to calm the enraged crowd. The woeful "
 "victim was burned at the stake, and soon a few other local wizards were too!"
 msgstr ""
-"분노한 군중을 진정시키려던 섭정의 시도가 모두 실패했습니다. 소녀는 화형으로 비참하게 희생당했고, 곧이어 다른 현지 마법사 몇명도 똑같이 "
+"분노한 군중을 진정시키려던 섭정의 시도가 모두 실패했습니다. 소녀는 화형으로 비참하게 희생당했고, 곧이어 다른 현지 마법사 몇 명도 똑같이 "
 "화형을 당했습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/BurningTheWitch_Solutions.Entries.Array.data[0].Resolutions.Array.data[10].LocalizedDescription
@@ -16807,7 +16807,7 @@ msgid ""
 "shooting and close combat contests, but the ordinary people joined in, too. "
 "They were very happy to have such fun."
 msgstr ""
-"섭정은 수많은 관중을 모아 러시라이트보다 빛나는 축제를 열었습니다! 기사들 뿐만 아니라 일반인들도 사격 및 격투대회에 참가하였고  축제의 "
+"섭정은 수많은 관중을 모아 러시라이트보다 빛나는 축제를 열었습니다! 기사들 뿐만 아니라 일반인들도 사격 및 격투대회에 참가하였고 축제의 "
 "즐거움에 크게 만족하였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic7/Competition_Solutions.Entries.Array.data[2].Resolutions.Array.data[0].LocalizedDescription
@@ -18549,7 +18549,7 @@ msgid ""
 "few clashes, the monsters have fled the "
 "{mf|barony's|barony's|kingdom's|kingdom's} forests!"
 msgstr ""
-"섭정은 나무꾼과 사냥꾼들에게 알케미스트의 불꽃을 보급해주었습니다. 몇번의 접전 후에 괴물은 {mf|영지의|영지의|왕국의|왕국의} 숲에서 "
+"섭정은 나무꾼과 사냥꾼들에게 알케미스트의 불꽃을 보급해주었습니다. 몇 번의 접전 후에 괴물은 {mf|영지의|영지의|왕국의|왕국의} 숲에서 "
 "도망쳤습니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic9/BestAssasins_LocalizedDescription
@@ -21458,7 +21458,7 @@ msgid ""
 "was safe. They now appreciate their royal protection even more."
 msgstr ""
 "경비대는 피난민들과 이야기하였고, 당국이 이 지역의 모든 이들을 보호할 것임을 확신시켰습니다. - 다른 곳에서는 그들이 보호받을 수 "
-"없다는 것도 . 사람들은 그들의 안전할 수 있는 곳으로 향하자는 의견에 무게를 두었고, 이내 결정했습니다. 그들은 이제 왕국의 보호를 "
+"없다는 것도. 사람들은 그들의 안전할 수 있는 곳으로 향하자는 의견에 무게를 두었고, 이내 결정했습니다. 그들은 이제 왕국의 보호를 "
 "보다 감사하게 여기게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck2/Gambler_F_E_String
@@ -21467,7 +21467,7 @@ msgid ""
 "The gambler departed, in search of more naive fools in other lands – but "
 "only after he robbed all the locals and escaped several attempts on his life."
 msgstr ""
-"도박꾼은 또다른 순진한 바보들을 찾아 다른 나라로 떠났습니다. 기어이 모든 주민들의 호주머니를 털고 몇번의 암살시도에서 빠져나간 후에야 "
+"도박꾼은 또다른 순진한 바보들을 찾아 다른 나라로 떠났습니다. 기어이 모든 주민들의 호주머니를 털고 몇 번의 암살시도에서 빠져나간 후에야 "
 "말이지요."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck2/Gambler_F_GN_String
@@ -21478,7 +21478,7 @@ msgid ""
 "fingers. But once he was sure he'd robbed everyone he could, the mischievous "
 "fey disappeared."
 msgstr ""
-"보좌관의 부하들은 끝내 도박꾼을 내쫓을 수 있었지만, 조금 늦은 것 같습니다. 그는 몇번이고 감시자들의 손아귀를 빠져나갔고, 결국 그 "
+"보좌관의 부하들은 끝내 도박꾼을 내쫓을 수 있었지만, 조금 늦은 것 같습니다. 그는 몇 번이고 감시자들의 손아귀를 빠져나갔고, 결국 그 "
 "짖궃은 페이가 사라진 것은 사람들로부터 털 만큼 털었다고 생각한 뒤였습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck2/Gambler_GF_E_String
@@ -21490,7 +21490,7 @@ msgid ""
 "won, and called for a rebellion against tyranny. The peasants have begun to "
 "listen to his words."
 msgstr ""
-"그 페이는 주민들이 모아둔 재산을 모조리 털어버렸습니다. 보좌관의 부하들이 몇번이나 그의 목숨을 노렸으나, 이는 단지 그를 화나게 "
+"그 페이는 주민들이 모아둔 재산을 모조리 털어버렸습니다. 보좌관의 부하들이 몇 번이나 그의 목숨을 노렸으나, 이는 단지 그를 화나게 "
 "만들었을 뿐이었습니다. 그 페이는 자신이 따낸 돈을 뿌리는 집회를 열어 폭군을 타도해야 한다며 반란을 유도했습니다. 농민들이 그의 말에 "
 "동조하기 시작했습니다."
 
@@ -23066,7 +23066,7 @@ msgid ""
 "all the goods would be recovered from their villages' property. It worked, "
 "and nothing went missing."
 msgstr ""
-"보좌관은 모든 물품을 정리해 국고로 이송했습니다. 이전 소유자들은 그것을 탐탁치 않게 여겼지만, 지역 시장들에게 물건에 손댔다가는 마을 "
+"보좌관은 모든 물품을 정리해 국고로 이송했습니다. 이전 소유자들은 그것을 탐탁지 않게 여겼지만, 지역 시장들에게 물건에 손댔다가는 마을 "
 "재산에서 환수할 거라고 경고했습니다. 경고는 효과적이었고, 아무도 물건에 손대지 않았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck5/StrangersProblem_F_C_String
@@ -23377,7 +23377,7 @@ msgid ""
 "trade... but need not ever learn about this deal."
 msgstr ""
 "한 무리의 떠돌이 노예상이 첼리악스에서 판매할 \"인간 상품\"을 찾고 있습니다. 그들은 범죄자와 죄수에 대해 좋은 가격을 제시하고 "
-"있습니다. 만일 그들이 노예제도가 금지된 강의 왕국들을 깊숙히 여행할 계획이라면 그들은 기꺼히 위험을 무릅쓸 것입니다. 사람들은  정부가 "
+"있습니다. 만일 그들이 노예제도가 금지된 강의 왕국들을 깊숙히 여행할 계획이라면 그들은 기꺼히 위험을 무릅쓸 것입니다. 사람들은 정부가 "
 "노예 거래를 지지한다는 것을 알게 되면 격분할 것입니다. 하지만 그들이 이 거래에 대해 꼭 알 필요는 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck6/LivingGoods_LocalizedName
@@ -23508,7 +23508,7 @@ msgid ""
 "fortune!"
 msgstr ""
 "보좌관의 요원들은 협상을 주도했습니다. 그들은 공손했지만 브레보이만이 유일한 거래상대가 아니며, 다른 귀족가문들 역시 지역 무역에 관심을 "
-"보이고 있다는 것을 분명히 했습니다. 협상의 결과로 몇가지 관세가 철폐되었습니다. 이는 막대한 이익을 안겨줄 것입니다!"
+"보이고 있다는 것을 분명히 했습니다. 협상의 결과로 몇 가지 관세가 철폐되었습니다. 이는 막대한 이익을 안겨줄 것입니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck6/TradePrivilegies_Solutions.Entries.Array.data[3].Resolutions.Array.data[3].LocalizedDescription_String
 msgctxt "19b415cd-6b70-479e-9b96-734ebc1568db"
@@ -24332,7 +24332,7 @@ msgid ""
 "Worldwound minions, but it was a dear victory, and the lives of many "
 "soldiers were lost. Victory came at a great price."
 msgstr ""
-"장군의 군대는 데몬과 전장에서 맞붙었고, 필사의 각오로 용감하게 싸워 데몬의 전진을 막아냈습니다. 칼과 활로 월드운드의  하수인들을 "
+"장군의 군대는 데몬과 전장에서 맞붙었고, 필사의 각오로 용감하게 싸워 데몬의 전진을 막아냈습니다. 칼과 활로 월드운드의 하수인들을 "
 "물리쳤지만, 많은 병사들이 목숨을 잃었습니다. 승리는 많은 대가를 치렀습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Extra 50/Deck9/WorldwoundServants_Solutions.Entries.Array.data[2].Resolutions.Array.data[2].LocalizedDescription
@@ -25302,7 +25302,7 @@ msgid ""
 "who were responsible for the uprising, gave their lives trying to protect "
 "the villagers."
 msgstr ""
-"수석 외교관의 요청에  이웃 나라의 많은 기사들이 응답했습니다. 많은 이들이 와서 언데드를 모두 몰살했습니다. 안타깝게도, 많은 주민들이 "
+"수석 외교관의 요청에 이웃 나라의 많은 기사들이 응답했습니다. 많은 이들이 와서 언데드를 모두 몰살했습니다. 안타깝게도, 많은 주민들이 "
 "구조대가 도착하기 전에 사망했습니다. 언데드를 깨운 패스파인더들은 마을 사람들을 보호하기 위해 목숨을 바쳤습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomAsCompanion/TN-FollowingPathfinders_Solutions.Entries.Array.data[4].Resolutions.Array.data[2].LocalizedDescription
@@ -26197,7 +26197,7 @@ msgstr "이상한 사건들이 수도의 시민들을 불안하게 하고 있습
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NyrissaInRomance_LocalizedDescription
 msgctxt "61568416-1c41-4b49-a6ed-ed96456d8179"
 msgid "These happenings have to be seen to be believed!"
-msgstr "이 사태는 직접 보기 전에는 믿지 못할겁니다!"
+msgstr "이 사태는 직접 보기 전에는 믿지 못할 겁니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/KingdomTurns/KTC51-NyrissaInRomance_LocalizedName
 msgctxt "f595ad23-2f62-44cb-9281-587d9eeecbbd"
@@ -27274,7 +27274,7 @@ msgid ""
 "Some think it should be called \"Two-and-a-Half Pine Islet\". The place "
 "might be worth visiting."
 msgstr ""
-"정찰병들이 북부 날마치에서 주목할 만한 위치를 발견했습니다. 스컹크 강  한 가운데있는 작은 섬으로 살아있는 소나무 두 그루와 반쯤 "
+"정찰병들이 북부 날마치에서 주목할 만한 위치를 발견했습니다. 스컹크 강 한가운데 있는 작은 섬으로 살아있는 소나무 두 그루와 반쯤 "
 "살아있는 한 그루가 있습니다. 지역 어부들은 여전히 이름을 가지고 서로 싸우는데, 어떤 이들은 이 섬의 이름을 \"두 그루 반 소나무 "
 "섬\" 이라고 주장합니다. 이 장소는 가볼 만한 가치가 있을지도 모릅니다."
 
@@ -33439,7 +33439,7 @@ msgstr "레스토프와의 연합"
 msgctxt "5b476350-44b6-4610-9a56-7d0e07a14f8c"
 msgid ""
 "The Aldori were pleased with our decision concerning Oleg's trading post."
-msgstr "알도리는 올렉의 교역소에 대한 우리의  결정을 기뻐했습니다."
+msgstr "알도리는 올렉의 교역소에 대한 우리의 결정을 기뻐했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/LibraryResearch_LocalizedDescription
 msgctxt "2264605e-6e19-4b84-8704-3df91e6d9469"
@@ -34611,7 +34611,7 @@ msgid ""
 "is satisfied with the situation — he continues to grumble and complain in "
 "his usual manner."
 msgstr ""
-"올렉의  교역소는 원래 기능을 재개하여 국경을 방어하는 많은 요새들 중 하나가 되었습니다. 올렉은 그 상황에 만족하고 있는지 "
+"올렉의 교역소는 원래 기능을 재개하여 국경을 방어하는 많은 요새들 중 하나가 되었습니다. 올렉은 그 상황에 만족하고 있는지 "
 "모르겠습니다. 그는 계속해서 투덜거리고 늘상 하는 태도로 불평을 늘어놓고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/RegionUpgrades/Outskirts_Upgrade_RelationsCenter_LocalizedDescription
@@ -34708,7 +34708,7 @@ msgid ""
 "kingdom provides +2 Culture, each City Hall in the kingdom provides +3 "
 "Culture."
 msgstr ""
-"이로베티 왕은 무슨 수를 썼는지 그의 도적 왕국을 예술 번영의 중심지로 만들 수 있었습니다. 당신은  더 나아가서 피탁스를 이 나라와 그 "
+"이로베티 왕은 무슨 수를 썼는지 그의 도적 왕국을 예술 번영의 중심지로 만들 수 있었습니다. 당신은 더 나아가서 피탁스를 이 나라와 그 "
 "주변 모든 왕국의 진정한 문화적 중심지로 만들 수 있습니다. 효과: 왕국 내의 각 롱하우스 마다 +1, 각 마을 회관 마다 +2, 각 "
 "시청마다 +3 문화를 제공합니다."
 

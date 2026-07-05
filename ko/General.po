@@ -236,7 +236,7 @@ msgid ""
 "character can take is a single move action per turn."
 msgstr ""
 "구토 상태의 크리처는 복부에 괴로움을 느끼게 됩니다. 이 크리처는 공격, 주문 시전, 주문 집중을 할 수 없고, 정신집중을 요구하는 어떤 "
-"행동도 할 수 없게 됩니다. 이러한 상태의 크리처는 오직 이동 행동만 취할수 있습니다."
+"행동도 할 수 없게 됩니다. 이러한 상태의 크리처는 오직 이동 행동만 취할 수 있습니다."
 
 #. Mechanics/Blueprints/Buffs/Paralyzed_Description_String
 msgctxt "32191d4b-5621-43c7-8c27-2f8d2bb18020"
@@ -1949,7 +1949,7 @@ msgctxt "6e3e55df-15e4-428f-9d1c-de650a60a8d0"
 msgid ""
 "An elemental is a being composed entirely from one of the four classical "
 "elements: air, earth, fire, or water."
-msgstr "정령은 공기, 대지, 화염, 및 물의 네가지 기본 원소 중 한가지로만 구성되어 있습니다."
+msgstr "정령은 공기, 대지, 화염, 및 물의 네 가지 기본 원소 중 한가지로만 구성되어 있습니다."
 
 #. Mechanics/Blueprints/CreatureAbilities/Subtypes/SubtypeElemental_m_DisplayName
 msgctxt "c1723787-3b7e-4ffe-a2ee-970254951c1a"
@@ -6349,7 +6349,7 @@ msgid ""
 "evil Lamashtu, Mother of Monsters."
 msgstr ""
 "이곳에 접근하는 여행자는 고블린들이 처분하기 너무 아깝다고 생각하는 여러 오물들과 뼈다귀, 남은 음식들에서 나는 충격적인 악취가 "
-"강해질수록 이 더러운 괴물들의 소굴에 가까워지고 있다고 추측할겁니다. 조잡하게 만들어진 키작고 허접한 오두막들 사이로 괴물들의 "
+"강해질수록 이 더러운 괴물들의 소굴에 가까워지고 있다고 추측할 겁니다. 조잡하게 만들어진 키작고 허접한 오두막들 사이로 괴물들의 "
 "어머니이자, 사악한 라마슈투의 추악한 토템이 어렴풋이 모습을 드러냅니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/KAMELANDS_Region/Location_GoblinVillge_FakeName
@@ -8718,7 +8718,7 @@ msgid ""
 "the boring problems!\"\n"
 "— Lander Lebeda"
 msgstr ""
-"\"통치자가 관심을 기울여야 하는 이슈에는 두가지 종류가 있습니다: 지루한 것들과 재미있는 것들이 있지요: 다행인건, 당신에겐 모든 "
+"\"통치자가 관심을 기울여야 하는 이슈에는 두 가지 종류가 있습니다: 지루한 것들과 재미있는 것들이 있지요: 다행인건, 당신에겐 모든 "
 "지루한 문제를 다뤄줄 보좌관들이 있다는 겁니다!\" \n"
 "- 랜더 레베다"
 
@@ -9507,7 +9507,7 @@ msgstr ""
 "중시하며, 개인이나 국가나 친구 사귀기에 더디지만, 일단 외부인을 동지로 받아들이면, 그 인연은 여러 세대에 걸쳐 지속될 수 있습니다. "
 "엘프는 주변 환경에 신기할 정도로 애착을 가지고 있는데, 아마도 아주 긴 수명때 문이거나 더 깊고 더 신비한 이유 때문일 것입니다. 한 "
 "지역에 오래 산 엘프는 어느새 스스로의 신체가 주변환경에 적응한 것을 알게됩니다. 가장 눈에 띄는 것은 지역 환경을 반영한 색상을 취하는 "
-"것입니다. 반면 짧은 삶을 사는 종족들과 지내는 엘프는 눈앞에서 동료들이 나이들고 죽는 것을 몇번이고 지켜본 결과, 종종 죽음에 대한 "
+"것입니다. 반면 짧은 삶을 사는 종족들과 지내는 엘프는 눈앞에서 동료들이 나이들고 죽는 것을 몇 번이고 지켜본 결과, 종종 죽음에 대한 "
 "왜곡된 인식을 키워 허무와 냉소에 빠지기도 합니다.\n"
 "일반적으로 인간보다 키가 크지만, 길고 뾰족한 귀가 강조되는 우아하고 연약한 체격을 가지고 있습니다. 그들의 눈은 넓은 아몬드 모양이며, "
 "눈동자는 크고 생동감 넘치는 색상들로 가득 차 있습니다. 엘프 의복은 자연의 아름다움을 강조하는 경우가 많지만, 도시에 사는 엘프들은 "
@@ -21976,7 +21976,7 @@ msgid ""
 "\"Now I must ask you to leave. I have several unpleasant procedures to "
 "perform.\" {n}The wizard opens a tome and starts leafing through it "
 "silently, ignoring you.{/n}"
-msgstr "\"이제 떠나라고 해야겠군. 몇가지 불쾌한 절차가 남았어.\" {n}당신을 무시하며 마법사가 책을 열고 조용히 넘깁니다.{/n}"
+msgstr "\"이제 떠나라고 해야겠군. 몇 가지 불쾌한 절차가 남았어.\" {n}당신을 무시하며 마법사가 책을 열고 조용히 넘깁니다.{/n}"
 
 #. Test/Dialogues/AfterAttack/Cue_58414 14_Text
 #. Speaker : SadisticMage
@@ -22222,7 +22222,7 @@ msgid ""
 "\"Since you... couldn't protect me... You could at least... avenge...\""
 msgstr ""
 "\"그들이 매우 귀중한 물건을 훔쳤습니다... 내 채찍입니다. 하지만 그놈들 은신처가 어디 있는지 알아요... 지도를...\" {n}"
-"바솔로뮤가 부러진 손가락으로 지도의 한곳을 가리키는데 핏자국이 남습니다.{/n} \"당신은 날 보호해주지 못했어...최소한 복수라도..\""
+"바솔로뮤가 부러진 손가락으로 지도의 한곳을 가리키는데 핏자국이 남습니다.{/n} \"당신은 날 보호해주지 못했어..최소한 복수라도...\""
 
 #. Test/Dialogues/AfterAttack/Cue_58414 4_Text
 #. Speaker : Octavia_Companion
@@ -22464,7 +22464,7 @@ msgstr "저는 무언가를 작업하고 있습니다"
 #. Test/Dialogues/ArtisanTest/Cue_0015_Text
 msgctxt "c36e298a-17b6-442f-a584-c0466f3ecd84"
 msgid "Also I need some stuff done so could you?"
-msgstr "또한 몇가지 작업이 필요합니다 해줄 수 있나요?"
+msgstr "또한 몇 가지 작업이 필요합니다 해줄 수 있나요?"
 
 #. Test/Dialogues/BrevoySwordlord/Cue_0001_Text
 msgctxt "d536f7fa-8252-4828-b22d-36fb4c0389b8"
@@ -22850,7 +22850,7 @@ msgid ""
 "bad for everybody.\""
 msgstr ""
 "\"장인들은 같은 작업을 세 배 정도 느리게 하지. 주변의 공기와 물을 오염시키지 않고 말이지.\" {n}에쿤은 그의 이마를 "
-"문지릅니다.{/n} \"나라면 거절할거야. 수도에는 사람이 너무 많아 - 그들은 모두 숨 쉬고, 물을 마시고, 농장에서 온 야채를 먹지. "
+"문지릅니다.{/n} \"나라면 거절할 거야. 수도에는 사람이 너무 많아 - 그들은 모두 숨 쉬고, 물을 마시고, 농장에서 온 야채를 먹지. "
 "만약 제조소가 땅을 오염시킨다면, 모두에게 안 좋은 일이 될거야.\""
 
 #. Test/Dialogues/Industry/Rank3/Cue_0003_Text
@@ -23315,7 +23315,7 @@ msgid ""
 msgstr ""
 "\"물론이지! 그게 내가 떠난 이유야. 여기도 더러운 것들이 있지만, 적어도 남자들이 여자들을 쓰레기처럼 취급하지는 않는다고. 여자는 "
 "원하는 어떤 것이든 될 수 있어 - 파이터, 위저드, 심지어 족장도! 이 소위 자만디라고 불리는 사람을 보라고! 멋지잖아! 부족원들이 "
-"그녀를 보내서 가죽을 다듬게 하는 것을 생각해봐! 그들은 스스로 가죽을 다져야만 할거야, 하-하!\""
+"그녀를 보내서 가죽을 다듬게 하는 것을 생각해봐! 그들은 스스로 가죽을 다져야만 할 거야, 하-하!\""
 
 #. Test/Dialogues/PartyBanter/VS_AmiriValerie_01/Cue_0002 4_Text
 #. Speaker : Amiri_Companion
@@ -24367,7 +24367,7 @@ msgid ""
 "cutting this pig? Your Stag Lord won't go anywhere!\""
 msgstr ""
 "\"들어봐, 왜 너는 그렇게 지루한 놈이지, 응? {n}- 당신은 아미리 목소리 속의 씁쓸함을 들을 수 있습니다. {/n}\"내가 이 "
-"돼지를 써는 것을 보는 것이 왜 너에게 그렇게까지 큰 일이지? 너의 수사슴 군주는 아무데도 가지 않을텐데!\""
+"돼지를 써는 것을 보는 것이 왜 너에게 그렇게까지 큰 일이지? 너의 수사슴 군주는 아무 데도 가지 않을텐데!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0015_Text
 msgctxt "924657e9-756b-43df-886b-e419079815a5"
@@ -24645,7 +24645,7 @@ msgid ""
 msgstr ""
 "\"하지만 안돼! 아-안-돼-애!!!\" {n}그의 예상치 못한 외침 후, 주변의 모두는 잠시 얼어붙었습니다, 그러나 긴장이 풀리고 "
 "나서, 누가 소리쳤는지 알게 되었습니다.{/n} \"그로투스께서 나에게 이상한 꿈을 꾸게 하셨네. 나는 보았네... 햇빛을! 나의 "
-"신께서는 나에게 화가 나신 게 분명하네. 나는 그의 용서를 받을 때까지 아무데도 가지 않을 것이네.\""
+"신께서는 나에게 화가 나신 게 분명하네. 나는 그의 용서를 받을 때까지 아무 데도 가지 않을 것이네.\""
 
 #. Test/Dialogues/VS_Companions/Harrim/Cue_36554_Text
 msgctxt "9dfc3d80-df7f-4465-933e-e9798e605f52"
@@ -24921,7 +24921,7 @@ msgid ""
 "righty? There isn't much adventuring to do in the capital, monsters aren't "
 "coming here themselves... Well, I hope so!\""
 msgstr ""
-"\"신경쓰지 마. 언제 출발할거야? 새로운 장을 위한 재료가 필요해. 너의 영웅적인 행동에 대한 노래 말이지, 너는 그 행동을 해야 해, "
+"\"신경쓰지 마. 언제 출발할 거야? 새로운 장을 위한 재료가 필요해. 너의 영웅적인 행동에 대한 노래 말이지, 너는 그 행동을 해야 해, "
 "알았지? 수도에는 모험할 것이 별로 없어, 괴물들은 스스로 오지도 않고... 좋아, 내가 원했던 대로야!\""
 
 #. Test/Dialogues/VS_ThorneRoom_Linzi/Cue_0004_Text
