@@ -24366,8 +24366,8 @@ msgid ""
 "in Amiri's voice. {/n}\"Why it's such a big deal for you to go and watch me "
 "cutting this pig? Your Stag Lord won't go anywhere!\""
 msgstr ""
-"\"들어봐, 왜 너는 그렇게 지루한 놈이지, 응? {n}- 당신은 아미리 목소리 속의 씁쓸함을 들을 수 있습니다. {/n}\"내가 이 "
-"돼지를 써는 것을 보는 것이 왜 너에게 그렇게까지 큰 일이지? 너의 수사슴 군주는 아무 데도 가지 않을텐데!\""
+"\"있잖아, 넌 왜 그렇게 재미없는 녀석이야, 응?\" {n}아미리의 목소리에서 씁쓸한 기색이 묻어납니다.{/n} \"같이 가서 내가 이 "
+"돼지 써는 거 구경 좀 하는 게 뭐가 그렇게 큰일이야? 네 수사슴 군주는 어디 안 가!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0015_Text
 msgctxt "924657e9-756b-43df-886b-e419079815a5"

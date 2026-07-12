@@ -31948,9 +31948,8 @@ msgid ""
 "guards sent after him will discover Morhalan's whereabouts, and then let the "
 "{mf|baron|baroness|King|Queen} personally confront the villain."
 msgstr ""
-"수도에서 한 장인이 실종된 수상한 사건의 수사를 진행해야 합니다. 그 장인은 돈을 노리고 도마뱀인간을 살해했다는 혐의를 받고 있습니다.  "
-"그의 뒤를 쫓는 경비병들은 모르할란의 행방을 알아낸 다음, {mf|baron|baroness|King| 를 내버려두게 될 것입니다."
-"여왕}이(가) 직접 악당과 대결합니다."
+"수도에서 한 장인이 실종된 수상한 사건의 수사를 진행해야 합니다. 그 장인은 돈을 노리고 도마뱀인간을 살해했다는 혐의를 받고 있습니다. "
+"그의 뒤를 쫓는 경비병들이 모르할란의 행방을 알아내면, {mf|남작|여남작|왕|여왕}이 직접 악당과 대결하게 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/KingdomAsCompanion/TailorArtisanProject_LocalizedName
 msgctxt "2e88671f-50be-4b08-9c63-57b19ff9f05e"
