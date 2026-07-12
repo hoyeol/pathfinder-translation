@@ -188399,7 +188399,7 @@ msgid ""
 "plant. I don't know where to find them, but I know that kobolds gather them "
 "and value them highly.\""
 msgstr ""
-"\"또한 달 무도 한 바구니 필요하다오. 희귀하고 신비로운 식물이지만 어디에서 찾아야 할지는 잘 모르겠소... 하지만 코볼트가 달 무를 "
+"\"또한 달 무도 한 양동이 필요하다오. 희귀하고 신비로운 식물이지만 어디에서 찾아야 할지는 잘 모르겠소... 하지만 코볼트가 달 무를 "
 "엄청 좋아한다는 얘기를 들은 적이 있소.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/Bokken/Cue_0063_Text
@@ -188450,14 +188450,14 @@ msgctxt "7a204942-15f2-48a2-a8b2-57e2acfbe59a"
 msgid ""
 "\"I also asked you to gather a bucket of moon radishes. Rumor has it that "
 "kobolds are often found in the places where they grow.\""
-msgstr "\"달 무도 한 바구니 모아달라고 했소. 코볼트가 무가 자라나는 장소를 알고 있다는군.\""
+msgstr "\"달 무도 한 양동이 모아달라고 했소. 코볼트가 무가 자라나는 장소를 알고 있다는군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/Bokken/Cue_0074_Text
 msgctxt "279a5fa1-782e-406b-97ff-3fcfde20e2e2"
 msgid ""
 "\"I asked you to gather a bucket of moon radishes. Rumor has it that kobolds "
 "are often found in the places where they grow.\""
-msgstr "\"달 무도 한 바구니 모아달라고 했소. 코볼트가 무가 자라나는 장소를 알고 있다는군.\""
+msgstr "\"달 무도 한 양동이 모아달라고 했소. 코볼트가 무가 자라나는 장소를 알고 있다는군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OTP_normal_state/Bokken/Cue_0077_Text_String
 msgctxt "02e20bd1-5a90-4e7b-aa07-13077e3dd2fa"
@@ -190942,7 +190942,7 @@ msgstr "\"나빠. 나빠! 너 지금 죽어!\""
 #. Mechanics/Blueprints/World/Dialogs/c11/OldSycamoreOutdoor/MoonRadishClearing/Answer_0006_AlignmentShift.Description
 msgctxt "0a9bff38-de7e-4ea3-b3e7-9620ff119634"
 msgid "Tried to take by force a bucket of moon radish from the kobolds."
-msgstr "코볼트에게서 달 무가 담긴 바구니를 강제로 가져가려고 했습니다."
+msgstr "코볼트에게서 달 무가 담긴 양동이를 강제로 가져가려고 했습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OldSycamoreOutdoor/MoonRadishClearing/Answer_0006_Text_1
 msgctxt "afdb9c3f-1ea0-4fe9-8197-3a9fa18e1e82"
@@ -191002,12 +191002,12 @@ msgstr "\"그 무 있잖아...\""
 #. Mechanics/Blueprints/World/Dialogs/c11/OldSycamoreOutdoor/MoonRadishClearing/Answer_0026_AlignmentShift.Description
 msgctxt "2da91595-26f8-438a-918d-6a0cc4f96f16"
 msgid "Tried to steal a bucket of moon radish from the kobolds."
-msgstr "코볼트에게서 달 무 바구니를 훔쳐가려고 했습니다."
+msgstr "코볼트에게서 달 무 양동이를 훔쳐가려고 했습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OldSycamoreOutdoor/MoonRadishClearing/Answer_0026_Text
 msgctxt "2f5fa2e2-37bb-47a8-a49b-a50affd34ff6"
 msgid "[Leave quietly, taking a bucket of moon radishes with you]"
-msgstr "[달 무가 담긴 바구니를 가지고 조용히 떠납니다]"
+msgstr "[달 무가 담긴 양동이를 가지고 조용히 떠납니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OldSycamoreOutdoor/MoonRadishClearing/Answer_0030_AlignmentShift.Description
 msgctxt "3a33a13b-a998-4bc2-8040-3a1400c922d9"

@@ -2200,12 +2200,12 @@ msgctxt "435dce14-131d-4d2d-aafc-d5ff3b9db641"
 msgid ""
 "Gather a bucket of moon radishes, and bring it to Bokken. Moon radishes "
 "often attract kobolds."
-msgstr "달빛 무 한 통을 모아 보큰에게 가져다줘야 합니다. 달빛 무는 종종 코볼트를 끌어들입니다."
+msgstr "달 무를 한 양동이 모아 보큰에게 가져다줘야 합니다. 달 무는 종종 코볼트를 끌어들입니다."
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_Bokken_Radish/Errand_Bokken_Radish_Title
 msgctxt "ec366d51-cf0d-4b5f-b7b6-f6d81c36f362"
 msgid "Moon Radishes for Bokken"
-msgstr "보큰을 위한 달빛 무"
+msgstr "보큰을 위한 달 무"
 
 #. Mechanics/Blueprints/World/Quests/C11_StolenLand/Errand_JhodFindTemple/JhodFindTemple_errand_Description
 msgctxt "405a1af2-4f65-43d7-b79e-6bf75cd9fa6c"
