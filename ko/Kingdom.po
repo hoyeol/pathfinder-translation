@@ -7906,8 +7906,8 @@ msgid ""
 msgstr ""
 "경비대는 가장 열성적인 추종자 몇 명을 체포한 뒤, 사제들이 출두하여 잘못을 인정하고 신앙을 포기하지 않는다면 체포한 추종자 전원을 "
 "처형하겠다는 최후 통첩을 포고하였습니다. 궁지에 몰린 광신도 사제들은 결국 본인들의 신앙을 부정하고, 자신들이 사실 갈트의 첩자였다고 "
-"자백할 수 밖에 없었습니다. 이들은 모두 교수형에 처해졌고, 이를 목격한 시민들은 역시 왕권 말고는 누구도 신용할 수 없다는 사실을 "
-"뼈저리게 느끼게 되었습니다."
+"\"자백\"할 수 밖에 없었습니다. 이들은 모두 교수형에 처해졌고, 이를 목격한 시민들은 역시 왕권 말고는 누구도 신용할 수 없다는 "
+"사실을 뼈저리게 느끼게 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment Events/FakeVirtue_LE_Solutions.Entries.Array.data[8].Resolutions.Array.data[0].LocalizedDescription
 msgctxt "e759b0c7-fd4d-4b6e-9682-ec19716af12f"
@@ -8120,9 +8120,9 @@ msgid ""
 "crimes. They have already proven essential in helping groups of freed slaves "
 "cross the border."
 msgstr ""
-"장관은 라즈미란 국경수비대를 매수하였습니다. 단지 밀수꾼들을 통과시키는 줄 알고 뇌물을 받았던 수비대원들은 뒤늦게 자신들이 통과시킨 게 "
-"무엇인지 깨달았지만, 이제 그들도 우리 계획에 협력하는 수 밖에 없었습니다. 무장 병력을 통과시킨 사실이 들통나면 무조건 사형 당할 것이 "
-"뻔했기 때문입니다. 그들은 이제 탈출한 노예들이 국경을 넘는 것을 돕고 있습니다."
+"장관은 라즈미란 국경수비대를 매수하였습니다. 단지 \"밀수꾼들\"을 통과시키는 줄 알고 뇌물을 받았던 수비대원들은 뒤늦게 자신들이 "
+"통과시킨 게 무엇인지 깨달았지만, 이제 그들도 우리 계획에 협력하는 수 밖에 없었습니다. 무장 병력을 통과시킨 사실이 들통나면 무조건 "
+"사형 당할 것이 뻔했기 때문입니다. 그들은 이제 탈출한 노예들이 국경을 넘는 것을 돕고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment Events/GreedyGuests_CG_LocalizedDescription
 msgctxt "bcddd5cd-15f9-41aa-86f7-8ee926b9d2af"
@@ -27343,8 +27343,8 @@ msgid ""
 "hunters in the Greenbelt know the name of the great boar \"Tuskgutter\", as "
 "well as the location of its lair."
 msgstr ""
-"정찰병들이 북부 날마치에서 주목할 만한 위치를 발견했습니다. 녹색지대의 모든 사냥꾼들은 터스크거터란 이름의 거대 멧돼지를 알고 있습니다. "
-"조사할 가치가 있을지도 모릅니다."
+"정찰병들이 북부 날마치에서 주목할 만한 위치를 발견했습니다. 녹색지대의 모든 사냥꾼들은 \"터스크거터\"란 이름의 거대 멧돼지를 알고 "
+"있습니다. 조사할 가치가 있을지도 모릅니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/TuskguttersLair_LocalizedName
 msgctxt "73ed7bb3-78b6-4613-9921-7c97f68c0588"
@@ -35419,7 +35419,7 @@ msgctxt "4f4d2275-07d1-4853-9d54-cc46631e2392"
 msgid ""
 "\"Maegar\" seeks to increase the {mf|barony|barony|kingdom|kingdom}'s arcane "
 "might, no matter the cost."
-msgstr "메이가르는 비용이 얼마나 들던 간에 {mf|남작령|남작령|왕국|왕국}의 마법 역량을 키우고자 합니다."
+msgstr "\"메이가르\"는 비용이 얼마나 들든 간에 {mf|남작령|남작령|왕국|왕국}의 마법 역량을 키우고자 합니다."
 
 #. Mechanics/Blueprints/Kingdom/KingdomRoot_LeaderSlots.Array.data[7].Options.Array.data[0].Description
 msgctxt "050414fa-d380-450e-be13-22df688c55bf"
