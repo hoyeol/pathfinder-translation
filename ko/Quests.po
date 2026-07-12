@@ -5828,13 +5828,13 @@ msgid ""
 "Grassland. Allied duty requires us to go there immediately — but perhaps the "
 "{mf|baron|baroness} has {mf|his|her} own reasons to wait?"
 msgstr ""
-"소드로드들은 플린트락 초원에서 바바리안들과 전투를 벌이고 있습니다. 동맹의 의무로서 우리는 당장 그곳으로 향해야하지만 - "
+"소드로드들은 부싯바위 초원에서 바바리안들과 전투를 벌이고 있습니다. 동맹의 의무로서 우리는 당장 그곳으로 향해야하지만 - "
 "{mf|남작|여남작}에겐 잠시 기다려야할 그만의 이유가 있을지도요?"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BlindedByRage/ReachTheBattlefield_Title
 msgctxt "cce0d940-c14f-43e6-9468-1dc0f9580e08"
 msgid "Reach the Flintrock Grassland in the Glenebon Uplands"
-msgstr "글레네본 고지대에 있는 플린트락 초원으로 가라"
+msgstr "글레네본 고지대에 있는 부싯바위 초원으로 가라"
 
 #. Mechanics/Blueprints/World/Quests/C41_TheTwiceBornWarlord/BlindedByRage/ReportToTheBrevicCommander_Description
 msgctxt "7d6d3c5f-7965-4e13-b868-271a988e10e8"
@@ -13306,8 +13306,8 @@ msgid ""
 "Helping our Brevic allies will surely lift a part of the Lantern King's "
 "curse."
 msgstr ""
-"플린트락 초원에서 브레보이의 군대와 전사했던 바바리안의 그림자들이 전투를 벌이고 있습니다. \n"
-" 브레보이 동맹을 도와 전투를 승리한다면 분명 등불왕의 저주 일부를 풀 수 있을 것 입니다."
+"부싯바위 초원에서 브레보이의 군대와 전사했던 바바리안의 그림자들이 전투를 벌이고 있습니다. \n 브레보이 동맹을 도와 전투를 승리한다면 "
+"분명 등불왕의 저주 일부를 풀 수 있을 것 입니다."
 
 #. Mechanics/Blueprints/World/Quests/c71_CursedKing/CursedKing/Add_05_DefendPitax_Description
 msgctxt "c7fe7153-6be3-47eb-a01a-c442515f6f78"

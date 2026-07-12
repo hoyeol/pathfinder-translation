@@ -6984,7 +6984,7 @@ msgid ""
 msgstr ""
 "\"정말 즐겁구나!\" {n}당신은 아르카노데인의 목소리에서 순수한 즐거움을 느낍니다.{/n} \"하지만 이제 우리를 이 곳에 모이게 한 "
 "문제를 마무리지어야 할 시간이다. 그리고 너 역시도 곧 다른 문제들을 해결하러 떠나야 할 것이다. 하지만 실망하지 말거라. 세계 "
-"합병에서부터 지금까지 일어났던, 그리고 앞으로 일어날 모든 일이 곧 축복 아니겠느냐? 그게 아니라면 어떻게 기이한 마법 현상을 목격할 "
+"융합에서부터 지금까지 일어났던, 그리고 앞으로 일어날 모든 일이 곧 축복 아니겠느냐? 그게 아니라면 어떻게 기이한 마법 현상을 목격할 "
 "길이 있었겠느냐? 어디에서 너희의 지식과 힘을 진실로 시험해볼 수 있었겠느냐?\""
 
 #. Mechanics/Blueprints/World/Dialogs/1DLC/Q3_Ambivalence/DevilVsHerald/Cue_0105_Text
@@ -137269,9 +137269,9 @@ msgid ""
 "visited by an appraiser of magical items – a rare and sought-after "
 "profession in many countries!\""
 msgstr ""
-"{n}옥타비아는 입이 귀에 걸릴 정도로 웃었습니다.{/n} \"당신의 {mf|남작령|남작령|왕국|왕국}은(는) 가장 유별나고 흥미로운 "
-"이들에게 끌리나봐요! 그들은 당신의 나라가 쇠사슬과 제한 없이 살 수 있는 곳이라는 소문을 들었을 거예요! 얼마 전에, 저는 많은 "
-"나라에서 드물고 인기 있는 직업인 마법 물품 감정가의 방문을 받았어요!\""
+"{n}옥타비아는 입이 귀에 걸릴 정도로 웃었습니다.{/n} \"당신의 {mf|남작령|남작령|왕국|왕국}은 가장 유별나고 흥미로운 이들에게 "
+"끌리나봐요! 그들은 당신의 나라가 쇠사슬과 제한 없이 살 수 있는 곳이라는 소문을 들었을 거예요! 얼마 전에, 저는 많은 나라에서 드물고 "
+"인기 있는 직업인 마법 물품 감정가의 방문을 받았어요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank2/Cue_0002_Text
 #. Speaker : Octavia_Companion
@@ -144517,7 +144517,7 @@ msgid ""
 "position.\""
 msgstr ""
 "\"이것 좀 봐.\" {n}카네라는 고운 은색 스너프 박스를 만지작거리고 있습니다.{/n} \"이건 하인들이 요새 지하실에서 발견한 보물 "
-"중 하나일 뿐이지. 그 보물의 출처는 우리 모두를..특히나 {mf|남작|여남작|왕|여왕}과(와) 당신의 재무관인 나를 난처하게 해.\""
+"중 하나일 뿐이지. 그 보물의 출처는 우리 모두를..특히나 {mf|남작|여남작|왕|여왕}과 당신의 재무관인 나를 난처하게 해.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Economy/Rank2/Cue_0030_Text
 #. Speaker : Kanerah_Companion
@@ -199356,7 +199356,7 @@ msgstr "[대낫 나무에서 얻은 반지를 시체 위에 올렸습니다]"
 #. Mechanics/Blueprints/World/Dialogs/c21/BigNarlmarches/FeyTreasure/Answer_84739_Text
 msgctxt "31317437-60ea-4683-8cb1-60bff9f08410"
 msgid "[Detect Magic] \"I wonder what enchantments were cast on her…\""
-msgstr "[탐지 마법을 시전합니다]\"이 여자에게 무슨 마법이 걸렸는지 보자고...\""
+msgstr "[마법 탐지] \"이 여자에게 무슨 마법이 걸렸는지 보자고...\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/BigNarlmarches/FeyTreasure/Answer_84742_Text
 msgctxt "d229b862-9b13-4ec2-9533-49fd7b4a6508"
@@ -238042,7 +238042,7 @@ msgstr "[떠납니다]"
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepGrotto_FirstWorld/Flower/Answer_0014_Text
 msgctxt "9d7fddac-87e6-4e49-aeec-c510baf4a381"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 시전합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepGrotto_FirstWorld/Flower/Cue_0005_Text
 msgctxt "4f1de235-16d5-49d0-9d99-ec2b4c1737ef"
@@ -241147,7 +241147,7 @@ msgstr "[시간이 얼마나 걸리든, 부수는 한이 있더라도 무슨 수
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepLake_Outdoor/UndeadCyclopsSarcophagus/Answer_0029_Text
 msgctxt "efb838f9-e79c-4b8f-b121-0f70c5832971"
 msgid "[Detect Magic] [Search for the signs of magic on the sarcophagus]"
-msgstr "[마법 탐지][석관에서 마법의 흔적을 찾는다]"
+msgstr "[마법 탐지] [석관에서 마법의 흔적을 찾는다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepLake_Outdoor/UndeadCyclopsSarcophagus/Cue_0012_Text
 msgctxt "ac528682-d17d-41ea-a3f1-256a373bda08"
@@ -246546,7 +246546,7 @@ msgstr "[공격] \"닥치고 덤벼!\""
 #. Mechanics/Blueprints/World/Dialogs/c31/DunswardOutdoor/GreedyCyclops/Answer_0055_Text
 msgctxt "12ea3b2e-0aba-426a-929a-d6436b366634"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 사용합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c31/DunswardOutdoor/GreedyCyclops/Answer_0056_Text
 msgctxt "7c794716-8dfc-4af7-a5ce-3fc2bf0bcccd"
@@ -247016,7 +247016,7 @@ msgstr "[떠납니다]"
 #. Mechanics/Blueprints/World/Dialogs/c31/DunswardOutdoor/TombDoor/Answer_0014_Text
 msgctxt "bb2fec68-449c-41bb-9012-4e7a4b197b89"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 시전합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c31/DunswardOutdoor/TombDoor/Answer_0016_Text
 msgctxt "42b40d56-f8b6-4a9b-acb0-7cbc6ac6a407"
@@ -248092,7 +248092,7 @@ msgstr "[문을 강제로 열려고 시도했습니다]"
 #. Mechanics/Blueprints/World/Dialogs/c31/DunswardTomb/DoorDialog/Answer_0009_Text
 msgctxt "492cf9a9-ed88-4f1a-b172-f64366c5e37e"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 사용합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c31/DunswardTomb/DoorDialog/Cue_0001_Text
 msgctxt "d1594b93-0717-4569-ad02-dbed973f28da"
@@ -257907,7 +257907,7 @@ msgstr "\"이 돌은 강력한 무기니 나에게 주는 게 좋을걸. 네가 
 #. Mechanics/Blueprints/World/Dialogs/c41/AbandonedKeep_Interior/Good_Sister/Answer_0073_Text
 msgctxt "a3f40f94-3277-4670-8eb6-e27b7d1b3c12"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 시전합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c41/AbandonedKeep_Interior/Good_Sister/Cue_0001_Text
 msgctxt "2b14e8af-11e9-49a6-84eb-2fd5bc848baf"
@@ -258671,7 +258671,7 @@ msgstr "[봉투를 건드리지 않고 조심스럽게 봉인을 제거합니다
 #. Mechanics/Blueprints/World/Dialogs/c41/AngryDruidLair/Dialog/Answer_0012_Text
 msgctxt "2108c254-9fb6-4c5f-a410-f4965818c16a"
 msgid "[Detect Magic] [Check the envelope for enchantments]"
-msgstr "[탐지 마법][봉인에 걸린 마법을 확인합니다]"
+msgstr "[마법 탐지] [봉인에 걸린 마법을 확인합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c41/AngryDruidLair/Dialog/Answer_0013_Text
 msgctxt "b1aae085-3fc9-4694-ad0f-f13e2d2ccc2e"
@@ -260762,8 +260762,8 @@ msgid ""
 "last had smoke rising from it. The inscription above the plates read \"TRIAL "
 "BY PAIN.\""
 msgstr ""
-"손바닥만한 크기의 판이 굳게 잠겨진 문에 설치되어있습니다. 하나는 얼음 조각으로 덮여있었고 두번째는 전기가 파지직 튀기고 있었고 마지막 "
-"것은 연기를 뿜고 있었습니다. 판 위에는 이렇게 적혀있습니다. \"고통의 시험\""
+"손바닥만 한 크기의 압력판 세 개가 굳게 잠겨진 문에 설치되어있습니다. 하나는 얼음 조각으로 덮여있었고 두번째는 전기가 파지직 튀기고 "
+"있었고 마지막 것은 연기를 뿜고 있었습니다. 판 위에는 이렇게 적혀있습니다. \"고통의 시험\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfPain/Cue_0019_Text
 msgctxt "41ee809e-e39c-4363-b55e-db8f063e96f7"
@@ -261029,12 +261029,12 @@ msgstr "...표시된 길의 조각상을 계속해서 눌렀습니다."
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfStrength-NEW/Answer_0008_Text
 msgctxt "e8acafc8-9177-4537-be2a-a80a88d6c0eb"
 msgid "...tried to cheat by standing on the pressure plate ourselves."
-msgstr "...눌림 장치가 있는 곳에 올라가는 꼼수를 부렸습니다."
+msgstr "...압력판 위에 올라가는 꼼수를 부렸습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfStrength-NEW/Answer_0009_Text_String
 msgctxt "ac2b01f7-03b7-497e-ac9a-aac2f26adf71"
 msgid "...ignored the potential danger and stood on the pressure plate."
-msgstr "...잠재적인 위험을 무시하고 눌림 장치 위에 올라갔습니다."
+msgstr "...잠재적인 위험을 무시하고 압력판 위에 올라갔습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfStrength-NEW/Answer_0010_Text
 msgctxt "95c61f59-a556-418e-b545-36ad97cf9d3a"
@@ -261214,7 +261214,7 @@ msgid ""
 "may have punished us harshly for cheating, but at least they left us with a "
 "way forward."
 msgstr ""
-"눌림판 위에 올라섰을 때 우리 밑에 지옥문이 열리는 것 같았습니다! 불기둥이 지하에서 뿜어졌고 우리는 비명을 지르며 바닥을 굴러야 "
+"압력판 위에 올라섰을 때 우리 밑에 지옥문이 열리는 것 같았습니다! 불기둥이 지하에서 뿜어졌고 우리는 비명을 지르며 바닥을 굴러야 "
 "했습니다. 우리가 마침내 일어섰을 때는 미궁과 조각상이 모두 녹아 문이 열린 것을 보았습니다. 미궁의 설계자는 우리를 압박해서 속임수를 "
 "쓰게 했지만 그래도 그들은 앞으로 가는 길을 놓아주었습니다."
 
@@ -261226,7 +261226,7 @@ msgid ""
 "must have anticipated our plan and arranged something special for anyone "
 "trying to cheat their way through. Taking that into consideration, we..."
 msgstr ""
-"눌림판 위에 가자 누군가 위에서 거대한 검은 점이 천장에 물들어있는 것을 보았습니다. 미궁의 설계자는 우리의 계획을 알아차리고 속임수를 "
+"압력판 위에 가자 누군가 위에서 거대한 검은 점이 천장에 물들어있는 것을 보았습니다. 미궁의 설계자는 우리의 계획을 알아차리고 속임수를 "
 "쓰려는 자에게 특별한 무언가를 준비한 것이었습니다. 생각에 잠긴 우리는..."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfStrength-NEW/Cue_0038_Text
@@ -261242,7 +261242,7 @@ msgid ""
 msgstr ""
 "얼음 호랑이는 미궁에 들어가기 싫어하는 것 같았습니다. 아무리 세게 밀어도 조각상은 움직이지 않았고 고정되었습니다. 한번은 우리가 그것을 "
 "계속 방치하고 나니 우리는 얼음 벽은 녹아내려 자유로워졌습니다. 뿜어져나오는 냉기는 호랑이처럼 매서웠습니다. 하지만 마침내 우리는 마지막 "
-"벽에 도착하고 호랑이를 눌림판 위에 올렸습니다."
+"벽에 도착하고 호랑이를 압력판 위에 올렸습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfStrength-NEW/Cue_0044_Text_String
 msgctxt "8ec6c4e8-1f27-4e88-a425-ef7a8c77f927"
@@ -261253,7 +261253,7 @@ msgid ""
 "pressure plate."
 msgstr ""
 "냉기가 우리를 얼리기 전에 우리는 얼음 벽을 부수었고 우리는 얼음 조각상을 중앙으로 밀고 갔습니다. 마침내 마지막 벽이 무너졌고 우리는 "
-"얼음 호랑이를 눌림판 위에 두었습니다."
+"얼음 호랑이를 압력판 위에 두었습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfStrength-NEW/Cue_0052_Text
 msgctxt "108e5bf7-b41f-4211-8935-92a2051f2ca3"
@@ -261366,7 +261366,7 @@ msgid ""
 "again, but we finally managed to push the statue into the center of the "
 "room, right onto the pressure plate."
 msgstr ""
-"우리의 길은 너무나 길고 구불구불해서 중앙에 가까이 간다고 생각했을 때는 중앙으로부터 멀어졌지만 우리는 마침내 조각상을 방 중앙의 눌림판 "
+"우리의 길은 너무나 길고 구불구불해서 중앙에 가까이 간다고 생각했을 때는 중앙으로부터 멀어졌지만 우리는 마침내 조각상을 방 중앙의 압력판 "
 "위로 밀었습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfStrength-NEW/Cue_0063_Text_String
@@ -261377,7 +261377,7 @@ msgid ""
 "in a heartbeat, along with the entire labyrinth! The room warmed rapidly, "
 "even becoming a bit hot. The stone door opened, and the path was clear."
 msgstr ""
-"눌림판은 조각상의 무게로 떨렸고 불기둥이 쏟아나와 천장까지 솟았습니다! 얼음 호랑이는 미궁과 함께 순식간에 녹아내렸습니다! 방은 갑자기 "
+"압력판은 조각상의 무게로 떨렸고 불기둥이 쏟아나와 천장까지 솟았습니다! 얼음 호랑이는 미궁과 함께 순식간에 녹아내렸습니다! 방은 갑자기 "
 "따뜻해졌고 조금은 더워졌습니다. 돌 문은 열렸고 길이 보였습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/Zorek/Answer_0005_Text
@@ -272123,7 +272123,7 @@ msgstr "\"글쎄. 우리가 다른 시간에 다시 와야 할 것 같아!\""
 #. Mechanics/Blueprints/World/Dialogs/c51/BlakemoorHideOut/Door/Answer_0028_Text
 msgctxt "c580401a-cbf4-45c1-a9f4-9f2ba73b7489"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 시전합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c51/BlakemoorHideOut/Door/Cue_0001_Text
 msgctxt "195dbf6d-05ec-4f78-8761-c1845976a119"
@@ -281035,7 +281035,7 @@ msgstr "\"답변해 주어 고맙군.\""
 #. Mechanics/Blueprints/World/Dialogs/c51/Pitax_IrovettiPalace/Mad_Drelev/Answer_0034_Text
 msgctxt "e7070b0c-0fd7-460c-a5f4-30d7fe7be3fa"
 msgid "[Use detect magic] \"Let's see what we have here...\""
-msgstr "[탐지 마법을 시전합니다]\"여기에 뭐가 있는지 보자고...\""
+msgstr "[마법 탐지를 시전합니다] \"여기에 뭐가 있는지 보자고...\""
 
 #. Mechanics/Blueprints/World/Dialogs/c51/Pitax_IrovettiPalace/Mad_Drelev/Cue_0001_Text
 msgctxt "04bd83dc-e3b0-434c-9a4c-9b8fd4c414c8"
@@ -281248,7 +281248,7 @@ msgid ""
 "stand a chance against {mf|him|her}? {mf|He|She}'s almost here! Let's run "
 "for it while we still can!\""
 msgstr ""
-"\"그리고 {Name}! {mf|그|그녀}이(가) 빌라모르를 손봐주는 거 봤어? {mf|그|그녀}에게 맞선다고 우리가 이길거라 생각해? "
+"\"그리고 {Name}! {mf|그|그녀}가 빌라모르를 손봐주는 거 봤어? {mf|그|그녀}에게 맞선다고 우리가 이길거라 생각해? "
 "{mf|그|그녀}는 거의 도착했어! 될 수 있으면 도망가자고!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c51/Pitax_IrovettiPalace/Mess_Hall/Cue_0003_Text
@@ -288099,7 +288099,7 @@ msgstr "\"그러면 네게 맡기겠다.\""
 #. Mechanics/Blueprints/World/Dialogs/c61/CastleOfKnivesOutdoor/KnurlyAgents/Answer_0043_Text
 msgctxt "c1967f89-5093-4fdd-80f3-a8ea0b1422d1"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 시전합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c61/CastleOfKnivesOutdoor/KnurlyAgents/Cue_0001_Text
 msgctxt "8535930a-9171-4cf9-a215-51bd81048dc7"
@@ -292561,7 +292561,7 @@ msgstr "\"귀찮게해서 미안하다.\""
 #. Mechanics/Blueprints/World/Dialogs/c61/CastleOfKnivesOutdoor/WrigglingAgents/Answer_0021_Text
 msgctxt "aff6d77b-9d6d-4a5d-97a2-3c02175141ab"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 시전합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c61/CastleOfKnivesOutdoor/WrigglingAgents/Cue_0001_Text
 msgctxt "f96f3ba8-af59-4352-ad6f-15a02ceaab60"
@@ -296441,7 +296441,7 @@ msgstr "\"지금은 아니야.\""
 #. Mechanics/Blueprints/World/Dialogs/c61/HouseAtTheEdgeOfTime/Pludock/Answer_0039_Text
 msgctxt "0b655e82-1187-4250-8efd-c96878856c34"
 msgid "[Use detect magic]"
-msgstr "[탐지 마법을 시전합니다]"
+msgstr "[마법 탐지를 시전합니다]"
 
 #. Mechanics/Blueprints/World/Dialogs/c61/HouseAtTheEdgeOfTime/Pludock/Cue_0001_Text
 #. Speaker : HATEOT_MephitPludok
@@ -300483,7 +300483,7 @@ msgid ""
 "lies in the brave souls that inhabit it. Save them, and you will save "
 "yourself.\""
 msgstr ""
-"\"아아, 저희는 시간이 부족합니다. 세계의 합병 — 즉, 저희에게 떨어진 대재앙에서 당신과 당신의 왕국을 구하기 위해 신속히 행동해야만 "
+"\"아아, 저희는 시간이 부족합니다. 세계의 융합 — 즉, 저희에게 떨어진 대재앙에서 당신과 당신의 왕국을 구하기 위해 신속히 행동해야만 "
 "합니다. 당신의 길에는 두 가지 장애물이 있을겁니다. 먼저, 고문관과 신하들이 이제 왕국 전역의 여러 지역으로 흩어졌으며, 거의 전부가 "
 "그림자에 의해 공격 받고 있습니다. 모든 땅의 힘은 그 지역에 사는 용기있는 영혼들에게 달려있지요. 그들을 구하십시오, 그리하여 당신 "
 "스스로를 구하십시오.\""
@@ -300517,7 +300517,7 @@ msgstr ""
 "\"전하, 저주의 본질은 신비스럽지요. 저는 그들에 대한 행복하고 불행한 이야기를 많이 알고 있습니다, 그리고 당신께 제안을 하나 "
 "드립니다: 저주를 극복하기 위해서는 그것을 활용해야 합니다. {g|LanternKing}등불왕{/g}은 당신이 왕국과 함께 멸망하길 "
 "바랍니다. 그리고 그는 시인과 바드들이 곧 잘 얘기하고 다니는, 영토와 그 통치자 사이의 상상의 유대감을 현실로 만들었습니다. 그러나 "
-"이것은 세계의 합병으로부터 왕국을 보호하는 것이 또한 당신 스스로를 보호한다는 것을 의미이기도 합니다. 저는 이것이 반드시 끝내야만 할 "
+"이것은 세계의 융합으로부터 왕국을 보호하는 것이 또한 당신 스스로를 보호한다는 것을 의미이기도 합니다. 저는 이것이 반드시 끝내야만 할 "
 "첫 번째 일이라고 생각합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c71/CityGates(Hub)/CollectorDialog/Cue_0015_Text
@@ -300554,7 +300554,7 @@ msgid ""
 "your kingdom.\""
 msgstr ""
 "\"{g|First World}태초 세계{/g}는 이 세상의 본질에 빠르게 침투하여, 모든 것을 변덕스럽게 바꾸고 있습니다. 이 과정은 "
-"곧 돌이킬 수 없게 되겠죠. 제가 말했듯, 세계의 합병 이후 세상이 뒤죽박죽이 되었고, 시간과 자연의 법칙도 뒤바뀌었습니다. 당신에게 "
+"곧 돌이킬 수 없게 되겠죠. 제가 말했듯, 세계의 융합 이후 세상이 뒤죽박죽이 되었고, 시간과 자연의 법칙도 뒤바뀌었습니다. 당신에게 "
 "가장 큰 위험은 꿈의 세계의 경계가 파괴되었다는 점입니다. 과거에 대한 환상이 현실화되고, 더 이상 잠을 잘 수 없습니다. 이것은 저주의 "
 "일부입니다 — 그리고 당신과 왕국이 연결된 이후 가장 위험한 결과 중 하나입니다.\""
 
@@ -300565,7 +300565,7 @@ msgid ""
 "Merger began. Those who could keep their sanity and escape are now either "
 "hiding or surviving and helping others.\""
 msgstr ""
-"\"세계의 합병이 시작된 지 몇 시간 만에 모든 사람들이 어려움을 겪었습니다. 정신을 잃지 않고 도망갈 수 있는 사람들은 이제 숨어 "
+"\"세계의 융합이 시작된 지 몇 시간 만에 모든 사람들이 어려움을 겪었습니다. 정신을 잃지 않고 도망갈 수 있는 사람들은 이제 숨어 "
 "있거나 생존하여 다른 사람들을 돕고 있습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c71/CityGates(Hub)/CollectorDialog/Cue_0021_Text
@@ -300878,7 +300878,7 @@ msgid ""
 "death. But I can guard you from this for a short time. Come to me if you "
 "need rest. But be careful — this takes time, and time is not on your side.\""
 msgstr ""
-"\"둘째, 세계의 합병이 왕국을 괴롭히는 동안, 평소와 같이 쉬면서 주문을 회복할 수는 없을 겁니다. "
+"\"둘째, 세계의 융합이 왕국을 괴롭히는 동안, 평소와 같이 쉬면서 주문을 회복할 수는 없을 겁니다. "
 "{g|LanternKing}등불왕{/g}이 당신을 위해 준비한 선물인 것 같군요 — 당신이 목숨을 걸고 싸우도록, 하지만 전투가 필연적인 "
 "고갈과 죽음으로 이어지게 만들도록. 하지만 잠시 동안은 제가 당신을 지킬 수 있습니다. 휴식이 필요하시다면 저에게 오십시오. 그러나 "
 "조심하십시오. 휴식 또한 시간이 걸리며, 시간은 당신의 편이 아닙니다. \""

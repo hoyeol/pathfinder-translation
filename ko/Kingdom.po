@@ -33689,7 +33689,7 @@ msgid ""
 "useful pieces of lore. They suspect that the tomb is located somewhere in "
 "central Glenebon, to the south of Flintrock Grassland."
 msgstr ""
-"도서관의 원고를 연구하던 중, 우리 전문가들이 몇 가지 유용한 지식들을 발견했습니다. 그들은 이 무덤이 플린트록 초원의 남쪽인 글레네본 "
+"도서관의 원고를 연구하던 중, 우리 전문가들이 몇 가지 유용한 지식들을 발견했습니다. 그들은 이 무덤이 부싯바위 초원의 남쪽인 글레네본 "
 "중심부 어딘가에 위치하고 있을 거라 추정하고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Projects/Story/SearchingArmagScouts_LocalizedDescription
