@@ -64570,46 +64570,46 @@ msgid ""
 "\"There was no water in the well yesterday. There is no water in the well "
 "today. But my hope is strong. I'll come to check tomorrow!\""
 msgstr ""
-"\"어제 우물에는 물이 전혀 없었다. 오늘도 우물에 물이 전혀 없다. 하지만 내 희망은 강하다. 나는 내일 확인하러 올 것이다!\""
+"\"어제는 우물에 물이 없었다. 오늘도 우물에 물이 없다. 하지만 희망은 굳건하다. 내일 또 확인하러 오겠다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/LichKilichLab/WaterGone2_String
 msgctxt "4b9ee9f4-6d3e-4947-a07b-5c8a54e78380"
 msgid ""
 "\"The water is gone… completely gone… Do I really have to go to the "
 "neighbor's well now?\""
-msgstr "\"물이 사라 졌어... 완전히... 이웃의 우물에 가야 할까?\""
+msgstr "\"물이 사라졌다... 완전히 사라졌다... 이제 정말 이웃집 우물에 가야 하나?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/LichKilichLab/WellBarkBefore_String
 msgctxt "c19fb9b3-6add-47a5-ab8d-6fd65dd70f43"
 msgid ""
 "The well looks quite ordinary, and yet when you approach it you feel a "
 "strange tingling in your temples."
-msgstr "우물은 꽤 평범해 보이지만 접근하자 당신은 관자놀이에서 따끔거림을 느낍니다."
+msgstr "우물은 꽤 평범해 보입니다. 그런데 가까이 다가가자 관자놀이가 묘하게 저릿해집니다."
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0006_Text
 msgctxt "e1f9dbd9-4d8d-47a2-851b-85e189628254"
 msgid "\"How are things in Varnhold?\""
-msgstr "\"반홀드는 어때?\""
+msgstr "\"반홀드는 어떤가?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0007_Text
 msgctxt "4a4dda74-657f-45ee-8f60-78f076b469e5"
 msgid "\"Have you taken care of Varnhold's defenses?\""
-msgstr "\"반홀드의 방위는 잘 처리했나?\""
+msgstr "\"반홀드의 방비는 잘 갖춰 두었나?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0011_Text
 msgctxt "b7527f91-2b9d-4858-a643-2e3d5b5e63be"
 msgid "\"Do you remember anything from when your soul was imprisoned?\""
-msgstr "\"영혼이 갇혔을 때 기억나는게 있나?\""
+msgstr "\"영혼이 갇혀 있던 동안 기억나는 게 있나?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0020_Text
 msgctxt "52ce0401-d88c-4b48-bd09-22e1609cd024"
 msgid "\"I should go.\""
-msgstr "\"이만 가봐야겠어.\""
+msgstr "\"이만 가봐야겠군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0021_Text
 msgctxt "952f5b44-081b-4e53-b4f4-db37af4d2a87"
 msgid "\"How do you find the capital?\""
-msgstr "\"수도에 대한 감상이 어때?\""
+msgstr "\"수도는 어떤가?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0023_Text
 msgctxt "eb0edf5a-eebf-455f-8e37-5cc748057409"
@@ -64626,7 +64626,7 @@ msgstr "\"반홀드가 나의 영지로 합병되었을 때 자만디는 어떻�
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0037_Text
 msgctxt "580ca85b-01cf-4442-b77b-7510382a3180"
 msgid "\"How do you like being Treasurer?\""
-msgstr "\"재무관이 된다는 건 어떤 기분이지?\""
+msgstr "\"재무관으로 일하는 건 어떤가?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0039_Text
 msgctxt "7db15f75-6384-4612-bacb-5576302a3fb1"
@@ -64638,7 +64638,7 @@ msgstr "\"너에게 공식적인 지위를 제안할 생각이다. 어떤 방법
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Answer_0043_Text
 msgctxt "807cc288-d3ba-42f3-b39c-51849e982d77"
 msgid "\"Remind me, what did you ask me to do?\""
-msgstr "\"다시 말해봐요, 뭘 부탁했었죠?\""
+msgstr "\"다시 말해보게, 나한테 뭘 부탁했었지?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0001_Text
 msgctxt "7f3d3740-1a0c-43c8-8e7c-3546db07058b"
@@ -64646,8 +64646,8 @@ msgid ""
 "{n}When he sees you, Maegar gives you a polite bow.{/n} \"Your "
 "{mf|Grace|Grace|Highness|Highness}! Welcome back. How can I serve you?\""
 msgstr ""
-"{n}메이가르는 당신을 보며 정중히 인사합니다.{/n} \"{mf|영주님|영주님|전하|전하}! 돌아오신 것을 환영합니다. 내리실 명이 "
-"있습니까?\""
+"{n}메이가르는 당신을 보자 정중히 허리를 숙여 인사합니다.{/n} \"{mf|영주님|영주님|전하|전하}! 돌아오신 것을 환영합니다. "
+"내리실 명이 있습니까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0002_Text
 msgctxt "bae396c0-349f-4c5a-b003-11524b9bcbf8"
@@ -64664,9 +64664,9 @@ msgid ""
 "or old, has been doing everything in their power to never be caught off "
 "guard again.\""
 msgstr ""
-"\"사람들은 이미 요새 벽을 재건했고, 심지어 마을 주변의 해자를 파고 순찰대를 조직하기 시작했습니다. 그 사건은... 모든 사람들에게 "
-"큰 충격이었습니다. {g|Varnhold}반홀드{/g}의 모든 시민은 나이를 따지지 않고 다시는 무방비하게 당하지 않도록 할 수 있는 "
-"모든 조치를 취하고있습니다. \""
+"\"사람들은 이미 요새 성벽을 재건했고, 마을 주변에 해자를 파고 순찰대를 조직하기까지 했습니다. 그 사건은... 모두에게 정말 큰 "
+"충격이었습니다. 그래서 이제 {g|Varnhold}반홀드{/g}의 시민들은 남녀노소를 막론하고 다시는 허를 찔리지 않기 위해 온 힘을 "
+"다하고 있습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0009_Text
 msgctxt "552ee337-5e1d-457b-8dc7-f6cdca08b973"
@@ -64676,8 +64676,8 @@ msgid ""
 "But after appointing a deputy and doubling the guards, the citizens began to "
 "calm down, and life started returning to normal.\""
 msgstr ""
-"\"훌륭합니다. {mf|영주님|영주님|전하|전하}. 모든 것이 훌륭합니다. 물론 모두가 고향에 돌아왔을 때는 조금 불편하게 느끼기는 "
-"했습니다. 하지만 대리인을 임명하고 경비를 두 배로 늘린 후 시민들은 진정했고 삶은 정상으로 돌아오기 시작했습니다.\""
+"\"아주 좋습니다, {mf|영주님|영주님|전하|전하}. 모든 일이 순조롭습니다. 물론 모두가 고향으로 돌아왔을 때는 조금 불안해했습니다. "
+"하지만 대리인을 임명하고 경비를 두 배로 늘리자 시민들도 진정하기 시작했고, 일상도 정상으로 돌아오기 시작했습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0010_Text
 msgctxt "d7971b88-9702-4fa7-8c0f-c228f7adc72c"
@@ -64688,10 +64688,9 @@ msgid ""
 "efforts weren't in vain. {g|Varnhold}Varnhold{/g} will stand strong, no "
 "matter what. This, I promise you!\""
 msgstr ""
-"{n}메이가르는 잠시 망설이다 마침내 말합니다.{/n} \"당신은 우리 모두를 구했습니다, {mf|영주님|영주님|전하|전하}. 그에 "
-"대해서는 충분히 감사드리지 못할 정도입니다. 제가 할 수 있는 것은 {mf|영주님을|영주님을|전하를|전하를} 충실히 섬기고 "
-"{mf|영주님의|영주님의|전하의|전하의} 노력이 헛되지 않도록 하는 것 뿐입니다. {g|Varnhold}반홀드{/g}는 어떤 일에도 "
-"굳건하게 서있을 것입니다. 이는 제가 약속드리는 바입니다!\""
+"{n}메이가르는 잠시 망설이다가 마침내 말합니다.{/n} \"{mf|영주님|영주님|전하|전하}께서는 우리 모두를 구해 주셨습니다. 아무리 "
+"감사드려도 부족합니다. 제가 할 수 있는 일이라곤 {mf|영주님을|영주님을|전하를|전하를} 충실히 섬기고, 그 노력이 헛되지 않게 하는 "
+"것뿐입니다. {g|Varnhold}반홀드{/g}는 무슨 일이 있어도 굳건히 버틸 것입니다. 반드시 그렇게 하겠다고 약속드립니다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0012_Text
 msgctxt "ec27d847-1bfd-413c-ba0a-bd74e7239339"
@@ -64701,9 +64700,9 @@ msgid ""
 "dark. Almost no space...\" {n}He closes his eyes and gulps.{/n} \"If... if "
 "you don't mind, I'd rather not recall any more.\""
 msgstr ""
-"{n}메이가르는 얼어붙습니다.{/n} \"잘... 잘 모르겠습니다, {mf|영주님|영주님|전하|전하}. \" {n}그는 찡그립니다.{/n}"
-" \"그곳은 어둡고... 비좁았습니다...\" {n}그는 눈을 감고 침을 삼킵니다.{/n} \"송구하옵니다만... 더 이상 떠올리고 싶지 "
-"않습니다.\""
+"{n}메이가르는 얼어붙습니다.{/n} \"잘... 잘 모르겠습니다, {mf|영주님|영주님|전하|전하}.\" {n}그는 인상을 "
+"찌푸립니다.{/n} \"어두웠습니다... 공간도 거의 없었고요...\" {n}그는 눈을 감고 침을 꿀꺽 삼킵니다.{/n} "
+"\"괜찮으시다면... 더는 떠올리고 싶지 않습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0022_Text
 msgctxt "445fd10e-3532-4a92-ac9c-19193707b073"
@@ -64711,8 +64710,8 @@ msgid ""
 "{n}Maegar looks around the hall, squinting.{/n} \"It's impressive. Still, "
 "sometimes I just miss the open spaces of {g|Dunsward}Dunsward{/g}.\""
 msgstr ""
-"{n}메이가르는 홀을 가늘게 뜬 눈으로 둘러봅니다.{/n} \"인상적입니다. 그래도 저는 가끔 {g|Dunsward}던스워드{/g}의 "
-"확트인 공간이 그립군요.\""
+"{n}메이가르는 눈을 가늘게 뜨고 홀을 둘러봅니다.{/n} \"인상적입니다. 그래도 가끔은 {g|Dunsward}던스워드{/g}의 탁 "
+"트인 들판이 그립습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0025_Text
 msgctxt "ade08162-40d0-4e2d-b442-caed8622e19e"
@@ -64722,9 +64721,8 @@ msgid ""
 "celebrating. Matters not — the issue's already been settled between the two "
 "of us.\""
 msgstr ""
-"\"{mf|영주님|영주님|전하|전하} 솔직히 말씀드리자면 무슨 상관이겠습니까? 아마 그녀는 {g|Restov}레스토프{/g}에 돌아가 "
-"화가 났거나 아니면 울음을 터뜨리거나 심지어 축하를 했을지도 모르지요. 그건 상관이 없습니다. 이 일은 이미 우리 둘 사이에서 해결된 "
-"문제입니다.\""
+"\"솔직히 말씀드리자면, {mf|영주님|영주님|전하|전하}, 무슨 상관이겠습니까? 그녀가 {g|Restov}레스토프{/g}에서 화를 "
+"내든, 펑펑 울든, 심지어 축하하든 알 바 아닙니다. 중요한 일이 아닙니다. 이 문제는 이미 우리 둘 사이에서 해결됐습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0026_Text
 msgctxt "0db462a4-cc51-44f1-9e06-4fe192590647"
@@ -64733,8 +64731,8 @@ msgid ""
 "to spare you from any further worries... I began receiving letters like that "
 "one since about when I sent you trading goods.\""
 msgstr ""
-"{n}메이가르의 얼굴이 어두워집니다.{/n} \"{mf|영주님|영주님|전하|전하}께서 알기 바라지 않았습니다. 더 이상 걱정거리를 더하지 "
-"않았으면 싶었습니다. 수도로 무역품을 보내기 시작하면서 그런 편지들을 받기 시작했습니다.\""
+"{n}메이가르의 얼굴이 어두워집니다.{/n} \"{mf|영주님|영주님|전하|전하}께 이 일을 알리고 싶지 않았습니다. 더 이상의 걱정을 "
+"끼쳐 드리고 싶지 않았습니다... {mf|영주님께|영주님께|전하께|전하께} 교역품을 보내던 무렵부터 이런 편지를 받기 시작했습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0034_Text
 msgctxt "8e4c2c8f-6283-4108-a020-378e3784b75f"
@@ -64743,8 +64741,8 @@ msgid ""
 "nothing came of it. I have some assumptions of who's behind it, but as long "
 "as I have no proof, I don't want to accuse anyone.\""
 msgstr ""
-"\"당시에 제 부하들이 편지를 가져온 무역상을 심문하기도 했지만 아무것도 나오는게 없었습니다. 누가 배후에 있는지 추측은 있습니다만, "
-"증거가 없기 때문에 고발하고 싶지는 않습니다.\""
+"\"한번은 제 부하들이 편지를 배달한 상인을 심문하기까지 했지만, 아무 소득도 없었습니다. 배후가 누구인지 짐작은 갑니다만, 증거가 없는 "
+"한 누구를 섣불리 지목하고 싶지는 않습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0038_Text
 msgctxt "222ed2c3-d6fe-49a6-bd4d-3ef75ed497b7"
@@ -64754,9 +64752,8 @@ msgid ""
 "the records are in order, and as for all the pressing issues, I can simply "
 "address them to you.\""
 msgstr ""
-"{n}메이가르가 머리를 흔듭니다.{/n} \"가끔 힘들기는 하지만 그렇지 않을 때에는... 덜 힘든 편입니다. 하지만 전반적으로 특별한 "
-"일은 없습니다. 국고의 상자는 괜찮고, 모든 기록도 정리되어 있습니다. 그리고 긴급한 문제에 대해서는 제가 간단하게 말씀드릴 수 있습니다."
-"\""
+"{n}메이가르는 고개를 젓습니다.{/n} \"어려울 때도 있고, 덜 어려울 때도 있습니다. 하지만 전반적으로는 특별할 것이 없습니다. "
+"국고의 궤짝도 무사하고 모든 장부도 잘 정리되어 있으며, 급한 문제는 그저 {mf|영주님께|영주님께|전하께|전하께} 가져가면 됩니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0040_Text
 msgctxt "14f95517-17f4-4ec0-9402-f48d8a0fb090"
@@ -64765,8 +64762,8 @@ msgid ""
 "{mf|Grace|Grace|Highness|Highness}. I've been there before, and it seemed my "
 "advices didn't do much good. You should find someone else to help you.\""
 msgstr ""
-"{n}메이가르는 비틀린 미소를 지으며 고개를 젓습니다.{/n} \"으음, 아닙니다, {mf|영주님|영주님|전하|전하}. 지금까지 경험에 "
-"비추어 볼 때, 저는 그런 자리에 어울리지 않더군요. 다른 사람을 구하시는 편이 좋겠습니다. \""
+"{n}메이가르는 비뚤게 미소 지으며 고개를 젓습니다.{/n} \"아닙니다, {mf|영주님|영주님|전하|전하}. 전에도 그런 일을 해 "
+"봤지만, 제 조언이 별 도움이 되지 않았던 것 같습니다. 다른 사람에게 도움을 구하시는 편이 좋겠습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0041_Text
 msgctxt "c4951382-e673-41bd-b841-980893c76f49"
@@ -64776,8 +64773,9 @@ msgid ""
 "managing {g|Varnhold}Varnhold's{/g} treasury. If I hadn't been there, our "
 "citizens would have had to tighten their belts!\""
 msgstr ""
-"\"남작령을 다스리는 것이 그렇게 즐겁지는 않았습니다. 그보다 훨씬 재미있는 일들이 많이 있지요. 하지만 제가 잘했던 것이 있다면 "
-"{g|Varnhold}반홀드{/g}의 국고를 관리하는 것이었습니다. 제가 없었다면 우리 시민들은 허리띠를 조여매야했을 겁니다!\""
+"\"남작령을 다스리는 일이 제게 큰 즐거움을 주지는 않았습니다. 그보다 훨씬 즐거운 일도 많습니다. 하지만 제가 정말 뛰어났던 일이 하나 "
+"있다면, 바로 {g|Varnhold}반홀드{/g}의 국고를 관리하는 일이었습니다. 제가 없었다면 시민들은 허리띠를 졸라매야 했을 "
+"것입니다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0042_Text
 msgctxt "351e28a0-f124-4304-9edf-800d83e44c6b"
@@ -64789,9 +64787,9 @@ msgid ""
 "party, but I suspect the others are dead as well.\" {n}He looks away.{/n} \"I"
 " suppose we should consider the matter settled.\""
 msgstr ""
-"{n}메이가르는 암울하고 수척해 보입니다.{/n} \"{mf|영주님|영주님|전하|전하}께서 흥미가 있으실진 모르겠지만, 저는 제 손으로 "
-"그 지하감옥에 남았던 부하들에게 있었던 일을 알아내려 했습니다. 일행 중에서 겨우 한 사람의 유해를 수습할 수 있었습니다만... 추측컨데 "
-"다른 사람들도 죽은 것 같습니다.\" {n}그는 눈길을 돌립니다.{/n} \"그 문제는 끝난 것으로 봐야 할 것 같군요.\""
+"{n}메이가르는 침울하고 수척해 보입니다.{/n} \"{mf|영주님|영주님|전하|전하}! 관심이 있으실지는 모르겠습니다만, 그 지하감옥에 "
+"남았던 제 부하들의 행방을 알아내려고 혼자 조사해 보았습니다. 일행 중 한 사람의 유해만 수습할 수 있었지만, 다른 이들도 죽었으리라 "
+"생각합니다.\" {n}그는 눈길을 돌립니다.{/n} \"이 문제는 이제 끝난 것으로 여겨야 할 듯합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVarn/Cue_0044_Text
 msgctxt "a6980a35-01a9-46e4-b5a0-ed89a002cd66"
@@ -223042,7 +223040,7 @@ msgctxt "ea85049d-49a3-4f80-a3c6-092da524ce75"
 msgid ""
 "{n}Tigni looks at you, frowning.{/n} \"Your wish, "
 "{mf|baron|baroness|king|queen}?\""
-msgstr "{n}티그니가 당신을 찡그리며 쳐다봅니다.{/n} \"원하는 게 있습니까, {mf|영주님|영주님|전하|전하}?\""
+msgstr "{n}티그니가 얼굴을 찡그리며 당신을 쳐다봅니다.{/n} \"원하는 게 있습니까, {mf|영주님|영주님|전하|전하}?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/BigKamelandsOutdoor/GreedyMerchant/Cue_90604_Text
 #. Speaker : GreedyMerchant

@@ -24327,8 +24327,8 @@ msgid ""
 "right? Wanna bet I can chop off the snout of this Tuskgutter in a single "
 "fight? Come on, see for yourself!\""
 msgstr ""
-"\"올렉은 사람들이 그 괴물이 있는 장소를 알지만, 상대할 정도로 강인하지 못하다고 말했어. 그런데 우리는 지역의 겁쟁이 보다는 낫지, "
-"안그래? 내가 터스크거터를의 주둥이를 한 번의 전투를 썰어버릴 수 있을 지 내기할까? 이봐, 가서 직접 확인해보자!\""
+"\"올렉 말로는 사람들도 그 괴물이 어디 있는지 다 아는데, 상대할 배짱이 없을 뿐이래. 근데 우리는 이 동네 겁쟁이들보다는 낫잖아, 안 "
+"그래? 내가 이 터스크거터의 주둥이를 한 판에 썰어버릴 수 있을지 내기할까? 이봐, 가서 직접 확인해 보자고!\""
 
 #. Test/Dialogues/Start_OTP_Tuskgutter/Cue_0006_Text
 msgctxt "4849b37d-32c1-4bda-932c-330c782aaf3e"
