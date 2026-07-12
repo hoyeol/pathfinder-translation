@@ -89691,8 +89691,8 @@ msgid ""
 "voice is full of irritation and haste.{/n} \"Farewell. Let's go, {Name}. "
 "I've no wish to look at these walls, this iron, and especially those bones.\""
 msgstr ""
-"\"그래. 천만에. 평화와 우정이 좋은 거야.\" {n}하림의 목소리는 자극과 흥분으로 가득 차 있습니다.{/n} \"잘가. 가자. "
-"{Name}. 나는 이 벽과 쇠 특히나 시체들을 보고 싶지 않아.\""
+"\"그래, 그래. 천만에. 평화니 우정이니 뭐 그런 거지.\" {n}하림의 목소리에는 짜증과 조급함이 가득합니다.{/n} \"잘 가. "
+"가자, {Name}. 이 벽도, 이 쇠붙이도, 특히나 저 뼈들도 보고 싶지 않아.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Harrim/Q3_The_Unmaking/Paladin_vs_Ghost-2/Cue_0031_Text
 #. Speaker : Harrim_Companion
@@ -89702,8 +89702,8 @@ msgid ""
 "ha, I know what I will do!\" {n}A devilish sneer appears on the priest's "
 "face.{/n} \"Leave. It's about to get very noisy in here...\""
 msgstr ""
-"\"이 세상에 그리 오래 머문 유령은 아니었구나... 하하. 이제 뭘 해야 할지 알겠다!\" {n}사제의 얼굴에는 악의에 찬 비웃음이 "
-"나타납니다.{/n} \"나가. 여기는 이제 아주 시끄럽게 될 거야...\""
+"\"오, 이 세상에 너무 오래 머문 게 유령만은 아니었군... 하하, 뭘 해야 할지 알겠어!\" {n}사제의 얼굴에 악마 같은 비웃음이 "
+"떠오릅니다.{/n} \"나가. 여기는 이제 아주 시끄러워질 거야...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Harrim/Q3_The_Unmaking/Paladin_vs_Ghost-2/Cue_0032_Text
 #. Speaker : Harrim_Companion
@@ -89711,7 +89711,7 @@ msgctxt "ac9a65b9-e90e-477e-b39e-5f3e07a3f818"
 msgid ""
 "{n}Harrim puts his palms on the stone wall, and you feel a vibration coming "
 "from the very depths of the ground.{/n} \"Get out! Quickly!\""
-msgstr "{n}하림은 손바닥을 돌벽 위에 올려놓자 당신은 땅 깊은 곳에서 진동을 느낍니다.{/n} \"빨리 나가!\""
+msgstr "{n}하림이 돌벽에 두 손바닥을 대자, 땅속 아주 깊은 곳에서 올라오는 진동이 느껴집니다.{/n} \"나가! 어서!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Harrim/Q3_The_Unmaking/Paladin_vs_Ghost-2/Cue_0033_Text
 #. Speaker : HarrimQ3_Offeld_Skjegge
@@ -199244,7 +199244,7 @@ msgstr "[떠납니다]"
 #. Mechanics/Blueprints/World/Dialogs/c21/BigNarlmarches/CurseWell/Answer_75729_Text
 msgctxt "af8825f9-c360-4897-9162-5bcfaf91f820"
 msgid "[Detect Magic] \"Let's see if this well bears any enchantments…\""
-msgstr "[탐지 마법을 시전합니다]\"이 우물에 뭐가 있는지 보자고...\""
+msgstr "[마법 탐지] \"이 우물에 마법이 걸려 있는지 보자고...\""
 
 #. Mechanics/Blueprints/World/Dialogs/c21/BigNarlmarches/CurseWell/Answer_75731_Text
 msgctxt "217b0309-8313-4e66-b4f0-3d87bb82d1e9"
@@ -199265,15 +199265,16 @@ msgid ""
 "lid of the well. The rotting wooden cover has been crudely hammered shut "
 "with heavy iron nails.{/n}"
 msgstr ""
-"{n}우물에 접근할 때 당신은 떨림을 느꼈습니다. 주위의 공기는 부패의 냄새로 가득합니다. 냄새의 근원을 확인하려고 할 때 우물을 덮은 "
-"뚜껑 아래에서 끼이익거리는 소리와 속삭이는 소리를 듣습니다. 썩어가는 나무 덮개는 무거운 철제못으로 꼼꼼하게 고정되어있습니다.{/n}"
+"{n}우물에 다가서며 당신은 몸서리를 억누릅니다 — 주위 공기는 부패의 냄새로 가득합니다. 냄새의 근원을 찾으려는데, 문득 우물 뚜껑 "
+"아래에서 새어 나오는 속삭임과 거칠게 긁는 소리가 들려옵니다. 썩어 가는 나무 덮개는 굵은 쇠못이 아무렇게나 박힌 채 닫혀 "
+"있습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c21/BigNarlmarches/CurseWell/Cue_75733_Text
 msgctxt "1b0e4ba3-0b97-4dbb-b7c9-90e7eca45cdc"
 msgid ""
 "{n}An aura of death magic hangs about the well — the aura runs strong and "
 "deep, emanating from the bottom of the well itself.{/n}"
-msgstr "{n}죽음의 마법의 기운이 우물 주변에서 나옵니다. 아우라는 우물 밑바닥에서 강하고 깊게 발산합니다.{/n}"
+msgstr "{n}죽음의 마법 오라가 우물 주위에 감돌고 있습니다 — 오라는 강하고 깊게 흐르며, 다름 아닌 우물 밑바닥에서 뿜어져 나옵니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c21/BigNarlmarches/CurseWell/Cue_75734_Text
 msgctxt "87377d7e-7807-4f9b-acde-4752415a623c"
@@ -199282,8 +199283,8 @@ msgid ""
 "faint, but you take a breath and focus, blocking out the whispers. Your "
 "momentary disorientation subsides.{/n}"
 msgstr ""
-"{n}속삭임이 갑자기 뚜껑 아래에서 터져 나옵니다. 잠시 동안 당신은 어지러움을 느끼지만 숨을 들이쉬고 집중을 하면서 귀를 막습니다. "
-"순간 어지러움이 가라앉습니다.{/n}"
+"{n}뚜껑 아래에서 속삭임이 한꺼번에 터져 나옵니다 — 순간 눈앞이 아득해지지만, 숨을 고르고 집중하여 속삭임을 차단합니다. 잠깐의 "
+"어지러움이 가라앉습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c21/BigNarlmarches/CurseWell/Cue_75736_Text
 msgctxt "bdb2a59e-006a-488c-9876-090df2488c61"
@@ -241232,9 +241233,10 @@ msgid ""
 "followed by the scraping of stone as the hand begins to force the lid open "
 "the rest of the way!{/n}"
 msgstr ""
-"{n}망치가 깨지고 등과 어깨가 욱신거릴 정도로 많은 시도를 하고 당신은 석관의 뚜껑을 부숴 버렸습니다... 그 안에서는 시체가 부패하는 "
-"끔찍한 냄새가 났습니다. 적어도 당신은 그것을 열었지만요. 그러나 당신의 승리는 오래 가지 못합니다. 석관 안에서 뭔가가 무거운 소리가 "
-"들리자 당신은 얼어붙습니다. 곧 거대한 썩은 손이 부숴진 석관 뚜껑을 잡았고 이내 석관의 뚜껑을 마저 열어버리려고 합니다!{/n}"
+"{n}필사적인 시도를 거듭한 끝에 — 망치 하나가 부러지고 등과 어깨가 욱신거리고서야 — 당신은 석관 뚜껑에 금을 내는 데 "
+"성공합니다... 지독한 냄새가 흘러나옵니다 — 시체 썩는 냄새입니다. 그래도 어쨌든 열긴 열었습니다. 하지만 승리는 오래가지 못합니다 — "
+"석관 안에서 무언가가 — 묵직한 무언가가 — 움직이는 소리에 당신은 얼어붙습니다. 이내 거대한 썩은 손이 당신이 낸 틈을 휘감아 "
+"가장자리를 움켜쥡니다... 곧이어 돌 긁히는 소리와 함께 그 손이 뚜껑을 마저 열어젖히기 시작합니다!{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepLake_Outdoor/UndeadCyclopsSarcophagus/Cue_0028_Text
 msgctxt "a6703328-0962-4444-a4c4-72c168db558d"
@@ -241249,8 +241251,8 @@ msgid ""
 "{n}Magic presence here is obvious. You can sense powerful necromancy "
 "energies, but can't figure out the specific spells in use here.{/n}"
 msgstr ""
-"{n}여기에 마법의 존재가 있는 것이 분명합니다. 당신은 강력한 네크로맨서의 기운을 느꼈지만 여기에 사용되는 특정 주문을 파악할 수는 "
-"없었습니다.{/n}"
+"{n}이곳에 마법이 깃든 것은 분명합니다. 강력한 네크로맨시 기운이 감지되지만, 정확히 어떤 주문이 작용하고 있는지는 알아낼 수 "
+"없습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepLake_Outdoor/VillageLoreBarks1/SilverstepLake_Outdoor_VillageLoreBarks1_WhatToBark
 msgctxt "6eb969a9-1c76-4fe5-8193-1f903dd2fad8"
@@ -241262,7 +241264,7 @@ msgctxt "530aaa48-fb4f-46f0-990f-63b302165612"
 msgid ""
 "Two small graves hide at the foot of the rock. Wooden grave markers, "
 "whittled and painted with loving care, are placed at the top of both."
-msgstr "두 개의 작은 무덤이 발치의 바위에 숨어 있습니다. 나무로 깎고 조심스럽게 다듬은 나무조각이 무덤 위에 놓여있습니다."
+msgstr "작은 무덤 두 개가 바위 발치에 숨어 있습니다. 정성 들여 깎고 색을 칠한 나무 묘표가 두 무덤 머리맡에 놓여 있습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepWerewolf/Barks/HunterBeforAttack_String
 msgctxt "bf6e9571-d86f-4ca0-b250-7ae64dbef1bf"
@@ -260819,8 +260821,9 @@ msgid ""
 "back, bleeding from numerous tiny wounds. Nevertheless, the ice crystals "
 "that had surrounded the niche melted."
 msgstr ""
-"펀치와 함께 판이 눌렸고 강력한 바람이 불어 작고 많은 얼음 조각을 쏟아냈습니다. 바람이 너무나 강해서 {Name}은(는) 바닥에 "
-"넘어지고 말았고, 수많은 상처를 입었습니다. 그럼에도 불구하고, 틈새를 둘러싸고 있던 얼음 조각은 녹아내렸습니다."
+"일격에 압력판이 산산이 부서지자, 틈새에서 폭풍 같은 바람과 함께 날카로운 얼음 조각이 무수히 쏟아져 나왔습니다. 바람이 어찌나 거셌던지 "
+"{Name}은(는) 벌러덩 넘어졌고, 여기저기 난 자잘한 상처에서 피가 흘렀습니다. 그럼에도 틈새를 둘러싸고 있던 얼음 조각은 "
+"녹아내렸습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfPain/Cue_0024_Text
 msgctxt "a3e3ac02-a2a2-4577-9d36-101d7330ea88"
@@ -260831,8 +260834,9 @@ msgid ""
 "plate stopped moving with a loud click, {Name} yanked {mf|his|her} hand away "
 "from the niche and collapsed to the stone floor, exhausted."
 msgstr ""
-"{Name}은(는) 고통에 신음하며 판을 눌렀습니다. 적은 전류가 당신의 손에 흘렀고, 공기는 번개가 치는 날의 냄새를 풍겼습니다. "
-"딸깍거리는 소리와 함께 판이 멈추자 {Name}이(가) 손을 빼냈고, 지친 채로 돌바닥에 쓰러졌습니다."
+"{Name}은(는) 고통에 짧게 신음하며 압력판을 눌렀고, 판은 서서히 벽 안으로 들어갔습니다. 그 사이 가느다란 번개 줄기들이 손을 "
+"타고 흘렀고, 공기에는 뇌우가 몰아칠 때의 냄새가 감돌았습니다. 압력판이 큰 딸깍 소리와 함께 멈추자, {Name}은(는) 틈새에서 손을 "
+"홱 빼내고 기진맥진한 채 돌바닥에 쓰러졌습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfPain/Cue_0025_Text
 msgctxt "1ee7320e-e753-4962-aff1-a63cb35ad045"
@@ -260846,9 +260850,10 @@ msgid ""
 "clicking sound was heard from the niche as the plate stopped moving. The "
 "tiny bolts of lightning disappeared from the plate's surface."
 msgstr ""
-"{Name}은(는) 이를 악물며 판을 눌렀습니다. 적은 전류가 당신의 손에 흘렀고 공기는 번개가 치는 날의 냄새를 풍겼습니다. 고통을 "
-"참지 못한 {mf|그|그녀}는 손을 빼냈고, 갑자기 밝은 전기구 하나가 반대편의 벽에서 {Name}을(를) 향해 날아왔습니다. 그동안, "
-"압력판은 딸깍거리는 소리를 내며 멈추었습니다. 작은 전류들이 압력판의 표면에서 사라졌습니다."
+"{Name}은(는) 고통에 이를 악물며 압력판을 눌렀고, 판은 서서히 벽 안으로 들어갔습니다. 그 사이 가느다란 번개 줄기들이 손을 타고 "
+"흘렀고, 공기에는 뇌우가 몰아칠 때의 냄새가 감돌았습니다. 더는 고통을 참지 못한 {Name}은(는) 손을 홱 빼냈고, 그 순간 틈새에서 "
+"눈부신 번개 한 줄기가 뻗어 나와 {Name}을(를) 반대편 벽으로 내동댕이쳤습니다. 그러는 사이 판이 멈추면서 틈새에서 딸깍 소리가 "
+"들렸습니다. 판 표면에서 가느다란 번개 줄기들이 사라졌습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfPain/Cue_0026_Text
 msgctxt "38f36c62-792b-46e1-bb0e-3b0d1fe8e078"
@@ -260872,9 +260877,9 @@ msgid ""
 "thunderstorm. Nevertheless, {mf|his|her} efforts had not been in vain — the "
 "tiny bolts of lightning disappeared from the plate's surface."
 msgstr ""
-"여러 방향에서 덫을 살펴 본 후, {Name}은(는) 그것을 해체하려고 했지만 무언가 이상했습니다. 판에서 철컹거리는 소리가 들리면서 "
-"틈에서 번개의 구가 {Name}에게 달려들었습니다. 공기는 번개가 치는 날의 냄새를 풍겼습니다. 그럼에도 불구하고 {mf|그|그녀}의 "
-"노력은 헛되지 않았습니다. 작은 전류가 판의 표면에서 사라지기 시작합니다."
+"압력판을 모든 각도에서 살펴본 {Name}은(는) 해체 작업에 착수했지만, 무언가 잘못되었습니다. 판은 금이 가더니 산산이 부서졌고, "
+"틈새에서 눈부신 번개 한 줄기가 뻗어 나와 {Name}을(를) 반대편 벽으로 내동댕이쳤습니다. 던전의 퀴퀴한 공기에는 뇌우가 몰아칠 때의 "
+"냄새가 감돌았습니다. 그럼에도 그 노력은 헛되지 않았습니다. 판 표면에서 가느다란 번개 줄기들이 사라졌습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfPain/Cue_0028_Text
 msgctxt "4ca874c7-7c7d-4dc9-a77a-9fdc4b53edc4"
@@ -260884,8 +260889,8 @@ msgid ""
 "fragments fell to the floor. Perhaps the creator of this trial thought "
 "desperate courage was to be rewarded... or perhaps we just got lucky."
 msgstr ""
-"가끔 강한 충격이 효과가 있기도 합니다. {Name}이(가) 판을 세게 때렸고, 공기 중으로 전기가 튀면서 돌 파편이 바닥으로 "
-"떨어졌습니다. 아마도 이 덫을 만든 자는 필사적인 시도를 하는 자에게 상을 주려고 했나 봅니다... 혹은 우리가 운이 좋았거나요."
+"가끔은 완력이 정말 최선일 때도 있습니다. {Name}은(는) 있는 힘껏 압력판을 내리쳤고, 돌 파편이 바닥에 떨어지는 사이 불꽃이 "
+"공중으로 튀었습니다. 어쩌면 이 시험을 만든 자는 필사적인 용기에 상을 주려 했나 봅니다... 아니면 그저 우리가 운이 좋았거나요."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/ArmagsTomb/TestOfPain/Cue_0029_Text
 msgctxt "962fc630-0922-4685-8b46-063037330700"
