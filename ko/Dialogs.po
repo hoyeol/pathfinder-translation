@@ -174458,7 +174458,7 @@ msgid ""
 "decide to go, please remember that trolls can only be killed with fire or "
 "acid.\""
 msgstr ""
-"\"감사합니다, 영주님.\" {n}캐스턴은 안도의 한숨을 내쉰다.{/n} \"가기로 결정하셨다면, 트롤은 산과 불로만 죽일 수 있다는 "
+"\"감사합니다, 영주님.\" {n}케스턴은 안도의 한숨을 내쉰다.{/n} \"가기로 결정하셨다면, 트롤은 산과 불로만 죽일 수 있다는 "
 "것을 명심해주십시오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc21-1TrollTroubleStart/Cue_26603_Text
@@ -177166,7 +177166,7 @@ msgid ""
 msgstr ""
 "\"이와 동시에, 겁에 질린 백성들이 무기를 들었다는 상황이 좋다고는 할 수 없습니다. 법과 권력의 통제 하에 있어야 남작령의 유지가 "
 "가능합니다. 따라서 저의 최우선 임무는 그 권력과 법이 당신의 통제 하에 있도록 도와드리는 것입니다.\" {n}오랜만에 길게 말을 "
-"해서인지 캐스턴은 깊게 숨을 들이 마십니다.{/n} \"그저...제가 영주님의 아군이라는 것만 기억해 주십시오.\""
+"해서인지 케스턴은 깊게 숨을 들이 마십니다.{/n} \"그저...제가 영주님의 아군이라는 것만 기억해 주십시오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-3BloomDiscussion/Cue_0044_Text
 #. Speaker : Capital_Jhod
@@ -177338,7 +177338,7 @@ msgid ""
 "\"I thank you, {mf|my baron|my baroness}. I hope you'll join us soon.\" {n}"
 "Kesten gives a short bow, turns around, and leaves.{/n}"
 msgstr ""
-"\"감사드립니다, {mf|영주님|영주님|전하|전하}. 금방 합류하실 수 있다면 좋겠군요.\" {n} 짧게 인사하고 돌아서며, 캐스턴은 "
+"\"감사드립니다, {mf|영주님|영주님|전하|전하}. 금방 합류하실 수 있다면 좋겠군요.\" {n} 짧게 인사하고 돌아서며, 케스턴은 "
 "떠나갑니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-3BloomDiscussion/Cue_0076_Text
@@ -177825,7 +177825,7 @@ msgid ""
 "think we should consider commemorating Kesten. I think the people would "
 "appreciate knowing that we don't forget those who fight alongside us.\""
 msgstr ""
-"\"이제, 마침내 수도의 상황이 정상에 가까워졌으니, 캐스턴을 위한 추모회를 열도록 합시다. 우리와 함께 싸워주었던 전우들을 기억할 "
+"\"이제, 마침내 수도의 상황이 정상에 가까워졌으니, 케스턴을 위한 추모회를 열도록 합시다. 우리와 함께 싸워주었던 전우들을 기억할 "
 "것임을 공고히 한다면 백성들이 감사해 할 것입니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-4HonorTheFallen/KestenDead/Cue_0010_Text
@@ -177835,8 +177835,8 @@ msgid ""
 "\"A brilliant idea, Your Grace. Kesten would have been proud to know his "
 "example will inspire new generations of the barony's defenders.\""
 msgstr ""
-"\"현명한 생각이십니다, 영주님. 남작령 경비대의 역사에 길이 남을 행동을 한 캐스턴은 새로운 세대의 동경의 대상과 자랑이 될 것입니다."
-"\""
+"\"현명한 생각이십니다, 영주님. 남작령 경비대의 역사에 길이 남을 행동을 한 케스턴은 새로운 세대의 동경의 대상과 자랑이 될 "
+"것입니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-4HonorTheFallen/KestenDead/Cue_0014_Text
 #. Speaker : Capital_Jhod
@@ -227062,7 +227062,7 @@ msgid ""
 "{mf|baron|baroness}. We were losing hope — no longer, now that you are here."
 "\""
 msgstr ""
-"{n}캐스턴은 고개를 끄덕입니다. 그의 갑옷은 상처와 흠집으로 덮여있고 장갑에는 피가 묻어 있지만 그는 부상당하지 않았습니다.{/n} "
+"{n}케스턴은 고개를 끄덕입니다. 그의 갑옷은 상처와 흠집으로 덮여있고 장갑에는 피가 묻어 있지만 그는 부상당하지 않았습니다.{/n} "
 "\"제 때 오셨군요. 우리는 희망을 잃고 있었습니다. 하지만 이제는 영주님께서 오셨으니 반격할 시간입니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/Kesten/Cue_13109_Text
@@ -227079,10 +227079,10 @@ msgid ""
 "prisoners inside.\""
 msgstr ""
 "\"길을 따라 내려갔더니 고블린의 둥지가 있더군요. 강을 따라가면서 그것을 우연히 보았죠. 이 해충들의 둥지가 언제 이렇게나 빨리 "
-"만들어졌는지 모르겠습니다. 열흘 전에 정찰을 보내봤지만 놈들의 흔적은 남아 있지 않았습니다!\"\n"
-"{n}캐스턴은 다시 침착해졌습니다.{/n} \"원인이 무엇이든 주변 지역은 고블린이 매우 많습니다. 우리가 보낸 정창별 중 한 명만이 "
-"돌아왔지요. 그들이 언덕 꼭대기에서 {g|Lamashtu}라마슈투{/g}의 토템 주변에 요새를 세웠다고 합니다. 요새 내부에는 죄수들이 "
-"갇힌 감옥도 많습니다.\""
+"만들어졌는지 모르겠습니다. 열흘 전에 정찰을 보내봤지만 놈들의 흔적은 남아 있지 않았습니다!\"\n{n}케스턴은 다시 "
+"침착해졌습니다.{/n} \"원인이 무엇이든 주변 지역은 고블린이 매우 많습니다. 우리가 보낸 정창별 중 한 명만이 돌아왔지요. 그들이 "
+"언덕 꼭대기에서 {g|Lamashtu}라마슈투{/g}의 토템 주변에 요새를 세웠다고 합니다. 요새 내부에는 죄수들이 갇힌 감옥도 "
+"많습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/Kesten/Cue_13110_Text
 msgctxt "8ce8cfb7-09a7-4400-bf34-78831dc736fa"
@@ -227098,7 +227098,7 @@ msgid ""
 msgstr ""
 "\"우리는 포로 몇 명을 구출하기도 했습니다. 다른 자들도 자력으로 탈출해서 돌아왔습니다. 죄수였던 자들이 말하길, 샤먼이 죄수들에게 "
 "의식을 행한다고 합니다. 저희는 공격을 준비하기 위해 이곳에 왔지만 고블린이 계속해서 몰려오는 상황이었습니다! 놈들이 계속해서 저희를 "
-"쫓으면 생존자를 보호하느라 적진을 공격할 수도 없는 상황이었죠.\" {n}캐스턴은 결심하고 당신을 봅니다.{/n} \"영주님만이 요새에 "
+"쫓으면 생존자를 보호하느라 적진을 공격할 수도 없는 상황이었죠.\" {n}케스턴은 결심하고 당신을 봅니다.{/n} \"영주님만이 요새에 "
 "감금 된 포로들을 구출할 수 있습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/Kesten/Cue_13117_Text
@@ -227149,9 +227149,9 @@ msgid ""
 "forces victims to drink water until they start to choke.\""
 msgstr ""
 "\"몇몇은 부상당하고 많은 사람들이 지쳤는데 모두 무슨 일이 일어날지 두려워하고 있습니다. 죄수들의 말로는 모두 "
-"{g|Lamashtu}라마슈투{/g}의 토템에서 집행되는 마법 의식에 참가시킬 뿐이었다고 합니다.\" {n}캐스턴은 찡그립니다.{/n} "
-"\"샤먼이 아무도 제물로 바치지 않는 것이 이상합니다. 놈은 그저 라마슈투에게 큰 소리로 기도를 올리고 죄수들한테 물만 먹인다고 하더군요."
-"\""
+"{g|Lamashtu}라마슈투{/g}의 토템에서 집행되는 마법 의식에 참가시킬 뿐이었다고 합니다.\" {n}케스턴은 찡그립니다.{/n} "
+"\"샤먼이 아무도 제물로 바치지 않는 것이 이상합니다. 놈은 그저 라마슈투에게 큰 소리로 기도를 올리고 죄수들한테 물만 먹인다고 "
+"하더군요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/Kesten/Cue_13127_Text
 #. Speaker : GoblinKingFort_Kesten
@@ -227159,7 +227159,7 @@ msgctxt "e7ae3ad8-e6c6-4d99-a929-9fa5ddb93902"
 msgid ""
 "{n}Kesten turns pale.{/n} \"How... How dare you say that?! We know how to "
 "save them! I refuse!\""
-msgstr "{n}캐스턴은 창백해집니다.{/n} \"어떻게... 그런 말씀을?! 우린 그들을 구하는 법을 알고 있습니다! 거절하겠습니다!\""
+msgstr "{n}케스턴은 창백해집니다.{/n} \"어떻게... 그런 말씀을?! 우린 그들을 구하는 법을 알고 있습니다! 거절하겠습니다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/Kesten/Cue_13128_Text
 msgctxt "6f319f98-2bd7-4e45-a8e6-14092cc76ac8"
@@ -227220,8 +227220,8 @@ msgid ""
 "subjects — the families of your militia — are being sacrificed. Now fulfil "
 "your duty — gather your squad and take it to the capital!\""
 msgstr ""
-"\"캐스턴. 너는 나의 부하야. 네 민병대 부하들이 겁에 질려있을 때 숲에서 영웅놀이를 하면 안돼. 네 의무대로 분대를 모아 수도로 가!"
-"\""
+"\"케스턴. 너는 나의 부하야. 네 민병대 부하들이 겁에 질려있을 때 숲에서 영웅놀이를 하면 안돼. 네 의무대로 분대를 모아 수도로 "
+"가!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/KestenFinal/Answer_79616_Text
 msgctxt "8deb8669-f094-478d-8777-59d9301ecc06"
@@ -227260,8 +227260,8 @@ msgid ""
 "must hurry to the capital — I will continue looking for the source of the "
 "seeds.\""
 msgstr ""
-"{n}캐스턴은 이마를 닦습니다.{/n} \"모든 씨앗이 폭발한다면... {g|Abadar}아바다르{/g}가 우리를 보호하길. 수도의 "
-"사람들이 모두 감염될 겁니다! 거리와 카브켄의 병원도 위험해!\" {n}캐스턴은 당신을 봅니다.{/n} \"서둘러 수도로 가주십시오. "
+"{n}케스턴은 이마를 닦습니다.{/n} \"모든 씨앗이 폭발한다면... {g|Abadar}아바다르{/g}가 우리를 보호하길. 수도의 "
+"사람들이 모두 감염될 겁니다! 거리와 카브켄의 병원도 위험해!\" {n}케스턴은 당신을 봅니다.{/n} \"서둘러 수도로 가주십시오. "
 "저는 씨앗의 근원을 계속 찾아 보겠습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/KestenFinal/Cue_79591_Text
@@ -227286,7 +227286,7 @@ msgid ""
 "this curse at the source!\""
 msgstr ""
 "\"하지만 그분은... 맙소사, 조드님을 지키고 있는 병력이 한명도 없습니다! 그리고 백성들은... 경비병들이 이 끔찍한 괴물의 공격을 "
-"멈출 수 있을까요?\" {n}캐스턴은 잠시 침묵을 지켰고 그의 미간은 좁아집니다.{/n} \"아니, 저는 강 상류로 가겠습니다. 그곳에서 "
+"멈출 수 있을까요?\" {n}케스턴은 잠시 침묵을 지켰고 그의 미간은 좁아집니다.{/n} \"아니, 저는 강 상류로 가겠습니다. 그곳에서 "
 "새로운 씨앗이 생기지 않게 막겠습니다. 반드시 이 저주의 근원을 막겠습니다!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/KestenFinal/Cue_79596_Text
@@ -227342,7 +227342,7 @@ msgid ""
 "capital, I hope you'll arrive in time to help the people there. "
 "{g|Abadar}Abadar{/g} protect you!\""
 msgstr ""
-"{n}캐스턴은 고개를 끄덕입니다.{/n} \"자궁에 가실 거라면 내 병사들을 만나실 수 있을 겁니다. 수도로 가신다면 제 때에 도착해 "
+"{n}케스턴은 고개를 끄덕입니다.{/n} \"자궁에 가실 거라면 내 병사들을 만나실 수 있을 겁니다. 수도로 가신다면 제 때에 도착해 "
 "사람들을 도울 수 있기를 기도하겠습니다. {g|Abadar}아바다르{/g}께서 굽어 살피시기를!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinKingFort/KestenFinal/Cue_79620_Text
@@ -237599,8 +237599,8 @@ msgid ""
 "{n}Kesten closes his eyes. His face, beneath the blood and mud, looks "
 "relieved.{/n} \"{g|Abadar}Abadar{/g}…be praised...\""
 msgstr ""
-"{n}캐스턴이 눈을 감습니다. 그는 비록 피와 진흙 투성이가 되었지만, 안심한듯 합니다.{/n} \""
-"{g|Abadar}아바다르{/g}시여...\""
+"{n}케스턴이 눈을 감습니다. 그는 비록 피와 진흙 투성이가 되었지만, 안심한듯 합니다.{/n} "
+"\"{g|Abadar}아바다르{/g}시여...\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepGrotto_Cave/KestenCaveDialog/Cue_0012_Text
 #. Speaker : SilverstepGrotto_Cave_Kesten
