@@ -9009,9 +9009,9 @@ msgid ""
 "mean, overthrow the {mf|baron|baroness|King|Queen} and set up their own "
 "empire on the ruins of your {mf|barony|barony|kingdom|kingdom}."
 msgstr ""
-"한 무리의 자칭 \"덕망 있는 기사단\"이 우리 백성들을 악과 혼돈에서 구하러 왔다고 주장하며 우리 영지에 침입했습니다. 즉, "
-"{mf|남작|여남작|왕|여왕}님을 몰아내고서, 우리 {mf|남작령|남작령|왕국|왕국}의 폐허 위에 자신들의 제국을 세우겠다고 선언하고 "
-"있는 것입니다."
+"한 무리의 \"덕망 있는 기사들\"이 우리 영지에 침입해, \"백성들을 악과 혼돈에서 구하러 왔다\"고 주장하고 있습니다. 그들이 말하는 "
+"구원이란 곧 {mf|남작|여남작|왕|여왕}님을 몰아내고 우리 {mf|남작령|남작령|왕국|왕국}의 폐허 위에 자신들의 제국을 세우는 "
+"것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment Events/UninvitedJustice_CE_LocalizedName
 msgctxt "87bd6e58-2a37-44b7-a8a5-7d196ff8e057"

@@ -6624,8 +6624,8 @@ msgid ""
 "everything in the world turns out how you'd like. At least so long as you "
 "don't have the power to compel the world to obey.\""
 msgstr ""
-"{n}선조는 카네라의 손을 꽉 잡은 채, 칼리케를 바라보며 말합니다.{/n} \"이것이 바로 '책임'이라는 것이다, 어리석은 아이야. "
-"세상 모든 일이 네가 원하는 대로 되는 것은 아니다. 적어도 세상을 네 앞에 복종시킬 힘이 없다면 말이지.\""
+"{n}선조는 먹잇감의 손을 꽉 붙잡고 그 자매를 바라봅니다.{/n} \"이것이 바로 '책임'이라는 것이다, 어리석은 아이야. 세상일이 "
+"모두 네 뜻대로 풀리지는 않는다. 적어도 세상을 억지로 복종시킬 힘이 없는 한은 말이지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/1DLC/Q3_Ambivalence/DevilVsHerald/Cue_0057_Text
 #. Speaker : Arcanotheign
@@ -64960,7 +64960,9 @@ msgid ""
 "{n}The man stares at you with dark eyes, his lips curved with "
 "displeasure.{/n} \"You... I mean, 'Your {mf|Grace|Grace|Highness|Highness}' "
 "wishes to speak with me?\""
-msgstr "{n}어두운 눈으로 당신을 본 그 남자의 입술은 불만으로 일그러집니다.{/n} \"너... 너의 왕이 나와 이야기하고 싶어하나?\""
+msgstr ""
+"{n}남자는 어두운 눈으로 당신을 응시하며 불쾌한 듯 입술을 일그러뜨립니다.{/n} \"너... 아니, "
+"'{mf|영주님|영주님|전하|전하}'께서 나와 이야기하고 싶으신가?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/MaegarVordakai/Cue_0002_Text
 msgctxt "5527ecc0-4817-4f2d-a7d9-507280eb2d98"
@@ -104553,9 +104555,9 @@ msgid ""
 "whole story is one long, feeble joke. I'd piss on their bones, if I cared "
 "enough. We should never have come here. Let's go home.\""
 msgstr ""
-"{n}레곤가르는 칼질 한번으로 노인의 머리를 잘라냅니다. 그리고 어깨에 걸쳐져 있던 그을린 말토를 가져갑니다.{/n} \"시궁창에서 눈먼 "
-"쥐처럼 살다가, 똑같은 방식으로 간거지. 이 모든 건 길고 끔찍한 농담이야. 신경 쓸 만한 일이었다면 오줌이라도 뼈에다 갈겨줬을텐데. "
-"여기 오지 말았어야 했어. 집에나 가자고.\""
+"{n}레곤가르는 검을 단 한 번 휘둘러 노인의 목을 벤 뒤, 시신에서 그을린 망토를 벗겨 자신의 어깨에 걸칩니다.{/n} \"시궁창의 "
+"눈먼 쥐처럼 살더니, 죽는 꼴도 똑같군. 이 모든 이야기는 길고도 한심한 농담 하나일 뿐이야. 내가 신경이나 썼다면 저놈들 뼈에 "
+"오줌이라도 갈겼겠지. 우린 애초에 여기 오지 말았어야 해. 집에나 가자.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Regongar_Master_Self/Last_Tribesman/Cue_0026_Text
 #. Speaker : Regongar_Companion
@@ -113906,8 +113908,8 @@ msgid ""
 "\"I... I was just sitting at night... And, well... Thinking about things... "
 "And the flask... I kind of didn't notice... And here I am.\""
 msgstr ""
-"\"난.. 어제 밤을 새버렸어... , 음... 여러가지를 생각하느라 말이야... 병들은 말이지... 저기 있는 줄도 몰랐는데... "
-"그리고 지금 이꼴이 되버렸군.\""
+"\"난... 난 그냥 밤에 앉아 있었어... 그게... 이런저런 생각을 하다가... 그리고 술병은... 어쩌다 보니 나도 모르게... "
+"그래서 이 꼴이야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Cue_0010_Text
 #. Speaker : Regongar_Companion
@@ -124985,12 +124987,13 @@ msgid ""
 "maze – may rise to divinity!\n"
 "Is the nature of divinity, then, so sacred indeed?\""
 msgstr ""
-"\"인간은 신이 될 수 있을까? 말 그대로 신성모독인 걸까? 과학은 경험에 근거하고, 이를 뒷받침하는 증거가 제시될 수 있다. 하지만 "
-"과학과 신학이 만나면 반동이 일어난다. 진화라는 용어는 설명할 수 없는 분야를 밝히는 데 소용이 없다.\n가장 좋은 예는 천사로서, "
-"천사들은 고결한 인간 영혼의 존재에 빚을 지고 있으며, 이는 우리에게 역설을 가져다준다. 인간의 영혼은 불멸의 본질로 변한다. 놀라운 "
-"예들이 많이 있는데 모두 신과 관련된 이야기들이다. 서렌레이가 가장 완벽한 증거이다.\n스타스톤 시험은 신성을 모독하고, 몇 가지 "
-"주문으로 치명적인 함정을 피할 수 있는 트릭스터라면 누구나 신성에 오를 수 있는 신의 시험으로 바꿨다!\n그렇다면 신성의 본질은 정말 "
-"그렇게 신성한 것일까?\""
+"\"필멸자는 신이 될 수 있을까? 그런 발상 자체가 신성모독일까? 과학은 경험에 의존하며, 이를 뒷받침하는 증거가 제시될 수 있다. "
+"그러나 과학은 신학과 마주치면 뒷걸음질 친다. '진화'라는 말은 생기 없는 물질을 불가해한 방식으로 비추는 신성한 불꽃에는 적용할 수 "
+"없다.\n그 대표적인 예가 천사들이다. 우리 필멸자들의 고결한 영혼이 존재하는 것은 천사들 덕분이며, 여기서 역설이 생긴다. 필멸의 "
+"영혼이 불멸의 정수로 변하는 것이다. 이처럼 경이로운 사건은 많으며, 하나하나가 신성과 이어질 가능성을 보여 준다. 빛나는 서렌레이가 그 "
+"완벽한 증거다.\n스타스톤 시험은 신성을 모독했다. 신이 되는 일을 한낱 시험으로 만들어, 몇 가지 주문을 지닌 채 치명적인 미로에서 "
+"함정 몇 개만 피할 수 있는 협잡꾼이라면 누구나 신의 반열에 오를 수 있게 했으니 말이다!\n그렇다면 신성의 본질은 과연 그토록 "
+"성스러운가?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Items/RegularBooks/ProdigalSons_Name_String
 msgctxt "b21d3c49-deb2-461f-abbf-2e7b029cf96c"
@@ -138088,10 +138091,9 @@ msgid ""
 "amazingly well versed, these accusers. They must have plenty of time to go "
 "out smelling wet goblins!\""
 msgstr ""
-"\"온 거리의 창문이 흔들리기 시작하고 끈적이는 보라색 물체가 마을로 떨어져 내렸어. 아이들은 곧바로 그걸 가지고 놀기 시작했지. 뭐, "
-"아주 엉망진창이었다고! 전해진 바에 따르면, 그게 한 주 내내 길거리에서 '젖은 고블린 가죽' 냄새가 나게 했다더라고!\" "
-"{n}옥타비아는 혀를 찼다.{/n} \"이 고발자들 완전 전문가가 다 됐지. 밖에서 엄청나게 오래 젖은 고블린 냄새를 맡아야 했으니까 "
-"말야!\""
+"\"거리의 창문들이 모조리 흔들리기 시작하더니 끈적이는 보라색 물질이 마을에 비처럼 쏟아졌어. 아이들은 곧장 그걸 가지고 놀기 시작했지. "
+"정말 난장판이었어! 듣자 하니 일주일 내내 거리에 '젖은 고블린 가죽' 냄새가 났대!\" {n}옥타비아가 혀를 찹니다.{/n} \"저 "
+"고발자들, 놀랄 만큼 잘 아는군. 밖에 나가 젖은 고블린 냄새나 맡고 다닐 만큼 아주 한가한 모양이야!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank5/Cue_0026_Text
 msgctxt "5aeba8e0-3b96-4684-841d-19bed1e4c6e3"
@@ -173148,11 +173150,11 @@ msgid ""
 "down his hair and adds.{/n} \"And while we're on the subject of my poetry, "
 "it's really not that bad...\""
 msgstr ""
-"{n}이벨드는 화가나서 숨을 헐떡입니다.{/n} \"그런가요? 제가 이 아가씨를 질식시킬 정도로 수많은 찬사를 쏟아냈지만, 돌아온 건 "
-"모욕과 비웃음 뿐이었습니다! 선물을 건네며 제 위대한 작품의 뮤즈가 되어달라고 애원했을 때에도, 코흘리개 애 취급하여 조롱했습니다! "
-"그리고 이제, 이 아름다운 아가씨로부터 벗어나 작품을 창작하려고 하자, 저를 먼저 찾아서는 악의적인 비방을 했다며 죄인 취급 하는군요! "
-"제가 대체 어떻게 해야 하나요? 저는 그저 영감이 떠오르면 하는 하수인에 불과합니다!\" {n}이벨드는 머리를 매만지며 "
-"덧붙입니다.{/n} \"그리고 주제를 다시 돌려 제 시에 대해 말씀드리자면, 그렇게 나쁘지 않은 시입니다...\""
+"{n}이벨드는 분개해 헉 하고 숨을 들이쉽니다.{/n} \"그렇단 말입니까? 제가 이 숙녀분께 숨이 막힐 만큼 절묘한 찬사를 "
+"쏟아부었건만, 돌아온 것은 모욕과 조롱뿐이었습니다! 선물을 들고 찾아가 제 최고의 작품을 위한 뮤즈가 되어 달라고 애원했을 때는 코흘리개 "
+"취급을 받으며 조롱당하고 쫓겨났습니다! 그런데 이제 이 숙녀분과 떨어져 제 예술을 추구하기 시작하자마자, 저를 찾아와 제가 악의로 자신을 "
+"헐뜯었다며 몰아세우는군요! 제가 어쩌겠습니까? 저는 그저 하늘에서 제게 내려오는 영감의 노예일 뿐입니다!\" {n}이벨드는 머리를 "
+"매만지고 덧붙입니다.{/n} \"그리고 제 시 이야기가 나온 김에 말씀드리자면, 정말 그렇게 나쁘지는 않습니다...\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/Companions/Valerie/ktc31-Valerie_Q2_Start/Cue_0013_Text
 msgctxt "fe058bf1-06e2-43ff-b2a1-a38e58b69e51"
@@ -174468,9 +174470,9 @@ msgid ""
 " \"So, if you do decide to go, please remember that trolls can only be "
 "killed with fire or acid.\""
 msgstr ""
-"\"송구하옵니다만 영주님, 만일 이 문제를 지금 해결하지 않는다면, 그곳은 다음달이 지나가기도 전에 폐허가 될 것입니다.\" "
-"{n}캐스턴의 안색이 거북하게 바뀐다.{/n} \"그러니, 출발하기로 결정하셨다면, 트롤은 산성과 불로만 죽일 수 있다는 것을 명심해 "
-"주십시오.\""
+"\"송구합니다, 영주님. 하지만 이 문제를 지금 처리하지 않으면 다음 달에는 구해야 할 사람이 아무도 남지 않을지도 모릅니다.\" "
+"{n}케스턴은 불안한 듯 자세를 바꿉니다.{/n} \"그러니 가시기로 결정하신다면, 트롤은 화염이나 산성 피해로만 죽일 수 있다는 점을 "
+"명심해 주십시오.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc21-1TrollTroubleStart/Cue_65308_Text
 #. Speaker : Capital_Kesten
@@ -176221,12 +176223,6 @@ msgstr ""
 "산등성이를 넘어 동쪽으로 놓인 길이 반홀드로 오는 길이라오. 길을 잃을 염려가 없지.\n나의 초대를 받아주던 혹은 그렇지 않던 한 가지 "
 "더 질문할 것이 있소. 우리들의 땅 사이에 교역로를 놓고 무역을 발전시키는 것이 어떻겠소. 우리 모두 이러한 결합으로 이익을 볼 것이라는 "
 "것을 확신할 수 있소.\n당신의 방문을 간절히 기다리겠소.\n경의를 표하며,\n남작 메이가르 반\""
-이웃하는 도시 반홀드의 통치자 메이가르 반이오. 연회에서 만났었던 것을 기억할지 모르겠소. 우리 만남은 나에게 중대한 영향을 끼쳤지. 당신은 용감한 전사이자 현명한 통치자이며, 그래서 나는 당신의 지지를 얻고자 희망하며 장래에는 굳건한 우정을 다지고 싶소. 신들께서나 소드로드들이 우리가 이웃하게끔 하는데에 어떠한 영향을 미쳤던 간에, 나는 우리의 동맹이 바위와 같이 굳건해 지리라 믿소.
-우리의 동맹이 형성되었음을 나타내기 위해 당신을 반홀드에 초대하여 내 의도가 선하다는 것을 당신 스스로 확인해 주었으면 하오. 도시는 아직 작지만 우리 손님에게 보일 것은 많다오. 우리의 지하창고에는 와인통이 가득하고, 곡물과 치즈 창고 또한 있다오. 우리의 도시에 오는 길은 간단하오, 실버스텝 호수를 지나, 레베니스 바위산맥의 산등성이를 넘어 동쪽으로 놓인 길이 반홀드로 오는 길이라오. 길을 잃을 염려가 없지.
-나의 초대를 받아주던 혹은 그렇지 않던 한 가지 더 질문할 것이 있소. 우리들의 땅 사이에 교역로를 놓고 무역을 발전시키는 것이 어떻겠소. 우리 모두 이러한 결합으로 이익을 볼 것이라는 것을 확신할 수 있소.
-당신의 방문을 간절히 기다리겠소.
-경의를 표하며,
-남작 메이가르 반\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc21_LinziComesBack/Cue_0001_Text
 msgctxt "b5ba5834-0b70-44ed-8b98-a09117ee9083"
@@ -176439,9 +176435,9 @@ msgid ""
 "Conqueror{/g} arrived in {g|Restov}Restov{/g} with his dragons. I would "
 "advise against reminding them of that shameful story.\""
 msgstr ""
-"\"{g|Mivon}미본{/g}은 대부분 망명한 알도리에 의해 통치되고 있습니다. {g|Choral}정복자 코랄{/g}이 드래곤과 함께 "
-"{g|Restov}레스토프{/g}를 습격했을 때 도망친 알도리의 후손들이죠. 저는 그들에게 이 수치스러운 역사를 떠올리지 말라고 충고하고 "
-"싶습니다.\""
+"\"{g|Mivon}미본{/g}은 대부분 알도리 망명자들이 지배하고 있습니다. 그들은 {g|Choral}정복자 코랄{/g}이 드래곤들을 "
+"이끌고 {g|Restov}레스토프{/g}에 왔을 때 도망치기를 택한 자들의 후손이죠. 그들에게 그 수치스러운 이야기를 상기시키는 일은 "
+"삼가시길 권합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-2threeQuests/Answer_0007_Text
 msgctxt "0358945e-3202-459d-9eed-3239852cc59a"
@@ -241055,8 +241051,8 @@ msgid ""
 "tone of sarcasm, but he quickly restrains himself.{/n} \"Your "
 "{mf|Grace|Grace|Highness|Highness}.\""
 msgstr ""
-"\"그건 정말이지.. 섣부른 결정..\" {n}상인의 목소리에는 빈정거리는 어조가 담겨 있지만, 얼른 자제합니다.{/n} \"..입니다. "
-"{mf|남작님|남작님|전하|전하}.\""
+"\"그건... 근시안적인 결정이었습니다.\" {n}상인의 목소리에는 빈정거림이 묻어나지만, 그는 이내 자제합니다.{/n} "
+"\"{mf|영주님|영주님|전하|전하}.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SilverstepLake_Outdoor/SuspiciosTrader/Cue_0052_Text
 msgctxt "af689792-8022-4366-9dd4-cfb61f976ebb"
@@ -250676,8 +250672,8 @@ msgid ""
 "tablet and scraped off carved names. You notice a word written over the neat "
 "lines: it reads \"TRAITOR\"."
 msgstr ""
-"클랜과 가족의 목록이 잘 보이지 않습니다. 어떤 것은 균열이 가있고 어떤 것은 이름이 지워졌습니다. 당신은 어떤 이름에 선이 그어지고 "
-"\"반역자\"라고 쓰여진 것을 보았습니다."
+"클랜과 가문의 명단은 온전하지 않습니다. 누군가 석판에 금을 내고 새겨진 이름들을 긁어 지웠습니다. 가지런한 글줄 위에 덧쓰인 단어 "
+"하나가 눈에 띕니다. \"반역자\"라고 적혀 있습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c31/ValleyOfTheDeadSE01/Barks/Tablet05Fail_String
 msgctxt "a70a85c9-dbd3-49f0-84ed-44c95add87f6"
@@ -266864,8 +266860,8 @@ msgid ""
 "worship {g|Mammon}Mammon{/g} as their official deity, and pay taxes to his "
 "temples.\""
 msgstr ""
-"\"나는 왕이 된다고.\" {n}다르벤은 웃습니다. 그러나 이번에는 그의 미소는 기쁨이 아닙니다.{/n} \"나의 왕국의 백성들은 "
-"{g|Mammon}마몬{/g}을 공식적인 신으로 숭배하고 마몬의 사원에 세금을 내야한다고.\""
+"\"나는 왕이 되기로 되어 있어. 더도 말고 덜도 말고.\" {n}다르벤은 씩 웃지만, 이번 미소에는 기쁨이 없습니다.{/n} \"내 "
+"왕국의 백성들은 {g|Mammon}마몬{/g}을 공식 신으로 숭배하고 그의 신전에 세금을 내야 하지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/DarvenAfterFight/Cue_0027_Text
 msgctxt "5a0cc222-2c5a-4a39-be53-7dd4ae745257"
@@ -267710,8 +267706,8 @@ msgid ""
 "\"The subjects of my kingdom were supposed to worship {g|Mammon}Mammon{/g} "
 "as their official deity, and pay taxes for his temples.\""
 msgstr ""
-"\"나는 더도 말고 덜도 말고 왕이 되려 했습니다.\" {n}다르벤은 웃습니다.{/n} \"나의 왕국의 사람들은 "
-"{g|Mammon}마몬{/g}을 그들의 공식적인 신으로 숭배하고 그의 사원에 세금을 내야 합니다.\""
+"\"나는 왕이 되기로 되어 있었습니다. 더도 말고 덜도 말고요.\" {n}다르벤은 웃습니다.{/n} \"내 왕국의 백성들은 "
+"{g|Mammon}마몬{/g}을 공식 신으로 숭배하고 그의 신전에 세금을 내기로 되어 있었습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BrineDarven/Cue_0023_Text
 msgctxt "befcf5d4-cdd3-442d-88ca-34a9a4133eae"
@@ -298997,10 +298993,10 @@ msgid ""
 "tone.{/n} \"And how can you not hate such a creature? Just the appearance of "
 "the witch has always made us very angry, deep inside.\""
 msgstr ""
-"\"이 불화는 네가 상상할 수 있는 것보다 오래되었다. 옹이 마녀는 항상 나이리사의 애정을 우리가 빼앗을까봐 두려워했다. 그녀는 우리를 "
-"부러워했고, 우리를 모함했고, 함정을 팠다 — 우리의 인내심이 끝날 때까지.\" {n}희미한 음성은 잠시 멈췄습니다 — 그리고는 이상하게 "
-"울리는 소리로 계속 말합니다.{/n} \"그런 피조물을 어떻게 싫어하지 않을 수 있겠는가? 마녀는 그 외모만으로도 항상 우리를 화나게 "
-"만든다, 진심으로.\""
+"\"이 불화는 네가 상상하는 것보다 훨씬 오래되었다. 옹이 마녀는 우리가 나이리사 아가씨의 총애를 빼앗을까 늘 두려워했다. 그자는 우리를 "
+"시기하고, 우리를 모함하려 들고, 함정을 놓았다. 결국 우리의 인내심도 바닥났지.\" {n}희미한 목소리가 잠시 멎었다가 기묘하게 울리는 "
+"음조로 말을 잇습니다.{/n} \"그런 피조물을 어떻게 증오하지 않을 수 있겠는가? 마녀는 모습만 비쳐도 늘 우리 속 깊은 곳에서 분노가 "
+"치밀게 했다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c61/HouseAtTheEdgeOfTime/WrigglingMan_HATEOT/Cue_0040_Text
 msgctxt "cf28bf08-fbe8-46f6-838e-fdda8dbaf993"
