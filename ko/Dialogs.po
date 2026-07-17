@@ -117709,8 +117709,8 @@ msgid ""
 "just realized what she heard. She bites her lips, looking at her feet in "
 "alarm.{/n} \"I...\""
 msgstr ""
-"\"무슨 소리를 하는 거죠?! 이 모든 문제가 약간의... 멍청한... 선언으로 해결될 거라고 생각하나요?\" {n}의미를 겨우 깨달은 "
-"것처럼, 발레리는 말을 그치고 동작을 멈춥니다. 그녀는 놀란듯 고개를 숙이며 입술을 깨뭅니다.{/n} \"나는...\""
+"\"무슨 소리를 하는 거죠?! 이 모든 문제가 고작... 바보 같은... 선언 따위로 해결될 거라고...\" {n}발레리는 방금 들은 "
+"말의 의미를 깨달은 듯 충격에 굳어 말을 멈춥니다. 그녀는 불안한 눈으로 제 발끝을 내려다보며 입술을 깨뭅니다.{/n} \"저는...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Valerie/MajorEvent_3_FinalTalk/Cue_0018_Text
 #. Speaker : Valerie_Companion
@@ -144398,9 +144398,9 @@ msgid ""
 "you'd best give them away. It wouldn't amount to a great loss, and a few "
 "people might recover their family heirlooms.\""
 msgstr ""
-"\"우리가 이 보물들을 어떻게 해야 하는지는 영주께 달려있소. 물론 당신의 성에서 발견되었으니, 그걸 금고에 보관할 수 있겠지...\" "
-"{n}메이가르는 움찔합니다.{/n} \"만약 내 생각을 듣고 싶으시다면, 이 보물들을 다시 백성들에게 돌려주는 것이 좋다고 생각하오. "
-"그건 딱히 큰 손해도 아니고, 몇몇 백성들은 소중한 가보를 되찾을지도 모르니까.\""
+"\"이 물건들을 어떻게 할지는 영주께 달려 있소. 물론 당신의 성에서 발견되었으니, 금고에 보관할 수도 있겠지...\" {n}메이가르는 "
+"움찔합니다.{/n} \"재무관의 의견을 들어 보시겠다면, 나눠 주는 것이 최선이라 말하겠소. 딱히 큰 손해도 아니고, 몇몇 사람들은 "
+"집안의 가보를 되찾을지도 모르니.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Economy/Rank2/Cue_0018_Text
 #. Speaker : SadisticMage_Capital
@@ -160707,9 +160707,9 @@ msgid ""
 "{mf|his|her} people. How else could they have captured the barbarians before "
 "they even acted?\""
 msgstr ""
-"\"우리 음식과 물에 독을 타려고 했던 주술사를 추적했어. 도시에 들어오자마자 붙잡았다고! 하지만 마을 주민들이 지켜보고 있었어. 이제 "
-"{mf|왕|여왕}이 {mf|그의|그녀의} 백성을 사찰한다는 소문이 돌고 있어. 어떻게 야만인들이 행동하기도 전에 체포할 수 "
-"있었던걸까?\""
+"\"우리 음식과 물에 독을 타려던 주술사들을 추적했어. 도시에 들어오자마자 붙잡았다고! 하지만 마을 주민들이 지켜보고 있었지. 이제 "
+"{mf|왕|여왕}이 {mf|그의|그녀의} 백성을 사찰한다는 소문이 돌고 있어. 그게 아니고서야 어떻게 야만인들이 손을 쓰기도 전에 "
+"붙잡혔겠느냐는 거지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Stability/Rank10/Rank10/Cue_0009_Text
 #. Speaker : Ekun_Companion
@@ -170394,9 +170394,10 @@ msgid ""
 "was taken by death. How could this half-blood have obtained it?!\""
 msgstr ""
 "\"독? 마법? 질병? 내 삶을 앗아간 것이 무엇이었든, 흔적조차 남기지 않았어. 난 이 수수께끼가 날 영원히 붙잡아 둘 것이라 "
-"생각했지. 그런데 그후 난 {g|Kyonin}쿄닌{/g}을 다시 상기시켜 줄 만한 물건을 좀 볼까해서 이 잡종의 가게에 들어갔는데... "
-"거기서 내가 뭘 발견했는지 알아? 예전 내 단검이었어!\" {n}제이탈은 당신에게 금이 가고 손잡이 보석 자리는 텅 비어버린 엘프제 "
-"단검을 보여주었습니다.{/n} \"이 단검은 내가 죽던 날 밤에 사라져버렸었지. 어떻게 이 잡종이 이걸 가지고 있을 수 있는거지?!\""
+"생각했지. 그런데 그 후 난 {g|Kyonin}쿄닌{/g}을 떠올리게 할 만한 물건을 좀 볼까 해서 이 잡종의 가게에 들어갔는데... "
+"거기서 내가 뭘 발견했는지 알아? 다름 아닌 내 단검이었어!\" {n}제이탈은 칼날의 이가 나가고, 한때 손잡이를 장식하던 보석이 빠져 "
+"빈 홈만 남은 엘프제 단검을 보여줍니다.{/n} \"이 단검은 내가 죽던 날 밤에 사라졌지. 어떻게 이 잡종이 이걸 가지고 있을 수 있는 "
+"거지?!\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/Companions/Jaethal/ktc21-Jaethal_Q1_start/Cue_0003_Text
 #. Speaker : Jaethal_Companion
@@ -177180,9 +177181,9 @@ msgid ""
 "We've saved so many...\" {n}Jhod's face falls.{/n} \"But, for each patient "
 "we cure, we receive two newly infected...\""
 msgstr ""
-"{n}사제는 만족한 듯 미소 짓습니다.{/n} \"이 질병의 근원을 찾은 뒤, 밤낮으로 사람들에게서 씨앗을 제거하는 작업을 하고 "
-"있습니다. 정말 많은 사람들을 구했습니다...\" {n}조드가 고개를 떨굽니다.{/n} \"하지만, 우리가 환자 한 명을 치료할 때마다, "
-"새롭게 감염된 환자 두 명을 받고 있는 형편입니다...\""
+"{n}사제는 만족한 듯 미소 짓습니다.{/n} \"이 질병의 근원을 찾은 뒤, 밤낮으로 사람들의 몸에서 씨앗을 제거하고 있습니다. 정말 "
+"많은 사람을 구했습니다...\" {n}조드의 표정이 어두워집니다.{/n} \"하지만 환자 한 명을 치료할 때마다 새로 감염된 환자가 두 "
+"명씩 생깁니다...\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc22-3BloomDiscussion/Cue_0046_Text
 #. Speaker : Tristian_Companion
@@ -183727,10 +183728,11 @@ msgid ""
 "recognize Irovetti's seal? That's why {mf||s}he wasn't killed — the bandits "
 "recognized {mf|him|her} as one of their own by this signet ring!\""
 msgstr ""
-"\"알도리님! 이 공격의 주모자가 누구인지 알고 있습니다. {g|Pitax}피탁스{/g}의 비열한 왕, 이로베티가 분명합니다! 무엇보다 "
-"저는 우리 중 누가 그놈의 앞잡이인지도 알고 있습니다.\" {n}극적인 침묵이 흐르고, 타투치오의 손가락은 당신을 가리킵니다.{/n} "
-"\"{Name}! 반지를 보여라! 내가 이로베티의 인장을 알아보지 못할 줄 알았더냐? 도적들이 그 인장 반지를 알아봤기 때문에 "
-"{mf|그|그녀}가 살아남을 수 있었던 겁니다!\""
+"\"알도리님! 부디 제 말을 들어 주십시오. 이 공격의 주모자가 누구인지 알고 있습니다. {g|Pitax}피탁스{/g}의 비열한 왕, "
+"이로베티가 분명합니다! 무엇보다 저는 우리 중 누가 그놈의 앞잡이인지도 알고 있습니다.\" {n}극적으로 뜸을 들인 뒤, 타투치오는 "
+"당신을 손가락으로 가리킵니다.{/n} \"{Name}! 네가 끼고 있는 그 반지를 모두에게 보여 봐라! 내가 이로베티의 인장을 알아보지 "
+"못할 줄 알았더냐? 그래서 {mf|그|그녀}가 죽지 않은 겁니다 — 도적들이 이 인장 반지를 보고 {mf|그|그녀}를 자기들 한패로 "
+"알아봤기 때문이지요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c0_Prologue/JamandisMansionThroneroom/End/Cue_0009_Text
 #. Speaker : JamandiAldori_Fight
@@ -234701,9 +234703,9 @@ msgid ""
 "widow...\" {n}Olika stops short.{/n} \"I've barely had two seasons to mourn "
 "my husband, and he left me with child. And in difficult times like these...\""
 msgstr ""
-"\"길에서 긴 하루를 보낸 후, 휴식을 취하고 있었습니다. {mf|영주님|영주님|전하|전하}. 저는 미망인이에요...\" {n}올리카는 "
-"잠시 멈칫합니다.{/n} \"남편을 잃은 지 반년도 되지 않았고 게다가 그는 저와 아이를 남겨둔 채 떠났죠. 이렇게 어려운 시기에 "
-"말이에요...\""
+"\"하루 종일 길 위에 있었던 터라, 쉴 수 있는 만큼 쉬고 있어요, {mf|영주님|영주님|전하|전하}. 저는 미망인이에요...\" "
+"{n}올리카는 말을 하다 말고 멈칫합니다.{/n} \"남편을 잃은 지 반년도 되지 않았는데, 그이는 제 뱃속에 아이를 남긴 채 떠났죠. "
+"이렇게 어려운 시기에 말이에요...\""
 
 #. Mechanics/Blueprints/World/Dialogs/c22/SecludedLodge/MerchantsWife/Cue_0046_Text
 #. Speaker : SeculdedLodge_MerchantsWife
