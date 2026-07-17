@@ -6635,8 +6635,8 @@ msgid ""
 "made freely. You have given me so many new thoughts, so many ideas. It's "
 "enough for an age or two of contemplation.\""
 msgstr ""
-"\"비극적인 결말이로구나... 하지만 나는 각자가 자유 의지에 따라 내린 결정을 가로막지 않겠다. 너희들은 나에게 너무나 많은 생각할 "
-"거리를 주었다. 수 십년간 명상하기에 충분할 정도로.\""
+"\"이 장은 슬픔으로 끝나는구나... 하지만 자유로이 내린 결정을 가로막지는 않겠다. 너희는 나에게 참으로 많은 새로운 생각과 발상을 "
+"주었다. 그것만으로도 한두 시대 동안은 족히 사색할 수 있겠구나.\""
 
 #. Mechanics/Blueprints/World/Dialogs/1DLC/Q3_Ambivalence/DevilVsHerald/Cue_0058_Text
 #. Speaker : Forefather_TaldanTowerFW
@@ -113923,7 +113923,7 @@ msgstr "{n}레곤가르는 서툴게 자기 물건을 챙기더니, 다른 이�
 #. Speaker : Regongar_Companion
 msgctxt "28f3f967-d295-42a9-acba-f05a5bfcf6fd"
 msgid "\"I'm... I'm sorry\". {n}The half-orc stumbles to his tent.{/n}"
-msgstr "\"미... 미안해\". {n}하프-오크는 텐트에서 엉거주춤 움직입니다.{/n}"
+msgstr "\"미... 미안해.\" {n}하프-오크는 비틀거리며 자기 텐트로 향합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Cue_0012_Text
 #. Speaker : Regongar_Companion
@@ -113932,8 +113932,8 @@ msgid ""
 "\"Yes... I always let everyone down. Octavia and you and... Everyone. Just "
 "leave me somewhere... In the gutter! That's where I belong!\""
 msgstr ""
-"\"그래... 언제나 모두를 실망시키지. 옥타비아, 너, 그리고 모두를 말이야. 그냥 술취한 채 있게 아무데나 내버려둬! 거기가 내게 "
-"걸맞는 자리일테니까!\""
+"\"그래... 난 언제나 모두를 실망시키지. 옥타비아도, 너도, 그리고... 모두를. 그냥 날 아무 데나 버려둬... 시궁창에라도! "
+"거기가 내 자리니까!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Cue_0014_Text
 #. Speaker : Regongar_Companion
@@ -125028,22 +125028,17 @@ msgid ""
 "shut up and keep running.\"\n"
 "And we did.\""
 msgstr ""
-"\"이제 끝이야.\" 내가 말했다.\n"
-"밀리켄이 가늘게 눈을 뜨고 나를 보았다.\n"
-"\"너 정말 깨끗해 보이는데.\" 그가 말했다. \"칼은 어디에 있지?\"\n"
-"그 대답으로 여관 안에서 외치는 소리가 들렸다.\n"
-"\"불이야!\" 일나가 소리쳤고 그리고 다른 사람들도 소리치기 시작했다.\n"
-"그 순간 밀리켄의 장난기가 발동하여 그는 문으로 뛰어들어가면서 석궁을 건내었다. 여관 지붕은 석양 너머로 이미 검은 연기를 내뿜고 있었고 "
-"화염이 내부를 휩쓸고 있었다. 고통스러운 신음과 함께 밀리켄은 달렸다. 나는 파르가스를 보았다. 의심할 필요 없이 우리는 보급품을 "
-"한아름씩 안고 반대 방향으로 달렸다.\n"
-"십여분을 뛰고 나서 우리는 숨을 고르고 있었다. 우리가 도망친 곳에서는 여전히 연기가 보였지만 비명소리와 교회 종소리는 약해지고 있었다."
-"\n"
-"\"아슬아슬했어.\" 퍼가스가 나무에 기대어 말했다.\n"
-"\"맞아.\" 나는 숨을 내쉬며 말했고 내 팔에는 빵이 한가득 망토에 담겨있었다. 그 순간 나는 종소리로 무언가 떠올랐다.\n"
-"\"네가 아까 말한 것 말이야.\" 나는 물었다. \"셸린에 대해 말했지. 너는 데즈나의 사제라고 하지 않았어?\"\n"
-"파르가스가 불평했다.\n"
-"\"신앙은 사적인 거야.\" 그가 망토를 매며 말했다. \"이제 닥치고 달려.\"\n"
-"우리는 달렸다.\""
+"\"이제 끝났어.\" 내가 말했다.\n밀리켄이 눈을 가늘게 뜨고 나를 살폈다.\n\"너 지나치게 깨끗해 보이는데.\" 그가 말했다. "
+"\"칼은 어디 있지?\"\n대답 대신, 여관 쪽에서 첫 고함이 터져 나왔다.\n\"불이야!\" 일나가 비명을 질렀고, 곧 다른 목소리들이 "
+"합세했다.\n그 순간 밀리켄의 장사꾼 본능이 발동했다. 그는 석궁을 내던지고 문으로 내달렸다. 밖에서는 여관 지붕이 석양을 배경으로 벌써 "
+"기름진 검은 연기를 피워 올리고 있었고, 초가지붕 곳곳에서 불길이 혀를 날름거렸다. 밀리켄은 고통에 찬 비명을 지르며 개울로 달려갔다. "
+"나는 파르가스를 보았다. 더 볼 것도 없이, 우리는 각자 보급품을 한 아름씩 안고 반대 방향으로 내달렸다.\n가시덤불을 뛰어넘고 "
+"나뭇가지를 피하며 십 분을 달린 끝에, 우리는 멈춰 서서 숨을 골랐다. 왔던 길 쪽으로는 아직 연기가 보였지만, 소리는 잦아들어 다급한 "
+"교회 종소리만 희미하게 남아 있었다.\n\"아슬아슬했군.\" 파르가스가 나무에 기대 가쁜 숨을 몰아쉬며 말했다.\n\"그러게.\" 나는 "
+"헐떡이며, 이제 우리의 전 재산이 된, 빵이 가득 담긴 망토 꾸러미를 내려다보았다. 그때 종소리에 문득 떠오르는 것이 있었다.\n\"아까 "
+"네가 한 말 말이야.\" 내가 물었다. \"셸린이라고 했지. 너는 데즈나의 사제 아니었어?\"\n파르가스가 끙 소리를 "
+"냈다.\n\"신앙이란 지극히 사적인 것이지.\" 그가 망토를 묶으며 말했다. \"이제 닥치고 계속 뛰기나 해.\"\n우리는 그렇게 "
+"했다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Items/RegularBooks/RiverFreedoms_Name_String
 msgctxt "53b3c967-eafc-4cc4-a75b-d579638c0af0"
@@ -138056,7 +138051,7 @@ msgctxt "54c35beb-2b72-4d96-ade5-fb9bfef8fc2e"
 msgid ""
 "\"Wonderful! I shall tell everyone at the mages' quarter that they may carry "
 "on with their experiments.\""
-msgstr "\"훌룡합니다! 마법사 구역의 모두에게 그들의 실험을 가져와도 된다고 전하겠습니다.\""
+msgstr "\"잘됐어! 마법사 구역에 있는 모두에게 실험을 계속해도 된다고 전할게.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Arcane/Rank5/Cue_0021_Text
 #. Speaker : MaegarVarnVordakai_Capital
@@ -174525,8 +174520,8 @@ msgid ""
 "be sure to provision yourself properly before you go. Remember, trolls can "
 "only be killed with fire or acid.\""
 msgstr ""
-"\"사려깊으십니다. 영주님\" {n}케스턴은 목덜미를 문지릅니다.{/n} \"조사를 진행 하시기 전에 적합한 준비가 되었는지 꼭 "
-"확인하셔야 합니다. 기억하십시오, 트롤은 오직 불과 산으로만 죽일 수 있습니다\""
+"\"그리해 주신다면 감사할 따름입니다, 영주님.\" {n}케스턴은 목덜미를 문지릅니다.{/n} \"가시기 전에 채비만은 단단히 "
+"갖추십시오. 명심하십시오. 트롤은 화염이나 산성 피해로만 죽일 수 있습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc21-2TrollTroubleRampage/Cue_96362_Text
 #. Speaker : Capital_Kesten
@@ -266836,9 +266831,10 @@ msgid ""
 "gold, and my cherished dream come true — that's what he promised. So how "
 "could I say no?\""
 msgstr ""
-"\"그 {g|Cheliax}첼리악스{/g} 귀족도 {g|Mammon}마몬{/g}과 계약을 맺었어 나는 첼리악스 귀족들에게는 흔한 일인가 "
-"봐. 계약을 빨리 끝내려고도 하지 않는 그 귀족한테 마몬은 넌더리가 났는지, 내가 놈을 죽이니까 감사를 표하더라고. 그렇게 놈이랑 같은 "
-"계약을 맺게 된 거지. 엄청난 부와 내가 꿈꾸던 것을 이루어준다고 하더라고. 이런데 내가 어떻게 거절을 할까?\""
+"\"그 {g|Cheliax}첼리악스{/g} 귀족도 {g|Mammon}마몬{/g}과 계약을 맺고 있었어 — 첼리악스 귀족들 사이에선 흔한 "
+"일이겠지. 그런데 그 귀족 역시 자기 몫의 계약 이행을 서두르지 않았어. 내가 놈을 죽인 덕에 마몬의 환심을 샀고, 마몬은 나에게도 "
+"비슷한 계약을 제안했지. 두둑한 금화에, 내가 간절히 바라던 꿈까지 이루어 준다 — 그게 마몬의 약속이었어. 그러니 내가 어떻게 거절할 "
+"수 있었겠어?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/DarvenAfterFight/Cue_0020_Text
 msgctxt "f21cac30-2438-4cef-a099-446ea87fe51c"
@@ -298965,7 +298961,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Dialogs/c61/HouseAtTheEdgeOfTime/WrigglingMan_HATEOT/Cue_0030_Text
 msgctxt "8f694da3-d191-4bdc-99ca-827d37f5064c"
 msgid "\"Then go and come back. We will wait for you here.\""
-msgstr "\"그러면 가라. 너를 기다릴 거다.\""
+msgstr "\"그러면 갔다가 돌아오라. 우리는 여기서 너를 기다리겠다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c61/HouseAtTheEdgeOfTime/WrigglingMan_HATEOT/Cue_0032_Text
 msgctxt "575d99d0-5fae-45de-a63d-f1dbe783b7d0"
