@@ -8985,8 +8985,8 @@ msgid ""
 "villages. The overconfident demons were committed to attack, and ran "
 "themselves upon our spears."
 msgstr ""
-"감시관은 위협에 노출된 마을의 수비를 강화하기 위해 수도의 경비병들을 추가로 파견하였습니다. 데몬들은 자신만만하게 마을을 공격해왔지만, "
-"우리의 날카로운 창날 앞에서 꼬리를 말고 도망치고 말았습니다."
+"감시관은 위협받는 마을들의 방비를 강화하고자 경비대를 배치했습니다. 자만에 빠진 데몬들은 기어이 공격을 감행했고, 제 발로 우리 창끝에 "
+"몸을 던진 꼴이 되었습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Alighment Events/TheyCame_LG_Solutions.Entries.Array.data[7].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "cd2dc35e-fca6-42da-b7bc-b7021e04ec56"
