@@ -7673,7 +7673,7 @@ msgid ""
 "glaciers of the tors, and it would likely freeze over if the waters were not "
 "so rapid."
 msgstr ""
-"슈라이크 강의 좁고 물살이 빠른 지류로, 작은 셀렌의 물은 카멜랜드를 둘러싸고있는 레베니스 바위산맥에서 흘러 내려갑니다. 작은 셀렌 강은 "
+"슈라이크 강의 좁고 물살이 빠른 지류로, 작은 셀렌의 물은 케임랜드를 둘러싸고있는 레베니스 바위산맥에서 흘러 내려갑니다. 작은 셀렌 강은 "
 "바위산의 빙하가 녹아 흐르는기 때문에 물이 차갑기로 유명합니다. 만약 그 물이 빨리 흐르지 않았다면 진작에 얼어붙었을지도 모릅니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/VS_Region/Location_LandmarkLittleSellenRiver_Name_String

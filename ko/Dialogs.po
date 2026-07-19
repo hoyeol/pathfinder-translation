@@ -222534,7 +222534,7 @@ msgstr "\"좋아. 너의 물건을 뺏지 않겠다.\""
 #. Mechanics/Blueprints/World/Dialogs/c22/BigKamelandsOutdoor/GoblinPrince/Answer_0026_AlignmentShift.Description
 msgctxt "82223f49-a6c3-483c-894e-816440624c45"
 msgid "Brought gifts to \"prince\" of Kamelands."
-msgstr "Kamelands의 \"왕자\"에게 선물을 가져왔습니다."
+msgstr "케임랜드의 \"왕자\"에게 선물을 가져왔습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c22/BigKamelandsOutdoor/GoblinPrince/Answer_0026_Text
 msgctxt "65602767-1ab8-4044-bc44-7c1660899583"
@@ -236966,7 +236966,7 @@ msgid ""
 "as the eye could see... a beautiful sight, but finding our quarry in this "
 "green sea? It would prove impossible!"
 msgstr ""
-"우리의 용감한 영웅이 넓은 {g|Kamelands}카멜 랜드{/g} 고원의 끝에 도달했고 당신 눈 앞에는 키가 큰 풀이 바다처럼 펼쳐져 "
+"우리의 용감한 영웅이 넓은 {g|Kamelands}케임랜드{/g} 고원의 끝에 도달했고 당신 눈 앞에는 키가 큰 풀이 바다처럼 펼쳐져 "
 "있는 것이었습니다... 아름다운 광경이지만 이 초록색 바다에서 적을 쫓아야 하나요? 그것은 불가능할 것입니다!"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/ShrineOfLamashtu/TransitionBookEvent/Cue_76224_Text
