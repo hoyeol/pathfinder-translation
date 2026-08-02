@@ -268040,9 +268040,9 @@ msgid ""
 "to catch up with me only because I stopped to wait for her. I'm even "
 "slightly curious — how would an Archdevil manage the task?\""
 msgstr ""
-"\"아크데블은 나에게 화가 났습니다. 사실 브라인하트를 제 시간에 지어 만들지 못했고 이로 인해 {g|Mammon}마몬{/g}의 격노를 "
-"샀습니다. 흠... 그의 수색에 행운이 있기를 바랍니다. 린시아는 몇 년 동안 나를 쫓아 왔고 나는 그녀를 막지 않았기 때문에 그녀가 "
-"나를 따라 잡을 수 있었습니다. 나는 약간 궁금해지는군요. 어떻게 아크데블이 일을 관리합니까? \""
+"\"아크데블이 내게 화가 난 건 사실입니다. 브라인하트를 제때 짓지 못해 {g|Mammon}마몬{/g}의 격노를 샀지요. 흠... 날 "
+"찾는 그에게 행운이나 빌어 줍시다. 린시아는 몇 년 동안 나를 쫓아다녔지만, 겨우 따라잡은 것도 내가 멈춰 서서 기다려 줬기 때문입니다. "
+"아크데블이 그 일을 어떻게 해낼지 조금 궁금하기까지 하군요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/DarvenWins/Cue_0026_Text
 msgctxt "b44d9c2a-e9fd-46c8-afea-1af23c2639ee"
@@ -268052,8 +268052,8 @@ msgid ""
 "{g|Mammon}Mammon's{/g} faith. A small price to pay for all that power, "
 "wouldn't you say?\""
 msgstr ""
-"\"아크데블은 무엇보다도 계약을 중히 여기지. 나는 마감 전에 브라인하트를 설립 할 수 있었고 내 도시는 {g|Mammon}마몬{/g} "
-"신앙의 요새가 될 거야. 그 모든 힘에 비하면 작은 대가라고 할 수 있겠지?\""
+"\"아크데블은 무엇보다 계약을 중히 여깁니다. 나는 기한 전에 브라인하트를 세우는 데 성공했고, 내 도시는 {g|Mammon}마몬{/g} "
+"신앙의 요새가 될 겁니다. 그 모든 힘에 비하면 작은 대가 아니겠습니까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/DarvenWins/Cue_0028_Text
 msgctxt "71154fcb-7d86-488b-aefe-b6ad9ba165f5"
