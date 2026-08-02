@@ -266806,8 +266806,8 @@ msgid ""
 "with the {g|Cheliax}Chelish{/g} noble and the rebellion which followed his "
 "death? You see, that whole story has one little additional piece.\""
 msgstr ""
-"\"내가 전에 해줬던 이야기를 기억해? {g|Cheliax}첼리악스{/g}귀족의 죽음으로 일어난 반란 이야기를? 보시다시피 이 이야기에는 "
-"한 조각이 더 빠져 있지.\""
+"\"내가 전에 들려준 이야기, 다 기억하지? 그 {g|Cheliax}첼리악스{/g} 귀족과의 결투, 그리고 놈의 죽음 뒤에 이어진 반란 "
+"말이야. 실은 그 이야기에는 사소한 내용이 하나 더 있거든.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/DarvenAfterFight/Cue_0017_Text
 msgctxt "3a707fb1-8934-4c70-838e-b2daf3259601"
@@ -267667,7 +267667,7 @@ msgctxt "f8f49535-5ac9-42d7-a1ef-5a65cadcf089"
 msgid ""
 "\"You see, that whole story about the duel and the {g|Cheliax}Chelish{/g} "
 "noble had one more little addendum to it.\""
-msgstr "\"실은, 그 결투와 {g|Cheliax}첼리악스{/g} 귀족에 관한 이야기에는 작은 뒷이야기가 하나 더 있습니다.\""
+msgstr "\"실은, 그 결투와 {g|Cheliax}첼리악스{/g} 귀족 이야기에는 덧붙일 사소한 내용이 하나 더 있습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BrineDarven/Cue_0019_Text
 msgctxt "1d655ece-e8d8-4142-b703-650991ba086e"
@@ -267676,8 +267676,8 @@ msgid ""
 "{g|Mammon}Mammon{/g}, and he is one of the Archdevils – the Ardent Prince. "
 "And he made a pact with me.\""
 msgstr ""
-"\"뭐, 정확히 말하면 그리 작지만은 않습니다.\" {n}다르벤이 씩 웃습니다.{/n} \"그의 이름은 "
-"{g|Mammon}마몬{/g}이고, 고위 데블 중 하나인 '열정의 왕자'지요. 나와 계약을 맺기도 했습니다.\""
+"\"뭐, 정확히 말하면 그리 사소한 내용은 아니지만요.\" {n}다르벤이 씩 웃습니다.{/n} \"그의 이름은 "
+"{g|Mammon}마몬{/g}이고, 아크데블 중 하나인 '열정의 왕자'지요. 나와 계약을 맺기도 했습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BrineDarven/Cue_0020_Text
 msgctxt "a3cf1e2c-d3b2-40ad-8ccb-32f61638cae0"
