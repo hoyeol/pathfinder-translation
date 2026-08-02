@@ -143285,8 +143285,8 @@ msgid ""
 "inferior. He's crafty but not deceitful. You should read the contract very "
 "carefully, if you choose him.\""
 msgstr ""
-"\"{g|Asmodeus}아스모데우스{/g}는 {g|Hell}지옥{/g}의 군주라네. {g|Cheliax}첼리악스{/g}라는 강력한 "
-"국가에서 그를 섬기고 있지. 아스모데우스는 권력, 협정, 질서와 약자의 복종을 요구해. 교활하지만 정직하지. 아스모데우스를 선택하려면 "
+"\"{g|Asmodeus}아스모데우스{/g}는 {g|Hell}지옥{/g}의 군주라네. 강대국 {g|Cheliax}첼리악스{/g}에서 "
+"숭배하는 아크데블이기도 하지. 아스모데우스는 권력, 협정, 질서와 약자의 복종을 요구해. 교활하지만 정직하지. 아스모데우스를 선택하려면 "
 "계약서를 매우 세심하게 읽어봐야 할걸세.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Divine/Rank7/Cue_0037_Text
@@ -268040,9 +268040,9 @@ msgid ""
 "to catch up with me only because I stopped to wait for her. I'm even "
 "slightly curious — how would an Archdevil manage the task?\""
 msgstr ""
-"\"고위 데블은 나에게 화가 났습니다. 사실 브라인하트를 제 시간에 지어 만들지 못했고 이로 인해 {g|Mammon}마몬{/g}의 격노를 "
+"\"아크데블은 나에게 화가 났습니다. 사실 브라인하트를 제 시간에 지어 만들지 못했고 이로 인해 {g|Mammon}마몬{/g}의 격노를 "
 "샀습니다. 흠... 그의 수색에 행운이 있기를 바랍니다. 린시아는 몇 년 동안 나를 쫓아 왔고 나는 그녀를 막지 않았기 때문에 그녀가 "
-"나를 따라 잡을 수 있었습니다. 나는 약간 궁금해지는군요. 어떻게 고위 데블이 일을 관리합니까? \""
+"나를 따라 잡을 수 있었습니다. 나는 약간 궁금해지는군요. 어떻게 아크데블이 일을 관리합니까? \""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/DarvenWins/Cue_0026_Text
 msgctxt "b44d9c2a-e9fd-46c8-afea-1af23c2639ee"
@@ -268052,7 +268052,7 @@ msgid ""
 "{g|Mammon}Mammon's{/g} faith. A small price to pay for all that power, "
 "wouldn't you say?\""
 msgstr ""
-"\"고위 데블은 무엇보다도 계약을 중히 여기지. 나는 마감 전에 브라인하트를 설립 할 수 있었고 내 도시는 {g|Mammon}마몬{/g} "
+"\"아크데블은 무엇보다도 계약을 중히 여기지. 나는 마감 전에 브라인하트를 설립 할 수 있었고 내 도시는 {g|Mammon}마몬{/g} "
 "신앙의 요새가 될 거야. 그 모든 힘에 비하면 작은 대가라고 할 수 있겠지?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/DarvenWins/Cue_0028_Text
