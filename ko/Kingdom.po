@@ -27343,8 +27343,8 @@ msgid ""
 "hunters in the Greenbelt know the name of the great boar \"Tuskgutter\", as "
 "well as the location of its lair."
 msgstr ""
-"정찰병들이 북부 날마치에서 주목할 만한 위치를 발견했습니다. 녹색지대의 모든 사냥꾼들은 \"터스크거터\"란 이름의 거대 멧돼지를 알고 "
-"있습니다. 조사할 가치가 있을지도 모릅니다."
+"정찰병들이 북부 날마치에서 주목할 만한 장소를 발견했습니다. 녹색지대의 사냥꾼이라면 누구나 거대 멧돼지 \"터스크거터\"의 이름은 물론, "
+"그 소굴의 위치까지 알고 있습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/LocationsUnlock/TuskguttersLair_LocalizedName
 msgctxt "73ed7bb3-78b6-4613-9921-7c97f68c0588"

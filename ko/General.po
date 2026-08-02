@@ -5333,7 +5333,7 @@ msgctxt "f3a2fcaf-4e7e-4227-becb-e6f7d82b00dc"
 msgid ""
 "All hunters in the Greenbelt know the name \"Tuskgutter,\" as well as the "
 "location the giant boar chose for its lair."
-msgstr "녹색지대의 모든 사냥꾼들은 \"터스크거터\"란 이름 뿐 아니라 이곳이 거대 멧돼지가 선택한 은신처라는 것을 알고 있습니다."
+msgstr "녹색지대의 사냥꾼이라면 누구나 \"터스크거터\"라는 이름은 물론, 그 거대 멧돼지가 소굴로 삼은 장소까지 알고 있습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER01_Region/Location_TuskguttersLair_Name_String
 msgctxt "9dba2aa1-d4d0-401a-8931-12252d38cda1"
@@ -5410,8 +5410,8 @@ msgid ""
 "The ruins rising from the mire literally cry \"Danger!\" Some adventurers "
 "have been seen entering them, but none have returned."
 msgstr ""
-"수렁에 솟아있는 유적은 이보다 더 \"위험\"해 보일 수가 없었지만, 용감한 모험가들이 그 안으로 들어가는 것이 목격되었습니다. 그리고 "
-"아무도 돌아오지 않았습니다."
+"수렁에서 솟아오른 유적은 말 그대로 \"위험!\"이라고 외치는 듯합니다. 모험가 몇 명이 그 안으로 들어가는 모습은 목격되었지만, 돌아온 "
+"이는 아무도 없습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/CHAPTER04_Region/Location_DevourerLair_Name_String
 msgctxt "649931c3-b201-40bd-9ca0-59d06f1a5d8f"
@@ -7915,7 +7915,7 @@ msgctxt "6c49104e-5b1b-418d-9bed-b26f529d81fa"
 msgid ""
 "This hill looks exactly like many of its \"brothers\" in the area, yet it "
 "exudes a sinister and frightening feeling."
-msgstr "이 언덕은 그 지역의 \"다른 언덕들\"과 비슷하게 생겼지만, 불길하고 무서운 느낌을 풍깁니다."
+msgstr "이 언덕은 주변의 수많은 \"형제들\"과 똑같이 생겼지만, 어딘지 불길하고 섬뜩한 기운이 감돕니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/ZDescriptionsForFutureLocations/BaldHilltop_String
 msgctxt "e4d329b6-0706-4d74-8755-0bda10cdab96"
@@ -7965,8 +7965,8 @@ msgid ""
 "The ruins rising from the mire literally cry \"Danger!\" Some adventurers "
 "have been seen entering them, but none have returned."
 msgstr ""
-"수렁에 솟아있는 유적은 이보다 더 \"위험\"해 보일 수가 없었지만, 용감한 모험가들이 그 안으로 들어가는 것이 목격되었습니다. 그리고 "
-"아무도 돌아오지 않았습니다."
+"수렁에서 솟아오른 유적은 말 그대로 \"위험!\"이라고 외치는 듯합니다. 모험가 몇 명이 그 안으로 들어가는 모습은 목격되었지만, 돌아온 "
+"이는 아무도 없습니다."
 
 #. Mechanics/Blueprints/GlobalMap/Locations/ZDescriptionsForFutureLocations/DweomercatLair_String
 msgctxt "fcaab3f4-46f3-438c-8e8e-504ea7b5f847"
