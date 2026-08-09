@@ -8511,7 +8511,7 @@ msgctxt "b1037e25-dd3b-4463-acc1-24f7beb369ac"
 msgid ""
 "Some half-elf, calling himself the Wanderer, convinced the elves that "
 "Jaethal was tracking them down to kill them all!"
-msgstr "스스로를 방랑자라고 칭한 어떤 하프 엘프가 제이탈이 엘프들을 쫓아와 모두 죽여버릴 거라고 믿게 만들었다고 합니다!"
+msgstr "스스로를 방랑자라고 칭한 어떤 하프엘프가 제이탈이 엘프들을 쫓아와 모두 죽여버릴 거라고 믿게 만들었다고 합니다!"
 
 #. Mechanics/Blueprints/World/Quests/Companions/Jaethal/Q1_Investigate_My_Death/Addendum_WoundsLookStrange_Description
 msgctxt "f46d658a-c10c-4e58-9c33-72f7be71596e"
@@ -8530,7 +8530,7 @@ msgid ""
 "it again — by the hands of those unfortunate elven travelers. So we've found "
 "the murderer. But what next?"
 msgstr ""
-"이야기가 정말 복잡해지는군요! 우리가 조사를 시작하게 만들었던 장본인, 하프 엘프 상인 에네오가 사실은 - 언데드와 우르가쏘아의 추종자를 "
+"이야기가 정말 복잡해지는군요! 우리가 조사를 시작하게 만들었던 장본인, 하프엘프 상인 에네오가 사실은 - 언데드와 우르가쏘아의 추종자를 "
 "사냥하는데 삶은 헌신하는 - 파라스마의 추종자임이 밝혀졌습니다. 그가 제이탈을 죽인 진범인 것으로 보여지며, 이번엔 불행한 여행자 "
 "엘프들의 손을 빌어 그 일을 다시금 반복하려고 했습니다. 이제 진범을 찾아냈습니다만, 그 다음엔 어쩌지요?"
 
@@ -10874,7 +10874,7 @@ msgctxt "75965856-31e6-4981-b199-706381c3e1ed"
 msgid ""
 "Sharel, a half-elf, has asked us to speak to the merchant Hassuf in the "
 "capital, and clear his name."
-msgstr "하프 엘프 샤렐은 수도에 있는 상인 하수프에게 얘기해 자신의 누명을 벗겨달라고 부탁했습니다."
+msgstr "하프엘프 샤렐은 수도에 있는 상인 하수프에게 얘기해 자신의 누명을 벗겨달라고 부탁했습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfElfMaleTailorNG/Errand_Warranty/Errand_Warranty_Title
 msgctxt "86f23266-d19b-43a1-8afe-f009569fb7ea"
@@ -10933,7 +10933,7 @@ msgid ""
 "Perhaps someone should sweep the marshes for poachers."
 msgstr ""
 "샤렐은 모할란이라는 수도의 제단사 장인이 사람들을 보내 도마뱀인간을 살육하고 그들의 가죽을 취하고 있다고 말했습니다. 이건 심각하고도 "
-"괴이한 고발입니다만... 하프 엘프는 이를 확신하는 듯 합니다. 누군가 밀렵꾼을 찾기 위해 습지를 뒤져봐야 할 것 같습니다."
+"괴이한 고발입니다만... 하프엘프는 이를 확신하는 듯 합니다. 누군가 밀렵꾼을 찾기 위해 습지를 뒤져봐야 할 것 같습니다."
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfElfMaleTailorNG/PoachersAndLizardfolk/Obj2_PoachersSearching_Title
 msgctxt "b1af7d95-fa21-4f70-88d6-38d90622da9d"
@@ -11060,8 +11060,8 @@ msgid ""
 "best present of all. But what can be more exciting than getting a nice book "
 "as a present?"
 msgstr ""
-"케임랜드의 무기 대장장이인 하프-오크 바라스크는 {mf|영주님|영주님|전하|전하}께 특별한 무기를 만들어주겠다고 약속했습니다. 사람들은 "
-"왜 항상 피에 굶주려 있는 걸까요? 언제나 치명적인 금속 쪼가리를 최고의 선물로 여긴다니까요. 좋은 책을 선물로 받는게 더 신나는 일 "
+"케임랜드의 무기 대장장이인 하프오크 바라스크는 {mf|영주님|영주님|전하|전하}께 특별한 무기를 만들어주겠다고 약속했습니다. 사람들은 왜 "
+"항상 피에 굶주려 있는 걸까요? 언제나 치명적인 금속 쪼가리를 최고의 선물로 여긴다니까요. 좋은 책을 선물로 받는게 더 신나는 일 "
 "아닐까요?"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/Artisans/HalfOrcMaleEnforcer/EarthBreaker/EarthBreaker_Title
@@ -12270,7 +12270,7 @@ msgid ""
 "The half-orc assured the {mf|baron|baroness|king|queen} that {mf|he|she} "
 "will hear about Pathfinders again. Whether this is true, only time will tell!"
 msgstr ""
-"하프-오크는 곧 패스파인더들에 대한 또 다른 소식을 듣게 될것이라 {mf|남작|여남작|왕|여왕}에게 장담했습니다. 오직 시간만이 그 답을 "
+"하프오크는 곧 패스파인더들에 대한 또 다른 소식을 듣게 될것이라 {mf|남작|여남작|왕|여왕}에게 장담했습니다. 오직 시간만이 그 답을 "
 "알려주겠지요!"
 
 #. Mechanics/Blueprints/World/Quests/KingdomDevelopment/KingdomAsCompanion/N_TippingTheScales/WaitForNewsAboutPAthfinders_Title

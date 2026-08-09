@@ -8443,7 +8443,7 @@ msgctxt "921f71b0-ffc2-4310-b92b-9b0e106c4a93"
 msgid ""
 "\"Especially considering you've got a half-orc and a half-elf wrapped around "
 "each finger.\""
-msgstr "\"특히 네가 하프 오크, 하프 엘프와 깍지낀 손을 잡고 있는 걸 생각하면.\""
+msgstr "\"특히 네가 하프오크, 하프엘프와 깍지낀 손을 잡고 있는 걸 생각하면.\""
 
 #. Mechanics/Blueprints/World/Dialogs/1DLC/Romance/KanerahTurningPoint/Cue_0018_Text
 #. Speaker : Kanerah_Companion
@@ -21872,7 +21872,7 @@ msgid ""
 "not from around here.{/n}"
 msgstr ""
 "{n}상황은 점점 가열되고 있습니다. 반의 경비병들은 무기를 뽑아들어 대열을 갖추고 맞은편에는 혁명적인 구호를 외치는 정착민 무리가 서 "
-"있습니다. 당신은 그들 중 몇몇 지역 어부들을 볼 수 있습니다. 제일 앞줄에는 밝은 색의 망토를 두르고 무기를 흔드는 하프 오크 여자가 "
+"있습니다. 당신은 그들 중 몇몇 지역 어부들을 볼 수 있습니다. 제일 앞줄에는 밝은 색의 망토를 두르고 무기를 흔드는 하프오크 여자가 "
 "서있습니다. 그녀는 분명히 이 근방 사람이 아닙니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/2DLC/Varnhold/Royalquest_revolutioner/Cue_0002_Text
@@ -22114,7 +22114,7 @@ msgid ""
 "his faces grow dark with anger.{/n} \"That's the wand of invisibility we "
 "took from old Ignash the sorcerer. So that's why you needed it!\""
 msgstr ""
-"{n}정착민들은 하프 오크가 들고 있는 완드를 더 자세히 들여다보고는, 분노로 얼굴이 어두워집니다.{/n} \"저건 우리가 늙은 마법사 "
+"{n}정착민들은 하프오크가 들고 있는 완드를 더 자세히 들여다보고는, 분노로 얼굴이 어두워집니다.{/n} \"저건 우리가 늙은 마법사 "
 "이그내쉬에게서 뺏은 투명술 완드야. 그래 그게 네가 그걸 필요로 했던 이유구나!\""
 
 #. Mechanics/Blueprints/World/Dialogs/2DLC/Varnhold/Royalquest_revolutioner/Cue_0059_Text
@@ -29573,8 +29573,8 @@ msgid ""
 "\"The fierceness of orcs is famous all over the world. But you, Regongar – "
 "you're only half-orc. How is it you have so much animal rage?\""
 msgstr ""
-"\"오크들의 치열함은 세계에 잘 알려져 있소. 하지만 레곤가르여, 당신은 하프 오크입니다. 어떻게 그렇게 원초적인 분노를 가질 수가 있소?"
-"\""
+"\"오크들의 치열함은 세계에 잘 알려져 있소. 하지만 레곤가르여, 당신은 하프오크입니다. 어떻게 그렇게 원초적인 분노를 가질 수가 "
+"있소?\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Banter/HarrimRegongar/Banter_HarrimRegongar_Pack2_3_Responses.Array.data[0].Response
 #. Speaker : Regongar_Companion
@@ -30542,8 +30542,7 @@ msgctxt "68cf6d7e-b461-418f-a91c-3967c16aaef9"
 msgid ""
 "\"It's so amusing how you try to seem beautiful. Who's going to set their "
 "eyes on your little painted face? Maybe some half-orc – or a half-troll.\""
-msgstr ""
-"\"예뻐 보이려고 하는 모습이 정말 재밌구나. 누가 이 작은 도화지에 눈을 맞출까? 하프 오크... 아니면 하프 트롤 정도겠군.\""
+msgstr "\"예뻐 보이려고 하는 모습이 정말 재밌구나. 누가 이 작은 도화지에 눈을 맞출까? 하프오크... 아니면 하프 트롤 정도겠군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Banter/JaethalOctavia/Banter_JaethalOctavia_Pack2_5_Responses.Array.data[0].Response
 #. Speaker : Octavia_Companion
@@ -62905,7 +62904,7 @@ msgstr "\"너에 대해 더 얘기해봐.\""
 #. Mechanics/Blueprints/World/Dialogs/Capital/KassilAldori/Answer_0006_Text
 msgctxt "957dc2c4-d6db-473f-b14b-2cebf1790f0f"
 msgid "\"A half-orc among the Brevic aristocracy is a rare sight indeed.\""
-msgstr "\"브레보이의 귀족들 사이에 하프 오크는 참으로 보기 드문 인종이다.\""
+msgstr "\"브레보이의 귀족들 사이에 하프오크는 참으로 보기 드문 인종이다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/KassilAldori/Answer_0007_Text
 msgctxt "4425d1ef-27e3-4d6b-a078-d05cea586578"
@@ -63097,7 +63096,7 @@ msgid ""
 "secondary.\""
 msgstr ""
 "\"쉬운 일은 아닙니다, {mf|영주님|영주님|전하|전하}. 저는 {g|Restov}레스토프{/g}에서 태어나고 자랐습니다. 오크어는 한 "
-"마디도 모르죠. 그저 알도리라는 이름에 걸맞은 사람이 되기 위해 전념했습니다. 그러나 대부분의 사람들에게 저는 여전히 하프 오크이고 다른 "
+"마디도 모르죠. 그저 알도리라는 이름에 걸맞은 사람이 되기 위해 전념했습니다. 그러나 대부분의 사람들에게 저는 여전히 하프오크이고 다른 "
 "것은 눈에 들어오지도 않을 겁니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Capital/KassilAldori/Cue_0015_Text
@@ -76346,7 +76345,7 @@ msgid ""
 "ears.{/n} \"Aha! They're a bit pointy! Yes, I'm definitely a half-elf!\""
 msgstr ""
 "\"제가요?\" {n}옥타비아는 자신을 처음으로 보는 것처럼 자신을 살핍니다.{/n} \"당신 말이 맞을지도 몰라요! 나는 좀 날씬하고 "
-"키도 크고 어두워도 잘 볼 수 있죠.\" {n}그녀는 손을 들고 귀를 만집니다.{/n} \"아하! 귀가 약간 뾰족하구나! 저 하프 엘프 "
+"키도 크고 어두워도 잘 볼 수 있죠.\" {n}그녀는 손을 들고 귀를 만집니다.{/n} \"아하! 귀가 약간 뾰족하구나! 저 하프엘프 "
 "맞네요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/CompanionDialogues/Octavia/VS_Octavia_Companion_Dialogue/Cue_0023_Text
@@ -89924,7 +89923,7 @@ msgid ""
 "we find the one who stabbed the boar?\""
 msgstr ""
 "{n}제이탈은 멧돼지 목에 난 상처를 검사합니다.{/n} \"절단된 상처 모양이 독특하군. 내 단검으로 찌른 상처가 맞는것 같아. 내 "
-"단검은 칼날 한면이 톱니 모양으로 되어 있어서 상처에 톱니 자국을 내거든. 여기까지는 모든것이 하프 엘프가 말한 내용과 맞아떨어지는군. "
+"단검은 칼날 한면이 톱니 모양으로 되어 있어서 상처에 톱니 자국을 내거든. 여기까지는 모든것이 하프엘프가 말한 내용과 맞아떨어지는군. "
 "근데 멧돼지를 찌른자를 어떻게 찾아야 할까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Jaethal/Q1_Investigate_My_Death/BoarCarcass_Dialog/Cue_0010_Text
@@ -90079,9 +90078,9 @@ msgid ""
 "have come to your lands recently, and hope to stay here for a while — until "
 "the road calls me again!\""
 msgstr ""
-"{n}햇볕에 그을린 하프-엘프 상인이 공손히 인사를 합니다. 그는 두꺼운 적갈색 머리카락에 관자놀이 근처로 회색이 살짝씩 비췄는데, "
-"그것은 그가 70세 정도라는 확실한 증거입니다. 하프-엘프로써는 충분히 성인이지만 노인 정도는 아닌 나이입니다.{/n} \""
-"{mf|영주님|영주님|전하|전하}을 맞이하게 되어 기쁩니다. 저는 호기심을 따라 떠돌아다니는 상인, 에네오입니다. 요근래에 이 지역에 "
+"{n}햇볕에 그을린 하프엘프 상인이 공손히 인사를 합니다. 그는 두꺼운 적갈색 머리카락에 관자놀이 근처로 회색이 살짝씩 비췄는데, 그것은 "
+"그가 70세 정도라는 확실한 증거입니다. 하프엘프로써는 충분히 성인이지만 노인 정도는 아닌 나이입니다.{/n} "
+"\"{mf|영주님|영주님|전하|전하}을 맞이하게 되어 기쁩니다. 저는 호기심을 따라 떠돌아다니는 상인, 에네오입니다. 요근래에 이 지역에 "
 "도착하게 되었습니다. 길이 저를 다시 부를 때까지 잠시 이 지역에 머물기를 희망합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Jaethal/Q1_Investigate_My_Death/EnneoVendor_Dialog/Cue_0002_Text
@@ -91360,7 +91359,7 @@ msgid ""
 msgstr ""
 "\"{g|Pharasma}무덤의 여인{/g}은 우리 나라에서 별로 존경을 받지 못한다. 그 사원에는 두 늙은 여사제만이 살았었다. 그들이 "
 "{g|Urgathoa}우르가쏘아{/g}의 비밀 집회가 도시에서 열린다는 것을 알자 심문관에게 도움을 청했다... 그가 똑똑히 기억 난다. "
-"어리고 늠름했다. 하프 엘프 중에서도 드문 외모를 가지고 있었다. 두꺼운 갈색 머리칼과 여신을 위해 목숨도 바치겠다는 그 눈빛을 잊지 "
+"어리고 늠름했다. 하프엘프 중에서도 드문 외모를 가지고 있었다. 두꺼운 갈색 머리칼과 여신을 위해 목숨도 바치겠다는 그 눈빛을 잊지 "
 "못한다. 그는 예배당에 침입했다. 우리는 우르가쏘아의 추종자와 싸웠다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Jaethal/Q2_Follow_My_Shadow/Taneka_Dialog/Cue_0018_Text
@@ -96308,23 +96307,21 @@ msgstr ""
 "\"많은 사람들에게 아비스탄의 아크나이트는 전설적이이었습니다. 다른 사람들에게는 구원이었습니다. 그리고 사악한 자들에게는 그들의 "
 "심판이었습니다. 그들의 행적은 매우 많았고 가룬드의 중앙 정글에서 매머드와 린놈의 영역까지 이어졌습니다. 탈도르에서 기사가 되었지만, "
 "그들은 하나의 왕국이나 제국의 범주를 넘어서 행동하며 일반적인 기사가 아니라는 사실을 입증했습니다. 여러 상인과 정치인을 죽이려는 음모를 "
-"저지한 뒤, 압살롬 정부에 의해 공식적인 이름을 받았습니다.\n"
-"그러나 영웅 무리가 전설이 되기 위해서는 개인이나 팀으로서나 강력해야만 합니다. 그들은 위대한 목적이 있어야 하며 작위 또한 있어야만 "
-"합니다. 이 기사들은 정의 구현을 위해 그들의 시간과 기술을 쓰지 않았습니다. 그러나 한 가지 목표는 이 대륙의 누구보다도 더 그들을 "
-"부추겼습니다. 그들은 우리 시대의 가장 커다란 신비에 대한 해답을 찾았다고 여겨집니다. 아로덴, 마지막 아즐란트인에게 무슨 일이 "
-"일어났는가? 그들의 여행은 많은 이들을 돕도록 만들었지만, 그 모든 업적들은 지금은 죽었다고 여겨지는, 살아있는 신이 진정으로 맞이한 "
-"운명을 알아내고자 하는 열망 덕분이었습니다.\n"
-"그리고 그들에겐 작위가 있습니다. 가이 샤제흐 드 롬배흐가 그들의 대변인이었습니다. 이 눈에 띄게.이국적인 하프 엘프는 갈트의 귀족이었던 "
-"아버지와 라하둠에서 온 까마귀같은 흑발을 가진 미녀였습니다. 갈트에서 정치적 혼란이 일어 희생자가 된 가이의 부모를 처형한 도구는 미래에 "
-"붉은 혁명중 발명된 마지막 칼날이라고 불리는 장치의 원조로 여겨집니다. 가이는 아버지의 땅에서 도망쳤고 그 후로 위대한 검객, 황야의 "
-"방랑자, 추적자, 아크나이트가 됩니다. 그의 정치적 기교는 그의 엘프 쌍검처럼 날카롭다고 알려졌습니다. 어머니의 반종교적 성향에 영향 "
-"받았기 때문에, 그는 신들을 싫어했습니다. 그는 신들이 인간의 악한 본성을 막지 못했기 때문에 예배를 받을 자격이 부족하다고 "
-"생각했습니다. 그는 때때로 이렇게 말했다고 합니다. \"신들이 나를 존경하게 하소서, 적어도 나는 내 손으로 여기서 변화를 만드니. "
-"그리고 악신들이 나를 두렵게 여기도록 하소서, 나는 그들의 회랑이 무덤이 될 때까지 쉬지 않을 것이니.\" 화려한 갑옷을 입은 그는 "
-"비슷한 일을 하는 누구보다 우아하게 차려입었다고 합니다. 그는 먹이를 쫓는 새처럼 적들의 주위에서 춤추듯 움직였고, 모든 공격은 "
-"품위있었습니다.\n"
-"어린 시절부터 노예 구덩이에서 살아남고, 광야에서 홀로 생존하고 싸워온 그는 목적 의식을 가지고 성장했습니다. 아로덴이 실종되었을 때부터 "
-"세상은 망해가는 것처럼 보였고, 따라서 가이는 그를 찾겠다고 다짐했습니다...\""
+"저지한 뒤, 압살롬 정부에 의해 공식적인 이름을 받았습니다.\n그러나 영웅 무리가 전설이 되기 위해서는 개인이나 팀으로서나 강력해야만 "
+"합니다. 그들은 위대한 목적이 있어야 하며 작위 또한 있어야만 합니다. 이 기사들은 정의 구현을 위해 그들의 시간과 기술을 쓰지 "
+"않았습니다. 그러나 한 가지 목표는 이 대륙의 누구보다도 더 그들을 부추겼습니다. 그들은 우리 시대의 가장 커다란 신비에 대한 해답을 "
+"찾았다고 여겨집니다. 아로덴, 마지막 아즐란트인에게 무슨 일이 일어났는가? 그들의 여행은 많은 이들을 돕도록 만들었지만, 그 모든 "
+"업적들은 지금은 죽었다고 여겨지는, 살아있는 신이 진정으로 맞이한 운명을 알아내고자 하는 열망 덕분이었습니다.\n그리고 그들에겐 작위가 "
+"있습니다. 가이 샤제흐 드 롬배흐가 그들의 대변인이었습니다. 이 눈에 띄게.이국적인 하프엘프는 갈트의 귀족이었던 아버지와 라하둠에서 온 "
+"까마귀같은 흑발을 가진 미녀였습니다. 갈트에서 정치적 혼란이 일어 희생자가 된 가이의 부모를 처형한 도구는 미래에 붉은 혁명중 발명된 "
+"마지막 칼날이라고 불리는 장치의 원조로 여겨집니다. 가이는 아버지의 땅에서 도망쳤고 그 후로 위대한 검객, 황야의 방랑자, 추적자, "
+"아크나이트가 됩니다. 그의 정치적 기교는 그의 엘프 쌍검처럼 날카롭다고 알려졌습니다. 어머니의 반종교적 성향에 영향 받았기 때문에, 그는 "
+"신들을 싫어했습니다. 그는 신들이 인간의 악한 본성을 막지 못했기 때문에 예배를 받을 자격이 부족하다고 생각했습니다. 그는 때때로 이렇게 "
+"말했다고 합니다. \"신들이 나를 존경하게 하소서, 적어도 나는 내 손으로 여기서 변화를 만드니. 그리고 악신들이 나를 두렵게 여기도록 "
+"하소서, 나는 그들의 회랑이 무덤이 될 때까지 쉬지 않을 것이니.\" 화려한 갑옷을 입은 그는 비슷한 일을 하는 누구보다 우아하게 "
+"차려입었다고 합니다. 그는 먹이를 쫓는 새처럼 적들의 주위에서 춤추듯 움직였고, 모든 공격은 품위있었습니다.\n어린 시절부터 노예 "
+"구덩이에서 살아남고, 광야에서 홀로 생존하고 싸워온 그는 목적 의식을 가지고 성장했습니다. 아로덴이 실종되었을 때부터 세상은 망해가는 "
+"것처럼 보였고, 따라서 가이는 그를 찾겠다고 다짐했습니다...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Linzi/Peddler_Books/Archknights_1-Title_String
 msgctxt "7e60c5b8-0c50-4978-afe1-09ec49069d69"
@@ -104180,7 +104177,7 @@ msgid ""
 "fists.{/n}"
 msgstr ""
 "{n}레곤가르는 나무 아래 서서, 우울하게 도시를 내려다봅니다..{/n} \"아, 거기 있었군. 좋아... 우린 내 부족을 찾았어. 이제 "
-"직접 찾아가 담소를 나누기만 하면 돼!\" {n}하프-오크는 주먹을 움켜쥡니다.{/n}"
+"직접 찾아가 담소를 나누기만 하면 돼!\" {n}하프오크는 주먹을 움켜쥡니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Regongar_Master_Self/Garden_Start/Cue_0008_Text
 #. Speaker : Regongar_Companion
@@ -104308,7 +104305,7 @@ msgid ""
 "shit and show them what a true animal can do!\" {n}The half-orc shakes his "
 "fist.{/n}"
 msgstr ""
-"\"하, 맞는 말이야! 정말 그런 경우라면, 그 똥무더기들을 만나 진짜 짐승이 무슨 짓을 할 수 있는지 보여주자고!\" {n}하프-오크는 "
+"\"하, 맞는 말이야! 정말 그런 경우라면, 그 똥무더기들을 만나 진짜 짐승이 무슨 짓을 할 수 있는지 보여주자고!\" {n}하프오크는 "
 "주먹을 흔듭니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Regongar_Master_Self/Garden_Start/Cue_0026_Text
@@ -104368,9 +104365,9 @@ msgid ""
 "for any weapons.{/n} \"Hm? Who's there? No one comes by here anymore...\""
 msgstr ""
 "{n}마른 들판에서, 당신은 사람들이 살았던 흔적을 겨우 알아볼 수 있습니다.- 타버리고 남은 텐트의 잔재들, 녹슨 검들, 비에 씻겨내린 "
-"뼈들...늙은 하프-오크 한 명만이 폐허에서 유일하게 살아있는 영혼입니다. 그을린 망토를 두르고, 그는 땅바닥에 앉아 토끼를 생으로 "
-"먹으며 남은 뼈를 발치에 있는 개에게 던져줍니다. 당신이 접근하는 걸 곁눈질로 쳐다보지만, 그는 무기에 손 댈 생각은 없어보입니다.{/n}"
-" \"흠? 거기 누군가? 더 이상 이곳엔 아무도 오지 않을 터인데...\""
+"뼈들...늙은 하프오크 한 명만이 폐허에서 유일하게 살아있는 영혼입니다. 그을린 망토를 두르고, 그는 땅바닥에 앉아 토끼를 생으로 먹으며 "
+"남은 뼈를 발치에 있는 개에게 던져줍니다. 당신이 접근하는 걸 곁눈질로 쳐다보지만, 그는 무기에 손 댈 생각은 없어보입니다.{/n} "
+"\"흠? 거기 누군가? 더 이상 이곳엔 아무도 오지 않을 터인데...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Regongar_Master_Self/Last_Tribesman/Cue_0002_Text
 #. Speaker : Regongar_Companion
@@ -104542,8 +104539,7 @@ msgctxt "bdd45699-6693-44d1-a80b-82cfdc493167"
 msgid ""
 "{n}The half-orc looks across the bones scattered in the grass.{/n} \"Lend me "
 "a hand here. Let's give these jerks a proper burial, at least.\""
-msgstr ""
-"{n}하프-오크는 들판에 흩어진 뼈들을 바라봅니다.{/n} \"좀 도와주겠어. 최소한, 이 머저리들에게 적절한 장례식은 치러주자고.\""
+msgstr "{n}하프오크는 들판에 흩어진 뼈들을 바라봅니다.{/n} \"좀 도와주겠어. 최소한, 이 머저리들에게 적절한 장례식은 치러주자고.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Regongar_Master_Self/Last_Tribesman/Cue_0024_Text
 #. Speaker : Regongar_Companion
@@ -104565,7 +104561,7 @@ msgctxt "85b89877-b6c1-46df-b5fd-b877525f996e"
 msgid ""
 "{n}The half-orc turns and walks away from the burned settlement without "
 "looking at anyone.{/n}"
-msgstr "{n}눈길 한 번 돌리지 않으면서, 하프-오크는 불탄 정착지를 등지고 떠납니다.{/n}"
+msgstr "{n}눈길 한 번 돌리지 않으면서, 하프오크는 불탄 정착지를 등지고 떠납니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Octavia_Regongar/Q3_Regongar_Master_Self/Last_Tribesman/Cue_0027_Text
 #. Speaker : RegQ3_LastTribesman
@@ -106128,7 +106124,7 @@ msgid ""
 "{n}You hear the half-elf grind her teeth in anger.{/n} \"If as much as one "
 "hair falls from this girl's head... just one hair...\""
 msgstr ""
-"{n}당신은 하프 엘프가 분노에 차서 이를 가는 소리를 듣습니다.{/n} \"그 아이 머리카락 하나라도 건드렸다간... 머리카락 "
+"{n}당신은 하프엘프가 분노에 차서 이를 가는 소리를 듣습니다.{/n} \"그 아이 머리카락 하나라도 건드렸다간... 머리카락 "
 "하나라도...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/PersonalQuests/Tristian/Q2_SavingGrace/DunswardOutdoor/FirstFaithful_Final/Cue_0042_Text
@@ -110106,7 +110102,7 @@ msgctxt "d160f5c1-cae9-4240-9af6-b93d9d1da318"
 msgid ""
 "{n}The half-elf pulls her hand away.{/n} \"What? I'm not doing anything! So, "
 "Reg, what happened next?\""
-msgstr "{n}하프 엘프는 손을 치웁니다.{/n} \"뭐라고요? 난 아무짓도 안했는데요! 그래서, 레그, 다음에 무슨 일이 있었지?\""
+msgstr "{n}하프엘프는 손을 치웁니다.{/n} \"뭐라고요? 난 아무짓도 안했는데요! 그래서, 레그, 다음에 무슨 일이 있었지?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Event_1/Cue_0013_Text
 #. Speaker : Octavia_Companion
@@ -110147,7 +110143,7 @@ msgid ""
 "that freaking lockpick. And then I realize the barrel is rotten, and it's "
 "cracking right under my feet...\""
 msgstr ""
-"{n}하프-오크는 한모금 마십니다.{/n} \"그래, 어디까지 했더라? 아, 맞아! 난 통 위에 서서, 바지를 벗고, 그 망할 락픽을 "
+"{n}하프오크는 한모금 마십니다.{/n} \"그래, 어디까지 했더라? 아, 맞아! 난 통 위에 서서, 바지를 벗고, 그 망할 락픽을 "
 "찾느라 벽 위를 뒤지고 있었지. 그 다음에 난 통이 썩었다는 걸 깨달았어-내 발밑부터 쪼개지기 시작했거든...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Event_1/Cue_0023_Text_String
@@ -110433,7 +110429,7 @@ msgid ""
 "The half-elf smiles flirtatiously.{/n} \"Maybe it's because you've been "
 "charmed by my beauty?\""
 msgstr ""
-"\"당신은 우리에게 너무나 잘해줘요! 원래 친절한 성격이라서 그런가요? 아니면 혹시...\" {n}하프 엘프는 추파를 던지듯 "
+"\"당신은 우리에게 너무나 잘해줘요! 원래 친절한 성격이라서 그런가요? 아니면 혹시...\" {n}하프엘프는 추파를 던지듯 "
 "미소짓습니다.{/n} \"혹시 내 미모에 반해서?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_0-Flirt/Cue_0019_Text
@@ -110736,7 +110732,7 @@ msgid ""
 "\"Maybe later, when all this is over... Maybe we really will run away. Think "
 "of it!\" {n}The half-elf kisses your ear and pulls away.{/n}"
 msgstr ""
-"\"아마도 나중에, 이 모든게 끝나면... 우린 진짜로 달아날지도 모르죠. 상상해봐요!\" {n}하프 엘프는 당신의 귀에 키스하고 물어 "
+"\"아마도 나중에, 이 모든게 끝나면... 우린 진짜로 달아날지도 모르죠. 상상해봐요!\" {n}하프엘프는 당신의 귀에 키스하고 물어 "
 "당깁니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_2-LetsRunAway/Cue_0010_Text
@@ -110822,8 +110818,8 @@ msgid ""
 "and smiles flirtatiously.{/n} \"Now you'll have to help me take it all off "
 "again...\""
 msgstr ""
-"\"하지만 방금 옷을 다시 입었는데요...\" {n}하프 엘프는 셔츠의 단추 하나를 풀면서 매혹적인 미소짓습니다.{/n} \"이번엔 "
-"당신이 벗는 것좀 도와줘야겠어요...\""
+"\"하지만 방금 옷을 다시 입었는데요...\" {n}하프엘프는 셔츠의 단추 하나를 풀면서 매혹적인 미소짓습니다.{/n} \"이번엔 당신이 "
+"벗는 것좀 도와줘야겠어요...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_2-PillowTalk/Cue_0007_Text
 msgctxt "f8c70089-1377-4220-b389-f00401ab0d76"
@@ -110862,8 +110858,8 @@ msgid ""
 "and smiles flirtatiously.{/n} \"Now you'll have to help me take it all off "
 "again...\""
 msgstr ""
-"\"하지만 방금 옷을 다시 입었는데요...\" {n}하프 엘프는 셔츠의 단추 하나를 풀면서 매혹적인 미소짓습니다.{/n} \"이번엔 "
-"당신이 벗는 것좀 도와줘야겠어요...\""
+"\"하지만 방금 옷을 다시 입었는데요...\" {n}하프엘프는 셔츠의 단추 하나를 풀면서 매혹적인 미소짓습니다.{/n} \"이번엔 당신이 "
+"벗는 것좀 도와줘야겠어요...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_2-PillowTalk/Cue_0011_Text_1
 msgctxt "3a51bb3d-3255-496d-be72-cd7c2548d792"
@@ -111029,7 +111025,7 @@ msgstr ""
 #. Speaker : Octavia_Companion
 msgctxt "92d61cee-cdf1-4d24-8a90-0bd9fabdc8d3"
 msgid "\"I'll go get some air!\" {n}The half-elf steps aside.{/n}"
-msgstr "\"나가서 공기좀 쐬어야겠어요!\" {n}하프 엘프는 자리에서 벗어납니다.{/n}"
+msgstr "\"나가서 공기좀 쐬어야겠어요!\" {n}하프엘프는 자리에서 벗어납니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Octavia/Stage_2-SeducingAmiri/Cue_0027_Text
 #. Speaker : Regongar_Companion
@@ -111565,7 +111561,7 @@ msgid ""
 "table.{/n} \"Regongar, honey! Please try to remember, how many times I asked "
 "you not to call me that?\""
 msgstr ""
-"{n}하프 엘프의 미소가 사라집니다. 그녀는 탁자위에 술잔을 딱 내려놓습니다.{/n} \"레곤가르, 자기! 잊어버리지 좀 마, 날 그렇게 "
+"{n}하프엘프의 미소가 사라집니다. 그녀는 탁자위에 술잔을 딱 내려놓습니다.{/n} \"레곤가르, 자기! 잊어버리지 좀 마, 날 그렇게 "
 "부르지 말라고 몇 번이나 얘기했지?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Event_2/Cue_0006_Text
@@ -111793,7 +111789,7 @@ msgstr "\"소용없어. 언젠간 일어날 일이었어. 길고 힘든 고통 �
 #. Speaker : Regongar_Companion
 msgctxt "02060b53-64a3-414f-b1fd-6b00a3369f01"
 msgid "{n}The half-orc clings to you tightly.{/n}"
-msgstr "{n}하프-오크는 당신을 껴안습니다.{/n}"
+msgstr "{n}하프오크는 당신을 껴안습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Event_2/Cue_0040_Text
 #. Speaker : Regongar_Companion
@@ -111905,7 +111901,7 @@ msgid ""
 msgstr ""
 "\"이유를 모르겠다고? 방금 네 입으로 말했잖아! 뭐가 문제일 것 같아? 네 말투가 내가 화가 난 이유야! 정말이지 네 행동을 견디기 "
 "어려워... 오. 또 시작이네... 미안, 레지, 미안해! 이게 뭐람! 우린 서로 사랑하잖아. 우리 둘 다 알고 있는데, 왜 서로에게 "
-"상처 주는 말만 하는 걸까, 구제불능 멍청이처럼?\" {n}하프 엘프는 당신을 바라봅니다{/n} \"이런 커플과 계속 연인으로 남고 "
+"상처 주는 말만 하는 걸까, 구제불능 멍청이처럼?\" {n}하프엘프는 당신을 바라봅니다{/n} \"이런 커플과 계속 연인으로 남고 "
 "싶나요? 우리가 서로를 어떻게 대하는지 봤잖아요. 분명 가운데에 껴서 곤란해질 텐데!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Event_2/Cue_0064_Text
@@ -112223,7 +112219,7 @@ msgstr ""
 msgctxt "855c3c1b-5280-4366-b509-a667997c0340"
 msgid ""
 "{n}The half-orc smiles.{/n} \"Then there will be just the three of us.\""
-msgstr "{n}하프-오크는 미소짓습니다.{/n} \"그리고 나면 이제 우리 단 셋이서만 있게 되겠지.\""
+msgstr "{n}하프오크는 미소짓습니다.{/n} \"그리고 나면 이제 우리 단 셋이서만 있게 되겠지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Event_3/Cue_0019_Text
 #. Speaker : Regongar_Companion
@@ -112266,7 +112262,7 @@ msgid ""
 "{n}Entering the capital, Octavia and Regongar come up to you. The half-elf "
 "leans over to your ear and whispers, biting it tenderly,{/n} \"I want you.\""
 msgstr ""
-"{n}수도에 들어서자, 옥타비아와 레곤가르가 당신에게 다가옵니다. 하프 엘프는 몸을 기울여 당신의 귀를 부드럽게 물며, 조용히 "
+"{n}수도에 들어서자, 옥타비아와 레곤가르가 당신에게 다가옵니다. 하프엘프는 몸을 기울여 당신의 귀를 부드럽게 물며, 조용히 "
 "속삭입니다.{/n} \"당신을 원해요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Event_3_Letsgo/Cue_0002_Text
@@ -112501,7 +112497,7 @@ msgid ""
 "why don't you ever listen? You always do the craziest thing a demon would "
 "think of, and then say you did it for me!\""
 msgstr ""
-"\"행복이라고? 진심이야? 레곤가르, 넌 정말.. 윽, 정말 열받네!\" {n}하프 엘프는 주먹을 꽉 쥡니다.{/n} \"내가 그러라고 "
+"\"행복이라고? 진심이야? 레곤가르, 넌 정말.. 윽, 정말 열받네!\" {n}하프엘프는 주먹을 꽉 쥡니다.{/n} \"내가 그러라고 "
 "부탁했었어? 아니 그 반대로 — 내가 그런 짓을 하지 말아달라고 수백 번을 부탁했잖아?! 도대체 왜 듣지를 않는건데? 넌 언제나 마귀나 "
 "할 미친 짓을 해놓곤, 날 위해서 했다고 말하잖아!\""
 
@@ -112547,7 +112543,7 @@ msgid ""
 "\"Reg... Shut up, just shut up. Another word, and I'll say something I'll "
 "regret later!\" {n}The half-elf turns away.{/n}"
 msgstr ""
-"\"레그.. 입닥쳐, 그냥 입 다물라고. 한마디만 더하면, 난 나중에 후회할 말을 할지도 몰라!\" {n}하프 엘프는 자리를 "
+"\"레그.. 입닥쳐, 그냥 입 다물라고. 한마디만 더하면, 난 나중에 후회할 말을 할지도 몰라!\" {n}하프엘프는 자리를 "
 "떠납니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Stage_2-Quarrel/Cue_0016_Text
@@ -112556,7 +112552,7 @@ msgctxt "dc9e412a-a42a-42a5-84b1-42900b2a303f"
 msgid ""
 "{n}The half-orc looks at the back of her head resentfully, biting his "
 "lip.{/n}"
-msgstr "{n}하프 오크는 입술을 깨물며, 그녀의 뒤통수를 노려봅니다.{/n}"
+msgstr "{n}하프오크는 입술을 깨물며, 그녀의 뒤통수를 노려봅니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Stage_2-Quarrel/Cue_0017_Text
 #. Speaker : Octavia_Companion
@@ -112779,7 +112775,7 @@ msgid ""
 "nightmare had to move into my dreams. The druids must be right when they say "
 "there's a balance everywhere in nature.\""
 msgstr ""
-"{n}하프 엘프는 당신에게 미소짓습니다.{/n} \"당신은 내가 정말 걱정되나보내요.., 그러지 말아요. "
+"{n}하프엘프는 당신에게 미소짓습니다.{/n} \"당신은 내가 정말 걱정되나보내요.., 그러지 말아요. "
 "{g|Numeria}누메리아{/g}에서 나와 레그는 악몽 속에서 산거나 다름 없으니까요 - 자유를 찾는 행복한 꿈을 꾸면서 말이죠. 이제 "
 "행복하고 자유롭게 살고 있으니 - 악몽이 내 꿈자리를 대신했나봐요. 드루이드들이 자연 어디든지 균형이 존재한다고 했는데 그 사람들 말이 "
 "맞나 봐요.\""
@@ -112846,7 +112842,7 @@ msgid ""
 "\"Nightmares again?\" {n}The half-orc runs his fingers through Octavia's "
 "hair compassionately.{/n} \"They just won't let you go!\""
 msgstr ""
-"\"또 악몽을 꾼거야?\" {n}하프-오크는 동정심을 담아 옥타비아의 머리를 손가락으로 매만져줍니다.{/n} \"도저히 널 가만두질 "
+"\"또 악몽을 꾼거야?\" {n}하프오크는 동정심을 담아 옥타비아의 머리를 손가락으로 매만져줍니다.{/n} \"도저히 널 가만두질 "
 "않는구만!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/OctaviaRegongar/Stage_3-Past/Cue_0028_Text
@@ -113101,7 +113097,7 @@ msgstr ""
 #. Speaker : Regongar_Companion
 msgctxt "60bf93fb-113d-4094-81e2-bb1c90c3b245"
 msgid "\"A promise is a promise!\" {n}The half-orc kisses you on the lips.{/n}"
-msgstr "\"약속은 약속이지!\" {n}하프-오크는 당신 입술에 키스합니다.{/n}"
+msgstr "\"약속은 약속이지!\" {n}하프오크는 당신 입술에 키스합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_1/Cue_0013_Text
 #. Speaker : Regongar_Companion
@@ -113123,14 +113119,13 @@ msgctxt "3d606038-1b17-4fb3-aee3-8cbb9b887107"
 msgid ""
 "\"So what? Are we doing something they don't like, hmm?\" {n}The half-orc's "
 "hand is stroking your thigh.{/n}"
-msgstr ""
-"\"그래서 뭐? 우리가 사람들이 싫어할 만한 일을 하고 있었나, 흠?\" {n}하프-오크의 손은 당신의 허벅지를 건드립니다.{/n}"
+msgstr "\"그래서 뭐? 우리가 사람들이 싫어할 만한 일을 하고 있었나, 흠?\" {n}하프오크의 손은 당신의 허벅지를 건드립니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_1/Cue_0016_Text
 #. Speaker : Regongar_Companion
 msgctxt "b91d4ab7-f172-41b0-8b2a-2d840416b80b"
 msgid "{n}The half-orc clings to you, as his fingers stroke your thigh.{/n}"
-msgstr "{n}하프-오크는 당신을 껴앉고, 손가락으로 허벅지를 건드립니다..{/n}"
+msgstr "{n}하프오크는 당신을 껴앉고, 손가락으로 허벅지를 건드립니다..{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_1/Cue_0017_Text
 #. Speaker : Regongar_Companion
@@ -113160,7 +113155,7 @@ msgid ""
 "Regongar.{/n} \"I'm liking this evening more and more... {Name}, what about "
 "you?\""
 msgstr ""
-"\"셋이서요?\" {n}하프 엘프는 당신과 레곤가를 재보며 웃습니다{/n} \"점점 이 밤일이 좋아지는데... {Name}, 당신은 "
+"\"셋이서요?\" {n}하프엘프는 당신과 레곤가를 재보며 웃습니다{/n} \"점점 이 밤일이 좋아지는데... {Name}, 당신은 "
 "어때요?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_1/Cue_0022_Text
@@ -113169,7 +113164,7 @@ msgctxt "8073f83f-ac93-4a64-8c61-cdddff36a136"
 msgid ""
 "\"I don't think so.\" {n}The half-elf winks at you provocatively.{/n} \"Have "
 "fun!\""
-msgstr "\"난 별로.\" {n}하프 엘프는 도발적으로 윙크합니다.{/n} \"재밌게 놀아요!\""
+msgstr "\"난 별로.\" {n}하프엘프는 도발적으로 윙크합니다.{/n} \"재밌게 놀아요!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_1/Cue_0030_Text
 #. Speaker : Octavia_Companion
@@ -113220,8 +113215,7 @@ msgctxt "1ead9605-1e76-4046-8a3b-843d77ca6721"
 msgid ""
 "{n}Giggling, Octavia playfully slaps Regongar upside the head. In return the "
 "half-orc bares his fangs in a broad grin and starts dealing cards.{/n}"
-msgstr ""
-"{n}킬킬거리면서, 옥타비아는 레곤가르의 뒤통수를 때립니다. 하프-오크는 송곳니를 보이며 크게 미소짓고, 카드를 돌리기 시작합니다.{/n}"
+msgstr "{n}킬킬거리면서, 옥타비아는 레곤가르의 뒤통수를 때립니다. 하프오크는 송곳니를 보이며 크게 미소짓고, 카드를 돌리기 시작합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_1/Cue_0039_Text
 #. Speaker : Octavia_Companion
@@ -113238,8 +113232,8 @@ msgid ""
 "\"Not at all!\" {n}The half-orc scoots closer to you and, as if by accident, "
 "puts his hand on your thigh.{/n} \"But I'm a spectacular undresser…\""
 msgstr ""
-"\"전혀!\" {n}하프-오크는 당신 쪽으로 몸을 기울이다, 마치 우연인양, 손을 당신 허벅지에 얹습니다.{/n} \"하지만 내가 "
-"옷벗는덴 선수거든…\""
+"\"전혀!\" {n}하프오크는 당신 쪽으로 몸을 기울이다, 마치 우연인양, 손을 당신 허벅지에 얹습니다.{/n} \"하지만 내가 옷벗는덴 "
+"선수거든…\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_3/Answer_0008_Text
 msgctxt "37425232-7996-43a2-9be9-fd1325cff34d"
@@ -113338,7 +113332,7 @@ msgstr ""
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_3/Cue_0013_Text
 msgctxt "63c7e9db-396b-4adf-bd03-5fcffe28025a"
 msgid "{n}The half-orc smiles.{/n} \"Then it will be just you and me.\""
-msgstr "{n}하프-오크는 미소짓습니다.{/n} \"그리고 나면 우리 단 둘이서만 있게 되겠지.\""
+msgstr "{n}하프오크는 미소짓습니다.{/n} \"그리고 나면 우리 단 둘이서만 있게 되겠지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Event_3/Cue_0016_Text
 msgctxt "0d5983c4-8e8f-49ec-871d-bda21ea291af"
@@ -113651,7 +113645,7 @@ msgid ""
 "her weapon, but the half-orc doesn't rush to fight, just angrily spits red "
 "on the ground. The warrior scoffs with contempt and turns away.{/n}"
 msgstr ""
-"{n}발레리는 귀가 멍멍할 정도로 레곤가르의 따귀를 때립니다. 발레리는 무기를 꺼낼 자세를 취하지만, 하프-오크는 싸우려고 달려지 않고, "
+"{n}발레리는 귀가 멍멍할 정도로 레곤가르의 따귀를 때립니다. 발레리는 무기를 꺼낼 자세를 취하지만, 하프오크는 싸우려고 달려지 않고, "
 "그저 화가난 체 피가 섞인 침을 바닥에 뱉습니다 발레리는 경멸을 섞어 비웃으며 자리를 떠납니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0015_Text
@@ -113666,7 +113660,7 @@ msgctxt "351f17ec-a1f6-40d0-b418-0ef761e91d9c"
 msgid ""
 "\"Ha ha ha... You're so shy!\" {n}The half-orc chuckles.{/n} \"So, tonight, "
 "right?\""
-msgstr "\"하 하 하... 얼굴 빨개진 것 좀 봐!\" {n}하프 오크는 껄껄거리며 웃습니다.{/n} \"그럼, 오늘밤, 하는거지?\""
+msgstr "\"하 하 하... 얼굴 빨개진 것 좀 봐!\" {n}하프오크는 껄껄거리며 웃습니다.{/n} \"그럼, 오늘밤, 하는거지?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0017_Text
 msgctxt "caab16d5-0197-4b13-9bb7-f710856b29d7"
@@ -113691,7 +113685,7 @@ msgid ""
 "do it. I'm just a fool... Thanks for stepping in before it led to bloodshed."
 "\""
 msgstr ""
-"{n}하프-오크는 얼굴을 지푸리며 돌아섭니다.{/n} \"모르겠어. 그냥 저질러버린 것 같아. 그냥 멍청이인거지... 피를 보기 전에 "
+"{n}하프오크는 얼굴을 지푸리며 돌아섭니다.{/n} \"모르겠어. 그냥 저질러버린 것 같아. 그냥 멍청이인거지... 피를 보기 전에 "
 "말려줘서 고마워.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0024_Text
@@ -113706,7 +113700,7 @@ msgctxt "55e564e0-53ad-4162-ba33-8eae89455bfa"
 msgid ""
 "{n}The half-orc looks gloomily at you, then at Valerie, and back at you — "
 "then turns away without saying a word.{/n}"
-msgstr "{n}하프-오크는 당신을 우울하게 바라봤다, 발레리를 봤다가, 다시 당신을 보더니 - 말 없이 자리를 떠납니다.{/n}"
+msgstr "{n}하프오크는 당신을 우울하게 바라봤다, 발레리를 봤다가, 다시 당신을 보더니 - 말 없이 자리를 떠납니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0030_Text
 #. Speaker : Regongar_Companion
@@ -113732,7 +113726,7 @@ msgstr "\"용서하십시오. 앞으론 더 절제하도록고 노력하겠습�
 #. Speaker : Regongar_Companion
 msgctxt "21229a01-f1f1-47a5-a5f9-8bb8859f0d9f"
 msgid "{n}In return the half-orc just scoffs angrily.{/n}"
-msgstr "{n}대답 대신 하프-오크는 화난 듯 코웃음을 칩니다.{/n}"
+msgstr "{n}대답 대신 하프오크는 화난 듯 코웃음을 칩니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0040_Text
 #. Speaker : Regongar_Companion
@@ -113741,7 +113735,7 @@ msgid ""
 "{n}The half-orc frowns and looks away.{/n} \"I don't know. Just thought I'd "
 "do it. I'm just a fool. I don't know how you put up with me...\""
 msgstr ""
-"{n}하프-오크는 얼굴을 지푸리며 돌아섭니다.{/n} \"모르겠어. 그냥 저질러버린 것 같아. 그냥 멍청이인거지... 네가 날 어떻게 "
+"{n}하프오크는 얼굴을 지푸리며 돌아섭니다.{/n} \"모르겠어. 그냥 저질러버린 것 같아. 그냥 멍청이인거지... 네가 날 어떻게 "
 "참아주는지 모르겠군.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0041_Text
@@ -113766,7 +113760,7 @@ msgid ""
 "\"Ha ha ha... Someone is shy!\" {n}The half-orc chuckles.{/n} \"She must be "
 "mortally boring in bed, huh, {name}?\""
 msgstr ""
-"\"하 하 하... 얼굴 빨개진 것 좀 봐!\" {n}하프 오크는 껄껄거리며 웃습니다.{/n} \"발레리는 침대 위에서도 끔찍하게 "
+"\"하 하 하... 얼굴 빨개진 것 좀 봐!\" {n}하프오크는 껄껄거리며 웃습니다.{/n} \"발레리는 침대 위에서도 끔찍하게 "
 "지루할꺼야, 그렇겠지, {name}?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-BullyValerie/Cue_0048_Text
@@ -113818,7 +113812,7 @@ msgctxt "da178798-ee3d-4200-b6c9-3b57a5c1c3d0"
 msgid ""
 "{n}Valerie casts an arrogant glance at the half-orc and fixes a strand of "
 "hair that came loose.{/n}"
-msgstr "{n}발레리는 하프-오크에게 오만한 눈빛을 보내더니, 흩어졌던 머리를 정돈합니다.{/n}"
+msgstr "{n}발레리는 하프오크에게 오만한 눈빛을 보내더니, 흩어졌던 머리를 정돈합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Answer_0003_Text
 msgctxt "531ced86-b3ac-4199-b8ef-d4569d179bb3"
@@ -113923,7 +113917,7 @@ msgstr "{n}레곤가르는 서툴게 자기 물건을 챙기더니, 다른 이�
 #. Speaker : Regongar_Companion
 msgctxt "28f3f967-d295-42a9-acba-f05a5bfcf6fd"
 msgid "\"I'm... I'm sorry\". {n}The half-orc stumbles to his tent.{/n}"
-msgstr "\"미... 미안해.\" {n}하프-오크는 비틀거리며 자기 텐트로 향합니다.{/n}"
+msgstr "\"미... 미안해.\" {n}하프오크는 비틀거리며 자기 텐트로 향합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Cue_0012_Text
 #. Speaker : Regongar_Companion
@@ -113958,7 +113952,7 @@ msgctxt "43d9d0d9-4adb-46d0-9128-ab5c84c8a4e4"
 msgid ""
 "{n}The half-orc shakes his head.{/n} \"I'm just... Damn it! I'm sorry, I'm "
 "just an idiot.\""
-msgstr "{n}하프-오크는 머리를 흔듭니다.{/n} \"난 그저... 젠장! 미안해, 난 그냥 멍청이야.\""
+msgstr "{n}하프오크는 머리를 흔듭니다.{/n} \"난 그저... 젠장! 미안해, 난 그냥 멍청이야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Cue_0021_Text
 #. Speaker : Regongar_Companion
@@ -113970,7 +113964,7 @@ msgstr "\"준비됐어. 가자고.\""
 #. Speaker : Regongar_Companion
 msgctxt "13c5fa0b-9335-476a-bee1-48e21814cb8c"
 msgid "\"I do.\" {n}The half-orc lowers his head.{/n}"
-msgstr "\"그래..\" {n}하프-오크는 고개를 숙입니다.{/n}"
+msgstr "\"그래..\" {n}하프오크는 고개를 숙입니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Cue_0023_Text
 #. Speaker : Regongar_Companion
@@ -114005,7 +113999,7 @@ msgctxt "8e8cdc4a-d1f7-4d6d-ac6c-94a1109a3fa0"
 msgid ""
 "{n}The half-orc bites his lip fiercely.{/n} \"The truth, I guess… What the "
 "sober man thinks, the drunkard reveals.\""
-msgstr "{n}하프-오크는 입술을 맹렬히 깨뭅니다{/n} \"제정신인 사람은 고민만 하고, 술주정뱅이만 진실을 말하는 법이지.\""
+msgstr "{n}하프오크는 입술을 맹렬히 깨뭅니다{/n} \"제정신인 사람은 고민만 하고, 술주정뱅이만 진실을 말하는 법이지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Drunk/Cue_0028_Text
 #. Speaker : Regongar_Companion
@@ -114066,7 +114060,7 @@ msgid ""
 "you love.\" {n}The half-orc gives you a smile you've never seen before — "
 "warm, without a shade of his usual anger or bravado.{/n}"
 msgstr ""
-"\"내게 상처주는 걸 두려워하지마. 고통도 애무의 일종이니까... 사랑하는 사람이 준다면 말이지.\" {n}하프-오크는 당신이 전에 본 "
+"\"내게 상처주는 걸 두려워하지마. 고통도 애무의 일종이니까... 사랑하는 사람이 준다면 말이지.\" {n}하프오크는 당신이 전에 본 "
 "적없는 - 따뜻하고, 평소 때의 분노나 야유가 섞이지 않은 미소를 당신에게 보냅니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-PillowTalk/Cue_0007_Text
@@ -114111,7 +114105,7 @@ msgctxt "8c874ec5-1680-41bc-a203-9def7d7b1444"
 msgid ""
 "\"Ha ha ha, I'm reading your thoughts!\" {n}The half-orc unbuckles his "
 "belt.{/n} \"Come here...\""
-msgstr "\"하 하 하, 네 생각을 읽은 것 같군!\" {n}하프-오크는 허리띠를 풉니다.{/n} \"이리와...\""
+msgstr "\"하 하 하, 네 생각을 읽은 것 같군!\" {n}하프오크는 허리띠를 풉니다.{/n} \"이리와...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-PillowTalk/Cue_0021_Text
 msgctxt "3104a884-a325-4cae-9120-52e0fb350c79"
@@ -114170,7 +114164,7 @@ msgid ""
 "\"What's the difference?!\" {n}You hear anger in the half-orc's voice.{/n} "
 "\"It's just a cut! Like you care! Like anyone cares!\""
 msgstr ""
-"\"별 거 아니야!\" {n}하프-오크의 목소리엔 분노가 깃들어 있습니다{/n} \"그냥 상처일 뿐이라고! 네가 신경 쓸 필요 없다고! "
+"\"별 거 아니야!\" {n}하프오크의 목소리엔 분노가 깃들어 있습니다{/n} \"그냥 상처일 뿐이라고! 네가 신경 쓸 필요 없다고! "
 "아무도 신경 쓸 필요 없어!\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Self-Harm/Cue_0013_Text
@@ -114189,7 +114183,7 @@ msgstr ""
 msgctxt "35f0b88d-9895-4779-a96f-487f425252fa"
 msgid ""
 "{n}The half-orc turns to stone for a moment and then pulls you close.{/n}"
-msgstr "{n}하프-오크는 순간 돌처럼 굳더니, 당신을 끌어 안습니다.{/n}"
+msgstr "{n}하프오크는 순간 돌처럼 굳더니, 당신을 끌어 안습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_2-Self-Harm/Cue_0015_Text
 #. Speaker : Regongar_Companion
@@ -114222,7 +114216,7 @@ msgid ""
 "about everything... So I just... It's just to perk me up. Don't pay any "
 "attention, they're just scratches. Let's not talk about it, all right?\""
 msgstr ""
-"{n}하프-오크의 쉰 목소리가 부드러워집니다.{/n} \"멍청한 말을 했군, 미안해. 물론 너희가 내게 신경써주는 건 잘 알아. 그저, "
+"{n}하프오크의 쉰 목소리가 부드러워집니다.{/n} \"멍청한 말을 했군, 미안해. 물론 너희가 내게 신경써주는 건 잘 알아. 그저, "
 "음, 요즘은 밤이 되도, 잠을 잘 수가 없어, 여러 생각을 하거든.... 너와 옥타비아, 그리고 내가 했던 멍청한 짓을 생각하면서 "
 "말이야. 일부러 그런 건 아니야, 난 너희 둘다 사랑한다고! 하지만 옥타비아가 여전히 날 사랑하고 있는 걸까? 내가 했던 모든 짓에도 "
 "불구하고? 더 이상 확신이 들지 않아. 그리고 너는 어떻고? 그러더니 모든 게 최악으로 느껴졌어... 그리곤, 그냥.... 그냥 갑자기 "
@@ -114259,7 +114253,7 @@ msgid ""
 "unusually quiet.{/n}"
 msgstr ""
 "{n}레곤가르의 표정이 좋아보이지 않습니다 - 분명 잠을 한숨도 못 잔 모양입니다. 그는 이미 부르튼 입술을 깨물며 발 밑을 불안한듯 "
-"쳐다봅니다.{/n} \"내가 왜 여태까지 살아있는거지, 허?\" {n}하프-오크의 목소리는 평소와는 다르게 조용합니다.{/n}"
+"쳐다봅니다.{/n} \"내가 왜 여태까지 살아있는거지, 허?\" {n}하프오크의 목소리는 평소와는 다르게 조용합니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_3-Freedom/Cue_0002_Text
 #. Speaker : Regongar_Companion
@@ -114282,7 +114276,7 @@ msgid ""
 "sinking my fangs into myself. If it wasn't for you...\" {n}The half-orc "
 "bites his lip again until it bleeds.{/n} \"I'd probably be dead already.\""
 msgstr ""
-"\"이젠 미친 개처럼 뛰어다니고 있지. 남이나 나 스스로에게 발톱을 휘두르면서. 네가 아니었다면 아마...\" {n}하프-오크는 피가 날 "
+"\"이젠 미친 개처럼 뛰어다니고 있지. 남이나 나 스스로에게 발톱을 휘두르면서. 네가 아니었다면 아마...\" {n}하프오크는 피가 날 "
 "때까지 입술을 다시금 깨뭅니다{/n} \"아마 난 이미 죽은 목숨이었겠지.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_3-Freedom/Cue_0006_Text
@@ -114305,7 +114299,7 @@ msgid ""
 "side of a rescue boat. His body is shivering, and he heaves a sobbing sigh — "
 "and starts to cry, burying his face in your shoulder.{/n}"
 msgstr ""
-"{n}하프-오크는 당신을 맹렬히, 고통스럽게 붙잡습니다. 마치 익사하는 사람이 구조선을 붙잡는 것처럼. 그의 몸을 덜덜 떨리고, 흐느끼는 "
+"{n}하프오크는 당신을 맹렬히, 고통스럽게 붙잡습니다. 마치 익사하는 사람이 구조선을 붙잡는 것처럼. 그의 몸을 덜덜 떨리고, 흐느끼는 "
 "숨을 내쉬더니— 당신 어깨에 얼굴을 파묻고 울음을 터트립니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_3-Freedom/Cue_0011_Text
@@ -114446,7 +114440,7 @@ msgctxt "8061adee-9ed6-434e-85ea-7c334a3a0c3a"
 msgid ""
 "{n}The half-orc looks you in the eye.{/n} \"And without war... Why would you "
 "need me, hunh?\""
-msgstr "{n}하프-오크는 당신 눈을 똑바로 쳐다봅니다.{/n} \"그럼 전쟁이 없다면... 당신이 날 필요할 일이 있을까, 응?\""
+msgstr "{n}하프오크는 당신 눈을 똑바로 쳐다봅니다.{/n} \"그럼 전쟁이 없다면... 당신이 날 필요할 일이 있을까, 응?\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_3-WillYouNeedMe/Cue_0009_Text
 #. Speaker : Regongar_Companion
@@ -114528,8 +114522,8 @@ msgid ""
 "{n}Closing his eyes, the half-orc clings to you with his whole body. He "
 "whispers,{/n} \"I know. I know. Forgive this idiot. I love you too.\""
 msgstr ""
-"{n}눈을 감더니, 하프-오크는 당신에게 온몸을 기대고 속삭입니다.{/n} \"알았어. 알았다고. 이 멍청이를 용서해줘. 나도 널 사랑해."
-"\""
+"{n}눈을 감더니, 하프오크는 당신에게 온몸을 기대고 속삭입니다.{/n} \"알았어. 알았다고. 이 멍청이를 용서해줘. 나도 널 "
+"사랑해.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_3-WillYouNeedMe/Cue_0027_Text
 #. Speaker : Regongar_Companion
@@ -114538,8 +114532,7 @@ msgid ""
 "{n}Laughing provocatively, the half-orc clings to you with his whole body. "
 "He whispers,{/n} \"Definitely. Forgive me for saying all this rubbish. I "
 "love you.\""
-msgstr ""
-"{n}도발적으로 웃더니, 하프-오크는 당신에게 온몸을 기대고 속삭입니다.{/n} \"확실히 그래. 헛소리를 해서 미안해. 널 사랑해.\""
+msgstr "{n}도발적으로 웃더니, 하프오크는 당신에게 온몸을 기대고 속삭입니다.{/n} \"확실히 그래. 헛소리를 해서 미안해. 널 사랑해.\""
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_3-WillYouNeedMe/Cue_0028_Text
 #. Speaker : Regongar_Companion
@@ -114547,8 +114540,7 @@ msgctxt "0acb69cd-3368-4409-a086-b7c840c1e303"
 msgid ""
 "{n}The half-orc's face turns to stone.{/n} \"I'm sorry. I'm sorry, this "
 "won't happen again.\" {n}He sighs and turns away.{/n}"
-msgstr ""
-"{n}하프-오크의 얼굴이 돌처럼 굳습니다.{/n} \"미안, 미안해. 다시는 그러지 않을께.\" {n}한숨을 쉬더니 돌아섭니다.{/n}"
+msgstr "{n}하프오크의 얼굴이 돌처럼 굳습니다.{/n} \"미안, 미안해. 다시는 그러지 않을께.\" {n}한숨을 쉬더니 돌아섭니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/Companions/Romance/Regongar/Stage_3-WillYouNeedMe/Cue_0030_Text
 #. Speaker : Regongar_Companion
@@ -130923,7 +130915,7 @@ msgid ""
 "there now. In any case, me and my people shall hold our word: we'll fight to "
 "the end for our homes and our loved ones.\""
 msgstr ""
-"{n}하프 엘프는 목의 문신을 문지르며 걱정스러운 표정을 짓습니다.{/n} \"그날 반홀드에서 일어난 일은 정말 송구스럽습니다. 지금은 "
+"{n}하프엘프는 목의 문신을 문지르며 걱정스러운 표정을 짓습니다.{/n} \"그날 반홀드에서 일어난 일은 정말 송구스럽습니다. 지금은 "
 "거의 잠잠해 졌습니다. 저와 우리 백성들은, 무슨 일이 있어도 우리의 신조를 지킬겁니다. 우리는 우리의 집과 사랑하는 사람들을 위해 "
 "끝까지 싸울 것입니다.\""
 
@@ -131044,8 +131036,8 @@ msgid ""
 "people. If we put on a uniform, well, they'll accuse us of selling out to "
 "the authorities. And we wouldn't want that, would we?\""
 msgstr ""
-"{n}하프 엘프가 주저합니다.{/n} \"그게... 지금은 주민들이 우리 편이지만, 우리가 제복을 입으면, 그, 우리가 권리를 "
-"팔아먹었다며 비난할 겁니다. 그게 우리가 바라는 상황은 아니잖습니까?\""
+"{n}하프엘프가 주저합니다.{/n} \"그게... 지금은 주민들이 우리 편이지만, 우리가 제복을 입으면, 그, 우리가 권리를 팔아먹었다며 "
+"비난할 겁니다. 그게 우리가 바라는 상황은 아니잖습니까?\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HalfElfFemaleLeatherworkerLG/KTC_HalfElfFemaleLeatherworkerLG/Cue_0048_Text
 msgctxt "4ef12ccf-7983-4985-8ec7-ddd83c70e774"
@@ -131602,8 +131594,8 @@ msgid ""
 "graceful bow as he sees you.{/n} \"It's good to see you! How can I help you?"
 "\""
 msgstr ""
-"{n}{d|Shariel}하프 엘프{/d}는 태평하게 휘파람을 불고 있습니다. 당신을 알아차리자 우아하게 인사합니다.{/n} \"반갑습니다"
-"! 뭐가 필요하죠?\""
+"{n}{d|Shariel}하프엘프{/d}는 태평하게 휘파람을 불고 있습니다. 당신을 알아차리자 우아하게 인사합니다.{/n} "
+"\"반갑습니다! 뭐가 필요하죠?\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HalfElfMaleTailorNG/ArtisanHalfElfMaleTailorNG/Cue_0032_Text
 msgctxt "2936c6e5-2ce6-4baa-aa8c-949840003015"
@@ -132850,7 +132842,7 @@ msgid ""
 "I'll make formidable weapons for you! Ones that just beg for enemy blood! "
 "But first I need my tools back.\""
 msgstr ""
-"{n}하프 오크는 화난 눈으로 당신을 봅니다.{/n} \"잘 들어. 갑옷 만드는 대장장이가 필요한가 보지? 나를 도와주면 너를 섬기겠어. "
+"{n}하프오크는 화난 눈으로 당신을 봅니다.{/n} \"잘 들어. 갑옷 만드는 대장장이가 필요한가 보지? 나를 도와주면 너를 섬기겠어. "
 "좋은 무기를 만들어주겠다 이거야! 하지만 우선 도구가 필요해.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HalfOrcMaleEnforcerCE/Inquisitor/Answer_0005_Text
@@ -133193,8 +133185,7 @@ msgid ""
 "etiquette.{/n} \"{mf|Your Grace|Your Grace|Your Highness|Your Highness}, I "
 "come bearing gifts. A sign of my gratitude for taking an old man into your "
 "service.\""
-msgstr ""
-"{n}{d|Varrask}하프 오크{/d}는 예의 바르게 인사합니다.{/n} \"안녕하신가! 선물을 가져왔어. 내 감사의 표시야.\""
+msgstr "{n}{d|Varrask}하프오크{/d}는 예의 바르게 인사합니다.{/n} \"안녕하신가! 선물을 가져왔어. 내 감사의 표시야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Artisans/HalfOrcMaleEnforcerCE/KTC_ArtisanHalfOrc/Cue_0009_Text
 msgctxt "ad32ef98-473c-4303-970d-40a44ee2a078"
@@ -153747,10 +153738,10 @@ msgid ""
 " \"And you are the storm! No one can stop you. That's how it works. I tried "
 "it. I know what I'm talking about.\""
 msgstr ""
-"{n}레곤가르의 눈이 점점 시들어 갑니다. 하프 오크의 눈은 당신 너머를 보고 있습니다{/n} \"원래 폭풍전야가 가장 고요한 "
-"법이지... 그리고 점점... 비가 추적, 추적... 퐁당, 퐁당... 그리고 터져버리지! 번쩍거리고! 네 영혼이 신음하고, 쌩하며 "
-"바람이 울부짖고, 천둥이 치지!\" {n}레곤가르는 마른 입술을 핥습니다. 자기 손가락 사이에 전기가 흐르고 있다는 걸 모르는 "
-"듯합니다{/n} \"그리고 넌 폭풍우야! 아무도 널 막을 수 없지. 그게 폭풍이라고. 난 해봤어. 내가 말하는 게 뭔지 알아.\""
+"{n}레곤가르의 눈이 점점 시들어 갑니다. 하프오크의 눈은 당신 너머를 보고 있습니다{/n} \"원래 폭풍전야가 가장 고요한 법이지... "
+"그리고 점점... 비가 추적, 추적... 퐁당, 퐁당... 그리고 터져버리지! 번쩍거리고! 네 영혼이 신음하고, 쌩하며 바람이 울부짖고, "
+"천둥이 치지!\" {n}레곤가르는 마른 입술을 핥습니다. 자기 손가락 사이에 전기가 흐르고 있다는 걸 모르는 듯합니다{/n} \"그리고 "
+"넌 폭풍우야! 아무도 널 막을 수 없지. 그게 폭풍이라고. 난 해봤어. 내가 말하는 게 뭔지 알아.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Military/Rank5/Cue_0028_Text
 #. Speaker : Amiri_Companion
@@ -162286,7 +162277,7 @@ msgctxt "3f8cb5c5-ed08-40a6-94d3-32180d15b44b"
 msgid ""
 "{n}The half-orc's eyes light up with excitement.{/n} \"Just what I like to "
 "hear, {name}. The troops will march today.\""
-msgstr "{n}하프 오크의 눈이 즐거움으로 빛납니다.{/n} \"내가 듣고 싶었던 말이야, {name}. 부대는 오늘 출발할 거야.\""
+msgstr "{n}하프오크의 눈이 즐거움으로 빛납니다.{/n} \"내가 듣고 싶었던 말이야, {name}. 부대는 오늘 출발할 거야.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Stability/Rank7/Cue_0014_Text_String
 #. Speaker : Ekun_Companion
@@ -162956,7 +162947,7 @@ msgstr ""
 "\"당연히, 그 야만인은 우리가 그를 심문할때 주제넘은 소리를 했지. 어느 순간 그 놈은 입을 꾹 다물더군, 하하! 하지만 결국엔 그 "
 "놈은 노래하듯 다 주절거렸지. 듣자하니, 켈리드 샤먼들 전체가 수도의 음식과 물 공급에 독을 탈 계획인더군. 이 모든 일이 날 열받게 "
 "하더군. 우리 아무것도 알지 못했잖아! 그리고 우연찮게도 우린 이 머저리를 잡아낸거지. 그들은 누구지? 그들은 얼마나 있지? 그리고 언제 "
-"그들이 침공할 것인지? 전부 엉망이고 우린 그들은 잡을 방법이 없지... 그렇지만!\"{n}하프 오크는 웃으며, 그의 송곳니를 "
+"그들이 침공할 것인지? 전부 엉망이고 우린 그들은 잡을 방법이 없지... 그렇지만!\"{n}하프오크는 웃으며, 그의 송곳니를 "
 "드러냈습니다.{/n}\"잊지 말라고, 세 번째 소식은 다시 좋은거라 했으니까.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/Confidants/Stability/Rank9/Main/Cue_0011_Text
@@ -165395,7 +165386,7 @@ msgid ""
 msgstr ""
 "\"제가 추구했던건... 질서입니다. 평온함. 신뢰성. 자유를 부르짖는 자들은 자유의 추한면을 잘 보지 않습니다.\" {n}하프엘프가 "
 "눈을 가늘게 뜨고 그의 입술로 화난 조소를 그립니다.{/n} \"혼혈아는 자기들이 순수하다고 생각하는 사람들의 재치있는 모욕을 못들은 척 "
-"하는 법을 배웁니다. 하지만 그 멍청이들은 흉갑에 데블이 그려진 검은 갑옷의 하프 엘프를 보면 입을 다물기 시작합니다.\""
+"하는 법을 배웁니다. 하지만 그 멍청이들은 흉갑에 데블이 그려진 검은 갑옷의 하프엘프를 보면 입을 다물기 시작합니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomDevelopment/KingdomAsCompanion/LE_FeastOfNails/Ep2_KTC/Cue_0023_Text
 msgctxt "b4417d04-7716-4f57-8bfc-60a332157b2e"
@@ -170372,7 +170363,7 @@ msgid ""
 "looks concerned but unafraid.{/n} \"If you allow me to speak, I can explain "
 "everything.\""
 msgstr ""
-"{n}수도에 최근 모습을 보인 하프 엘프 상인 에네오가 바닥에 내동댕이쳐져서는 당신 앞에 놓였습니다. 제이탈은 평소의 그녀 답지 않은 "
+"{n}수도에 최근 모습을 보인 하프엘프 상인 에네오가 바닥에 내동댕이쳐져서는 당신 앞에 놓였습니다. 제이탈은 평소의 그녀 답지 않은 "
 "모습으로 그의 옆에 서있습니다. 평소엔 차갑고 무표정한 언데드 엘프의 얼굴이 지금은 분노에 타 오르고 있습니다. 그를 잡아온 분노에 찬 "
 "언데드가 바로 옆에 있음에도, 에네오는 걱정되지만 두려워하지는 않는 표정입니다.{/n} \"제 이야기를 허락해주신다면, 모든 것을 "
 "설명드리겠습니다.\""
@@ -170438,7 +170429,7 @@ msgid ""
 "to keep the item I'd found, thanking my luck — and never suspecting the "
 "price I'd pay for it.\""
 msgstr ""
-"{n}하프 엘프는 옷매무새를 정리하며 일어나 한숨을 내쉬었습니다.{/n} \"이야기하게 해 주셔서 감사합니다, "
+"{n}하프엘프는 옷매무새를 정리하며 일어나 한숨을 내쉬었습니다.{/n} \"이야기하게 해 주셔서 감사합니다, "
 "{mf|영주님|영주님|전하|전하}. 이 이야기는 제가 아벤데고의 눈 한 가운데서 술마시기 경주를 했던 이야기 만큼 흥미진진하진 "
 "않습니다...어제, 도시 북쪽에서 저는 죽은 멧돼지를 우연히 발견했습니다. 주위엔 아무도 없었지만, 이 비참하게 죽은 짐승 목에 단검이 "
 "튀어 나와있었습니다. 단검 주인이 왜 시체 곁에 두고 갔는지는 모르겠습니다. 어쩌면 사냥꾼에게 이 무기로 상처입고는 단검이 꼽힌 채로 "
@@ -170502,7 +170493,7 @@ msgid ""
 "in your justice, {mf|baron|baroness}. I have faith that you will investigate "
 "my story and sort everything out.\""
 msgstr ""
-"\"더 할 수만 있다면 좋겠습니다만..\"{n}하프 엘프의 밝은 황록색 눈이 차분했습니다.{/n}\"그 죽은 멧돼지가 저의 유일한 "
+"\"더 할 수만 있다면 좋겠습니다만..\"{n}하프엘프의 밝은 황록색 눈이 차분했습니다.{/n}\"그 죽은 멧돼지가 저의 유일한 "
 "목격자입니다. 그러나 전 당신의 공정성을 믿습니다, {mf|남작|남작}님. 당신께서 제 이야기를 조사하시고 모든 것을 밝혀주시리라 "
 "믿습니다.\""
 
@@ -190690,7 +190681,7 @@ msgstr "\"그들이 말하길... 마이트가 옳다고 하는군! 하하하!\""
 #. Speaker : Regongar_Companion
 msgctxt "0d23a151-04cf-47f0-bf9b-35af8d77238b"
 msgid "{n}The half-orc wears a jaunty grin.{/n}"
-msgstr "{n}하프 오크는 쾌활하게 웃습니다.{/n}"
+msgstr "{n}하프오크는 쾌활하게 웃습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c11/OldSycamoreOutdoor/KingsConversation/Cue_0106_Text
 #. Speaker : Regongar_Companion
@@ -228699,7 +228690,7 @@ msgctxt "d7a70d4f-9cc1-4dce-a74e-ad904ec58e96"
 msgid ""
 "{n}With a guffaw, the half-orc takes his hand off his weapon, but he keeps "
 "watching the goblin menacingly.{/n}"
-msgstr "{n}투덜거리며 하프 오크는 무기에서 손을 때지만 그는 계속해서 고블린을 무섭게 쳐다봅니다.{/n}"
+msgstr "{n}투덜거리며 하프오크는 무기에서 손을 때지만 그는 계속해서 고블린을 무섭게 쳐다봅니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinVillage/GoblinOpener/Cue_70485_Text
 #. Speaker : Regongar_Companion
@@ -228707,7 +228698,7 @@ msgctxt "c29180fd-c8a2-414c-8d92-2e0ba5f9573e"
 msgid ""
 "\"Fine, fine... Was it something I said?\" {n}Grumbling, the half-orc spits "
 "on the ground.{/n}"
-msgstr "\"좋아... 내 말이 이상해?\" {n}불평을 하며 하프 오크는 땅에 침을 뱉습니다.{/n}"
+msgstr "\"좋아... 내 말이 이상해?\" {n}불평을 하며 하프오크는 땅에 침을 뱉습니다.{/n}"
 
 #. Mechanics/Blueprints/World/Dialogs/c22/GoblinVillage/GoblinTrader/Answer_07939_Text
 msgctxt "818fad84-eb04-48fb-a8d1-6e7ef541ed9d"
@@ -269576,10 +269567,9 @@ msgid ""
 "her loyal knights plotted against her, luring the queen into a trap and "
 "murdering her. Her brother was among the murderers."
 msgstr ""
-"이 갑옷은 수세기 전에 라브나 여왕의 이복 동생인 하프 엘프가 만들었습니다. 그는 자신의 큰누나가 모든 위험으로부터 보호하듯 안아주었던 "
-"어린 시절을 회상하며 이 갑옷을 \"라브나의 포옹\"이라 불렀습니다.\n"
-"라브나가 악에 굴복하고 5명의 잔인한 데몬 로드를 숭배하기 시작했을 때, 그녀의 충성스러운 기사는 여왕을 함정에 끌어 들여 그녀를 "
-"살해했습니다. 그녀의 동생은 살인자들과 함께 있었습니다."
+"이 갑옷은 수세기 전에 라브나 여왕의 이복 동생인 하프엘프가 만들었습니다. 그는 자신의 큰누나가 모든 위험으로부터 보호하듯 안아주었던 "
+"어린 시절을 회상하며 이 갑옷을 \"라브나의 포옹\"이라 불렀습니다.\n라브나가 악에 굴복하고 5명의 잔인한 데몬 로드를 숭배하기 "
+"시작했을 때, 그녀의 충성스러운 기사는 여왕을 함정에 끌어 들여 그녀를 살해했습니다. 그녀의 동생은 살인자들과 함께 있었습니다."
 
 #. Mechanics/Blueprints/World/Dialogs/c41/Puzzle45/Items/RavenaArmor_name_String
 msgctxt "c391f5c3-daeb-42c2-a281-780b052d615f"
@@ -285851,22 +285841,20 @@ msgstr ""
 "아니면 눈물인가? 그는 땀을 좋아한다. 전사이자 남자의 뜨거운 땀 말이다. 아니면 피라고 할까. 적의 뜨겁고 붉게 격렬한 전투에서 "
 "흘러내리는 것 말이다. 하지만 현실은 자신의 바람에 반해 받아 들일 수 없는 것을 설득하려고 노력했다. 그는 수염없는 애송이처럼 정욕에 "
 "넘어가게 하는 부드러운 시트에 누워 있다. 그가 할 수 있는 일은 지체없이 침대에서 뛰어내리고, 가장 음탕하다고 알려진 여자 님프가 매혹 "
-"마법을 걸기 전에 도망치는 것 뿐이었다.\n"
-"우구마시의 뱃속은 굶주림에 시달렸다. 그게 가장 필요한 것이다! 그는 술집에서 큰 고기 덩이를 행복하게 먹고 싶어했다. 하프오크는 침대 "
-"가장자리에 앉아 이미 오염된 판자 바닥에 끈적끈적한 타액을 뱉어버리고 먹이를 훑어 보았다.\n"
-"엘리에라! 저주받은 마녀 같으니! 긴 다리에 몸이 굴곡진 님프는 전라의 몸이었고 머리는 용의 뼈로 고정되어 있었다. 그녀는 침대에 누워 "
-"그녀의 탐욕스러운 몸을 손가락으로 훑어내렸다. 그 매혹적인 손짓들은 우구마시의 마음을 흐리게 만들었다. 그는 더 이상 생각할 수 없었고 "
-"신체의 어느 부분을 즐겨야 할지 결정할 수 없었다.\n"
-"'나는 하프 오크에 대해 들은 것이 있어.' 엘리에라는 불꽃에 기름을 넣으면서 말했다. '내가 들은 것이 전부가 아니라도 최고의 "
-"하프오크조차 이로베티와는 대적할 수 없다고 말이야. 정말 그렇게 되면 내 침대에서는 더 이상 기적이 일어나지 않을 거야. 나는 이제 내 "
-"그림자를 보며 위안을 삼아야겠지. 하지만 걱정하지 마. 나의 전사... '\n"
-"우구마시는 엘리에라의 말을 숙고 할 시간이 별로 없었는데, 술집 1층에 일상으로 들리는 잡담 소리가 마치 도끼로 끊긴 것처럼 멈추었기 "
-"때문이었다. 우구마시가 옷 아래 숨겨둔 곡도에 본능처럼 손을 가져갔고 방문이 열렸고 불길한 그림자가 문지방에 나타났다.\n"
-"우구마시는 무기를 들고 낯선 사람을 위아래로 훑어보며 똑바로 일어섰다. 그림자는 하프오크들을 겁먹게 하지 않았다. 다른 사람들을 떨게하는 "
-"것은 그들의 역할이기 때문이다. 먼지가 덮인 누더기 옷을 입은 낯선 사람은 걸어 나왔다. 그의 눈은 후드 아래에서 격렬한 분노로 "
-"번쩍였지만 그의 손에 들린 칼은 더욱 눈부셨다. 하프오크는 발더스의 응징임을 인정하지 않을 수 없었다. 역시나 그였다. 부랑자의 손에 "
-"끝나버린 결과는 어떠했는가?! 상황을 이해하는 능력은 하프오크에게는 불가능한 일처럼 보였기에 그는 대답을 포기했다. 포효와 함께 그는 "
-"무기를 들고 침입자를 향해 달려들었다.\""
+"마법을 걸기 전에 도망치는 것 뿐이었다.\n우구마시의 뱃속은 굶주림에 시달렸다. 그게 가장 필요한 것이다! 그는 술집에서 큰 고기 덩이를 "
+"행복하게 먹고 싶어했다. 하프오크는 침대 가장자리에 앉아 이미 오염된 판자 바닥에 끈적끈적한 타액을 뱉어버리고 먹이를 훑어 "
+"보았다.\n엘리에라! 저주받은 마녀 같으니! 긴 다리에 몸이 굴곡진 님프는 전라의 몸이었고 머리는 용의 뼈로 고정되어 있었다. 그녀는 "
+"침대에 누워 그녀의 탐욕스러운 몸을 손가락으로 훑어내렸다. 그 매혹적인 손짓들은 우구마시의 마음을 흐리게 만들었다. 그는 더 이상 생각할 "
+"수 없었고 신체의 어느 부분을 즐겨야 할지 결정할 수 없었다.\n'나는 하프오크에 대해 들은 것이 있어.' 엘리에라는 불꽃에 기름을 "
+"넣으면서 말했다. '내가 들은 것이 전부가 아니라도 최고의 하프오크조차 이로베티와는 대적할 수 없다고 말이야. 정말 그렇게 되면 내 "
+"침대에서는 더 이상 기적이 일어나지 않을 거야. 나는 이제 내 그림자를 보며 위안을 삼아야겠지. 하지만 걱정하지 마. 나의 전사... "
+"'\n우구마시는 엘리에라의 말을 숙고 할 시간이 별로 없었는데, 술집 1층에 일상으로 들리는 잡담 소리가 마치 도끼로 끊긴 것처럼 "
+"멈추었기 때문이었다. 우구마시가 옷 아래 숨겨둔 곡도에 본능처럼 손을 가져갔고 방문이 열렸고 불길한 그림자가 문지방에 "
+"나타났다.\n우구마시는 무기를 들고 낯선 사람을 위아래로 훑어보며 똑바로 일어섰다. 그림자는 하프오크들을 겁먹게 하지 않았다. 다른 "
+"사람들을 떨게하는 것은 그들의 역할이기 때문이다. 먼지가 덮인 누더기 옷을 입은 낯선 사람은 걸어 나왔다. 그의 눈은 후드 아래에서 "
+"격렬한 분노로 번쩍였지만 그의 손에 들린 칼은 더욱 눈부셨다. 하프오크는 발더스의 응징임을 인정하지 않을 수 없었다. 역시나 그였다. "
+"부랑자의 손에 끝나버린 결과는 어떠했는가?! 상황을 이해하는 능력은 하프오크에게는 불가능한 일처럼 보였기에 그는 대답을 포기했다. 포효와 "
+"함께 그는 무기를 들고 침입자를 향해 달려들었다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c51/Rushlight/Items/IrovettiPoemAntology_Name_String
 msgctxt "5fc5ba19-1e39-49a5-a1ad-4b6bec93307e"

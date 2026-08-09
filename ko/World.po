@@ -2730,7 +2730,7 @@ msgid ""
 "stupid. Seize the day — because tomorrow may never come!"
 msgstr ""
 "레곤가르는 자기 부족의 정착지를 찾아갔지만, 그 곳에는 복수할 사람도, 얘기할 사람도 없었어요. 날카로운 송곳니 부족은 망한지 오래였고, "
-"어리석고 비극적인 죽음을 맞이했죠. 그렇다면 이 젊은 하프 오크는 이걸로 뭘 배웠을까요? 삶은 잔인하고, 삶에서 이치를 찾는 노력은 "
+"어리석고 비극적인 죽음을 맞이했죠. 그렇다면 이 젊은 하프오크는 이걸로 뭘 배웠을까요? 삶은 잔인하고, 삶에서 이치를 찾는 노력은 "
 "멍청하다고 여기게 됐답니다. 오늘을 즐기세요. 내일은 절대 오지 않을지도 모르니까요!"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Regongar/RegongarCompanionStory_Q3_EVIL_Title
@@ -2748,7 +2748,7 @@ msgid ""
 "had — friends, love, and the adventures he had in store!"
 msgstr ""
 "레곤가르는 자기 부족의 정착지를 찾아갔지만, 그 곳에는 복수할 사람도, 얘기할 사람도 없었어요. 날카로운 송곳니 부족은 망한지 오래였고, "
-"어리석고 비극적인 죽음을 맞이했죠. 그렇다면 이 젊은 하프 오크는 이걸로 뭘 배웠을까요? 과거는 묻어버리고, 그가 가진 것에 감사하기로 "
+"어리석고 비극적인 죽음을 맞이했죠. 그렇다면 이 젊은 하프오크는 이걸로 뭘 배웠을까요? 과거는 묻어버리고, 그가 가진 것에 감사하기로 "
 "결정했습니다. 친구, 사랑, 지금 하고 있는 모험 같은 걸 말이죠!"
 
 #. Mechanics/Blueprints/World/CompanionTexts/Regongar/RegongarCompanionStory_Q3_GOOD_Title

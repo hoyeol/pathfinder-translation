@@ -10669,7 +10669,7 @@ msgctxt "ea0b4a66-6e0f-4e9b-9fa2-68e20be616b2"
 msgid ""
 "A half-orc artisan, who you met in the Kamelands. You helped him recover his "
 "tools, which he pawned to a merchant."
-msgstr "케임랜드에서 만났던 하프 오크 장인. 당신은 상인에게 저당잡힌 그의 도구를 되찾아줬습니다."
+msgstr "케임랜드에서 만났던 하프오크 장인. 당신은 상인에게 저당잡힌 그의 도구를 되찾아줬습니다."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[45].Name
 msgctxt "734a8169-6f43-4bb5-9641-3b38237e8173"
@@ -10693,7 +10693,7 @@ msgctxt "08e060d5-b4c2-420e-a0de-8743199f6faf"
 msgid ""
 "A half-elf artisan, a tailor, who you met while he was being held by the "
 "guards. He claimed to have been slandered."
-msgstr "하프 엘프 장인. 재단사. 경비원들에게 잡혀있을 때 만났습니다. 누명을 썼다고 주장했습니다."
+msgstr "하프엘프 장인. 재단사. 경비원들에게 잡혀있을 때 만났습니다. 누명을 썼다고 주장했습니다."
 
 #. Mechanics/Blueprints/Root/Glossary NPC_Entries.Array.data[47].Name
 msgctxt "bf18a851-d1b9-474d-8a3f-d0679b27239e"

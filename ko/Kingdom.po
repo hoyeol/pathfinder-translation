@@ -3428,7 +3428,7 @@ msgid ""
 "wanderer, and he begs for mercy."
 msgstr ""
 "어떤 농민들이 한밤중에 마을에 들어온 침입자를 붙잡았습니다. 농민들은 그를 갈트 간첩이라며, 교수형에 처하겠다고 하고 있습니다. 붙잡힌 "
-"하프 엘프는 자신이 그저 평범한 방랑자일 뿐이라며 자비를 구걸합니다."
+"하프엘프는 자신이 그저 평범한 방랑자일 뿐이라며 자비를 구걸합니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_LocalizedName
 msgctxt "a586a346-1f7d-4b87-b24f-876aed87630e"
@@ -3442,7 +3442,7 @@ msgid ""
 "in the capital as a notorious gang chieftain, who's been evading justice for "
 "years."
 msgstr ""
-"장관이 용의자 하프 엘프를 즉시 체포했습니다. 수도에서 그는 정의의 심판을 피해 수년 동안 도망다닌 악명높은 범죄조직 두목으로 "
+"장관이 용의자 하프엘프를 즉시 체포했습니다. 수도에서 그는 정의의 심판을 피해 수년 동안 도망다닌 악명높은 범죄조직 두목으로 "
 "밝혀졌습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_Solutions.Entries.Array.data[9].Resolutions.Array.data[1].LocalizedDescription
@@ -3452,7 +3452,7 @@ msgid ""
 "notorious gang chieftain, who's been evading justice for years. His "
 "interrogation led to the capture of his entire gang."
 msgstr ""
-"장관이 용의자 하프 엘프를 즉시 체포했습니다. 수도에서 그는 정의의 심판을 피해 수년 동안 도망다닌 악명높은 범죄조직 두목으로 "
+"장관이 용의자 하프엘프를 즉시 체포했습니다. 수도에서 그는 정의의 심판을 피해 수년 동안 도망다닌 악명높은 범죄조직 두목으로 "
 "밝혀졌습니다. 그를 심문하여 조직 전체를 붙잡았습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/Alien_Solutions.Entries.Array.data[9].Resolutions.Array.data[2].LocalizedDescription
@@ -3462,7 +3462,7 @@ msgid ""
 "half-elf free. A short time later, the village was attacked by thieves led "
 "by the \"wanderer\"..."
 msgstr ""
-"갈트 첩자가 이 외딴 마을에서 뭘 할 수 있겠습니까? 장관은 하프 엘프를 풀어줬습니다. 얼마 뒤, 마을은 그 \"방랑자\"가 이끄는 "
+"갈트 첩자가 이 외딴 마을에서 뭘 할 수 있겠습니까? 장관은 하프엘프를 풀어줬습니다. 얼마 뒤, 마을은 그 \"방랑자\"가 이끄는 "
 "도둑들의 습격을 받았습니다..."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced1/FriendOfMan_LocalizedDescription
@@ -4079,7 +4079,7 @@ msgid ""
 "from the capital. The half-orc was so grateful that he made a generous "
 "donation to the state."
 msgstr ""
-"외국인 모험가의 {mf|남작령|남작령|왕국|왕국} 입국을 전면 금지했습니다. 보물은 수도의 장인이 발견했습니다. 이 하프 오크는 감사를 "
+"외국인 모험가의 {mf|남작령|남작령|왕국|왕국} 입국을 전면 금지했습니다. 보물은 수도의 장인이 발견했습니다. 이 하프오크는 감사를 "
 "표하며 나라에 후한 기부금을 전했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced2/DeadmansChest_Solutions.Entries.Array.data[7].Resolutions.Array.data[2].LocalizedDescription
@@ -4726,8 +4726,8 @@ msgid ""
 "certain that there is much to learn from the "
 "{mf|barony|barony|kingdom|kingdom}'s prisoners, once they're in her hands."
 msgstr ""
-"순회 심문관이자 사형 집행인인 존 쿠쏜의 여사제가 {mf|남작|여남작|왕|여왕}에게 자신에게 일을 맡겨 달라고 제안했습니다. 그 하프 "
-"엘프는 자신의 손을 거치면 {mf|남작령|남작령|왕국|왕국}의 죄수들로부터 많은 것을 알아낼 수 있을 것이라 장담했습니다."
+"순회 심문관이자 사형 집행인인 존 쿠쏜의 여사제가 {mf|남작|여남작|왕|여왕}에게 자신에게 일을 맡겨 달라고 제안했습니다. 그 "
+"하프엘프는 자신의 손을 거치면 {mf|남작령|남작령|왕국|왕국}의 죄수들로부터 많은 것을 알아낼 수 있을 것이라 장담했습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/MistressOfPain_LocalizedName
 msgctxt "8ae59a3f-c2b1-421d-bd2f-a64499549cac"
@@ -4759,7 +4759,7 @@ msgctxt "ea2cb100-edcc-46b1-8f7c-b4b4566afc82"
 msgid ""
 "The Grand Diplomat quarreled with the priestess over her fee. The half-elf "
 "swiftly left the {mf|barony|barony|kingdom|kingdom}."
-msgstr "수석 외교관은 여사제와 보수를 놓고 다퉜습니다. 그 하프 엘프는 지체없이 {mf|남작령|남작령|왕국|왕국}을 떠났습니다."
+msgstr "수석 외교관은 여사제와 보수를 놓고 다퉜습니다. 그 하프엘프는 지체없이 {mf|남작령|남작령|왕국|왕국}을 떠났습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Advanced3/MistressOfPain_Solutions.Entries.Array.data[4].Resolutions.Array.data[3].LocalizedDescription
 msgctxt "2a998d31-ab0a-4e87-b704-e3c1c482c2a8"
@@ -10377,8 +10377,8 @@ msgid ""
 "quickly through the merchants' guild. Measures should be taken immediately, "
 "or the treasury will take a loss."
 msgstr ""
-"수도에서 옷감을 거래하는 어떤 하프 엘프가 납세를 대부분 회피할 수 있는 법률 상의 허점을 찾아냈다고 합니다. 그 소식이 상인 조합을 "
-"통해 빠르게 퍼지고 있습니다. 즉시 조치를 취하지 않으면 국고에 손해를 입게 될 것입니다."
+"수도에서 옷감을 거래하는 어떤 하프엘프가 납세를 대부분 회피할 수 있는 법률 상의 허점을 찾아냈다고 합니다. 그 소식이 상인 조합을 통해 "
+"빠르게 퍼지고 있습니다. 즉시 조치를 취하지 않으면 국고에 손해를 입게 될 것입니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic1/TaxEvasion_LocalizedName
 msgctxt "0ea18a77-ed9d-40c2-869a-a752b4229d05"
@@ -12122,7 +12122,7 @@ msgid ""
 "found in the forest. She'd escaped from a gang of half-orc slavers from the "
 "Hold of Belkzen. Their roving camp must be tracked down and wiped out!"
 msgstr ""
-"이 지역에서 사람들이 실종되기 시작했습니다! 오늘, 실종자 한 명이 숲에서 발견되었습니다. 그녀는 벨크젠의 거점에서 온 하프 오크 "
+"이 지역에서 사람들이 실종되기 시작했습니다! 오늘, 실종자 한 명이 숲에서 발견되었습니다. 그녀는 벨크젠의 거점에서 온 하프오크 "
 "노예상들에게 붙잡혀 있다가 탈출했습니다. 이 자들의 이동 야영지를 추적해서 반드시 쓸어버려야 합니다!"
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic2/Slavers_LocalizedName
@@ -14203,7 +14203,7 @@ msgid ""
 "half-orc kills monsters and rescues lost locals. Such a person cannot fail "
 "to attract the attention of the {mf|baron|baroness|King|Queen}."
 msgstr ""
-"방랑하는 영웅, 아이오메데의 팔라딘이 날마치에 나타났습니다. 이 하프 오크는 괴물들을 물리치고 실종된 주민들을 구조하고 있습니다. 이런 "
+"방랑하는 영웅, 아이오메데의 팔라딘이 날마치에 나타났습니다. 이 하프오크는 괴물들을 물리치고 실종된 주민들을 구조하고 있습니다. 이런 "
 "영웅이 {mf|남작|여남작|왕|여왕}의 관심을 끌지 않았을리가 없습니다."
 
 #. Mechanics/Blueprints/Kingdom/Events/Decks/Basic4/WanderingHero_LocalizedName
@@ -24639,7 +24639,7 @@ msgid ""
 "Regent can help shield the Calistrians from the guards... while the Warden "
 "will direct the guards to their door."
 msgstr ""
-"경비병은 비밀 암살 조합에 관계된 칼리스트리아 사냥꾼 집단을 추적했습니다. 조합의 우두머리는 하프 엘프 인브리로, 서신을 보내 "
+"경비병은 비밀 암살 조합에 관계된 칼리스트리아 사냥꾼 집단을 추적했습니다. 조합의 우두머리는 하프엘프 인브리로, 서신을 보내 "
 "{mf|남작|여남작|왕|여왕}은 {mf|그|그녀}의 \"친구\"를 박해로부터 보호해야할 오랜 의무가 있다고 하였습니다. 섭정은 "
 "칼리스트리아 신도를 경비병으로부터 보호해줄 것이고, 감시관은 경비병을 끌고 그들 앞에 찾아갈 것입니다."
 
