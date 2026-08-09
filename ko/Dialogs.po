@@ -124680,12 +124680,13 @@ msgid ""
 "once tasted a highly original and equally highly disgusting version cooked "
 "with milk and mushrooms on the border of Druma...\""
 msgstr ""
-"\"이것은 아마 아비스탄의 가장 유명한 요리일 것이다. 첼릭스의 수도에서 이 요리 맛의 비법은 구운 치즈 크러스트와 레몬 쥬스를 뿌린 "
-"것에 있다. 카디라의 시골 어부는 다른 방법을 사용하는데 아비스탄과 반대이다. 그들은 차가운 재료들을 잘게 다져 섞는다. 이 요리의 "
-"정확한 기원은 알려지지 않았으나 안도란에서 처음 만들어져 바다를 여행하는 사람과 순례자들에 의해 퍼졌다고 믿어진다.\n"
-" 가장 기본적인 요리법은 평평한 파테이다. 거기에 사과와 삶은 퀘일 알, 최고급 버터와 양파 반쪽을 으깨어 더한다. 들어가는 재료는 "
-"지역마다 다르다. 니르마타스 지방에서는 소고기나 양고기를 넣는다. 나는 드루마 국경에서 우유와 버섯으로 요리한 것을 먹었는데 맛이 "
-"원초적이면서도 역겨웠다...\""
+"\"이 요리는 아마 아비스탄에서 가장 인기 있는 요리일 것이다. 첼리악스의 수도에서는 치즈로 덮어 겉면이 바삭해지도록 구운 뒤 레몬즙을 "
+"뿌린다. 아비스탄 반대편 끝자락의 카디라에서는 현지 어부들이 다른 방식으로 조리한다. 그곳에서는 이 요리를 잘게 다져 차가운 재료와 섞어 "
+"낸다. 정확한 기원은 알려지지 않았지만, 일반적으로 안도란에서 처음 만들어져 뱃사람과 순례자들을 통해 온 세상에 퍼졌다고 "
+"여겨진다.\n가장 기본적인 형태는 소박한 파테다. 만드는 법은 이렇다. 청어를 향신료가 든 양념액에 재운 다음, 곱게 다져 부드러운 "
+"페이스트로 만든다. 여기에 으깬 새콤한 청사과와 완숙 메추리알, 최대한 신선한 버터, 양파 반 개를 넣는다. 내륙 지방에서는 재료가 "
+"달라지기도 한다. 니르마타스 지방에서는 이 간식을 소고기나 양고기로 만든다. 나는 예전에 드루마 국경에서 우유와 버섯을 넣어 만든 것도 "
+"맛본 적이 있는데, 대단히 독창적이면서 그만큼이나 역겨웠다...\""
 
 #. Mechanics/Blueprints/World/Dialogs/Items/RegularBooks/DarkLords_Name_String
 msgctxt "65ce8f4a-7a27-487f-99ea-8a1239d97cad"
@@ -179585,8 +179586,9 @@ msgid ""
 "Darven managed to escape. I have followed his trail for a long time, and now "
 "it has led me here.\""
 msgstr ""
-"\"다르벤의 모반은 3년 전에 일어났습니다. {g|Order of the Rack}형벌의 기사단{/g}이 재빨리 모반을 진압해, 반란군의 "
-"대부분은 감옥에 보내졌습니다. 하지만 우두머리인 다르벤만이 탈출에 성공했습니다. 오랜 시간의 추적 끝에 이 장소에 오게 된 것이지요.\""
+"\"다르벤의 모반은 3년 전 {g|Cheliax}첼리악스{/g}에서 일어났습니다. {g|Order of the Rack}형벌 "
+"기사단{/g}은 이를 재빨리 진압해 가담자들을 투옥하고 주동자들을 거열형에 처했지만, 우두머리인 다르벤은 탈출에 성공했습니다. 저는 "
+"오랫동안 그의 흔적을 추적해 왔고, 마침내 이곳까지 이르렀습니다.\""
 
 #. Mechanics/Blueprints/World/Dialogs/KingdomTurns/ktc41-LinxiaAppears/Cue_0013_Text
 msgctxt "8686925b-3db3-4cb0-a9d9-ca41159283a9"
@@ -266662,7 +266664,7 @@ msgstr "\"나를 속였군! 이제 린시아는 우리가 공범이라고 생각
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/DarvenAfterFight/Answer_0007_Text
 msgctxt "6c14796a-6919-48e5-ab7b-b6cc3acf49eb"
 msgid "\"Linxia was right about you. You belong on the rack!\""
-msgstr "\"린시아가 옳았어. 너는 형틀에 묶어야 했어!\""
+msgstr "\"린시아 말이 맞았어. 넌 고문대에 올라가야 마땅해!\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/DarvenAfterFight/Answer_0009_Text
 msgctxt "f8f34298-6e1b-48b8-a3e3-345af44daf33"
@@ -266785,8 +266787,8 @@ msgid ""
 "my time on it. Besides, to tell you the truth, the rack is not my type of a "
 "date.\""
 msgstr ""
-"{n}다르벤은 대답대신 웃습니다. 그러나 그의 눈은 주의를 기울입니다.{/n} \"선반은 오랫동안 나를 떠나고 있었습니다. 슬프게도 나는 "
-"너무 바빠서 내 시간을 낭비 할 수 없습니다. 한편 진실을 말하자면 선반은 내 취향이 아닙니다.\""
+"{n}다르벤은 웃음으로 답하지만, 눈빛에는 경계심이 번뜩입니다.{/n} \"그 고문대는 오래전부터 날 기다리고 있었지. 아쉽게도 난 너무 "
+"바빠서 거기서 시간을 허비할 여유가 없어. 게다가 솔직히 말하면, 그 고문대는 데이트 상대로 내 취향이 아니거든.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/DarvenAfterFight/Cue_0015_Text
 msgctxt "6b69e792-b324-4959-b00d-a9b24220b2dc"
@@ -266796,8 +266798,8 @@ msgid ""
 "fail. I'll escape again. So let's just talk instead, without threats. Like "
 "civilized people.\""
 msgstr ""
-"{n}갑자기 다르벤의 목소리가 진지해집니다.{/n} \"어떤 기회에 당신이...나를 이 부양관과 만나게 결심했다면 당신은 실패 할 "
-"것입니다. 나는 다시 도망 갈 것입니다. 그러니 대신 문명인들처럼 위협 없이 대화를 나누지요.\""
+"{n}그러다 갑자기 다르벤의 목소리가 진지해집니다.{/n} \"혹시라도 당신이... 그 여사님과 만날 자리를 마련해 줄 생각이라면 — "
+"뜻대로는 안 될 거야. 난 또 도망칠 테니까. 그러니 위협은 그만두고 그냥 대화나 하자고. 문명인답게.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevilSE/DarvenAfterFight/Cue_0016_Text
 msgctxt "855ae488-72ec-4dd4-9edd-82eeec2b4fcc"
@@ -267600,7 +267602,7 @@ msgstr "\"처음부터 말해봐.\""
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BrineDarven/Answer_0011_Text
 msgctxt "3e11a75d-070e-41d0-a5ee-cd7af9804334"
 msgid "\"So, what did this Chelish noble do to make you so angry?\""
-msgstr "\"그래서 Chelish 귀족이 당신을 왜 화나게 했지요?\""
+msgstr "\"그래서, 그 첼리악스 귀족이 대체 무슨 짓을 했기에 당신이 그렇게 화가 난 거죠?\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/BrineDarven/Answer_0017_Text
 msgctxt "fd0dde72-e77c-44d9-bb55-9ca93827397b"
@@ -268024,7 +268026,7 @@ msgctxt "23cb9cdd-274f-481a-b36b-d9f3092c9994"
 msgid ""
 "{n}Darven nods.{/n} \"I will do as you command. Too bad we couldn't become "
 "friends.\""
-msgstr "{n}다르벤은 끄덕입니다.{/n} \"당신이 명령하는대로. 우리가 친구가 될 수 없어 아쉽습니다.\""
+msgstr "{n}다르벤은 고개를 끄덕입니다.{/n} \"명령하신 대로 하겠습니다. 우리가 친구가 되지 못해 아쉽군요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/DarvenWins/Cue_0019_Text
 msgctxt "c0c00b9e-8cd2-4687-a6dd-d7fb3d9d22c6"
@@ -268063,8 +268065,8 @@ msgid ""
 "to have my lifelong dream come true. And it makes me doubly happy to realize "
 "that it's you who will be my neighbor.\""
 msgstr ""
-"\"당신은 값진 돈을 벌었습니다!\" {n}다르벤은 당신에게 이해한다는 듯 미소를 줍니다.{/n} \"그러나 우리가 진지하게 이야기한다면 "
-"내 평생 꿈꾸는 꿈이 이루어져 기쁘게 생각합니다. 내 이웃이 될 당신이라는 것을 깨닫게 되어 갚절로 기쁩니다.\""
+"\"그러는 동안 당신도 제법 큰돈을 벌었지요!\" {n}다르벤은 알겠다는 듯 미소 짓습니다.{/n} \"하지만 진지하게 말하자면, 평생의 "
+"꿈이 이루어져 뛸 듯이 기쁩니다. 게다가 내 이웃이 될 사람이 바로 당신이라니, 기쁨이 배가되는군요.\""
 
 #. Mechanics/Blueprints/World/Dialogs/c41/DealWithDevil_Brinewall/DarvenWins/Cue_0031_Text
 #. Speaker : Linzi_Companion
