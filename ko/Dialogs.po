@@ -47772,7 +47772,9 @@ msgid ""
 "\"I should have guessed that this unbearable minion, Trebricent, would be "
 "chief among Irovetti's bards! I remember being sickened by his verses even "
 "back at the Academy...\""
-msgstr "\"Trebricent가 이로베티의 바드들 중 우두머리라고 생각해! 아카데미에서도 그 녀석의 작품은 정말 짜증났거든...\""
+msgstr ""
+"\"그 지긋지긋한 앞잡이 트레브리센트가 이로베티의 바드들 중에서도 우두머리라니, 진작 눈치챘어야 했는데! 아카데미 시절에도 그 녀석의 "
+"시에는 진저리가 났거든...\""
 
 #. Mechanics/Blueprints/World/Dialogs/BarkoBanters/Story/Linzi/Banter_Linzi_C_51_BardCampVisited_Responses.Array.data[0].Response
 #. Speaker : Jaethal_Companion
