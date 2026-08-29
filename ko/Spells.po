@@ -6683,7 +6683,7 @@ msgid ""
 "designate and act according to their initiative check results. They attack "
 "your opponents to the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 왕도마뱀 1d3마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
+"이 주문은 다른 차원에서 왕도마뱀 1d3 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
 "행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonMonsterIVd3_DisplayName_String
@@ -8657,7 +8657,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level5/SummonMonsterVd3_DisplayName_String
 msgctxt "8ed2f8fa-e0cf-4293-aa33-4d953d14f082"
 msgid "Summon Monster V (1d3 Dire Wolves)"
-msgstr "괴물 소환 III (다이어 늑대 1d3 마리)"
+msgstr "괴물 소환 V (다이어 늑대 1d3 마리)"
 
 #. Mechanics/Blueprints/Spells/Level5/SummonMonsterVd4plus1_Description_String
 msgctxt "eb14a018-43a4-44f2-b821-1e72813a0d46"
@@ -10353,7 +10353,7 @@ msgid ""
 "their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 소울이터 하나나 1d3 레드캡을, 아니라면 액시오마이트 하나나 1d3 브라러니 아자타를 소환하거나, "
-"다이어 늑대 1d4+1마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 "
+"다이어 늑대 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 "
 "능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonMonsterVIBase_DisplayName_String
@@ -10805,12 +10805,11 @@ msgid ""
 "effect: 1d4 Dex; cure: 1 save."
 msgstr ""
 "이 주문은 4개 무리의 지네떼를 아군으로 소환합니다. 소환된 지네떼는 시전자가 지정한 곳에 나타나며, 자신의 우선권 판정 결과에 따라 "
-"행동합니다. 거미떼는 자신의 능력을 최대한 활용해 적을 공격합니다.\n"
-"지네떼는 60 점의 생명점을 가지고 있으며, 공격 시 4d6점의 피해를 주고 독과 산만 효과를 적용합니다. 독과 산만 효과에 저항하는 "
-"내성은 이 주문의 DC와 같습니다.\n"
-"산만: 이 능력을 가진 크리처는 피해를 입은 크리처를 구토 상태로 만듭니다. 산만 능력을 가진 크리처에게 피해를 받은 모든 크리처는 1 "
-"라운드 동안 구토 상태가 됩니다. 인내 내성으로 효과를 무효화할 수 있습니다.\n"
-"독: 군체 - 상처; 인내 내성; 빈도: 1 라운드 / 6 라운드; 효과: 1d4 Dex; 치료: 내성 1회 성공."
+"행동합니다. 지네떼는 자신의 능력을 최대한 활용해 적을 공격합니다.\n지네떼는 60 점의 생명점을 가지고 있으며, 공격 시 4d6점의 "
+"피해를 주고 독과 산만 효과를 적용합니다. 독과 산만 효과에 저항하는 내성은 이 주문의 DC와 같습니다.\n산만: 이 능력을 가진 "
+"크리처는 피해를 입은 크리처를 구토 상태로 만듭니다. 산만 능력을 가진 크리처에게 피해를 받은 모든 크리처는 1 라운드 동안 구토 상태가 "
+"됩니다. 인내 내성으로 효과를 무효화할 수 있습니다.\n독: 군체 - 상처; 인내 내성; 빈도: 1 라운드 / 6 라운드; 효과: 1d4 "
+"Dex; 치료: 내성 1회 성공."
 
 #. Mechanics/Blueprints/Spells/Level7/CreepingDoom_m_DisplayName
 msgctxt "955716a9-7ce5-443c-9ddd-59006f4b9f46"
