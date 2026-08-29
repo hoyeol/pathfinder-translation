@@ -6653,7 +6653,7 @@ msgid ""
 "designate and act according to their initiative check results. They attack "
 "your opponents to the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 커다란 늑대 한 마리나 왕도마뱀 1d3 마리, 또는 늑대 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 "
+"이 주문은 다른 차원에서 다이어 늑대 한 마리나 왕도마뱀 1d3 마리, 또는 늑대 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 "
 "곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonMonsterIVBase_DisplayName_String
@@ -6668,13 +6668,13 @@ msgid ""
 "and acts according to its initiative check results. It attacks your "
 "opponents to the best of its ability."
 msgstr ""
-"이 주문은 다른 차원에서 커다란 늑대 한 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
+"이 주문은 다른 차원에서 다이어 늑대 한 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
 "행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonMonsterIVSingle_DisplayName_String
 msgctxt "a6d3dec9-9d6d-4374-8c1e-7f6ad1ea5fe2"
 msgid "Summon Monster IV (Dire Wolf)"
-msgstr "괴물 소환 IV (커다란 늑대)"
+msgstr "괴물 소환 IV (다이어 늑대)"
 
 #. Mechanics/Blueprints/Spells/Level4/SummonMonsterIVd3_Description_String
 msgctxt "96e9531d-e50e-460a-86ff-a667a035eabd"
@@ -6713,13 +6713,13 @@ msgid ""
 "appears where you designate and acts according to its initiative check "
 "results. It attacks your opponents to the best of its ability."
 msgstr ""
-"이 주문은 자연으로부터 커다란 맷돼지를 아군으로 소환합니다. 소환되는 아군은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
+"이 주문은 자연으로부터 다이어 멧돼지를 아군으로 소환합니다. 소환되는 아군은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
 "행동합니다. 아군은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonNaturesAllyIVSingle_m_DisplayName
 msgctxt "9221e145-8d71-4476-a8c0-a2669626a122"
 msgid "Summon Nature's Ally IV (Dire Boar)"
-msgstr "자연의 동맹 소환 IV (커다란 맷돼지)"
+msgstr "자연의 동맹 소환 IV (다이어 멧돼지)"
 
 #. Mechanics/Blueprints/Spells/Level4/SummonNaturesAllyIV_m_Description
 msgctxt "4d9cfd9b-e025-493b-8553-23f8986cb95a"
@@ -6729,7 +6729,7 @@ msgid ""
 "and act according to their initiative check results. They attack your "
 "opponents to the best of their ability."
 msgstr ""
-"이 주문은 자연으로부터 커다란 맷돼지 한 마리나 표범 1d3 마리, 또는 거대 개구리 1d4+1 마리를 아군으로 소환합니다. 소환되는 "
+"이 주문은 자연으로부터 다이어 멧돼지 한 마리나 표범 1d3 마리, 또는 거대 개구리 1d4+1 마리를 아군으로 소환합니다. 소환되는 "
 "아군은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 아군은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonNaturesAllyIV_m_DisplayName
@@ -8619,7 +8619,7 @@ msgid ""
 "and act according to their initiative check results. They attack your "
 "opponents to the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 커다란 늑대 1d3 마리나 왕도마뱀 1d4+1 마리, 또는 악 성향이면 레드캡, 아니라면 브라러니 아자타를 "
+"이 주문은 다른 차원에서 다이어 늑대 1d3 마리나 왕도마뱀 1d4+1 마리, 또는 악 성향이면 레드캡, 아니라면 브라러니 아자타를 "
 "소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 "
 "공격합니다."
 
@@ -8651,13 +8651,13 @@ msgid ""
 "designate and act according to their initiative check results. They attack "
 "your opponents to the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 커다란 늑대 1d3 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
+"이 주문은 다른 차원에서 다이어 늑대 1d3 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
 "행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level5/SummonMonsterVd3_DisplayName_String
 msgctxt "8ed2f8fa-e0cf-4293-aa33-4d953d14f082"
 msgid "Summon Monster V (1d3 Dire Wolves)"
-msgstr "괴물 소환 III (커다란 늑대 1d3 마리)"
+msgstr "괴물 소환 III (다이어 늑대 1d3 마리)"
 
 #. Mechanics/Blueprints/Spells/Level5/SummonMonsterVd4plus1_Description_String
 msgctxt "eb14a018-43a4-44f2-b821-1e72813a0d46"
@@ -8697,7 +8697,7 @@ msgid ""
 "and act according to their initiative check results. They attack your "
 "opponents to the best of their ability."
 msgstr ""
-"이 주문은 자연으로부터 만티코어 한 마리나 커다란 맷돼지 1d3 마리, 또는 표범 1d4+1 마리를 아군으로 소환합니다. 소환되는 아군은 "
+"이 주문은 자연으로부터 만티코어 한 마리나 다이어 멧돼지 1d3 마리, 또는 표범 1d4+1 마리를 아군으로 소환합니다. 소환되는 아군은 "
 "시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 아군은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level5/SummonNaturesAllyV_m_DisplayName
@@ -8712,13 +8712,13 @@ msgid ""
 "appear where you designate and act according to their initiative check "
 "results. They attack your opponents to the best of their ability."
 msgstr ""
-"이 주문은 자연으로부터 커다란 맷돼지 1d3 마리를 아군으로 소환합니다. 소환되는 아군은 시전자가 지정한 곳에 나타나며, 우선권 판정의 "
+"이 주문은 자연으로부터 다이어 멧돼지 1d3 마리를 아군으로 소환합니다. 소환되는 아군은 시전자가 지정한 곳에 나타나며, 우선권 판정의 "
 "결과에 따라 행동합니다. 아군은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level5/SummonNaturesAllyVd3_m_DisplayName
 msgctxt "e3f0e22a-b1e0-4ec1-b227-b943f4a431e3"
 msgid "Summon Nature's Ally V (1d3 Dire Boars)"
-msgstr "자연의 동맹 소환 V (커다란 맷돼지 1d3 마리)"
+msgstr "자연의 동맹 소환 V (다이어 멧돼지 1d3 마리)"
 
 #. Mechanics/Blueprints/Spells/Level5/SummonNaturesAllyVd4plus1_m_Description
 msgctxt "2d234dc8-6080-41ed-818a-1b83b50dc132"
@@ -10353,7 +10353,7 @@ msgid ""
 "their ability."
 msgstr ""
 "이 주문은 다른 차원에서 악 성향이면 소울이터 하나나 1d3 레드캡을, 아니라면 액시오마이트 하나나 1d3 브라러니 아자타를 소환하거나, "
-"커다란 늑대 1d4+1마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 "
+"다이어 늑대 1d4+1마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 소환물은 자기 "
 "능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonMonsterVIBase_DisplayName_String
@@ -10400,13 +10400,13 @@ msgid ""
 "designate and act according to their initiative check results. They attack "
 "your opponents to the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 커다란 늑대 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
+"이 주문은 다른 차원에서 다이어 늑대 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 "
 "행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonMonsterVId4plus1_DisplayName_String
 msgctxt "d001987e-c6e8-4e65-ba19-a4a07430ac97"
 msgid "Summon Monster VI (1d4+1 Dire Wolves)"
-msgstr "괴물 소환 VI (커다란 늑대 1d4+1 마리)"
+msgstr "괴물 소환 VI (다이어 늑대 1d4+1 마리)"
 
 #. Mechanics/Blueprints/Spells/Level6/SummonNaturesAllyVISingle_m_Description
 msgctxt "1d6ead1d-1e5f-4ebb-ad85-93c51895cd7c"
@@ -10431,7 +10431,7 @@ msgid ""
 "and act according to their initiative check results. They attack your "
 "opponents to the best of their ability."
 msgstr ""
-"이 주문은 자연으로부터 검치호 한 마리나 만티코어 1d3 마리, 또는 커다란 맷돼지 1d4+1 마리를 아군으로 소환합니다. 소환되는 "
+"이 주문은 자연으로부터 검치호 한 마리나 만티코어 1d3 마리, 또는 다이어 멧돼지 1d4+1 마리를 아군으로 소환합니다. 소환되는 "
 "아군은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. 아군은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonNaturesAllyVI_m_DisplayName
@@ -10461,13 +10461,13 @@ msgid ""
 "allies appear where you designate and act according to their initiative "
 "check results. They attack your opponents to the best of their ability."
 msgstr ""
-"이 주문은 자연으로부터 커다란 맷돼지 1d4+1 마리를 아군으로 소환합니다. 소환되는 아군은 시전자가 지정한 곳에 나타나며, 우선권 "
+"이 주문은 자연으로부터 다이어 멧돼지 1d4+1 마리를 아군으로 소환합니다. 소환되는 아군은 시전자가 지정한 곳에 나타나며, 우선권 "
 "판정의 결과에 따라 행동합니다. 아군은 자기 능력을 최대한 활용해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/SummonNaturesAllyVId4plus1_m_DisplayName
 msgctxt "59e6eec8-3d15-4ce1-bec5-68dcfb9fa6b0"
 msgid "Summon Nature's Ally VI (1d4+1 Dire Boars)"
-msgstr "자연의 동맹 소환 VI (커다란 맷돼지 1d4+1 마리)"
+msgstr "자연의 동맹 소환 VI (다이어 멧돼지 1d4+1 마리)"
 
 #. Mechanics/Blueprints/Spells/Level6/TarPoolDazeBuff_DisplayName_String
 msgctxt "9b186836-f1f5-4eb3-873b-1173618b8728"

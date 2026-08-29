@@ -15343,7 +15343,7 @@ msgstr "상급 곰"
 #. Mechanics/Blueprints/Units/Names/Monsters/Bear/CR7_BearDire_String
 msgctxt "f2fcb897-6e22-46a5-b545-a7a14c5a3963"
 msgid "Dire Bear"
-msgstr "커다란 곰"
+msgstr "다이어 곰"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Bear/CR7_BearQuickling_String
 msgctxt "cf057eb5-9b73-4aec-bd57-768ed1e7e01a"
@@ -15403,7 +15403,7 @@ msgstr "야생 멧돼지"
 #. Mechanics/Blueprints/Units/Names/Monsters/Boar/CR4_DireBoar_String
 msgctxt "f09a265f-f749-44f9-a88f-7d65eb9e3a03"
 msgid "Dire Boar"
-msgstr "커다란 멧돼지"
+msgstr "다이어 멧돼지"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Boar/CR9_DireBoarAdvanced_String
 msgctxt "3c80e3c4-c4ae-4007-8255-4bc234644296"
@@ -18218,7 +18218,7 @@ msgstr "사나운 늑대"
 #. Mechanics/Blueprints/Units/Names/Monsters/Wolf/CR3_DireWolf_String
 msgctxt "dbd9ecf5-3501-4f54-bac3-e82ded5914a9"
 msgid "Dire Wolf"
-msgstr "커다란 늑대"
+msgstr "다이어 늑대"
 
 #. Mechanics/Blueprints/Units/Names/Monsters/Wolf/CR5_WolfAlpha_String
 msgctxt "fe69bbda-8cc2-42e3-a700-81b354f363f1"
