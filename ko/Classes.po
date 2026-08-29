@@ -27170,9 +27170,9 @@ msgid ""
 "Poison: Swarm — injury; Fortitude save (DC 13); frequency: 1/round for 6 "
 "rounds; effect: 1d4 Con; cure: 1 save."
 msgstr ""
-"산만: 이 능력을 가진 크리처는 피해를 입은 크리처를 구토 상태로 만듭니다. 산만 능력을 가진 크리처에게 피해를 받은 모든 크리처는 1 "
-"라운드 동안 구토 상태가 됩니다. 인내 내성으로 효과를 무효화할 수 있습니다.\n"
-"독: 군체 - 상처; 인내 내성; 빈도: 매 1 라운드 / 6 라운드 동안; 효과: 1d4 Dex; 치료: 내성 1회 성공."
+"교란: 이 능력을 지닌 크리처에게 피해를 받은 살아 있는 대상은 1 라운드 동안 구토 상태가 됩니다. 인내 내성 굴림에 성공하면 이 "
+"효과를 무효화할 수 있으며, DC는 10 + 공격자의 HD 절반 + 공격자의 건강 수정치입니다.\n독: 군체 - 상처; 인내 내성(DC "
+"13); 빈도: 6 라운드 동안 라운드당 1회; 효과: 1d4 건강 피해; 치료: 내성 굴림 1회 성공."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineDenOfSpidersSpiderSwarmDamageBuff_m_DisplayName
 msgctxt "f8090c9b-8c43-410c-bb22-a082c1cbacb7"
