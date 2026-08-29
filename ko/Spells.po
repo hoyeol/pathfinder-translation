@@ -13574,8 +13574,8 @@ msgid ""
 "are not. It appears where you designate and acts according to its initiative "
 "check results. It attacks your opponents to the best of its ability."
 msgstr ""
-"이 주문은 외부차원에서 악 성향이면 서리 거인, 아니라면 모바닉 데바를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 "
-"판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
+"이 주문은 시전자가 악 성향이면 서리 거인 하나를, 그렇지 않으면 모바닉 데바 하나를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나 "
+"우선권 판정 결과에 따라 행동하며, 최선을 다해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level8/SummonMonsterVIIISingle_DisplayName_String
 msgctxt "3cc6d850-d81e-46b1-89b3-854758257d60"
@@ -14186,8 +14186,8 @@ msgid ""
 "are not. It appears where you designate and acts according to its initiative "
 "check results. It attacks your opponents to the best of its ability."
 msgstr ""
-"이 주문은 외부차원에서 악 성향이면 타나다이몬, 아니라면 게일 아자타를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 "
-"판정의 결과에 따라 행동합니다. 소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
+"이 주문은 시전자가 악 성향이면 타나다이몬 하나를, 그렇지 않으면 게일 아자타 하나를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나 "
+"우선권 판정 결과에 따라 행동하며, 최선을 다해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level9/SummonMonsterIXSingle_DisplayName_String
 msgctxt "3e1756b2-1acd-4eb0-9c53-8c3290cd7344"
@@ -14217,8 +14217,8 @@ msgid ""
 "according to their initiative check results. They attack your opponents to "
 "the best of their ability."
 msgstr ""
-"이 주문은 다른 차원에서 1d4+1 부기맨을 소환합니다. 소환물은 시전자가 지정한 곳에 나타나며, 우선권 판정의 결과에 따라 행동합니다. "
-"소환물은 자기 능력을 최대한 활용해 적을 공격합니다."
+"이 주문은 부기맨 1d4+1 마리를 소환합니다. 소환물은 시전자가 지정한 곳에 나타나 우선권 판정 결과에 따라 행동하며, 최선을 다해 "
+"적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level9/SummonMonsterIXd4plus1_DisplayName_String
 msgctxt "1d766b96-eb99-4464-babe-1cfd72525427"
