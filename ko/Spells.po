@@ -2591,8 +2591,8 @@ msgid ""
 "death. While this spell is in effect, you gain temporary hit points equal to "
 "1d10 + 1 per caster level (maximum +10)."
 msgstr ""
-"죽은 자의 힘을 끌어내 한정적으로나마 죽음을 회피할 수 있는 능력을 자신에게 부여합니다. 주문의 지속시간 동안 1d10 + 시전자 레벨당 "
-"1(최대 +10)의 임시 생명점을 얻습니다."
+"언데드의 힘을 끌어내 죽음을 잠시나마 피할 수 있게 합니다. 주문이 지속되는 동안 1d10점에 시전자 레벨당 1점씩 더한 만큼의 임시 "
+"생명점을 얻으며, 시전자 레벨에 따른 추가분은 최대 10점입니다."
 
 #. Mechanics/Blueprints/Spells/Level2/FalseLife_m_DisplayName
 msgctxt "4dfffe17-4a6a-4039-a78d-311c21d34bdb"
