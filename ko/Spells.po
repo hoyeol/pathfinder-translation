@@ -10716,7 +10716,7 @@ msgid ""
 "appears where you designate and acts according to its initiative check "
 "results. It attacks your opponents to the best of its ability."
 msgstr ""
-"이 주문은 평범한 육척봉을 트리엔트로 바꿉니다. 그렇게 생겨난 트리엔트는 시전자가 지정한 곳에 나타나 우선권 판정 결과에 따라 행동하며, "
+"이 주문은 평범한 육척봉을 트리엔트로 바꿉니다. 이렇게 변한 트리엔트는 시전자가 지정한 곳에 나타나 우선권 판정 결과에 따라 행동하며, "
 "최선을 다해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level7/Changestaff_m_DisplayName
