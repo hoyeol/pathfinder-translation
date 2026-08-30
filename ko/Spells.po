@@ -7614,8 +7614,8 @@ msgid ""
 "damage, but the other half results directly from divine power and is "
 "therefore not subject to being reduced by resistance to fire-based attacks."
 msgstr ""
-"화염 강타는 신성한 불꽃으로 타오르는 수직 기둥을 불러냅니다. 이 주문은 시전자 레벨당 1d6점의 피해를 (최대 15d6) 입힙니다. "
-"피해의 절반은 화염 피해지만, 나머지 절반은 신성한 힘으로 인한 것이기 때문에 화염 저항으로 감소시킬 수 없습니다."
+"이 주문은 신성한 불기둥을 일으킵니다. 시전자 레벨당 1d6점의 피해를 주며, 최대 피해는 15d6점입니다. 피해의 절반은 화염 "
+"피해이고, 나머지 절반은 신성한 힘에서 직접 비롯된 피해입니다. 따라서 이 피해는 화염 저항으로 줄일 수 없습니다."
 
 #. Mechanics/Blueprints/Spells/Level5/FlameStrike_DisplayName_String
 msgctxt "ff8440ec-6f25-4147-b9e5-f10c924accde"
