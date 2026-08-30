@@ -811,7 +811,7 @@ msgctxt "843c195d-ca95-4af9-9375-5c5f9a18f44f"
 msgid ""
 "Any creature in the area of the flames takes 1d4 points of fire damage per "
 "caster level (maximum 5d4)."
-msgstr "범위 내 모든 크리처는 시전자 레벨당 1d4점 (최대 5d4)의 화염 피해를 받습니다."
+msgstr "화염이 미치는 범위 안의 모든 크리처는 시전자 레벨당 1d4점의 화염 피해를 받으며, 최대 피해는 5d4점입니다."
 
 #. Mechanics/Blueprints/Spells/Level1/BurningHands_m_DisplayName
 msgctxt "e4cad700-cda6-487a-9967-8c74552c9a88"

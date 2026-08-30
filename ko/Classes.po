@@ -26178,9 +26178,9 @@ msgid ""
 "Burning Hands: Any creature in the area of the flames takes 1d4 points of "
 "fire damage per caster level (maximum 5d4)."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
-"불타는 손: 범위 안의 모든 크리처에게 시전자 당 최대 1d4점의 화염 피해가 발생합니다 (최대 5d4)."
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 주문은 "
+"레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n불타는 손: 화염이 미치는 범위 안의 모든 크리처는 시전자 레벨당 1d4점의 화염 "
+"피해를 받으며, 최대 피해는 5d4점입니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/ElementalBloodline/Fire/BloodlineElementalFireSpellLevel2_Description_String
 msgctxt "d5736a36-c962-4d07-813e-440e51c11839"
