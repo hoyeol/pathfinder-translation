@@ -14019,14 +14019,13 @@ msgid ""
 "Dexterity damage per round. A successful Fortitude save each round negates "
 "the Dexterity damage but not the cold damage."
 msgstr ""
-"극지의 한밤에 몰아치는 혹한을 범위 안에 쏟아냅니다.\n"
-"범위 내의 크리처는 라운드마다 5d6점의 냉기 피해와 1d6점의 민첩 피해를 받습니다. 매 라운드마다 인내 내성에 성공하면 민첩 피해는 "
-"받지 않지만 냉기 피해는 그대로 받습니다."
+"일정 범위를 극지의 밤과 같은 혹한으로 뒤덮습니다.\n범위 안의 모든 크리처는 라운드마다 5d6점의 냉기 피해와 1d6점의 민첩 피해를 "
+"받습니다. 매 라운드 인내 내성 굴림에 성공하면 민첩 피해는 받지 않지만, 냉기 피해는 그대로 받습니다."
 
 #. Mechanics/Blueprints/Spells/Level9/PolarMidnight_m_DisplayName
 msgctxt "05741bb5-a3de-4091-8da0-1c76e0540341"
 msgid "Polar Midnight"
-msgstr "극지의 혹한"
+msgstr "극지의 한밤"
 
 #. Mechanics/Blueprints/Spells/Level9/PowerWordKill_m_Description
 msgctxt "0b97c744-5ecc-4fe7-a2f8-3d42c0677fb1"

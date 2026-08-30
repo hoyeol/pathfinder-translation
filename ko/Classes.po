@@ -27071,7 +27071,7 @@ msgstr "절대 명령 기절"
 #. Mechanics/Blueprints/Classes/Sorcerer/InfernalBloodline/BloodlineInfernalSpellLevel9_DisplayName_String
 msgctxt "5ca58285-9a22-43c8-be31-6cd7277b3e16"
 msgid "Polar Midnight"
-msgstr "극지의 혹한"
+msgstr "극지의 한밤"
 
 #. Mechanics/Blueprints/Classes/Sorcerer/InfernalBloodline/BloodlineInfernalSpellLevel9_m_Description
 msgctxt "d42ff6b7-ca20-4f0c-902f-4e75cc4bb75c"
@@ -27084,10 +27084,10 @@ msgid ""
 "points of Dexterity damage per round. A successful Fortitude save each round "
 "negates the Dexterity damage but not the cold damage."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
-"극지 자정: 한밤의 극지에 몰아치는 혹한을 일정 범위에 쏟아냅니다. 범위 내의 크리처는 라운드마다 5d6점의 냉기 피해와 1d6점의 민첩 "
-"피해를 받습니다. 매 라운드마다 인내 내성에 성공하면 민첩 피해는 받지 않지만 냉기 피해는 그대로 받습니다."
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 주문은 "
+"레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n극지의 한밤: 일정 범위를 극지의 밤과 같은 혹한으로 뒤덮습니다. 범위 안의 모든 "
+"크리처는 라운드마다 5d6점의 냉기 피해와 1d6점의 민첩 피해를 받습니다. 매 라운드 인내 내성 굴림에 성공하면 민첩 피해는 받지 "
+"않지만, 냉기 피해는 그대로 받습니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineArcana_m_Description
 msgctxt "47e611d4-860a-4f55-8934-03aefac2f61e"
@@ -27769,16 +27769,15 @@ msgid ""
 "Dexterity damage per round. A successful Fortitude save each round negates "
 "the Dexterity damage but not the cold damage."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
-"극지의 혹한: 극지의 한밤에 몰아치는 혹한을 범위 안에 쏟아냅니다. \n"
-"범위 내의 크리처는 라운드마다 5d6 점의 냉기 피해와 1d6 점의 민첩 피해를 받습니다. 매 라운드마다 인내 내성에 성공하면 민첩 "
-"피해는 받지 않지만 냉기 피해는 그대로 받습니다."
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 주문은 "
+"레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n일정 범위를 극지의 밤과 같은 혹한으로 뒤덮습니다.\n범위 안의 모든 크리처는 "
+"라운드마다 5d6점의 냉기 피해와 1d6점의 민첩 피해를 받습니다. 매 라운드 인내 내성 굴림에 성공하면 민첩 피해는 받지 않지만, 냉기 "
+"피해는 그대로 받습니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSpellLevel9_m_DisplayName
 msgctxt "f418adb6-d28d-4831-b6e2-e3241bf00f83"
 msgid "Polar Midnight"
-msgstr "극지의 혹한"
+msgstr "극지의 한밤"
 
 #. Mechanics/Blueprints/Classes/Sorcerer/SorcererBloodlineSelection_m_Description
 msgctxt "aa51c8bf-a49c-4a67-ae56-05985d98cc04"
