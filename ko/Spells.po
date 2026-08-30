@@ -12967,9 +12967,9 @@ msgid ""
 "especially devastating to water elementals and plant creatures, which "
 "instead take 1d8 points of damage per caster level (maximum 20d8)."
 msgstr ""
-"이 주문은 살아있는 크리처의 몸에서 수분을 증발시켜 그 육체가 시들고 갈라지고 먼지로 부서지게 합니다. 시전자 레벨 당 1d6 (최대 "
-"20d6) 점의 피해를 입힙니다. 이 주문은 물의 정령과 식물 크리처에 특히 치명적이며, 시전자 레벨 당 최대 1d8 (최대 20d8) "
-"점의 피해를 입힙니다."
+"이 주문의 대상이 된 살아 있는 크리처는 모두 몸의 수분이 증발하면서 살이 말라붙고 갈라진 끝에 먼지로 바스러집니다. 이 주문은 시전자 "
+"레벨당 1d6점의 피해를 주며, 최대 피해는 20d6점입니다. 물 정령과 식물 크리처에게는 특히 치명적이며, 이들은 대신 시전자 레벨당 "
+"1d8점의 피해를 받습니다. 최대 피해는 20d8점입니다."
 
 #. Mechanics/Blueprints/Spells/Level8/HorridWilting_m_DisplayName
 msgctxt "ee1af84d-c601-4663-ae18-41ecb4950565"
