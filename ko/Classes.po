@@ -26929,10 +26929,9 @@ msgid ""
 "resistance bonus on saves. Both these bonuses apply against attacks made or "
 "effects created by good creatures."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
-"선으로부터 보호: 대상은 AC에 +2 반사 보너스와 내성에 +2 저항 보너스를 줍니다. 두 보너스는 선한 크리처에게 공격받을 때만 "
-"적용됩니다."
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 주문은 "
+"레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n선으로부터 보호: 대상은 AC에 +2 굴절 보너스를, 내성 굴림에 +2 저항 "
+"보너스를 얻습니다. 두 보너스는 모두 선 성향 크리처가 가한 공격이나 만들어 낸 효과에만 적용됩니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/InfernalBloodline/BloodlineInfernalSpellLevel1_m_DisplayName
 msgctxt "330cf091-a41a-4316-9dd6-ee25dca3be56"

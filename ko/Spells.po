@@ -1485,8 +1485,8 @@ msgid ""
 "saves. Both these bonuses apply against attacks made or effects created by "
 "good creatures."
 msgstr ""
-"대상은 AC에 +2의 굴절 보너스를 얻고, 모든 내성에 +2의 저항 보너스를 얻습니다. 이 두 보너스는 선 성향 크리처의 공격이나 효과에 "
-"대항할 때 적용됩니다."
+"대상은 AC에 +2 굴절 보너스를, 내성 굴림에 +2 저항 보너스를 얻습니다. 두 보너스는 모두 선 성향 크리처가 가한 공격이나 만들어 "
+"낸 효과에만 적용됩니다."
 
 #. Mechanics/Blueprints/Spells/Level1/ProtectionFromLaw_DisplayName_String
 msgctxt "d0c7e9de-0e83-448c-bca4-3e1625c5efaf"
