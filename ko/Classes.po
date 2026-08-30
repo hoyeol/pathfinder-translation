@@ -24915,9 +24915,8 @@ msgid ""
 "Spell Resistance: The target gains spell resistance equal to 12 + your "
 "caster level."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
-"주문 저항: 대상은 12 + 자신의 시전자 레벨 만큼의 주문 저항을 얻습니다."
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 주문은 "
+"레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n주문 저항: 대상이 얻는 주문 저항은 12에 시전자 레벨을 더한 값입니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/DraconicBloodline/BloodlineDraconicSpellLevel6_DisplayName_String
 msgctxt "0ae30842-9d95-4c03-b015-a73fd332d9fa"

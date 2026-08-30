@@ -8509,7 +8509,7 @@ msgstr "주문 저항"
 #. Mechanics/Blueprints/Spells/Level5/SpellResistance_m_Description
 msgctxt "c387b7ad-2792-4a34-bbbb-161522136f22"
 msgid "The target gains spell resistance equal to 12 + your caster level."
-msgstr "대상은 12 + 시전자 레벨 만큼 주문 저항을 얻습니다."
+msgstr "대상이 얻는 주문 저항은 12에 시전자 레벨을 더한 값입니다."
 
 #. Mechanics/Blueprints/Spells/Level5/SpellResistance_m_DisplayName
 msgctxt "d54bedbd-e175-4ebe-9bd6-d074d544da02"
