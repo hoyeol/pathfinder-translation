@@ -8760,7 +8760,7 @@ msgctxt "d8977775-d576-4eca-af62-10a3bcc89ce3"
 msgid ""
 "Waves of negative energy render all living creatures in the spell's area "
 "fatigued. This spell has no effect on a creature that is already fatigued."
-msgstr "음에너지의 파동이 주문 범위의 모든 살아있는 크리처를 피로하게 만듭니다. 이 주문은 이미 피곤한 크리처에게는 효과가 없습니다."
+msgstr "음에너지의 파동이 주문 범위 안의 살아 있는 크리처를 모두 피로 상태로 만듭니다. 이미 피로 상태인 크리처에게는 효과가 없습니다."
 
 #. Mechanics/Blueprints/Spells/Level5/WavesOfFatigue_m_DisplayName
 msgctxt "45469902-6b47-4305-b78f-3abaa54bb280"

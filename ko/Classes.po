@@ -28187,10 +28187,9 @@ msgid ""
 "the spell's area fatigued. This spell has no effect on a creature that is "
 "already fatigued."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
-"피로의 파동: 음에너지의 파동은 주문 범위의 모든 살아있는 크리처를 피로하게 만듭니다. 이 주문은 이미 피곤한 크리처에게는 효과가 "
-"없습니다."
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 주문은 "
+"레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n피로의 파동: 음에너지의 파동이 주문 범위 안의 살아 있는 크리처를 모두 피로 "
+"상태로 만듭니다. 이미 피로 상태인 크리처에게는 효과가 없습니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/UndeadBloodline/BloodlineUndeadSpellLevel6_DisplayName_String
 msgctxt "bad10294-0337-4a81-a6a7-553570a95f48"
