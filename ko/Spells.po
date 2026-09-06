@@ -640,8 +640,8 @@ msgid ""
 "This spell has no effect on a creature that is already fatigued. Unlike with "
 "normal fatigue, the effect ends as soon as the spell's duration expires."
 msgstr ""
-"접촉을 통해 음에너지를 전달해서 대상을 지치게 합니다. 접촉 공격에 성공해야 합니다. 대상은 즉시 피로감을 느낍니다.\n"
-"이 주문은 이미 피곤한 크리처에게는 효과가 없습니다. 정상적인 피로와 달리 효과는 마법의 지속 시간이 끝나는대로 끝납니다."
+"접촉 공격에 성공하면 대상에게 음에너지를 전달해 즉시 피로 상태로 만듭니다. 피로 상태는 주문이 지속되는 동안 유지됩니다.\n"
+"이미 피로 상태인 크리처에게는 효과가 없습니다. 일반적인 피로와 달리, 이 주문으로 생긴 피로는 주문이 끝나는 즉시 사라집니다."
 
 #. Mechanics/Blueprints/Spells/Level0/TouchOfFatigueCast_m_DisplayName
 msgctxt "c75b0ca8-f5e9-4f68-b6aa-156c7619ffb3"
@@ -6056,7 +6056,8 @@ msgid ""
 "This spell functions as false life, except you gain temporary hit points "
 "equal to 2d10 + 1 point per caster level (maximum +20)."
 msgstr ""
-"이 주문은 2d10 + 시전자 레벨당 1점(최대 +20)에 해당하는 임시 생명점을 얻는다는 것을 제외하면 거짓 생명 주문과 같습니다."
+"이 주문의 효과는 거짓 생명과 같지만, 얻는 임시 생명점은 2d10점에 시전자 레벨당 1점을 더한 값입니다. 이때 레벨에 따라 더하는 "
+"생명점은 최대 20점입니다."
 
 #. Mechanics/Blueprints/Spells/Level4/FalseLifeGreater_DisplayName_String
 msgctxt "ee04971c-1e08-44ab-ac5b-9f45974ea08c"
