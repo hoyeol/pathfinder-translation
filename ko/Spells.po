@@ -10896,8 +10896,8 @@ msgid ""
 "target's Fortitude saving throw succeeds, it instead takes 3d6 points of "
 "damage + 1 point per caster level."
 msgstr ""
-"이 주문은 시전자 레벨 당 10 점의 피해를 즉시 입힙니다. 대상의 인내 내성 굴림이 성공하면 대신 3d6 + 시전자 레벨 당 1 점의 "
-"피해를 줍니다."
+"이 주문은 시전자 레벨당 10점의 피해를 즉시 입힙니다. 대상이 인내 내성 굴림에 성공하면 대신 3d6점에 시전자 레벨당 1점을 더한 "
+"피해를 받습니다."
 
 #. Mechanics/Blueprints/Spells/Level7/FingerOfDeath_m_DisplayName
 msgctxt "22a961b5-f441-4176-a993-81e821a6da1d"
