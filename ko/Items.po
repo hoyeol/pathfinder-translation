@@ -14527,9 +14527,9 @@ msgid ""
 "maximum of three rays at 11th level). Each ray requires a ranged touch "
 "attack to hit and deals 4d6 points of fire damage.[LONGEND]"
 msgstr ""
-"적에게 타오르는 화염의 광선을 발사합니다.[LONGSTART] 기본적으로 한 줄기의 광선을 발사할 수 있고, 3 레벨 이후 레벨이 4 "
-"오를 때마다 추가로 한 줄기의 광선을 더 발사할 수 있습니다(11 레벨에서 최대 세 줄기의 광선). 각각의 광선은 원거리 접촉 공격을 "
-"필요로 하며, 명중하면 4d6점의 화염 피해를 입힙니다.[LONGEND]"
+"작열하는 불꽃 광선을 적에게 발사합니다.[LONGSTART] 광선은 기본적으로 한 발이며, 3 레벨 이후에는 4 레벨마다 한 발씩 "
+"늘어나 11 레벨에 최대 3발이 됩니다. 광선 한 발마다 원거리 접촉 공격을 합니다. 명중하면 한 발당 4d6점의 화염 피해를 "
+"줍니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Weapons/Enchantments/Unique/ScorchingRayStaff_m_DisplayName
 msgctxt "7990c77b-172b-4288-9fa7-66ff633afd90"

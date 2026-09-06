@@ -335,8 +335,10 @@ msgid ""
 "different targets, but all rays must be aimed at targets within 30 feet of "
 "each other and fired simultaneously."
 msgstr ""
-"적을 향해 타오르는 불의 광선을 발사합니다. 당신은 3 레벨에 광선 하나를, 그 후로 매 4 레벨마다 광선을 하나 씩 더 발사합니다 ("
-"11 레벨에 최대 3개). 광선마다 원거리 접촉 공격을 시도하며 명중 시 4d6의 화염 피해를 입힙니다."
+"작열하는 불꽃 광선을 적에게 발사합니다. 광선은 기본적으로 한 발이며, 3 레벨 이후에는 4 레벨마다 한 발씩 늘어나 11 레벨에 최대 "
+"3발이 됩니다. 광선 한 발마다 원거리 접촉 공격을 합니다. 명중하면 한 발당 4d6점의 화염 피해를 줍니다. 광선은 한 대상에게 모두 "
+"발사하거나 여러 대상에게 나누어 발사할 수 있습니다. 다만 대상들은 서로 30 피트 이내에 있어야 하며 모든 광선은 동시에 발사해야 "
+"합니다."
 
 #. Mechanics/Blueprints/Spells/CutsceneSpells/ScorchingRay01_Cutscene_m_DisplayName
 msgctxt "12928b4b-32f8-4b91-a94b-f85a7fd8c5f8"
