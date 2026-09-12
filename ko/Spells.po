@@ -2520,8 +2520,8 @@ msgid ""
 "affect the subject until the spell's duration has expired. Delay poison does "
 "not cure any damage that poison may have already done."
 msgstr ""
-"대상은 일시적으로 독에 면역이 됩니다. 주문의 지속 시간 동안 독에 노출되거나 독이 이미 체내에 있어도 주문의 지속 시간이 만료 될 "
-"때까지는 대상에 영향을 미치지 않습니다. 독 지연은 독이 이미 입힌 피해를 치료하지 않습니다."
+"대상은 일시적으로 독에 면역이 됩니다. 체내에 이미 있는 독은 주문이 끝날 때까지 대상에게 영향을 미치지 않습니다. 주문이 지속되는 "
+"동안 새로운 독에 노출되어도 마찬가지입니다. 독 지연은 독이 이미 입힌 피해를 치료하지 않습니다."
 
 #. Mechanics/Blueprints/Spells/Level2/DelayPoison_m_DisplayName
 msgctxt "6ccc694c-5fbe-49b3-8bb8-d2615ce9caf8"
