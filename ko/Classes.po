@@ -27714,9 +27714,10 @@ msgid ""
 "Hold Monster: This spell functions like hold person, except that it affects "
 "any living creature that fails its Will save."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
-"괴물 포박: 이 주문은 사람 포박과 같은 기능을 하지만, 의지 내성에 실패한 모든 살아있는 크리처에게 효과가 있다는 점이 다릅니다."
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 "
+"주문은 레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n"
+"괴물 포박: 이 주문은 사람 포박과 같은 기능을 하지만, 의지 내성 굴림에 실패한 모든 살아 있는 크리처에게 효과가 있다는 점이 "
+"다릅니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineSpellLevel6_m_DisplayName
 msgctxt "0a36346d-2dcb-43f5-9a45-3d516e070b37"
