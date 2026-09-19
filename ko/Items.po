@@ -4316,12 +4316,12 @@ msgctxt "9977b629-d7ec-47d0-8853-87ff61f9bac9"
 msgid ""
 "This belt grants its wearer the ability to cast stoneskin spell as a 7th "
 "level Wizard once per day."
-msgstr "이 허리띠의 착용자에게 하루에 한 번 7 레벨 마법사의 돌가죽 주문 시전 능력을 제공합니다."
+msgstr "이 허리띠의 착용자에게 하루에 한 번 7 레벨 마법사의 스톤스킨 주문 시전 능력을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Belts/LateChapters/BeltOfStoneskinItem_m_DisplayNameText
 msgctxt "35d3c75b-0c9e-48fc-9d5a-088ca949cf5f"
 msgid "Belt of Stoneskin"
-msgstr "돌가죽의 허리띠"
+msgstr "스톤스킨의 허리띠"
 
 #. Mechanics/Blueprints/Equipment/Belts/LateChapters/BeltOfStoneskinItem_m_FlavorText
 msgctxt "21ea82fa-b5b7-4dfd-85c5-4b785dedc743"

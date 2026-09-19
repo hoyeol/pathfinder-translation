@@ -6570,7 +6570,7 @@ msgstr ""
 #. Mechanics/Blueprints/Spells/Level4/Stoneskin_m_DisplayName
 msgctxt "86ffaa80-c787-47c4-862e-079fa30170db"
 msgid "Stoneskin"
-msgstr "돌가죽"
+msgstr "스톤스킨"
 
 #. Mechanics/Blueprints/Spells/Level4/SummonElementalMediumAir_m_Description
 msgctxt "59109284-3d73-45f3-9ef8-5ff0e2968fe0"
@@ -8523,7 +8523,7 @@ msgstr "주문 저항"
 #. Mechanics/Blueprints/Spells/Level5/StoneskinCommunal_DisplayName_String
 msgctxt "f6b7798a-1af4-4b90-9e8d-05df15fc735a"
 msgid "Stoneskin, Communal"
-msgstr "집단 돌가죽"
+msgstr "집단 스톤스킨"
 
 #. Mechanics/Blueprints/Spells/Level5/StoneskinCommunal_m_Description
 msgctxt "d838be43-e363-4036-9589-9aefd46f164b"
