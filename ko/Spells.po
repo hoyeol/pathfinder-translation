@@ -10866,9 +10866,9 @@ msgid ""
 "transform into to determine their effect. You are also immune to critical "
 "hits and sneak attacks while in elemental form and gain DR 5/—."
 msgstr ""
-"정령의 육신 IV: 이 주문을 시전 하면, 거대 대기 정령, 거대 대지 정령, 거대 화염 정령, 거대 물 정령의 형태를 취할 수 "
-"있습니다. 얻게 되는 능력은 어떤 유형과 크기의 정령으로 변신하느냐에 따라 달라집니다. 또한 정령의 형태일 때 치명타 및 암습 면역을 "
-"얻고, DR 5/—를 얻습니다."
+"이 주문을 시전하면 거대형 대기 정령, 거대형 대지 정령, 거대형 화염 정령, 거대형 물 정령 중 하나로 변신할 수 있습니다. 얻는 "
+"능력은 변신한 정령의 유형에 따라 달라집니다. 크기에 따라 달라지는 능력의 효과는 변신한 정령의 크기를 기준으로 정합니다. 또한 정령의 "
+"형태일 때 치명타와 암습에 면역이 되며, 피해 감소 5/—를 얻습니다."
 
 #. Mechanics/Blueprints/Spells/Level7/ElementalBodyIVBase_m_DisplayName
 msgctxt "b3ec9c00-efd5-4935-b717-455163687528"
