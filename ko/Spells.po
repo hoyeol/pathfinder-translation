@@ -5353,8 +5353,8 @@ msgid ""
 "equal to the damage you deal. The temporary hit points disappear 1 hour "
 "later."
 msgstr ""
-"근접 접촉 공격에 성공할 경우 2 개의 시전자 레벨 당 1d6점의 (최대 10d6) 피해를 입힙니다. 그리고 이 피해와 동일한 임시 "
-"생명점을 얻습니다. 임시 생명점은 1 시간 후에 소실됩니다."
+"근접 접촉 공격에 성공하면 시전자 레벨 2당 1d6점의 피해를 입히며, 최대 피해는 10d6점입니다. 입힌 피해만큼 임시 생명점을 "
+"얻습니다. 임시 생명점은 1 시간 후에 사라집니다."
 
 #. Mechanics/Blueprints/Spells/Level3/VampiricTouch_DisplayName_String
 #. Mechanics/Blueprints/Spells/Level3/VampiricTouch_m_DisplayName
