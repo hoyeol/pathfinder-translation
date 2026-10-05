@@ -785,7 +785,7 @@ msgid ""
 "Bless counters and dispels bane."
 msgstr ""
 "축복은 아군에게 용기를 불어넣습니다. 아군은 명중 굴림과 공포 효과에 대한 내성 굴림에 +1의 사기 보너스를 얻습니다.\n"
-"축복은 해악 주문을 해제합니다."
+"축복은 해악 주문을 상쇄하고 해제합니다."
 
 #. Mechanics/Blueprints/Spells/Level1/Bless_DisplayName_String
 #. Mechanics/Blueprints/Spells/Level1/Bless_m_DisplayName
@@ -5806,7 +5806,9 @@ msgid ""
 "You instantly transfer yourself from your current location to any other spot "
 "within range. You may also bring with you all friendly creatures within a 10-"
 "foot radius around you."
-msgstr "즉시 자신을 가능한 거리 내 다른 지점으로 전송합니다. 10 피트 반경의 아군을 데려갈 수도 있습니다."
+msgstr ""
+"현재 위치에서 사거리 안의 다른 지점으로 즉시 이동합니다. 시전자를 중심으로 반경 10 피트 안에 있는 모든 아군을 함께 데려갈 수도 "
+"있습니다."
 
 #. Mechanics/Blueprints/Spells/Level4/DimensionDoor_m_DisplayName
 msgctxt "7f973c2e-9e9c-4284-b671-ff4b3456a363"
@@ -7465,7 +7467,8 @@ msgid ""
 "fails a Will save. If the spell is successful, the creature is instantly "
 "whisked away."
 msgstr ""
-"이 주문은 의지 내성에 실패한 다른 차원의 크리처를 강제로 본래의 차원으로 돌려보냅니다. 주문이 성공하면 크리처를 즉시 쫓아냅니다."
+"이 주문은 의지 내성 굴림에 실패한 다른 차원의 크리처를 강제로 본래의 차원으로 돌려보냅니다. 주문이 성공하면 그 크리처는 즉시 "
+"사라집니다."
 
 #. Mechanics/Blueprints/Spells/Level5/Dismissal_m_DisplayName
 msgctxt "bc992750-d853-4cd5-b9cf-682c2ec86feb"
