@@ -2327,8 +2327,8 @@ msgid ""
 "bonuses do not stack with other enhancement bonuses, for example with "
 "bonuses from belts.[LONGEND]"
 msgstr ""
-"대상은 더 강해집니다. 이 주문은 힘에 +4의 강화 보너스를 부여하고, 이를 통해 근접 명중 굴림과 근접 피해 굴림 등 힘 수정치에 "
-"영향을 받는 요소들에 영향을 줍니다.[LONGSTART] 강화 보너스는 다른 강화 보너스들, 예를 들면 허리띠 등으로 인한 보너스와 "
+"대상은 더 강해집니다. 이 주문은 힘에 +4의 강화 보너스를 부여합니다. 이에 따라 근접 명중 굴림과 근접 피해 굴림을 비롯해 힘 "
+"수정치를 사용하는 경우에 이점을 얻습니다.[LONGSTART] 강화 보너스는 허리띠에서 얻는 강화 보너스 등 다른 강화 보너스와 "
 "중첩되지 않습니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level2/BullsStrength_DisplayName_String
