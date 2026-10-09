@@ -4905,8 +4905,8 @@ msgid ""
 "against the DC of each curse affecting the target. Success means that the "
 "curse is removed."
 msgstr ""
-"하나의 물체나 크리처에 걸린 모든 저주를 제거할 수 있습니다. 대상이 크리처라면, 대상에게 걸린 저주 각각의 DC로 시전자 레벨 판정("
-"1d20 + 시전자 레벨)을 합니다. 성공하면 그 저주는 제거됩니다."
+"이 주문은 하나의 물체나 크리처에 걸린 모든 저주를 제거할 수 있습니다. 대상이 크리처라면, 대상에게 걸린 저주 각각의 DC를 기준으로 "
+"시전자 레벨 판정(1d20 + 시전자 레벨)을 합니다. 성공하면 그 저주는 제거됩니다."
 
 #. Mechanics/Blueprints/Spells/Level3/RemoveCurse_m_DisplayName
 msgctxt "95ec67c2-7b41-497a-9b66-5d480ce62307"

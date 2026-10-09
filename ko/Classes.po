@@ -24591,10 +24591,10 @@ msgid ""
 "caster level) against the DC of each curse affecting the target. Success "
 "means that the curse is removed."
 msgstr ""
-"3 레벨과 이후 레벨이 2 오를 때마다 소서러는 혈통에서 유래한 주문을 추가로 얻습니다. 레벨을 올려 주문을 습득할 때 이 주문을 "
-"선택하지 않아도 주문책에 추가됩니다.\n"
+"소서러는 3 레벨이 되면 혈통에서 비롯된 주문 하나를 추가로 배우며, 이후 2 레벨마다 주문을 하나씩 더 배웁니다. 이렇게 배우는 "
+"주문은 레벨 상승으로 얻는 주문 수에는 포함되지 않습니다.\n"
 "저주 제거: 이 주문은 하나의 물체나 크리처에 걸린 모든 저주를 제거할 수 있습니다. 대상이 크리처라면, 대상에게 걸린 저주 각각의 "
-"DC로 시전자 레벨 판정(1d20 + 시전자 레벨)을 합니다. 성공하면 그 저주는 제거됩니다."
+"DC를 기준으로 시전자 레벨 판정(1d20 + 시전자 레벨)을 합니다. 성공하면 그 저주는 제거됩니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/CelestialBloodline/BloodlineCelestialSpellLevel5_m_Description
 msgctxt "586f1811-0ef9-4901-9fd8-7220db144ed6"
