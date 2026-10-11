@@ -7419,7 +7419,7 @@ msgctxt "29e1774c-fae3-46cc-b1da-2820a2406ae9"
 msgid ""
 "This character is constricted as if by the coils of a large snake, taking "
 "1d6+6 points of bludgeoning damage each round that it fails its save."
-msgstr "이 캐릭터는 마치 커다란 뱀이 조이고 있는 것 처럼, 매 라운드 1d6+6의 부수기 피해를 받습니다."
+msgstr "이 캐릭터는 커다란 뱀이 몸을 감아 조이는 것처럼 압박을 받으며, 내성 굴림에 실패한 라운드마다 1d6+6점의 부수기 피해를 받습니다."
 
 #. Mechanics/Blueprints/Spells/Level5/ConstrictingCoilsBuff_m_DisplayName
 msgctxt "33b3fc9c-bb5e-4486-8424-0dd419170438"
