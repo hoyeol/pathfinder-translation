@@ -7795,9 +7795,9 @@ msgid ""
 "and breathes normally but cannot take any actions, even speech. Each round, "
 "the subject may attempt a new saving throw to end the effect."
 msgstr ""
-"이 주문은 인간형 대신 모든 살아있는 크리처에게 영향을 주는 것을 제외하고는 사람 포박 주문과 같은 기능을 합니다.\n"
-"대상은 마비되어 그 자리에서 굳어버립니다. 의식과 호흡은 정상이지만 말하기를 포함해서 아무 행동도 할 수 없습니다. 대상은 매 라운드 "
-"마다 내성을 시도해 성공하면 주문의 효과를 끝낼 수 있습니다."
+"이 주문은 사람 포박과 같은 기능을 하지만, 의지 내성 굴림에 실패한 모든 살아 있는 크리처에게 효과가 있다는 점이 다릅니다.\n"
+"사람 포박: 대상은 마비되어 그 자리에서 굳어 버립니다. 의식이 있고 호흡은 정상이지만, 말하기를 비롯한 어떤 행동도 할 수 없습니다. "
+"대상은 매 라운드 내성 굴림을 새로 시도할 수 있으며, 성공하면 이 효과가 끝납니다."
 
 #. Mechanics/Blueprints/Spells/Level5/HoldMonster_m_DisplayName
 msgctxt "6d9e2e1c-90a6-4ecd-96f1-86baaaf91fee"
