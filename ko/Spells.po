@@ -9108,9 +9108,10 @@ msgid ""
 "than 9 HD take 100 damage instead. HD that are not sufficient to affect a "
 "creature are wasted."
 msgstr ""
-"이 주문은 살아있는 크리처의 생명력을 소진시켜 즉시 죽입니다. 이 주문은 시전자 레벨 당 1d4 (최대 20d4) HD의 살아있는 "
-"크리처를 살해합니다. 폭발의 원점에 가까운 크리처가 먼저 영향을 받습니다. HD가 9 이하인 크리처는 즉시 죽습니다. HD가 9 를 넘는 "
-"크리처는 영향을 받지 않으며, 영향을 미치기에 충분하지 않은 HD는 아무 효과도 없습니다."
+"죽음의 원은 살아 있는 크리처의 생명력을 소진시킵니다. 이 주문으로 처치할 수 있는 살아 있는 크리처의 생명 주사위(HD) 합계는 "
+"시전자 레벨당 1d4이며, 최대 20d4입니다. 폭발의 원점에 가까운 크리처가 먼저 영향을 받습니다. HD가 9 이하인 크리처는 "
+"즉사합니다. HD가 9를 넘는 크리처는 즉사하는 대신 100점의 피해를 받습니다. 남은 HD로 크리처 하나에게 영향을 줄 수 없다면, "
+"남은 HD는 효과 없이 소멸합니다."
 
 #. Mechanics/Blueprints/Spells/Level6/CircleOfDeath_m_DisplayName
 msgctxt "824fa2bf-a05e-4571-a88b-96e6148fe728"
