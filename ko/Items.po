@@ -7336,9 +7336,9 @@ msgid ""
 "checks, skill checks, and weapon damage rolls.\n"
 "Crushing despair counters and dispels good hope."
 msgstr ""
-"보이지 않는 절망이 원뿔 형태로 퍼져나가 대상에게 커다란 슬픔을 안겨줍니다. 영향을 받은 크리처는 명중 굴림, 내성 굴림, 능력치 판정, "
-"기술 판정 및 무기 피해 굴림에 -2 페널티를 받습니다.\n"
-"처참한 절망은 좋은 희망을 해제합니다."
+"보이지 않는 절망이 원뿔 형태로 퍼져나가 대상에게 커다란 슬픔을 안겨줍니다. 영향을 받은 크리처는 명중 굴림, 내성 굴림, 능력치 "
+"판정, 기술 판정 및 무기 피해 굴림에 -2 페널티를 받습니다.\n"
+"처참한 절망은 좋은 희망을 상쇄하고 해제합니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/TrailblazerHelmet/CrushingDespairTrailblazer_m_DisplayName
 msgctxt "c22be06b-19be-4d1d-b0df-6cf23df3acb6"
@@ -7355,7 +7355,7 @@ msgid ""
 msgstr ""
 "이 주문은 여러 대상에게 강력한 희망을 안겨줍니다. 내성 굴림, 명중 굴림, 능력치 판정, 기술 판정 및 무기 피해 굴림에 +2 사기 "
 "보너스를 얻습니다.\n"
-"좋은 희망은 처참한 절망을 해제합니다."
+"좋은 희망은 처참한 절망을 상쇄하고 해제합니다."
 
 #. Mechanics/Blueprints/Equipment/Headgear/TrailblazerHelmet/GoodHopeTrailblazer_m_DisplayName
 msgctxt "f1b30f35-afef-4335-ac6a-294a78a6b83d"
