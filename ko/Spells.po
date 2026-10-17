@@ -6001,12 +6001,12 @@ msgstr "광선에 맞은 언데드 크리처는 1시간 동안 1d4 × 5의 임�
 #. Mechanics/Blueprints/Spells/Level4/EnervationBuff_m_DisplayName
 msgctxt "461b1054-543d-4f8d-8775-542ca449898f"
 msgid "Enervation"
-msgstr "원기 소진"
+msgstr "기력 소진"
 
 #. Mechanics/Blueprints/Spells/Level4/Enervation_DisplayName_String
 msgctxt "a5b3ad2a-2606-4b12-910f-1716b14f0d1d"
 msgid "Enervation"
-msgstr "원기 소진"
+msgstr "기력 소진"
 
 #. Mechanics/Blueprints/Spells/Level4/Enervation_m_Description
 msgctxt "627763da-da5a-4235-bec4-7914f386e0e2"
@@ -6025,7 +6025,7 @@ msgstr ""
 "손가락 끝에서 검은 음에너지 광선을 발사하여 살아있는 크리처를 맞추면 그 생명력을 저해시킵니다.[LONGSTART] 원거리 접촉 공격을 "
 "명중시켜야 합니다.[LONGEND] 명중하면 대상은 1d4의 일시적인 음수 레벨을 얻습니다.[LONGSTART]\n"
 "음수 레벨은 중첩됩니다. 대상이 살아있다면, 시전자 레벨 만큼의 시간이 (최대 15시간) 흐른 뒤 잃은 레벨을 되찾습니다. 보통 음수 "
-"레벨의 지속시간은 영구지속으로 바뀔 수 있으나, 원기 소진은 그렇게 될 만큼 오래 지속되지 않습니다.\n"
+"레벨의 지속시간은 영구지속으로 바뀔 수 있으나, 기력 소진은 그렇게 될 만큼 오래 지속되지 않습니다.\n"
 "광선에 맞은 언데드 크리처는 1시간 동안 1d4 × 5의 임시 생명점을 얻습니다.[LONGEND]"
 
 #. Mechanics/Blueprints/Spells/Level4/EnlargePersonMass_m_Description
