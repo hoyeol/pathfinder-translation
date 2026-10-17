@@ -746,8 +746,8 @@ msgid ""
 "1 penalty on attack rolls and a –1 penalty on saving throws against fear "
 "effects. Bane counters and dispels bless."
 msgstr ""
-"이 주문은 캐릭터의 적들에게 공포와 의심을 불어넣습니다. 영향을 받는 적들은 명중 굴림에 -1의 페널티를 받고, 공포 효과에 대한 내성 "
-"굴림에 -1의 페널티를 받습니다. 해악은 축복 주문을 해제합니다."
+"해악은 적에게 공포와 의심을 불어넣습니다. 영향을 받는 크리처는 명중 굴림에 -1의 페널티를 받고, 공포 효과에 대한 내성 굴림에 "
+"-1의 페널티를 받습니다. 해악은 축복 주문을 상쇄하고 해제합니다."
 
 #. Mechanics/Blueprints/Spells/Level1/Bane_m_DisplayName
 msgctxt "023509d4-0079-4943-a2a8-4bacdf355a1e"
