@@ -12247,9 +12247,9 @@ msgid ""
 "the other half results directly from divine power and is therefore not "
 "subject to resistance to fire-based attacks."
 msgstr ""
-"등불왕은 대상에 돌진하여 경로 상의 모든 대상에게 10d12의 피해를 입히면서 밀쳐내고 쓰러뜨립니다. 반사 내성에 성공하면 쓰러짐 효과를 "
-"무시하고 절반의 데미지를 받습니다. 피해의 절반은 화염 피해지만, 나머지 절반은 신성한 힘으로 인한 것이기 때문에 화염 저항으로 감소시킬 "
-"수 없습니다."
+"등불왕은 대상을 향해 돌진합니다. 돌진 경로에 있는 모든 대상은 10d12점의 피해를 받고 쓰러짐 상태가 됩니다. 반사 내성 굴림에 "
+"성공하면 피해가 절반으로 줄어들고 쓰러지지 않습니다. 피해의 절반은 화염 피해이고, 나머지 절반은 신성한 힘에서 직접 비롯된 "
+"피해입니다. 따라서 이 피해는 화염 저항으로 줄일 수 없습니다."
 
 #. Mechanics/Blueprints/Units/Bosses/LanternKing/C71_FinalDungeon/LanternKingStarBrain/ChargeAbilityLanternKingStar_m_DisplayName
 msgctxt "7a519117-008c-40d9-b3e3-9e71bd165f18"
