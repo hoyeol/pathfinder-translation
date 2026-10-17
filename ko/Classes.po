@@ -24640,7 +24640,7 @@ msgstr ""
 #. Mechanics/Blueprints/Classes/Sorcerer/CelestialBloodline/BloodlineCelestialSpellLevel6_DisplayName_String
 msgctxt "6335ca8c-1c61-4c4c-a932-e3d68d828cfa"
 msgid "Dispel Magic, Greater"
-msgstr "상급 마법해제"
+msgstr "상급 마법 해제"
 
 #. Mechanics/Blueprints/Classes/Sorcerer/CelestialBloodline/BloodlineCelestialSpellLevel7_m_Description
 msgctxt "7908215f-1a2c-430f-b9c2-e4df1732cbba"
@@ -26702,7 +26702,7 @@ msgstr ""
 #. Mechanics/Blueprints/Classes/Sorcerer/FeyBloodline/BloodlineFeySpellLevel6_m_DisplayName
 msgctxt "13575385-4173-457b-8633-3d0cf9180398"
 msgid "Dispel Magic, Greater"
-msgstr "상급 마법해제"
+msgstr "상급 마법 해제"
 
 #. Mechanics/Blueprints/Classes/Sorcerer/FeyBloodline/BloodlineFeySpellLevel7_DisplayName_String
 msgctxt "eef98f73-2e25-440f-894d-e7f32b31948c"
