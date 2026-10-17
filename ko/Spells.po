@@ -4852,8 +4852,8 @@ msgid ""
 "otherwise identical with a barbarian's rage except that the subjects aren't "
 "fatigued at the end of the rage."
 msgstr ""
-"격노: 영향을 받는 모든 크리처는 힘과 건강에 +2의 사기 보너스를 얻고, 의지 내성에 +1의 사기 보너스를 얻습니다. 대신 방어도에 -"
-"2 페널티를 받습니다. 그 밖의 효과는 바바리안의 격노 능력과 같지만, 대상은 격노가 끝난 후에도 피로 상태가 되지 않습니다."
+"영향을 받는 모든 크리처는 힘과 건강에 +2의 사기 보너스를 얻고, 의지 내성 굴림에 +1의 사기 보너스를 얻습니다. 방어도에 -2 "
+"페널티를 받습니다. 그 밖의 효과는 바바리안의 격노 능력과 같지만, 대상은 격노가 끝나도 피로 상태가 되지 않습니다."
 
 #. Mechanics/Blueprints/Spells/Level3/RageSpellBuff_m_Description_1
 msgctxt "4f050493-adc4-4904-92d2-9fb0d942a22a"
