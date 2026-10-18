@@ -23636,7 +23636,7 @@ msgstr ""
 #. Mechanics/Blueprints/Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalSpellLevel6_DisplayName_String
 msgctxt "24680099-8505-45a4-a495-9423a587bc80"
 msgid "Transformation"
-msgstr "변형"
+msgstr "변신"
 
 #. Mechanics/Blueprints/Classes/Sorcerer/Abyssal Bloodline/BloodlineAbyssalSpellLevel7_Description_String
 msgctxt "856584b0-274f-4590-9c70-4c20b9cdcdad"
