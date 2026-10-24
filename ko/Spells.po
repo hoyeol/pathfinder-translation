@@ -8044,8 +8044,8 @@ msgid ""
 "reduced by 10 feet. It also gains one 1d6 slam attack, resist acid 20, and "
 "vulnerability to electricity."
 msgstr ""
-"대상이 소형 대지의 정령 형태로 변신합니다. 힘에 +2 의 크기 보너스, +4 자연 방어 보너스와 공격, 피해 굴림 및 전투기술에 +1 "
-"보너스를 얻습니다. 추가로 한 번의 1d6 후려치기 공격, 산성 저항 20과 전격 취약을 얻습니다. 이동속도가 10 피트 감소합니다."
+"대상이 소형 대지 정령으로 변신합니다. 힘에 +2 크기 보너스, +4 자연 방어 보너스와 공격, 피해 굴림 및 전투기술에 +1 보너스를 "
+"얻습니다. 추가로 한 번의 1d6 후려치기 공격, 산성 저항 20과 전기 취약을 얻습니다. 이동속도가 10 피트 감소합니다."
 
 #. Mechanics/Blueprints/Spells/Level5/PolymorphElementalEarthlBuff_m_Description
 msgctxt "957997ab-bd14-42f1-a435-14016a5f2149"
@@ -8057,9 +8057,9 @@ msgid ""
 "to electricity. You may choose to resume your normal form as a full-round "
 "action; doing so ends the spell for you."
 msgstr ""
-"소형 대지의 정령 형태로 변신했습니다. 힘에 +2 의 크기 보너스, +4 자연 방어 보너스와 공격, 피해 굴림 및 전투기술에 +1 "
-"보너스를 얻습니다. 추가로 한 번의 1d6 후려치기 공격, 산성 저항 20과 전격 취약을 얻습니다. 이동속도가 10 피트 감소합니다. "
-"라운드 전체 행동으로 변신을 해제할 수 있습니다. 변신을 해제하면 주문이 종료됩니다."
+"소형 대지 정령 형태로 변신했습니다. 힘에 +2 크기 보너스, +4 자연 방어 보너스와 공격, 피해 굴림 및 전투기술에 +1 보너스를 "
+"얻습니다. 추가로 한 번의 1d6 후려치기 공격, 산성 저항 20과 전기 취약을 얻습니다. 이동속도가 10 피트 감소합니다. 라운드 "
+"전체 행동으로 변신을 해제할 수 있습니다. 변신을 해제하면 주문이 종료됩니다."
 
 #. Mechanics/Blueprints/Spells/Level5/PolymorphElementalFireBuff_m_Description
 msgctxt "3659a306-ae1f-41ec-bcc5-8efec64942f0"
