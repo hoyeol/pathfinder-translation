@@ -14100,8 +14100,8 @@ msgid ""
 "creatures per caster level. The DC of this spell is increased by 2 against "
 "creatures of chaotic alignment."
 msgstr ""
-"이 비밀은 다른 차원의 크리처를 추방해서 강제로 본래의 차원에 돌려보냅니다. 추방 주문처럼 작동하고, 시전자 레벨 당 2 생명 주사위의 "
-"크리처를 추방합니다. 혼돈 성향의 크리처에 대해서는 주문의 DC가 2 증가합니다."
+"이 비밀은 시전자가 본래 속한 차원에 있는 다른 차원의 크리처를 강제로 추방합니다. 추방 주문처럼 작동하며, 추방할 수 있는 크리처의 "
+"생명 주사위(HD) 합계는 최대 시전자 레벨당 2입니다. 혼돈 성향의 크리처에 대해서는 주문의 DC가 2 증가합니다."
 
 #. Mechanics/Blueprints/Spells/Level9/SecretOfHookingAndSummoning_m_DisplayName
 msgctxt "224ba9d7-b156-4331-a2e6-9c32dc296fff"
