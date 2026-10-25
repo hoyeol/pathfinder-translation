@@ -4781,8 +4781,8 @@ msgid ""
 "spell absorbs 12 points per caster level of energy damage (to a maximum of "
 "120 points at 10th level), it is discharged."
 msgstr ""
-"시전할 때 선택한 에너지 유형 하나에 (산성, 냉기, 전기, 화염, 음파) 일시적인 면역을 부여합니다. 이 주문의 효과는 시전자 레벨당 "
-"12점의 에너지 피해를 (10 레벨에 최대 120점) 흡수한 뒤에 사라집니다."
+"에너지로부터 보호 주문은 시전할 때 산성, 냉기, 전기, 화염, 음파 중 하나를 선택해 해당 에너지 유형에 일시적인 면역을 부여합니다. "
+"이 주문으로 흡수한 에너지 피해의 총합이 시전자 레벨당 12점(10 레벨에 최대 120점)에 이르면 주문의 효과가 사라집니다."
 
 #. Mechanics/Blueprints/Spells/Level3/ProtectionFromAcid_DisplayName_String
 msgctxt "17ebae37-574a-4da8-b3bf-e2da4f9f64d1"
