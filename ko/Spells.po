@@ -3285,7 +3285,7 @@ msgstr "고통"
 #. Mechanics/Blueprints/Spells/Level2/SickeningEntanglement_LocalizedSavingThrow
 msgctxt "f3c15a4f-c04d-4071-9c0c-259fe37e4762"
 msgid "Reflex partial and Fortitude negates"
-msgstr "반사로 절반 피해, 인내로 무효"
+msgstr "반사로 일부 효과만 적용, 인내로 무효"
 
 #. Mechanics/Blueprints/Spells/Level2/SickeningEntanglement_m_Description
 msgctxt "c232e91c-c618-4c9e-995a-14473a3f34a2"
