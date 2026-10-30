@@ -3042,7 +3042,7 @@ msgstr "이 갑옷의 다크 스틸은 빛을 거의 반사하지 않습니다."
 #. Mechanics/Blueprints/Equipment/Armor/Items/Unique/LateChapters/HeavenlyVestItem_m_DescriptionText
 msgctxt "8d933180-8b79-4c42-8e55-2ef9cdce720f"
 msgid "This +5 mithral chainshirt grants its wearer immunity to energy drain."
-msgstr "이 +5 미스랄 사슬조끼는 착용자에게 에너지 드레인 면역을 제공합니다."
+msgstr "이 +5 미스랄 사슬조끼는 착용자에게 원기 소진 면역을 제공합니다."
 
 #. Mechanics/Blueprints/Equipment/Armor/Items/Unique/LateChapters/HeavenlyVestItem_m_DisplayNameText
 msgctxt "8159467e-b4e6-4f55-9bc5-7ad94abaafda"
