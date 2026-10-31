@@ -8655,7 +8655,7 @@ msgctxt "40cbe8b7-8ad3-4ecc-8ee9-d922c120fe14"
 msgid ""
 "Rest at Oleg's Trading Post or your Capital to remove the death's door "
 "condition."
-msgstr "올렉의 교역소나 당신의 수도에서 죽음의 문턱 상태의 캐릭터를 치유할 수 있습니다."
+msgstr "올렉의 교역소나 당신의 수도에서 휴식하면 죽음의 문턱 상태가 없어집니다."
 
 #. Mechanics/Blueprints/LoadingScreenHints/LoadingScreenHints_Hints.Array.data[12]_String
 msgctxt "790d2843-4744-4eed-a279-98018e9c978b"
