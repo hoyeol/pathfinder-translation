@@ -10898,7 +10898,7 @@ msgstr "13 레벨에 타워 실드 스페셜리스트는 타워 실드를 운용
 #. Mechanics/Blueprints/Classes/Fighter/Archetypes/TowerShieldSpecialist/TowerShieldTotalCover_m_DisplayName
 msgctxt "589091cd-55c3-46bd-9471-34e4c5b72a35"
 msgid "Total Cover"
-msgstr "전방위 엄폐"
+msgstr "완전 엄폐"
 
 #. Mechanics/Blueprints/Classes/Fighter/Archetypes/TowerShieldSpecialist/TowerShieldTraining_m_Description
 msgctxt "d982edd7-d026-46f5-a4ac-0cacba4a3d9c"
@@ -25923,7 +25923,7 @@ msgid ""
 "dodge bonus to your AC and total concealment, but you can't take any actions "
 "except moving. You may use burrow as often as desired."
 msgstr ""
-"15 레벨에 잠복 능력을 얻습니다. 잠복 시 AC에 +8 피하기 보너스와 완전 엄폐를 받지만, 이동 외에는 어떤 행동도 취할 수 "
+"15 레벨에 잠복 능력을 얻습니다. 잠복 시 AC에 +8 피하기 보너스와 완전 은폐를 받지만, 이동 외에는 어떤 행동도 취할 수 "
 "없습니다. 원할 때마다 잠복할 수 있습니다."
 
 #. Mechanics/Blueprints/Classes/Sorcerer/ElementalBloodline/Earth/BloodlineElementalEarthElementalMovementBurrowBuff_m_Description
