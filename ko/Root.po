@@ -197,7 +197,7 @@ msgstr "식사"
 #. Mechanics/Blueprints/Root/AbilityModifierStrings_Entries.Array.data[38].Name
 msgctxt "c63911c2-cb8a-47b3-a2fe-a8a6b6d98317"
 msgid "Polymorph"
-msgstr "변신"
+msgstr "변이"
 
 #. Mechanics/Blueprints/Root/AbilityModifierStrings_Entries.Array.data[39].Name
 msgctxt "9183c2a9-131c-40d3-84a8-527ad1d09530"
