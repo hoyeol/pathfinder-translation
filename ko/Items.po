@@ -8993,8 +8993,8 @@ msgid ""
 "fire, acid, cold and electricity, and a +2 bonus to AC against Huge or "
 "larger creatures."
 msgstr ""
-"이 +5 타워 실드는 착용자에게 화염, 산성, 냉기 및 전기에 대한 내성 굴림에 +4 보너스, 거대 또는 대형 크리처에 대한 AC에 +2 "
-"보너스를 줍니다."
+"이 +5 타워 실드는 착용자에게 화염, 산성, 냉기 및 전기에 대한 내성 굴림에 +4 보너스, 거대 이상 크기의 크리처에 대한 AC에 "
+"+2 보너스를 줍니다."
 
 #. Mechanics/Blueprints/Equipment/Shields/Unique/LateChapters/WyrmwallShieldItem_m_DisplayNameText
 msgctxt "2c23ffe7-2781-4a99-b292-4f95f645d125"
