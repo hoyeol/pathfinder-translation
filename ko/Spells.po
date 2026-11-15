@@ -6635,7 +6635,7 @@ msgid ""
 "elemental appears where you designate and acts according to its initiative "
 "check results. It attacks your opponents to the best of its ability."
 msgstr ""
-"이 주문은 대형 화염 정령을 아군으로 소환합니다. 소환된 정령은 시전자가 지정한 곳에 나타나 우선권 판정 결과에 따라 행동하며, 최선을 "
+"이 주문은 중형 화염 정령을 아군으로 소환합니다. 소환된 정령은 시전자가 지정한 곳에 나타나 우선권 판정 결과에 따라 행동하며, 최선을 "
 "다해 적을 공격합니다."
 
 #. Mechanics/Blueprints/Spells/Level4/SummonElementalMediumFire_m_DisplayName
