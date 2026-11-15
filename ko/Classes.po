@@ -9699,7 +9699,7 @@ msgid ""
 "attacks and the burn ability. You are immune to critical hits and sneak "
 "attacks. Your movement speed is increased by 20 feet."
 msgstr ""
-"거대 화염 정령 형태로 변신했습니다. 민첩에 +4 크기 보너스, 건강에 +2 크기 보너스, +4 자연 방어 보너스, 화염 저항 20과 "
+"대형 화염 정령 형태로 변신했습니다. 민첩에 +4 크기 보너스, 건강에 +2 크기 보너스, +4 자연 방어 보너스, 화염 저항 20과 "
 "냉기 취약을 얻습니다. 추가로 두 번의 1d8 후려치기 공격과 불태우기 능력을 얻습니다. 치명타와 암습에 면역이며 DR 5/— 을 "
 "얻습니다. 이동속도가 20 피트 증가합니다."
 
